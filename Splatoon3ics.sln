@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splatoon3ics", "Splatoon3ics.csproj", "{33A7FC7D-7F03-46EA-8D47-1610015C16E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A7FC7D-7F03-46EA-8D47-1610015C16E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A7FC7D-7F03-46EA-8D47-1610015C16E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A7FC7D-7F03-46EA-8D47-1610015C16E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A7FC7D-7F03-46EA-8D47-1610015C16E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51CC5D43-AB28-42DD-AFE2-9AA8F88FD2D1}
+	EndGlobalSection
+EndGlobal
