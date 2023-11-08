@@ -20,7 +20,7 @@ DTSTART:20231108T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:d454b7a0-2dca-4376-9bcf-75e0092b0f69
+UID:d37c9ed1-618d-4097-8ecf-c2d7052e58b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nH-3 Nozzlenose\nHeavy
@@ -30,7 +30,7 @@ DTSTART:20231109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:7751cc58-309a-4291-97fe-e5da5c61a9ab
+UID:c46dc7af-1dbf-43a5-8f44-7c2092eaf5b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nHorrorboros
@@ -39,7 +39,7 @@ DTSTART:20231111T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:19f34d05-1c74-43f2-ad57-d9187f128023
+UID:5e9eac4c-2305-495e-8e99-402173aa2407
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\nJet Squelcher\nClassic Squi
@@ -49,7 +49,7 @@ DTSTART:20231113T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:1f730133-1363-41f9-b16b-2c81e9f6c300
+UID:11a00acb-dff4-4192-9dd6-f3ac5bd043c6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nFlingza Roller\nHeavy Edit Splatling\nT
@@ -59,6 +59,6 @@ DTSTART:20231114T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:de6ee143-b8d8-4248-966a-bc20879bb3af
+UID:f5cb6f82-60a6-4994-be02-11b42e72de4f
 END:VEVENT
 END:VCALENDAR
