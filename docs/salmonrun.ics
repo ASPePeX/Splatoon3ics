@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nAerospray MG\nL-3 Nozzlenose\nSplatana Stamper\nBamb
- oozler 14 Mk I\n\nKing:\nHorrorboros
-DTEND:20231109T155959Z
-DTSTART:20231108T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:44c97969-f356-4bda-8f50-b280ff8f3a32
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nH-3 Nozzlenose\nHeavy
   Splatling\n\nKing:\nCohozuna
 DTEND:20231111T075959Z
@@ -30,7 +20,7 @@ DTSTART:20231109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:9358d168-8de4-4bba-a27a-6dccb584f235
+UID:44fb8cfb-5c46-4ab7-a0ce-98715031ea9a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nHorrorboros
@@ -39,7 +29,7 @@ DTSTART:20231111T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:1ec38b40-af36-4541-a01a-58c4af1578b9
+UID:0ff407c9-5bc9-4381-9918-5da194195f75
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\nJet Squelcher\nClassic Squi
@@ -49,7 +39,7 @@ DTSTART:20231113T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:61f16562-7b10-4222-a066-b3167818be94
+UID:e3cc1248-819e-4193-ab72-64b5f04ff081
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nFlingza Roller\nHeavy Edit Splatling\nT
@@ -59,6 +49,16 @@ DTSTART:20231114T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:ac6fb7c8-26c9-4770-b0e4-e781f46fe6b8
+UID:6560842f-5cdb-4e4b-b0d2-2471e989528b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nREEF-LUX 450\nUndercover Brella\nSplat Roller\nHydra
+  Splatling\n\nKing:\nCohozuna
+DTEND:20231117T235959Z
+DTSTART:20231116T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:d094ade4-c4a9-4f86-a793-fc1ef48d2c12
 END:VEVENT
 END:VCALENDAR
