@@ -20,7 +20,7 @@ DTSTART:20231113T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:8c8426e5-0b76-467c-a8d4-0d7c7120fc10
+UID:fc86e057-6437-462b-971a-1f11aa63f4a8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nFlingza Roller\nHeavy Edit Splatling\nT
@@ -30,7 +30,7 @@ DTSTART:20231114T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:10f21eb2-6cc6-46fc-88ac-6ba895265229
+UID:ea4e549f-154a-4045-b26d-0f68506d35eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nUndercover Brella\nSplat Roller\nHydra
@@ -40,7 +40,7 @@ DTSTART:20231116T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:c0143b93-6788-421f-98d7-59873aadf5ff
+UID:f4a5ffad-9366-4a29-9099-f790251d59cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSlosher\nNautilus 47\n.96 Gal\n\nKin
@@ -50,7 +50,7 @@ DTSTART:20231118T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:51ac20de-6952-450d-b866-39e1faf5d008
+UID:a8037bfb-1da4-456c-8e65-c7daf67b377b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nBlaster\nBloblobber\nBamboozler 14 Mk I\n\n
@@ -60,6 +60,6 @@ DTSTART:20231119T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:cdbf6b2d-3553-425f-9dcf-854271a5374d
+UID:243a7748-0f5f-425b-96d5-cd5f9de36868
 END:VEVENT
 END:VCALENDAR
