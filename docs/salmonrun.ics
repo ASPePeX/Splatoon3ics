@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nHorrorboros
-DTEND:20231112T235959Z
-DTSTART:20231111T080001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:daba1432-b778-4778-ac9e-ce78bcfac7fb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\nJet Squelcher\nClassic Squi
  ffer\n\nKing:\nCohozuna
 DTEND:20231114T155959Z
@@ -29,7 +20,7 @@ DTSTART:20231113T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:acaa0622-1384-4bf5-8015-f7162301bb5c
+UID:8c8426e5-0b76-467c-a8d4-0d7c7120fc10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nFlingza Roller\nHeavy Edit Splatling\nT
@@ -39,7 +30,7 @@ DTSTART:20231114T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:b39723a4-6702-499e-9156-caa95f4a6ff8
+UID:10f21eb2-6cc6-46fc-88ac-6ba895265229
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nUndercover Brella\nSplat Roller\nHydra
@@ -49,7 +40,7 @@ DTSTART:20231116T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:067d8348-43f6-4e55-8010-fd210d747bd5
+UID:c0143b93-6788-421f-98d7-59873aadf5ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSlosher\nNautilus 47\n.96 Gal\n\nKin
@@ -59,6 +50,16 @@ DTSTART:20231118T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:d9311367-298c-487a-8f4a-ddf057403dfa
+UID:51ac20de-6952-450d-b866-39e1faf5d008
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nBlaster\nBloblobber\nBamboozler 14 Mk I\n\n
+ King:\nCohozuna
+DTEND:20231121T075959Z
+DTSTART:20231119T160001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:cdbf6b2d-3553-425f-9dcf-854271a5374d
 END:VEVENT
 END:VCALENDAR
