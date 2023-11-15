@@ -20,7 +20,7 @@ DTSTART:20231114T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:b18eeec6-ab86-42b9-ab6e-70d998facdee
+UID:fb2ce8e9-31f9-4dce-a563-9d0ba03282ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nUndercover Brella\nSplat Roller\nHydra
@@ -30,7 +30,7 @@ DTSTART:20231116T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:57c601ad-0d7c-4527-affd-fef695851e31
+UID:703bdb44-9841-46d1-8ecc-125a5493873f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSlosher\nNautilus 47\n.96 Gal\n\nKin
@@ -40,7 +40,7 @@ DTSTART:20231118T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:4ffd7e2b-ec70-4758-b6f4-bc7b985bf3c4
+UID:aa9950f9-740f-460f-8996-a02c501cf190
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nBlaster\nBloblobber\nBamboozler 14 Mk I\n\n
@@ -50,7 +50,7 @@ DTSTART:20231119T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:78bb6bda-3dd5-49fa-b291-f3552cc521b2
+UID:7fd1333e-ac16-4fca-8a7d-6ec2f4733d88
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nPainbrush\nS-BLAST '92\nE-liter 4K\n\n
@@ -60,6 +60,6 @@ DTSTART:20231121T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:92a47162-3826-4a0e-8ee1-3da66c0c6841
+UID:cbf0dbe9-4aa1-4cb0-83ff-9a5c88b397ca
 END:VEVENT
 END:VCALENDAR
