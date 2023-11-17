@@ -20,7 +20,7 @@ DTSTART:20231116T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:b469fcf0-6720-429b-83aa-ccbb1b8a4fe3
+UID:a07f8f5f-7a53-4254-9f40-6db8a93d1def
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSlosher\nNautilus 47\n.96 Gal\n\nKin
@@ -30,7 +30,7 @@ DTSTART:20231118T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:f28ba722-b3b6-4d7b-b0f3-46f400681d68
+UID:d7f21234-fb9a-43b1-bcac-719b648be3ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nBlaster\nBloblobber\nBamboozler 14 Mk I\n\n
@@ -40,7 +40,7 @@ DTSTART:20231119T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:198bbd6e-b1a5-4f29-90ca-b859b5afa015
+UID:f05d806a-b1cd-455b-9bb6-c1e411605f4d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nPainbrush\nS-BLAST '92\nE-liter 4K\n\n
@@ -50,7 +50,7 @@ DTSTART:20231121T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:84932048-36fe-4578-a3d9-63a632b9001c
+UID:555905ea-2ba6-496c-b97e-68436c6fc804
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nGlooga Dualies\nDynamo Roller\nRapid 
@@ -60,6 +60,6 @@ DTSTART:20231123T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:52468c46-5f4a-47ce-a833-d696cd0a3b30
+UID:3970b273-f5ed-4889-8f6a-c5c2bc2bff9b
 END:VEVENT
 END:VCALENDAR
