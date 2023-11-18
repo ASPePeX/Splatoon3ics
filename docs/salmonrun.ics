@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nREEF-LUX 450\nUndercover Brella\nSplat Roller\nHydra
-  Splatling\n\nKing:\nCohozuna
-DTEND:20231117T235959Z
-DTSTART:20231116T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:bc09065f-f9bf-4d80-be34-df7a81c7d16f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSlosher\nNautilus 47\n.96 Gal\n\nKin
  g:\nHorrorboros
 DTEND:20231119T155959Z
@@ -30,7 +20,7 @@ DTSTART:20231118T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:f2456c6e-c714-49b9-973c-54e4cdfda808
+UID:27ae3021-585d-4334-9f80-6976d5c39d1d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nBlaster\nBloblobber\nBamboozler 14 Mk I\n\n
@@ -40,7 +30,7 @@ DTSTART:20231119T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:e1496552-99a1-4918-8e33-5cd393b10d82
+UID:1ebd78b5-6bcb-470b-b450-3ea034f118e1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nPainbrush\nS-BLAST '92\nE-liter 4K\n\n
@@ -50,7 +40,7 @@ DTSTART:20231121T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:b8a7fb87-352b-4578-a2e7-6165e6005d70
+UID:047820a3-fcd8-4285-8cfa-91694b17b4c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nGlooga Dualies\nDynamo Roller\nRapid 
@@ -60,6 +50,16 @@ DTSTART:20231123T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:3df4f57b-6cdc-48f6-a667-c47dd7178c38
+UID:e1b89ad9-c4e0-4dba-ab05-a2963e4ee7cf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nN-ZAP '85\nSplattershot Nova\nSplatana Stamper\nGoo 
+ Tuber\n\nKing:\nHorrorboros
+DTEND:20231126T075959Z
+DTSTART:20231124T160001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:7b86734b-b7f7-4661-90f2-9656c5e1253c
 END:VEVENT
 END:VCALENDAR
