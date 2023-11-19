@@ -20,7 +20,7 @@ DTSTART:20231118T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:5c8296d3-bf25-4c29-8334-c46fe0d0c1da
+UID:173eb04b-c063-47a9-8df1-7fea16938a1b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nBlaster\nBloblobber\nBamboozler 14 Mk I\n\n
@@ -30,7 +30,7 @@ DTSTART:20231119T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:68fee234-5570-4505-b097-f127a8f61aba
+UID:1472b497-4175-4a2d-9ec6-aabb4f9b4aa3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nPainbrush\nS-BLAST '92\nE-liter 4K\n\n
@@ -40,7 +40,7 @@ DTSTART:20231121T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:3c1c4179-e1df-44ec-8c1a-fe99b4849596
+UID:0f05df7d-a69e-412d-92d9-dfa3684063ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nGlooga Dualies\nDynamo Roller\nRapid 
@@ -50,7 +50,7 @@ DTSTART:20231123T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:1da31cc8-36f5-4030-92fa-4127dbd5d615
+UID:d3338b68-40d4-4576-83df-c936029ed57e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplattershot Nova\nSplatana Stamper\nGoo 
@@ -60,6 +60,6 @@ DTSTART:20231124T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:42ff01f0-3e3c-4ec6-be29-bad218656806
+UID:f9cd86fd-1074-4fe0-97c3-98d6fc1bb551
 END:VEVENT
 END:VCALENDAR
