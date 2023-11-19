@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Wiper\nSlosher\nNautilus 47\n.96 Gal\n\nKin
- g:\nHorrorboros
-DTEND:20231119T155959Z
-DTSTART:20231118T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:94b28730-819b-4bfc-96a6-1634ac44d489
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nBlaster\nBloblobber\nBamboozler 14 Mk I\n\n
  King:\nCohozuna
 DTEND:20231121T075959Z
@@ -30,7 +20,7 @@ DTSTART:20231119T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:b5360dd3-620e-4274-a955-25a3bf7017df
+UID:567ab8ff-af83-473b-89b5-ac63236fb10a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nPainbrush\nS-BLAST '92\nE-liter 4K\n\n
@@ -40,7 +30,7 @@ DTSTART:20231121T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:d0e829c8-2be4-483c-a9e1-b125ed53dbea
+UID:726955ff-e958-4f38-9e0b-a6c5da831b19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nGlooga Dualies\nDynamo Roller\nRapid 
@@ -50,7 +40,7 @@ DTSTART:20231123T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:6d9e5757-f677-453f-9075-3133509655f0
+UID:1a588737-a569-477c-9426-eb24d4b047b0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplattershot Nova\nSplatana Stamper\nGoo 
@@ -60,6 +50,16 @@ DTSTART:20231124T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:8acdeb7f-ca30-47b5-a5e9-3412eeac6ef9
+UID:d18522e8-6c38-4631-9929-42cb2642800c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nClash Blaster\nCarbon Roller\nDark Tetra Dualies\nHe
+ avy Splatling\n\nKing:\nCohozuna
+DTEND:20231127T235959Z
+DTSTART:20231126T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:a9553690-8c1e-48d2-bcc9-639bb073c858
 END:VEVENT
 END:VCALENDAR
