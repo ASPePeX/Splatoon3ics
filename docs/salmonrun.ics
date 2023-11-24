@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Dualies\nGlooga Dualies\nDynamo Roller\nRapid 
- Blaster\n\nKing:\nCohozuna
-DTEND:20231124T155959Z
-DTSTART:20231123T000001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:128bd163-fbf6-4f0d-a974-219a92f7a9c4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplattershot Nova\nSplatana Stamper\nGoo 
  Tuber\n\nKing:\nHorrorboros
 DTEND:20231126T075959Z
@@ -30,7 +20,7 @@ DTSTART:20231124T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:c6aaa00a-bc00-448d-b3eb-c4aa4741587e
+UID:53ca9825-805a-4c5b-ba96-6a2376889e7e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nCarbon Roller\nDark Tetra Dualies\nHe
@@ -40,7 +30,7 @@ DTSTART:20231126T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:89285a4e-9be9-435e-bdac-d8b5b7338fdd
+UID:383396fb-aa29-4f7f-b88b-619b619f8236
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nBlaster\nSloshing Machine\nHydra S
@@ -50,7 +40,7 @@ DTSTART:20231128T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:3339535f-25c7-48d5-8578-f6fd877d0adb
+UID:135be931-a48c-4a09-bd98-f18d94f096d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nMini Splatling\nBig Swig Roller\nTri-S
@@ -60,6 +50,6 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:94c1c996-2e3f-4d83-bca7-227b121c5cb7
+UID:0610d72e-88f9-4c66-993a-900024bb8ff2
 END:VEVENT
 END:VCALENDAR
