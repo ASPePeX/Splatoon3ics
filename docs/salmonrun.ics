@@ -20,7 +20,7 @@ DTSTART:20231126T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:c838c6dd-6228-4bf1-9c78-21a931f31231
+UID:06cf8660-51de-4d1a-be03-4a2bd5d7022e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nBlaster\nSloshing Machine\nHydra S
@@ -30,7 +30,7 @@ DTSTART:20231128T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:b36cc3c3-9bdf-4a79-bbd4-4c8847868aca
+UID:e806282d-c63c-40a8-a1cb-3734cd5e32ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nMini Splatling\nBig Swig Roller\nTri-S
@@ -40,6 +40,16 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:7825012b-c9b1-48ae-abba-56711cc3da6e
+UID:f4209f59-09bf-4ced-a5bc-ad3aa6f763c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
+ Squiffer\n\nKing:\nCohozuna
+DTEND:20231205T155959Z
+DTSTART:20231204T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Cohozuna
+UID:1e39ff7e-bfb6-442f-a402-17aaa8c4df6b
 END:VEVENT
 END:VCALENDAR
