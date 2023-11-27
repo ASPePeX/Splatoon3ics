@@ -20,7 +20,7 @@ DTSTART:20231126T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:8e4f18ec-8e1b-4dfc-ace8-9198d992ea3f
+UID:c838c6dd-6228-4bf1-9c78-21a931f31231
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nBlaster\nSloshing Machine\nHydra S
@@ -30,7 +30,7 @@ DTSTART:20231128T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:b7ed1cff-958c-4ec3-abf0-2976faea958e
+UID:b36cc3c3-9bdf-4a79-bbd4-4c8847868aca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nMini Splatling\nBig Swig Roller\nTri-S
@@ -40,6 +40,6 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:d9f8e2bd-9a9f-4219-9d3e-53eda0ee0c1b
+UID:7825012b-c9b1-48ae-abba-56711cc3da6e
 END:VEVENT
 END:VCALENDAR
