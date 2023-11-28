@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nClash Blaster\nCarbon Roller\nDark Tetra Dualies\nHe
- avy Splatling\n\nKing:\nCohozuna
-DTEND:20231127T235959Z
-DTSTART:20231126T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:d91f3ec2-798e-4010-936f-cf809f5e69f3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nBlaster\nSloshing Machine\nHydra S
  platling\n\nKing:\nHorrorboros
 DTEND:20231129T155959Z
@@ -30,7 +20,7 @@ DTSTART:20231128T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:530213d8-5be0-4dd9-b5f5-e9601ea75563
+UID:2ad07997-9125-4eaa-a2ea-f9dd219c35c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nMini Splatling\nBig Swig Roller\nTri-S
@@ -40,7 +30,7 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:3cad961a-2bcb-4757-adcb-f06680448f4e
+UID:ab4fd708-b666-473d-ad51-16743570ec11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
@@ -50,6 +40,6 @@ DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:44c6f135-2dc4-412f-af59-92a1f95e92f9
+UID:e8b62477-9bcc-4f42-8812-5ee2ee82bb81
 END:VEVENT
 END:VCALENDAR
