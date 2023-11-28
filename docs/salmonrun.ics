@@ -20,7 +20,7 @@ DTSTART:20231128T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:a7775ceb-170b-4e6e-9a55-157e5a930594
+UID:0d5641a9-f9ed-4e46-8352-33634ea2520a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nMini Splatling\nBig Swig Roller\nTri-S
@@ -30,7 +30,7 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:4c56315c-1baa-4525-83f7-9098de664b2e
+UID:71c65346-2192-4453-ae37-4373a15ae370
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
@@ -40,6 +40,16 @@ DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:7a37a785-7594-4499-8887-be4aae1b1bed
+UID:93b3b77d-df81-46d3-9a6f-ce35b4f88dfc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplat Roller\nSplat Brella\nRapid Bl
+ aster Pro\n\nKing:\nHorrorboros
+DTEND:20231207T075959Z
+DTSTART:20231205T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:66376add-4746-46b1-ad07-a29b42a1a963
 END:VEVENT
 END:VCALENDAR
