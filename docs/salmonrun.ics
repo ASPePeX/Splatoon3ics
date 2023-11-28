@@ -20,7 +20,7 @@ DTSTART:20231128T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:2ad07997-9125-4eaa-a2ea-f9dd219c35c7
+UID:b57c7aa5-c9b3-4fdb-bf40-2c2e498c1c64
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nMini Splatling\nBig Swig Roller\nTri-S
@@ -30,7 +30,7 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:ab4fd708-b666-473d-ad51-16743570ec11
+UID:d0efd687-8378-4fc1-80ac-30f78dd0469c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
@@ -40,6 +40,6 @@ DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:e8b62477-9bcc-4f42-8812-5ee2ee82bb81
+UID:a359b899-a2e7-430f-892e-53b9ca809c72
 END:VEVENT
 END:VCALENDAR
