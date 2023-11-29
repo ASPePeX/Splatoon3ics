@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nBlaster\nSloshing Machine\nHydra S
- platling\n\nKing:\nHorrorboros
-DTEND:20231129T155959Z
-DTSTART:20231128T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:cfb7a410-0984-422d-80ca-a49112abe0dc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nMini Splatling\nBig Swig Roller\nTri-S
  tringer\n\nKing:\nCohozuna
 DTEND:20231201T235959Z
@@ -30,7 +20,7 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:8213b767-c807-423e-ad36-7169198867c0
+UID:2cfdfb1c-9020-49e7-9c1c-f82f3d596c83
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
@@ -40,7 +30,7 @@ DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:2f09c76c-fdfd-467f-bba5-0bcaef57f445
+UID:bbb4d1dd-7582-4cba-acfa-464cfa455582
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplat Roller\nSplat Brella\nRapid Bl
@@ -50,6 +40,6 @@ DTSTART:20231205T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:5ffdd2a6-ed93-42b3-98ff-1e6ea4254a8f
+UID:299cbd1c-4951-4abe-b453-d7775ad245f6
 END:VEVENT
 END:VCALENDAR
