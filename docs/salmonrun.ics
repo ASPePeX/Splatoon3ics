@@ -20,7 +20,7 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:2cfdfb1c-9020-49e7-9c1c-f82f3d596c83
+UID:757d541c-ae7d-410b-8125-e328f2d0ddc7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
@@ -30,7 +30,7 @@ DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:bbb4d1dd-7582-4cba-acfa-464cfa455582
+UID:33d4ed26-eca6-46c4-9b8e-230cd115bd23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplat Roller\nSplat Brella\nRapid Bl
@@ -40,6 +40,6 @@ DTSTART:20231205T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:299cbd1c-4951-4abe-b453-d7775ad245f6
+UID:f08b95a4-507e-411f-a848-c265fd25541a
 END:VEVENT
 END:VCALENDAR
