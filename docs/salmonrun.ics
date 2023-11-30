@@ -20,7 +20,7 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:e658d8fc-0503-4bc1-901c-c254f1a6bd3f
+UID:93be5a18-517f-47bc-ace2-761204fb4b79
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
@@ -30,7 +30,7 @@ DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:faf48cb8-7fa7-4e21-b188-e60814f0c64b
+UID:8629fce6-e040-4a1a-ba83-d8484f815a30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplat Roller\nSplat Brella\nRapid Bl
@@ -40,6 +40,16 @@ DTSTART:20231205T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:5fc5f153-c417-4d13-8574-c4f07ea11ef7
+UID:375c7f05-601a-4a23-b36d-1fe15f24555b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nHeavy Edit Splatling\nExplosher\nSplat Char
+ ger\n\nKing:\nCohozuna
+DTEND:20231208T235959Z
+DTSTART:20231207T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:29974798-50b5-4105-a81a-76085fbb80c3
 END:VEVENT
 END:VCALENDAR
