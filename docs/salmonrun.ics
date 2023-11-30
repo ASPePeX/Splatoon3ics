@@ -14,13 +14,13 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nMini Splatling\nBig Swig Roller\nTri-S
- tringer\n\nKing:\nCohozuna
+ tringer\n\nKing:\nHorrorboros
 DTEND:20231201T235959Z
 DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:757d541c-ae7d-410b-8125-e328f2d0ddc7
+SUMMARY:Spawning Grounds - Horrorboros
+UID:e658d8fc-0503-4bc1-901c-c254f1a6bd3f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
@@ -30,16 +30,16 @@ DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:33d4ed26-eca6-46c4-9b8e-230cd115bd23
+UID:faf48cb8-7fa7-4e21-b188-e60814f0c64b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplat Roller\nSplat Brella\nRapid Bl
- aster Pro\n\nKing:\nHorrorboros
+ aster Pro\n\nKing:\nCohozuna
 DTEND:20231207T075959Z
 DTSTART:20231205T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:f08b95a4-507e-411f-a848-c265fd25541a
+SUMMARY:Marooner's Bay - Cohozuna
+UID:5fc5f153-c417-4d13-8574-c4f07ea11ef7
 END:VEVENT
 END:VCALENDAR
