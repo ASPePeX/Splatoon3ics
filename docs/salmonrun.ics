@@ -20,27 +20,27 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:78d5dd37-7b28-4a32-80e1-16b5f4bd9e8f
+UID:0213b1cd-a917-4765-92bb-38286a6b1007
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
- Squiffer\n\nKing:\nCohozuna
+ Squiffer\n\nKing:\nMegalodontia
 DTEND:20231205T155959Z
 DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:c9c53784-2ab3-49a0-a414-e14bf91aef45
+SUMMARY:Sockeye Station - Megalodontia
+UID:68e1a886-8b73-4aa5-88d2-2ea74fccd1da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplat Roller\nSplat Brella\nRapid Bl
- aster Pro\n\nKing:\nCohozuna
+ aster Pro\n\nKing:\nMegalodontia
 DTEND:20231207T075959Z
 DTSTART:20231205T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:0ad1a777-79c2-43e7-86ca-0cd53fcaf9ca
+SUMMARY:Marooner's Bay - Megalodontia
+UID:d1be86e4-bcc7-4664-9046-44b8969e58c8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nHeavy Edit Splatling\nExplosher\nSplat Char
@@ -50,6 +50,6 @@ DTSTART:20231207T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:ec5800be-6c92-4ef8-babf-4af62df9b7c5
+UID:658a8286-726e-4fe2-a63c-581b5622225e
 END:VEVENT
 END:VCALENDAR
