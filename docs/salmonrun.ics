@@ -20,7 +20,7 @@ DTSTART:20231129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:f3bd62c9-f8aa-419c-8ca0-8b19ddacb193
+UID:5dd606d2-4082-47ee-84ff-40d36185172e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
@@ -30,7 +30,7 @@ DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:3e7cb87d-2c71-4f26-bd97-e62b90216591
+UID:61b64b56-3710-412c-815f-4c2768657de9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplat Roller\nSplat Brella\nRapid Bl
@@ -40,7 +40,7 @@ DTSTART:20231205T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:25de2afa-0e83-4089-99d6-fc0371f124f5
+UID:51e91191-c7f0-42b1-b619-5f5eac63e211
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nHeavy Edit Splatling\nExplosher\nSplat Char
@@ -50,6 +50,6 @@ DTSTART:20231207T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:5981a3cf-7bec-4e05-904d-59a434739f08
+UID:aea67289-cba4-4131-8b28-d163cd6a8224
 END:VEVENT
 END:VCALENDAR
