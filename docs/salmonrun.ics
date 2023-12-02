@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nLuna Blaster\nMini Splatling\nBig Swig Roller\nTri-S
- tringer\n\nKing:\nHorrorboros
-DTEND:20231201T235959Z
-DTSTART:20231129T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:5dd606d2-4082-47ee-84ff-40d36185172e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
  Squiffer\n\nKing:\nMegalodontia
 DTEND:20231205T155959Z
@@ -30,7 +20,7 @@ DTSTART:20231204T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:61b64b56-3710-412c-815f-4c2768657de9
+UID:85b381d1-cd01-4f86-858e-5047daca9fd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplat Roller\nSplat Brella\nRapid Bl
@@ -40,7 +30,7 @@ DTSTART:20231205T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:51e91191-c7f0-42b1-b619-5f5eac63e211
+UID:d20479b3-3aec-492c-bab0-f0df544dd5a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nHeavy Edit Splatling\nExplosher\nSplat Char
@@ -50,6 +40,16 @@ DTSTART:20231207T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:aea67289-cba4-4131-8b28-d163cd6a8224
+UID:3dd4c4bf-08f6-47d7-bb47-64014eaeb902
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nN-ZAP '85\n.96 Gal\nFlingza Roller\nGoo Tuber\n\nKin
+ g:\nMegalodontia
+DTEND:20231210T155959Z
+DTSTART:20231209T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:620358f3-2cff-4250-a40b-e575493d8c2b
 END:VEVENT
 END:VCALENDAR
