@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nTri-Slosher\nTenta Brella\nClassic 
- Squiffer\n\nKing:\nMegalodontia
-DTEND:20231205T155959Z
-DTSTART:20231204T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:9f23396b-6374-43d3-b34d-26252051464b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplat Roller\nSplat Brella\nRapid Bl
  aster Pro\n\nKing:\nMegalodontia
 DTEND:20231207T075959Z
@@ -30,7 +20,7 @@ DTSTART:20231205T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:290374e9-95db-4b13-be7c-0f80cbbe48e4
+UID:ccc889da-790a-4c35-841d-951d3ac3a030
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nHeavy Edit Splatling\nExplosher\nSplat Char
@@ -40,7 +30,7 @@ DTSTART:20231207T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:09db4935-5c04-4e40-a29e-7bf01877d905
+UID:5682da86-d7f3-4e6a-b259-c06359514695
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\n.96 Gal\nFlingza Roller\nGoo Tuber\n\nKin
@@ -50,7 +40,7 @@ DTSTART:20231209T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:d1b74722-f9f0-4aaf-89fd-e09b3f50a8e3
+UID:7f5dd78f-ed5c-472b-8332-aafd2e9c55f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nDapple Dualies\nH-3 Nozzlenose\nJet Squelc
@@ -60,6 +50,16 @@ DTSTART:20231210T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:1c7056d5-12e7-4dfe-8f25-f4070b9f1c29
+UID:7039a32a-1904-4892-babe-837390ec537b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nLuna Blaster\nSloshing Machine\nBallpoint Splatling\
+ nRapid Blaster\n\nKing:\nMegalodontia
+DTEND:20231213T235959Z
+DTSTART:20231212T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Megalodontia
+UID:027588c2-4536-4f9b-8bbd-d6b1b79b6898
 END:VEVENT
 END:VCALENDAR
