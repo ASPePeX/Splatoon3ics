@@ -20,7 +20,7 @@ DTSTART:20231205T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:0fc4e07b-ff64-46d0-89e6-315102dcb9e2
+UID:bf26776e-8bf0-4080-8141-eef6650faea8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nHeavy Edit Splatling\nExplosher\nSplat Char
@@ -30,7 +30,7 @@ DTSTART:20231207T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:80538192-9a44-4329-8150-71e89427f83d
+UID:345ebbdb-12a9-4820-87f6-b9920646aafa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\n.96 Gal\nFlingza Roller\nGoo Tuber\n\nKin
@@ -40,7 +40,7 @@ DTSTART:20231209T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:0eebf328-0689-4b28-9089-47529b7b04b0
+UID:57af12ce-3999-44f8-a362-b0d4bc11d45b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nDapple Dualies\nH-3 Nozzlenose\nJet Squelc
@@ -50,7 +50,7 @@ DTSTART:20231210T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:6b7e37d8-546e-45d7-b326-9918e5c68497
+UID:830832b9-7479-4123-8faa-a0858d56e841
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSloshing Machine\nBallpoint Splatling\
@@ -60,6 +60,6 @@ DTSTART:20231212T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:138a632e-e346-4900-9ffa-fd4c387e0acc
+UID:6b97e92e-f19d-4600-bc6b-91006d9dbe20
 END:VEVENT
 END:VCALENDAR
