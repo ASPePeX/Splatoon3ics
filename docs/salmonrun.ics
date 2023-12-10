@@ -20,7 +20,7 @@ DTSTART:20231209T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:92f22b76-6575-44d0-abf7-5f7d9c0f8d3c
+UID:5a7b47bf-e096-448b-a454-d8c0da575abe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nDapple Dualies\nH-3 Nozzlenose\nJet Squelc
@@ -30,7 +30,7 @@ DTSTART:20231210T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:6f2fd462-1dbe-4bc4-92e9-6718006d94d7
+UID:8b069484-fff0-4985-a7b9-81bcd158565b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSloshing Machine\nBallpoint Splatling\
@@ -40,7 +40,7 @@ DTSTART:20231212T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:f59b8cb6-1967-4197-bb26-1091a5992343
+UID:295767ea-8aa2-4068-af68-59bb0a14bedf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nCarbon Roller\nSqueezer\nTri-Stri
@@ -50,7 +50,7 @@ DTSTART:20231214T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:0142a045-b0d1-4230-8c71-9f6eee60d6f4
+UID:6f53477a-e5d3-481c-97ba-63eaf04d93a7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nS-BLAST '92\nBamboozler 14 Mk I\nRan
@@ -60,6 +60,6 @@ DTSTART:20231215T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:9412a2c1-9c80-48e4-ac57-be50fa1c5f2a
+UID:6bc4c6c8-6f30-4b4d-83a6-d9c4cd65a3a0
 END:VEVENT
 END:VCALENDAR
