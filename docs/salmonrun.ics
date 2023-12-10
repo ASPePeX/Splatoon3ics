@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nN-ZAP '85\n.96 Gal\nFlingza Roller\nGoo Tuber\n\nKin
- g:\nMegalodontia
-DTEND:20231210T155959Z
-DTSTART:20231209T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:5a7b47bf-e096-448b-a454-d8c0da575abe
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nDapple Dualies\nH-3 Nozzlenose\nJet Squelc
  her\n\nKing:\nHorrorboros
 DTEND:20231212T075959Z
@@ -30,7 +20,7 @@ DTSTART:20231210T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:8b069484-fff0-4985-a7b9-81bcd158565b
+UID:45fe13c7-fb57-4a5a-b3d6-babb38cb8eb1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSloshing Machine\nBallpoint Splatling\
@@ -40,7 +30,7 @@ DTSTART:20231212T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:295767ea-8aa2-4068-af68-59bb0a14bedf
+UID:8127142e-a9d9-4fd8-92b4-e42be1df6b7e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nCarbon Roller\nSqueezer\nTri-Stri
@@ -50,7 +40,7 @@ DTSTART:20231214T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:6f53477a-e5d3-481c-97ba-63eaf04d93a7
+UID:c433100d-4476-40de-8d3c-abf3adf1227c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nS-BLAST '92\nBamboozler 14 Mk I\nRan
@@ -60,6 +50,16 @@ DTSTART:20231215T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:6bc4c6c8-6f30-4b4d-83a6-d9c4cd65a3a0
+UID:2bf86bcd-5f9a-4010-af5d-61c1fd8977e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplatana Wiper\nDark Tetra Dualies\nBloblobber\nRapi
+ d Blaster Pro\n\nKing:\nMegalodontia
+DTEND:20231218T235959Z
+DTSTART:20231217T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:584e5205-1352-4dad-9d41-63ff37ef4b37
 END:VEVENT
 END:VCALENDAR
