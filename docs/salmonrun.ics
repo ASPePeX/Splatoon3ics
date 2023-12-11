@@ -20,7 +20,7 @@ DTSTART:20231210T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:45fe13c7-fb57-4a5a-b3d6-babb38cb8eb1
+UID:fb415562-f660-4f5d-90c0-0ca689ebb08f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSloshing Machine\nBallpoint Splatling\
@@ -30,7 +30,7 @@ DTSTART:20231212T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:8127142e-a9d9-4fd8-92b4-e42be1df6b7e
+UID:657be25f-5947-4706-bc1a-8b830287a282
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nCarbon Roller\nSqueezer\nTri-Stri
@@ -40,7 +40,7 @@ DTSTART:20231214T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:c433100d-4476-40de-8d3c-abf3adf1227c
+UID:035fc7f8-860b-4eb2-b8a1-b029f8e2cd43
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nS-BLAST '92\nBamboozler 14 Mk I\nRan
@@ -50,7 +50,7 @@ DTSTART:20231215T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:2bf86bcd-5f9a-4010-af5d-61c1fd8977e1
+UID:544edcf8-83d9-46ed-9e7c-f6d6b46269b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDark Tetra Dualies\nBloblobber\nRapi
@@ -60,6 +60,6 @@ DTSTART:20231217T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:584e5205-1352-4dad-9d41-63ff37ef4b37
+UID:6aefdfea-295d-45b5-b46c-1f142c3e6b29
 END:VEVENT
 END:VCALENDAR
