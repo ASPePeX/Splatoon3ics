@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\nDapple Dualies\nH-3 Nozzlenose\nJet Squelc
- her\n\nKing:\nHorrorboros
-DTEND:20231212T075959Z
-DTSTART:20231210T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:0eec9799-b549-45bb-9c47-41ba3935aaf1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSloshing Machine\nBallpoint Splatling\
  nRapid Blaster\n\nKing:\nMegalodontia
 DTEND:20231213T235959Z
@@ -30,7 +20,7 @@ DTSTART:20231212T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:54671490-bbe1-43ab-9a46-6609f48c3e7c
+UID:4eb53832-af6d-4f12-bef7-6d6bb8df6a25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nCarbon Roller\nSqueezer\nTri-Stri
@@ -40,7 +30,7 @@ DTSTART:20231214T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:662ee2cc-0f35-4716-9aee-c50df3bcb816
+UID:65dbf926-a84a-4daa-b1f5-ee01d9fcffa4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nS-BLAST '92\nBamboozler 14 Mk I\nRan
@@ -50,7 +40,7 @@ DTSTART:20231215T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:f08674b5-3fc6-46ff-91a6-0c7fffd06b6d
+UID:0fd35b20-d787-492f-97c2-c5bfa2800e3e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDark Tetra Dualies\nBloblobber\nRapi
@@ -60,6 +50,16 @@ DTSTART:20231217T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:b1811bdc-75bc-4836-bb8e-ac1b9f01dcd5
+UID:1a2c2900-4f61-4be0-8233-1537dbbd47d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nL-3 Nozzlenose\nDread Wringer\nClassic Squi
+ ffer\n\nKing:\nCohozuna
+DTEND:20231220T155959Z
+DTSTART:20231219T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:6ca8da26-f8e8-49c3-814e-7ca6a638a786
 END:VEVENT
 END:VCALENDAR
