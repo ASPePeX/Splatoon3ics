@@ -20,7 +20,7 @@ DTSTART:20231212T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:68deda37-af08-435b-a8bb-3eb5d9724fe3
+UID:c9895bb7-36d6-4ad4-8061-91a439c2b1bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nCarbon Roller\nSqueezer\nTri-Stri
@@ -30,7 +30,7 @@ DTSTART:20231214T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:82452627-4191-43f3-b432-84099ce46f11
+UID:e305c06a-c868-4680-ae4e-3aa60338fcda
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nS-BLAST '92\nBamboozler 14 Mk I\nRan
@@ -40,7 +40,7 @@ DTSTART:20231215T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:16d5d7e1-ee47-4d7a-a039-304317e8996a
+UID:88e4ea3e-5352-4742-bb21-822aec9a44eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDark Tetra Dualies\nBloblobber\nRapi
@@ -50,7 +50,7 @@ DTSTART:20231217T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:f7286762-1fba-4588-92d7-19a165006f33
+UID:af3cc5af-624f-4563-9aef-ea075d3a4c07
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nL-3 Nozzlenose\nDread Wringer\nClassic Squi
@@ -60,6 +60,6 @@ DTSTART:20231219T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:8cc0a126-8a63-4005-aeff-7826d6161d70
+UID:594311f2-4abe-487a-861d-bf7c8a0e1415
 END:VEVENT
 END:VCALENDAR
