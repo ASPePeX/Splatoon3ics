@@ -20,7 +20,7 @@ DTSTART:20231215T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:ec99bb4f-a047-4d12-a65b-dd046e3bf946
+UID:f0dbe8e5-b156-4ccf-b9bb-ce2bc37decab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDark Tetra Dualies\nBloblobber\nRapi
@@ -30,7 +30,7 @@ DTSTART:20231217T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:cde1a692-653f-43cc-959b-7a41860671d1
+UID:62745497-9aca-4dd4-ba06-62a254771b3c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nL-3 Nozzlenose\nDread Wringer\nClassic Squi
@@ -40,7 +40,7 @@ DTSTART:20231219T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:863dcd17-80d9-4deb-adf7-c66079c40c6b
+UID:e9c5552e-597d-4c8e-8229-5a89144b73ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplattershot\nRange Blaster\nSnipewrite
@@ -50,7 +50,7 @@ DTSTART:20231220T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:9ebbbd92-bb5c-4101-bb2c-6d5e854932e0
+UID:4a8f0ecc-4edc-4673-93cf-7278d45aa9f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nFlingza Roller\nNautilus 47\nJet 
@@ -60,6 +60,6 @@ DTSTART:20231222T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:74c2821e-a11b-4b75-b39e-414c77309eb6
+UID:2dc16c46-0bff-44ef-b9d3-927f3c7c371a
 END:VEVENT
 END:VCALENDAR
