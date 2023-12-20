@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nL-3 Nozzlenose\nDread Wringer\nClassic Squi
- ffer\n\nKing:\nCohozuna
-DTEND:20231220T155959Z
-DTSTART:20231219T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:14dfd1a8-62a6-42d9-9544-1df75cf09af9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplattershot\nRange Blaster\nSnipewrite
  r 5H\n\nKing:\nMegalodontia
 DTEND:20231222T075959Z
@@ -30,7 +20,7 @@ DTSTART:20231220T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:1e2a11b6-8f7c-4f39-8650-d28e2e9e71dc
+UID:a839d63c-ef41-41f2-a3fe-1097ad1efcb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nFlingza Roller\nNautilus 47\nJet 
@@ -40,7 +30,7 @@ DTSTART:20231222T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:5a4a9792-db65-4921-8851-e2ffa1b4d02c
+UID:16923b30-4536-4983-95bf-c8ca382b88bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplat Dualies\nSplat Roller\nSplat
@@ -50,7 +40,7 @@ DTSTART:20231224T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:807c80c4-0847-4507-a036-63544943bc0f
+UID:b008322d-47a5-4a5f-b239-374745abf1ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\n.96 Gal\nREEF-LUX 450\nTri-Stringer\n\nKing
@@ -60,6 +50,16 @@ DTSTART:20231225T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:dcc84a0f-da6a-47a9-8591-6d2751a79bbe
+UID:feef728d-5c0c-461d-b358-29f8c0b344b9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nBlaster\nSplatana Stamper\nTenta Br
+ ella\n\nKing:\nMegalodontia
+DTEND:20231228T235959Z
+DTSTART:20231227T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:1e635e76-e790-48a1-b49c-b75f44562f34
 END:VEVENT
 END:VCALENDAR
