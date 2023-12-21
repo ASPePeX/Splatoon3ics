@@ -20,7 +20,7 @@ DTSTART:20231220T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:a839d63c-ef41-41f2-a3fe-1097ad1efcb4
+UID:429d66b1-8741-4932-93b3-7cd4a4d94063
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nFlingza Roller\nNautilus 47\nJet 
@@ -30,7 +30,7 @@ DTSTART:20231222T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:16923b30-4536-4983-95bf-c8ca382b88bf
+UID:226f7d2c-c5f7-4b00-90c9-6d88fea4cd91
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplat Dualies\nSplat Roller\nSplat
@@ -40,7 +40,7 @@ DTSTART:20231224T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:b008322d-47a5-4a5f-b239-374745abf1ea
+UID:c21f8319-8b8b-4b9f-bc0a-35e99a857e6c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\n.96 Gal\nREEF-LUX 450\nTri-Stringer\n\nKing
@@ -50,7 +50,7 @@ DTSTART:20231225T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:feef728d-5c0c-461d-b358-29f8c0b344b9
+UID:2d8536cd-b701-4dde-8186-ad151f4d168a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nBlaster\nSplatana Stamper\nTenta Br
@@ -60,6 +60,6 @@ DTSTART:20231227T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:1e635e76-e790-48a1-b49c-b75f44562f34
+UID:d55e6769-fa47-4b9b-8d83-4aed5189a8c5
 END:VEVENT
 END:VCALENDAR
