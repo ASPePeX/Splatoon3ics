@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nTri-Slosher\nSplattershot\nRange Blaster\nSnipewrite
- r 5H\n\nKing:\nMegalodontia
-DTEND:20231222T075959Z
-DTSTART:20231220T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:9273089f-8a7a-4a0e-8fb1-f953763c1602
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nFlingza Roller\nNautilus 47\nJet 
  Squelcher\n\nKing:\nHorrorboros
 DTEND:20231223T235959Z
@@ -30,7 +20,7 @@ DTSTART:20231222T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:e6c8e5dd-89cb-408a-bf42-7a99d26d42b0
+UID:db4ff169-85d9-4697-adde-dec179a043d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplat Dualies\nSplat Roller\nSplat
@@ -40,7 +30,7 @@ DTSTART:20231224T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:1f07c5d3-7e93-46f7-9b66-c2f84838b927
+UID:1e61131d-09b0-4072-9f0b-d35603e1bc12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\n.96 Gal\nREEF-LUX 450\nTri-Stringer\n\nKing
@@ -50,7 +40,7 @@ DTSTART:20231225T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:128d6e28-952e-4f5d-bbf1-fce68c814ab6
+UID:a77c6a1b-284f-4396-8ea3-1d4c7aab097f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nBlaster\nSplatana Stamper\nTenta Br
@@ -60,6 +50,16 @@ DTSTART:20231227T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:9107eaab-32dd-481c-9f4f-aa8d6d8e714e
+UID:27818972-5b52-4e66-a750-3b925363997f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nClash Blaster\nSlosher\nOctobrush\nGoo Tuber\n\nKing
+ :\nCohozuna
+DTEND:20231230T155959Z
+DTSTART:20231229T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:03e378a2-f72b-4d1e-b74c-cebf8b3b1a1e
 END:VEVENT
 END:VCALENDAR
