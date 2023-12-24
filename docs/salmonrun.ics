@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDualie Squelchers\nFlingza Roller\nNautilus 47\nJet 
- Squelcher\n\nKing:\nHorrorboros
-DTEND:20231223T235959Z
-DTSTART:20231222T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:4c70b4e5-7c08-4fc4-b243-639098032c78
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplat Dualies\nSplat Roller\nSplat
   Charger\n\nKing:\nMegalodontia
 DTEND:20231225T155959Z
@@ -30,7 +20,7 @@ DTSTART:20231224T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:045a7d79-2245-4b59-8202-80c09cfa84a9
+UID:bd82472b-e288-40c6-a0ce-25ba5bd45fd0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\n.96 Gal\nREEF-LUX 450\nTri-Stringer\n\nKing
@@ -40,7 +30,7 @@ DTSTART:20231225T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:ff796a57-3528-4ab9-b4ac-c1ba5c0e262f
+UID:67667e99-6f22-4117-8588-ff334e484460
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nBlaster\nSplatana Stamper\nTenta Br
@@ -50,7 +40,7 @@ DTSTART:20231227T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:04cfca1d-2831-41ec-8b66-0f453d5dedae
+UID:30b2706a-fd8d-41d6-82cc-9d89b66df19b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSlosher\nOctobrush\nGoo Tuber\n\nKing
@@ -60,6 +50,15 @@ DTSTART:20231229T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:2efafcc6-7a69-4338-9eea-6baa23782c56
+UID:9ad0b272-c691-48be-92a0-4012b4821ad0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nHorrorboros
+DTEND:20240101T075959Z
+DTSTART:20231230T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:770b8f8c-8274-47c9-90a3-c2c1cc953580
 END:VEVENT
 END:VCALENDAR
