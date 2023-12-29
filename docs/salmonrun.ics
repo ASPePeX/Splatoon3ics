@@ -20,7 +20,7 @@ DTSTART:20231229T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:f57bca2d-bf97-4500-99db-dc9b83873b2d
+UID:f41cb986-9e33-4874-b97f-d3054a432ee8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nHorrorboros
@@ -29,7 +29,7 @@ DTSTART:20231230T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:174e52e5-afbf-4591-9679-3862a642bf6c
+UID:432096b0-9986-4ae0-a02d-f5a89056deff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nBamboozler 14 Mk I\nHydra Splatling\nSnipe
@@ -39,7 +39,7 @@ DTSTART:20240101T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:809a2b94-c325-440e-b6d5-039e05b472c7
+UID:9b0ab83e-dcf1-466d-ad39-7c52063af7c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nH-3 Nozzlenose\nBloblobber\nE-liter 
@@ -49,7 +49,7 @@ DTSTART:20240103T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:1f55a2ea-b20c-4bdf-ada1-c95cfec4d9ef
+UID:301d6540-b029-404f-9e64-f3826a2a07f7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Pro\nHeavy Edit Splat
@@ -59,6 +59,6 @@ DTSTART:20240104T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:01026f84-5bad-4fa2-894c-5ba1e68e8a44
+UID:964f520e-1144-49b0-a326-a26b46ab5739
 END:VEVENT
 END:VCALENDAR
