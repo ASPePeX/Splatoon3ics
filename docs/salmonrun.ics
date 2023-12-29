@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nBlaster\nSplatana Stamper\nTenta Br
- ella\n\nKing:\nMegalodontia
-DTEND:20231228T235959Z
-DTSTART:20231227T080001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:ac1323af-026a-445b-be78-7681994a0f24
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSlosher\nOctobrush\nGoo Tuber\n\nKing
  :\nCohozuna
 DTEND:20231230T155959Z
@@ -30,7 +20,7 @@ DTSTART:20231229T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:5f14a4e6-9035-4a78-9100-019ae70e85b6
+UID:f57bca2d-bf97-4500-99db-dc9b83873b2d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nHorrorboros
@@ -39,7 +29,7 @@ DTSTART:20231230T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:07275858-726c-4164-9b1d-7c888305c7bb
+UID:174e52e5-afbf-4591-9679-3862a642bf6c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nBamboozler 14 Mk I\nHydra Splatling\nSnipe
@@ -49,7 +39,7 @@ DTSTART:20240101T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:a68e9b78-3720-4a73-9502-f18eb2d79956
+UID:809a2b94-c325-440e-b6d5-039e05b472c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nH-3 Nozzlenose\nBloblobber\nE-liter 
@@ -59,6 +49,16 @@ DTSTART:20240103T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:f9b47763-8d99-46f3-915d-cb050060d0c8
+UID:1f55a2ea-b20c-4bdf-ada1-c95cfec4d9ef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Pro\nHeavy Edit Splat
+ ling\nRapid Blaster\n\nKing:\nHorrorboros
+DTEND:20240106T075959Z
+DTSTART:20240104T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:01026f84-5bad-4fa2-894c-5ba1e68e8a44
 END:VEVENT
 END:VCALENDAR
