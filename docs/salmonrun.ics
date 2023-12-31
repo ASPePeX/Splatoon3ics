@@ -19,7 +19,7 @@ DTSTART:20231230T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:2336cdd3-1400-43a3-8cd7-db84d5ef0c85
+UID:1c7b84f4-0b7d-49f2-8e24-8b8323322705
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nBamboozler 14 Mk I\nHydra Splatling\nSnipe
@@ -29,7 +29,7 @@ DTSTART:20240101T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:16f1326a-a53c-44e4-bfb1-1ecd6e4cf628
+UID:04d872b0-de6c-4892-904b-927bd802153c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nH-3 Nozzlenose\nBloblobber\nE-liter 
@@ -39,7 +39,7 @@ DTSTART:20240103T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:72da999f-5c6d-4b58-8137-e83e89c6c5da
+UID:eb5dc16f-346f-4e60-8b88-0e77d62e953c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Pro\nHeavy Edit Splat
@@ -49,7 +49,7 @@ DTSTART:20240104T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:c69dbd4b-512c-4a00-b4a5-1b23ddbd532e
+UID:339b8b2a-97cd-4e31-881b-b076db31178d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nCarbon Roller\nS-BLAST '92\nJet Squelc
@@ -59,6 +59,6 @@ DTSTART:20240106T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:91ee84d1-ac60-4ac0-be55-a845a9eeada9
+UID:b93c2acb-72f5-4e44-9682-04730c32e328
 END:VEVENT
 END:VCALENDAR
