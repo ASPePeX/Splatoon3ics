@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nHorrorboros
-DTEND:20240101T075959Z
-DTSTART:20231230T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:2cb75c8b-20d3-46e2-95af-a44c42ed2afc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nBamboozler 14 Mk I\nHydra Splatling\nSnipe
  writer 5H\n\nKing:\nHorrorboros
 DTEND:20240102T235959Z
@@ -29,7 +20,7 @@ DTSTART:20240101T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:5c1f5136-8024-41fb-9b9e-ab2971e26a20
+UID:6788cd74-b40b-43e0-b4af-2bd505e06796
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nH-3 Nozzlenose\nBloblobber\nE-liter 
@@ -39,7 +30,7 @@ DTSTART:20240103T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:9aa47ac1-55c6-438d-b5ef-56f0b92688e7
+UID:95ca4ed6-deb3-4202-b74c-e34b46edacd7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Pro\nHeavy Edit Splat
@@ -49,7 +40,7 @@ DTSTART:20240104T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:208c77cb-94c3-4592-a9aa-2bfcadd96392
+UID:c294d073-fa5c-41f0-984e-31a195953b26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nCarbon Roller\nS-BLAST '92\nJet Squelc
@@ -59,6 +50,16 @@ DTSTART:20240106T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:0769947d-faad-4773-9249-0197afad43ff
+UID:aa9d5e7e-5f4a-4884-9c0f-1a2ecb349d11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Nova\nL-3 Nozzlenose\nPainbrush\nHeavy 
+ Splatling\n\nKing:\nHorrorboros
+DTEND:20240109T155959Z
+DTSTART:20240108T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:5a5b79dc-67c3-4cbb-b7e5-8708cb5e636f
 END:VEVENT
 END:VCALENDAR
