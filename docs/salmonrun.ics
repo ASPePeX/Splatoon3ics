@@ -20,7 +20,7 @@ DTSTART:20240101T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:58e1970e-7f8f-4a95-a0ce-0aca422b2d21
+UID:24101889-eafa-43cc-93cd-b51cb9eb2793
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nH-3 Nozzlenose\nBloblobber\nE-liter 
@@ -30,7 +30,7 @@ DTSTART:20240103T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:638ff40f-7063-4542-9d3b-0ddc027332cb
+UID:045a760e-f30d-499a-a085-644090830d74
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Pro\nHeavy Edit Splat
@@ -40,7 +40,7 @@ DTSTART:20240104T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:896d2ee3-dd28-45e4-97df-0372ee0d5be9
+UID:2e57f3af-1691-4a70-acc5-5a740721d076
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nCarbon Roller\nS-BLAST '92\nJet Squelc
@@ -50,7 +50,7 @@ DTSTART:20240106T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:b81c327c-92b6-4d83-bd7e-0c5c4bcffa4d
+UID:3cb1f3c1-be3a-4908-9ed4-e16d74ecfbd4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nL-3 Nozzlenose\nPainbrush\nHeavy 
@@ -60,6 +60,6 @@ DTSTART:20240108T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:db9b45c0-ff12-457b-b6ba-76b8b78fcd49
+UID:a6516278-ef7e-4d1c-bfc9-574b26efeafc
 END:VEVENT
 END:VCALENDAR
