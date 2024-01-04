@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Wiper\nH-3 Nozzlenose\nBloblobber\nE-liter 
- 4K\n\nKing:\nCohozuna
-DTEND:20240104T155959Z
-DTSTART:20240103T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:98bc7c01-b766-47db-a035-1d74917db5c5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Pro\nHeavy Edit Splat
  ling\nRapid Blaster\n\nKing:\nHorrorboros
 DTEND:20240106T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240104T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:9190d8fc-f179-4437-8ac9-92ba4811e88b
+UID:13e888ab-01bf-42ad-8151-3ab9ddb67336
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nCarbon Roller\nS-BLAST '92\nJet Squelc
@@ -40,7 +30,7 @@ DTSTART:20240106T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:ea36f1bc-1e45-4a62-bdc1-8dc4b8bbe532
+UID:47eb782a-d380-454c-8643-8d689d1ff527
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nL-3 Nozzlenose\nPainbrush\nHeavy 
@@ -50,7 +40,7 @@ DTSTART:20240108T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:7ff20c09-1d26-4563-b784-63ed584800c4
+UID:65828588-0101-446e-b791-308e24fdd6e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nMini Splatling\nDynamo Roller\nSplat C
@@ -60,6 +50,16 @@ DTSTART:20240109T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:b8709bb0-d4cc-4d05-b1a0-0216185e80a1
+UID:a43833fc-a082-47c1-b363-5f3c209abd2b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nExplosher\nGoo Tuber\n
+ \nKing:\nCohozuna
+DTEND:20240112T235959Z
+DTSTART:20240111T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:b40e7e80-bde0-4dd5-81c8-546e637767a3
 END:VEVENT
 END:VCALENDAR
