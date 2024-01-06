@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Pro\nHeavy Edit Splat
- ling\nRapid Blaster\n\nKing:\nHorrorboros
-DTEND:20240106T075959Z
-DTSTART:20240104T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:25bb8802-356a-4f36-8a41-3273be9db1ee
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nCarbon Roller\nS-BLAST '92\nJet Squelc
  her\n\nKing:\nMegalodontia
 DTEND:20240107T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240106T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:1c2fd593-b41a-4671-b71d-f4ad0961af6d
+UID:f418855c-5b72-4207-888c-473723415c20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nL-3 Nozzlenose\nPainbrush\nHeavy 
@@ -40,7 +30,7 @@ DTSTART:20240108T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:85bf2e72-3634-4d91-940f-092c73a4ba9b
+UID:890c78dc-e04c-4866-924a-04107eaed3e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nMini Splatling\nDynamo Roller\nSplat C
@@ -50,7 +40,7 @@ DTSTART:20240109T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:08e093d5-3784-48ed-9ac6-ee82e731defc
+UID:99991073-1d21-4dec-82b0-50b584fa7021
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nExplosher\nGoo Tuber\n
@@ -60,6 +50,16 @@ DTSTART:20240111T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:59ea7177-cc82-4d15-ae17-42a181811f43
+UID:719576f3-0976-4ec0-ab29-4f97e1d43b6e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\nClassic Squiffe
+ r\nRandom\n\nKing:\nHorrorboros
+DTEND:20240114T155959Z
+DTSTART:20240113T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:e7dc3c35-83dc-4f44-aca0-12c2fda84633
 END:VEVENT
 END:VCALENDAR
