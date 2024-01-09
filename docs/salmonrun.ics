@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Nova\nL-3 Nozzlenose\nPainbrush\nHeavy 
- Splatling\n\nKing:\nHorrorboros
-DTEND:20240109T155959Z
-DTSTART:20240108T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:efa30d88-37a1-4583-8c20-2fb6693ed03d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nMini Splatling\nDynamo Roller\nSplat C
  harger\n\nKing:\nMegalodontia
 DTEND:20240111T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240109T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:d0ebb3cd-c205-4dee-84bf-fcca60f0176a
+UID:58c9c02c-79e0-44f9-8e67-dd2ade8bbfae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nExplosher\nGoo Tuber\n
@@ -40,7 +30,7 @@ DTSTART:20240111T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:6aecc732-9dc2-4b4c-a886-b1f4cbd7043d
+UID:d5622c39-9962-468f-b4b6-9557e342ea68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\nClassic Squiffe
@@ -50,7 +40,7 @@ DTSTART:20240113T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:96a827cd-7e2b-4a4b-802f-b70f129954c3
+UID:34dba8a8-7525-4bf6-9708-e1d3ab7e295d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nSplatana Stamper\nFlingza Roller\nSn
@@ -60,6 +50,16 @@ DTSTART:20240114T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:c07f1582-5b83-4098-b3fa-1b420828be70
+UID:5de922bc-192a-4a22-bd33-4d005e69ab1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nCarbon Roller\nTri-Slosher\nTri-St
+ ringer\n\nKing:\nCohozuna
+DTEND:20240117T235959Z
+DTSTART:20240116T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:e35f7229-ab44-418b-838a-494d144d7009
 END:VEVENT
 END:VCALENDAR
