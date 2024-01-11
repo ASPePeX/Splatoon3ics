@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Brella\nMini Splatling\nDynamo Roller\nSplat C
- harger\n\nKing:\nMegalodontia
-DTEND:20240111T075959Z
-DTSTART:20240109T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:742939b1-44bf-4b36-a239-e2fb1e562d35
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nExplosher\nGoo Tuber\n
  \nKing:\nCohozuna
 DTEND:20240112T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240111T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:aa6a1127-39c8-4d71-9b93-32976e7f55c2
+UID:d53e7820-e252-45c0-9d7c-b126e73765b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\nClassic Squiffe
@@ -40,7 +30,7 @@ DTSTART:20240113T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:02f6c14a-24e7-411b-9469-6b3311a2a15b
+UID:1c5c87fb-0f5b-4802-af49-c3013b0cfe04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nSplatana Stamper\nFlingza Roller\nSn
@@ -50,7 +40,7 @@ DTSTART:20240114T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:882ddb6a-21ef-44bf-8601-4202402011cc
+UID:c67466a9-6937-4228-836c-70d11ef20915
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nCarbon Roller\nTri-Slosher\nTri-St
@@ -60,6 +50,16 @@ DTSTART:20240116T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:d0fb8ec4-4074-4814-b0ca-c1cea2fd00a2
+UID:41d9db36-6071-4dae-9add-1876ad86de75
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nInkbrush\n.52 Gal\nBig Swig Roller\nE-liter 4K\n\nKi
+ ng:\nMegalodontia
+DTEND:20240119T155959Z
+DTSTART:20240118T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:a84ddbb0-4ebe-4371-aaf1-79056503d7c3
 END:VEVENT
 END:VCALENDAR
