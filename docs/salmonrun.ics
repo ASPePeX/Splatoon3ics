@@ -20,7 +20,7 @@ DTSTART:20240111T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:f2571ce0-2311-42cb-ae5e-310af6a419b5
+UID:561cebc2-edb0-4f00-83dd-546e41d62b41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\nClassic Squiffe
@@ -30,7 +30,7 @@ DTSTART:20240113T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:7d1792f8-777c-46cb-b0e7-972be6195402
+UID:617eef40-36e3-4cc2-813a-1a141ea0a8aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nSplatana Stamper\nFlingza Roller\nSn
@@ -40,7 +40,7 @@ DTSTART:20240114T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:4e81a988-f07f-4d96-918d-0173ea8374d2
+UID:21d9cd94-53d7-4d00-8182-3eace232b01b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nCarbon Roller\nTri-Slosher\nTri-St
@@ -50,7 +50,7 @@ DTSTART:20240116T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:3bf9c13b-ac3a-4bca-8122-81e4b430ecd6
+UID:71f7fab7-b8a5-49d2-ac49-0a47e8778349
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\n.52 Gal\nBig Swig Roller\nE-liter 4K\n\nKi
@@ -60,6 +60,6 @@ DTSTART:20240118T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:0f6e6e95-e2c2-4760-8cc2-326438171a7d
+UID:55d8a9ed-8660-463c-b0bc-e60c1bdb23f8
 END:VEVENT
 END:VCALENDAR
