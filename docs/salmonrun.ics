@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nExplosher\nGoo Tuber\n
- \nKing:\nCohozuna
-DTEND:20240112T235959Z
-DTSTART:20240111T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:8d2124e0-b6e5-4e21-a2e9-f2f5615250d3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\nClassic Squiffe
  r\nRandom\n\nKing:\nHorrorboros
 DTEND:20240114T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240113T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:3f001171-0a18-4255-a990-7dbb63cd4c59
+UID:032a2769-43f9-4bac-873a-6a740c6c13df
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nSplatana Stamper\nFlingza Roller\nSn
@@ -40,7 +30,7 @@ DTSTART:20240114T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:7273eff0-844f-49ec-ad1b-694b7a04c972
+UID:e1fa284c-8e46-47dc-afbc-d254f0ce5874
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nCarbon Roller\nTri-Slosher\nTri-St
@@ -50,7 +40,7 @@ DTSTART:20240116T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:20500d23-8d4c-4da4-8090-572f055e97a7
+UID:370e4cdc-1e87-4f73-ab55-9183660cc534
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\n.52 Gal\nBig Swig Roller\nE-liter 4K\n\nKi
@@ -60,6 +50,16 @@ DTSTART:20240118T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:5e613241-094a-4ea1-83fa-ce5ee9776321
+UID:4fc419c0-7bc2-41eb-85bb-01360de63566
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nN-ZAP '85\nMini Splatling\nDread Wringer\nRapid Blas
+ ter Pro\n\nKing:\nCohozuna
+DTEND:20240121T075959Z
+DTSTART:20240119T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:45311c92-b50c-4e91-a2cf-16e94292979d
 END:VEVENT
 END:VCALENDAR
