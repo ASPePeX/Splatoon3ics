@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\nClassic Squiffe
- r\nRandom\n\nKing:\nHorrorboros
-DTEND:20240114T155959Z
-DTSTART:20240113T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:f032ee70-b899-47cf-b331-f3a076914e1d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nSplatana Stamper\nFlingza Roller\nSn
  ipewriter 5H\n\nKing:\nMegalodontia
 DTEND:20240116T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240114T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:3c0a4d57-dda0-40df-bfe6-e162ab0aad68
+UID:c7757093-45c2-495a-abe1-b3eafb1e9c53
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nCarbon Roller\nTri-Slosher\nTri-St
@@ -40,7 +30,7 @@ DTSTART:20240116T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:0308500e-9aa2-42f6-abd7-5a94e8549e14
+UID:2c1c700f-0281-4bce-8b12-2d01dd8b1dda
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\n.52 Gal\nBig Swig Roller\nE-liter 4K\n\nKi
@@ -50,7 +40,7 @@ DTSTART:20240118T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:010350e4-76a6-40f6-9c37-72e1e315f0f7
+UID:68c6c2c9-56bb-47af-b2d5-4bfdc274a1f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nMini Splatling\nDread Wringer\nRapid Blas
@@ -60,6 +50,16 @@ DTSTART:20240119T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:3a1fd3de-8996-4086-832f-809fe1230a0b
+UID:a971c9b3-21c5-4dd1-8d12-55a09ded3ca6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Dualies\nSqueezer\nDynamo Roller\n.96 Gal\n\nK
+ ing:\nHorrorboros
+DTEND:20240122T235959Z
+DTSTART:20240121T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:0740f583-cba8-4472-ab95-4577363a12c6
 END:VEVENT
 END:VCALENDAR
