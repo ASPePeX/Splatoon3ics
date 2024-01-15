@@ -20,7 +20,7 @@ DTSTART:20240114T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:1c87944b-14b1-4a9e-b5a4-e8750c52579e
+UID:0fbd0573-7991-4328-b1f8-551c9995c5f7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nCarbon Roller\nTri-Slosher\nTri-St
@@ -30,7 +30,7 @@ DTSTART:20240116T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:0a6a091c-58c3-4d03-ba29-201aa82fe39f
+UID:c6fd13f1-f7a7-49dc-89c5-57670973273c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\n.52 Gal\nBig Swig Roller\nE-liter 4K\n\nKi
@@ -40,7 +40,7 @@ DTSTART:20240118T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:1076249c-d714-4cce-bd86-8531eacd1d94
+UID:45ebfbc8-5c22-4b01-869a-e5df717be379
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nMini Splatling\nDread Wringer\nRapid Blas
@@ -50,7 +50,7 @@ DTSTART:20240119T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:d19a1e3d-750a-49c9-8470-b8cb61165d6e
+UID:b5bc4574-7a60-4b10-8ba7-1a6d6470dd22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSqueezer\nDynamo Roller\n.96 Gal\n\nK
@@ -60,6 +60,6 @@ DTSTART:20240121T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:247806ac-73e3-45da-9feb-9fdf92b24971
+UID:42891e91-dcf1-4db7-812c-6135fdea97f3
 END:VEVENT
 END:VCALENDAR
