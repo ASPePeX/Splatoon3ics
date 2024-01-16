@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nGlooga Dualies\nSplatana Stamper\nFlingza Roller\nSn
- ipewriter 5H\n\nKing:\nMegalodontia
-DTEND:20240116T075959Z
-DTSTART:20240114T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Megalodontia
-UID:01bf1138-eb0c-42e3-8590-828408e5fab8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nCarbon Roller\nTri-Slosher\nTri-St
  ringer\n\nKing:\nCohozuna
 DTEND:20240117T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240116T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:59416a59-0f11-4718-b842-7e94f55616e7
+UID:92206e10-1bf9-4e33-873f-dd73d14f6183
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\n.52 Gal\nBig Swig Roller\nE-liter 4K\n\nKi
@@ -40,7 +30,7 @@ DTSTART:20240118T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:9550c2f8-761b-4264-a045-c1eb24f641f1
+UID:7b651374-1dbf-4c4f-9fcf-2d0426e5b595
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nMini Splatling\nDread Wringer\nRapid Blas
@@ -50,7 +40,7 @@ DTSTART:20240119T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:b5c8f348-afc0-4287-bb93-9f8fcaf11bb0
+UID:091fcc10-b525-4979-bfcb-8496ec2b652c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSqueezer\nDynamo Roller\n.96 Gal\n\nK
@@ -60,6 +50,16 @@ DTSTART:20240121T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:abb32d0f-195f-434d-a932-27f73de25f8d
+UID:b21c31dc-4f45-4220-a80c-8c9a5681375e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nLuna Blaster\nNautilus 47\nBamboozler 14 Mk I\nRapid
+  Blaster\n\nKing:\nMegalodontia
+DTEND:20240124T155959Z
+DTSTART:20240123T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:f9a59e19-5aed-4f22-8eac-0bf7d4e42733
 END:VEVENT
 END:VCALENDAR
