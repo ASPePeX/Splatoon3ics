@@ -20,7 +20,7 @@ DTSTART:20240116T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:4f51b7f8-1c68-4d1f-99d0-995a424636b2
+UID:75ac47e5-7c3d-406b-91a0-cd2e6fdc86f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\n.52 Gal\nBig Swig Roller\nE-liter 4K\n\nKi
@@ -30,7 +30,7 @@ DTSTART:20240118T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:9e98190d-1038-46c9-a34a-ca533dc5cbb8
+UID:7f6ec6a6-2d00-4d7a-b955-ffd6e7b845e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nMini Splatling\nDread Wringer\nRapid Blas
@@ -40,7 +40,7 @@ DTSTART:20240119T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:09fd4135-1bdf-4fd3-8fb7-c0be7e498264
+UID:0bd35cd0-b0a3-439d-9564-5eb3cf4e3d38
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSqueezer\nDynamo Roller\n.96 Gal\n\nK
@@ -50,7 +50,7 @@ DTSTART:20240121T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:61d233d4-52ad-4184-9709-4a5985d7d95e
+UID:f9267fd4-aaf9-40d4-9bd3-ebdeafa085bd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nNautilus 47\nBamboozler 14 Mk I\nRapid
@@ -60,6 +60,6 @@ DTSTART:20240123T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:e40e1d3a-3d2e-4106-b8d2-1f42edc9e36f
+UID:e217602f-26c9-432c-9b9d-a8ac3dc130f8
 END:VEVENT
 END:VCALENDAR
