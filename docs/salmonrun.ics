@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nCarbon Roller\nTri-Slosher\nTri-St
- ringer\n\nKing:\nCohozuna
-DTEND:20240117T235959Z
-DTSTART:20240116T080001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:c974f3b4-1fde-4234-80d0-97c69cb49688
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\n.52 Gal\nBig Swig Roller\nE-liter 4K\n\nKi
  ng:\nMegalodontia
 DTEND:20240119T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240118T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:d5ed8e46-bf93-4713-9c6c-7013f66215a8
+UID:dba778ef-9d24-4274-8660-6a83c1f41a0b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nMini Splatling\nDread Wringer\nRapid Blas
@@ -40,7 +30,7 @@ DTSTART:20240119T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:c1639e2d-7053-421e-a735-9d8205bfcb2e
+UID:e3f3166e-2a7c-4f37-b5d7-97750da05de6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSqueezer\nDynamo Roller\n.96 Gal\n\nK
@@ -50,7 +40,7 @@ DTSTART:20240121T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:302dda7c-23b3-424d-b10f-1586d7d2249c
+UID:7bd504b0-62cd-444e-850f-e7830917eafb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nNautilus 47\nBamboozler 14 Mk I\nRapid
@@ -60,6 +50,16 @@ DTSTART:20240123T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:ef6a0e1b-b977-49be-b81a-21926e5b6eaf
+UID:85c978c9-e059-4c3b-b759-b5ccbda6bab9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nAerospray MG\nUndercover Brella\nHeavy Edit Splatlin
+ g\nClassic Squiffer\n\nKing:\nCohozuna
+DTEND:20240126T075959Z
+DTSTART:20240124T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:cf7502f0-bf7e-4af3-a507-f058923c41d1
 END:VEVENT
 END:VCALENDAR
