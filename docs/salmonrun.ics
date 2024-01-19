@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\n.52 Gal\nBig Swig Roller\nE-liter 4K\n\nKi
- ng:\nMegalodontia
-DTEND:20240119T155959Z
-DTSTART:20240118T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:c2548346-9853-4c45-bf16-05c85a550d5a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nMini Splatling\nDread Wringer\nRapid Blas
  ter Pro\n\nKing:\nCohozuna
 DTEND:20240121T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240119T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:7541f405-351e-464d-b74f-cf574e7bbecc
+UID:021442b8-bfb0-4882-803b-ea4bf7d1a591
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSqueezer\nDynamo Roller\n.96 Gal\n\nK
@@ -40,7 +30,7 @@ DTSTART:20240121T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:116b8ecd-ee15-4c5c-aa04-499fc10ec50d
+UID:b7ceae54-d37e-4227-9293-3bd6a8f2fb69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nNautilus 47\nBamboozler 14 Mk I\nRapid
@@ -50,7 +40,7 @@ DTSTART:20240123T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:966e5b87-a78c-42b8-bb96-a90681c68b55
+UID:074eada0-1591-49ab-bb5f-b22097f9a538
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nUndercover Brella\nHeavy Edit Splatlin
@@ -60,6 +50,15 @@ DTSTART:20240124T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:448dba7d-78f2-411c-bf95-46e9ccc92139
+UID:5fda3186-d451-424a-85c4-89153e8fe582
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
+DTEND:20240127T235959Z
+DTSTART:20240126T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Random
+UID:806940de-1aa4-44e8-8bef-bb61abe1aa80
 END:VEVENT
 END:VCALENDAR
