@@ -20,7 +20,7 @@ DTSTART:20240119T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:3c4d4a71-ee97-45a9-b256-c3363d7220cc
+UID:77d6be07-3688-46a3-927c-8b17ef4e1eee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSqueezer\nDynamo Roller\n.96 Gal\n\nK
@@ -30,7 +30,7 @@ DTSTART:20240121T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:a2aef6bc-6d3f-43a3-9b08-c27f6a8d59dc
+UID:96cb4c10-c759-4881-8fce-de197f326c53
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nNautilus 47\nBamboozler 14 Mk I\nRapid
@@ -40,7 +40,7 @@ DTSTART:20240123T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:60d70cce-c539-45a2-8608-27928b9e0070
+UID:80839474-651d-4202-9f4d-286a0f808694
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nUndercover Brella\nHeavy Edit Splatlin
@@ -50,7 +50,7 @@ DTSTART:20240124T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:475525c5-4ef5-43a1-81ee-2ecdd3d23426
+UID:e62ab73c-454d-4ccb-accf-4987c4db131d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -59,6 +59,6 @@ DTSTART:20240126T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Random
-UID:08d6782d-d65f-48fc-807e-416afe53898b
+UID:dfd6a932-a898-449d-9982-d6bd15f15735
 END:VEVENT
 END:VCALENDAR
