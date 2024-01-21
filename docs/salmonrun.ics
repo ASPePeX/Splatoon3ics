@@ -20,7 +20,7 @@ DTSTART:20240121T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:cdcf6752-b820-4f48-bd1a-04d90e00d290
+UID:15a4e715-e4cc-4eda-acad-d828efead7cf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nNautilus 47\nBamboozler 14 Mk I\nRapid
@@ -30,7 +30,7 @@ DTSTART:20240123T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:8f77ff77-73e2-44a8-a383-38763a93e907
+UID:29389dc3-ad18-4864-8f4c-9a46293c66ab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nUndercover Brella\nHeavy Edit Splatlin
@@ -40,7 +40,7 @@ DTSTART:20240124T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:3660bbe5-31c8-4b1d-9de3-42650baf74d1
+UID:5361bb4b-57f1-4ed0-b33a-07d5c150a158
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -49,7 +49,7 @@ DTSTART:20240126T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Random
-UID:d02f43ea-e2ec-4d76-a6b2-b6ea18640010
+UID:bd5823b6-826b-4b6b-ab2d-9ac732b02b84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nS-BLAST '92\nE-liter 
@@ -59,6 +59,6 @@ DTSTART:20240128T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:7d7ed15c-31f9-40b3-9d27-f316e1c942d9
+UID:522c8827-1eae-46d9-8890-640300c4ed5a
 END:VEVENT
 END:VCALENDAR
