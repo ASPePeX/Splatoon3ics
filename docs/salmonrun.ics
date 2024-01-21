@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nN-ZAP '85\nMini Splatling\nDread Wringer\nRapid Blas
- ter Pro\n\nKing:\nCohozuna
-DTEND:20240121T075959Z
-DTSTART:20240119T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:ffd3cd22-a10b-4c60-ac08-57693d7bf241
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSqueezer\nDynamo Roller\n.96 Gal\n\nK
  ing:\nHorrorboros
 DTEND:20240122T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240121T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:b5ec6074-92b4-43bc-a6d1-5a4a8183e8ea
+UID:cdcf6752-b820-4f48-bd1a-04d90e00d290
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nNautilus 47\nBamboozler 14 Mk I\nRapid
@@ -40,7 +30,7 @@ DTSTART:20240123T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:85fe3129-eaf6-4909-a82e-e2211e8f7313
+UID:8f77ff77-73e2-44a8-a383-38763a93e907
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nUndercover Brella\nHeavy Edit Splatlin
@@ -50,7 +40,7 @@ DTSTART:20240124T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:274da759-f0d1-4305-88eb-7960c4b27926
+UID:3660bbe5-31c8-4b1d-9de3-42650baf74d1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -59,6 +49,16 @@ DTSTART:20240126T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Random
-UID:c27556a7-ecf7-4571-a6fa-6d077625814a
+UID:d02f43ea-e2ec-4d76-a6b2-b6ea18640010
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nS-BLAST '92\nE-liter 
+ 4K\n\nKing:\nCohozuna
+DTEND:20240129T155959Z
+DTSTART:20240128T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:7d7ed15c-31f9-40b3-9d27-f316e1c942d9
 END:VEVENT
 END:VCALENDAR
