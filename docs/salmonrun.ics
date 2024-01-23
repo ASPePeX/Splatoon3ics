@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Dualies\nSqueezer\nDynamo Roller\n.96 Gal\n\nK
- ing:\nHorrorboros
-DTEND:20240122T235959Z
-DTSTART:20240121T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:55c58654-d230-41f3-b60d-ef3708ca4a32
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nNautilus 47\nBamboozler 14 Mk I\nRapid
   Blaster\n\nKing:\nMegalodontia
 DTEND:20240124T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240123T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:54787efa-3987-456e-9b06-01c745ab285f
+UID:fee77f67-bf0a-4761-ad01-25cf5e1cfd8d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nUndercover Brella\nHeavy Edit Splatlin
@@ -40,7 +30,7 @@ DTSTART:20240124T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:8efd3653-0516-443e-af1e-fac937900e79
+UID:177df76e-1262-4999-b247-bb0207aa9093
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -49,7 +39,7 @@ DTSTART:20240126T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Random
-UID:973ea224-5cf6-420f-8167-a749e77025c6
+UID:7b0bfa5f-8596-4c76-b855-cdb164cd0fcd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nS-BLAST '92\nE-liter 
@@ -59,6 +49,16 @@ DTSTART:20240128T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:4e681e4e-96b6-4d47-b69d-e0aeb3d0540f
+UID:193a94ea-8c68-406b-bb3c-4a0897e92306
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nHeavy Splatling\nG
+ oo Tuber\n\nKing:\nHorrorboros
+DTEND:20240131T075959Z
+DTSTART:20240129T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:6e5c98f1-c77d-4e53-aaee-d13825de4f84
 END:VEVENT
 END:VCALENDAR
