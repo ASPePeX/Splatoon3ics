@@ -20,7 +20,7 @@ DTSTART:20240128T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:f82c9bdc-f054-4810-b962-945398b708eb
+UID:629eb768-3738-4c5b-8ce1-b53aa281c19c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nHeavy Splatling\nG
@@ -30,7 +30,7 @@ DTSTART:20240129T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:f8ace79c-5306-4235-ab29-bf1d43e27b21
+UID:e84a6e13-81ae-4702-8239-ead0dd49bb23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBlaster\nPainbrush\nHydra Splatling\
@@ -40,7 +40,7 @@ DTSTART:20240131T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:78b5e965-c750-4bfe-9c6f-5f479a5c0240
+UID:9684c573-5857-41dc-a9bc-b9f4069c6a34
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplatana Wiper\nSplattershot Pro\nJet
@@ -50,6 +50,6 @@ DTSTART:20240202T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:46df8e64-cf9a-4e01-9d44-3383e6001976
+UID:bbed38ee-1aad-4628-be98-1c0f6cd18cfb
 END:VEVENT
 END:VCALENDAR
