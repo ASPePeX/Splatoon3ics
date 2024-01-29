@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nS-BLAST '92\nE-liter 
- 4K\n\nKing:\nCohozuna
-DTEND:20240129T155959Z
-DTSTART:20240128T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:10d6bd78-856f-412f-8ac1-6e9a079826b4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nHeavy Splatling\nG
  oo Tuber\n\nKing:\nHorrorboros
 DTEND:20240131T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240129T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:6ba357f1-9a9d-43c5-960f-83058c675dfc
+UID:8f3bd32b-ce81-4f0e-ad91-f6dbcad37148
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBlaster\nPainbrush\nHydra Splatling\
@@ -40,7 +30,7 @@ DTSTART:20240131T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:ac95e4de-f9e5-484f-9156-871d46d2e28a
+UID:c02c9add-fab7-45f0-9224-f28a1643dc94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplatana Wiper\nSplattershot Pro\nJet
@@ -50,6 +40,16 @@ DTSTART:20240202T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:5c5b00ed-0363-4217-935e-910bfffe5b53
+UID:e8709994-af8f-4b44-9188-233f035bbfcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Dualies\nRange Blaster\nExplosher\nTri-Stringe
+ r\n\nKing:\nHorrorboros
+DTEND:20240205T075959Z
+DTSTART:20240203T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:f2fd02fa-212c-4f55-aca2-9d1a3eef47ed
 END:VEVENT
 END:VCALENDAR
