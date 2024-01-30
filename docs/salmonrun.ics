@@ -20,7 +20,7 @@ DTSTART:20240129T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:cfe7f8ac-9535-4304-97b5-0de6d7c28a7b
+UID:598c4648-eabe-4733-8fd7-9db7e4fefe43
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBlaster\nPainbrush\nHydra Splatling\
@@ -30,7 +30,7 @@ DTSTART:20240131T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:27b8b375-375c-435f-87ce-f817d46b5c4b
+UID:7998dc1d-27be-4e7b-8068-f4ecd29eb594
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplatana Wiper\nSplattershot Pro\nJet
@@ -40,7 +40,7 @@ DTSTART:20240202T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:539c0100-baa6-4407-a221-457cfb821e5c
+UID:bf56d5d8-360d-4f48-a3f6-227fb366f164
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRange Blaster\nExplosher\nTri-Stringe
@@ -50,6 +50,6 @@ DTSTART:20240203T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:dd343632-770d-4ccc-8c66-5bac1765fce1
+UID:5ad230eb-3fb5-4b8a-9127-38dc1abbdc82
 END:VEVENT
 END:VCALENDAR
