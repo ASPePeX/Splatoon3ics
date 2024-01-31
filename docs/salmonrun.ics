@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nHeavy Splatling\nG
- oo Tuber\n\nKing:\nHorrorboros
-DTEND:20240131T075959Z
-DTSTART:20240129T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:fa55af04-6014-4721-a5bd-404c4c2015c6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBlaster\nPainbrush\nHydra Splatling\
  n\nKing:\nMegalodontia
 DTEND:20240201T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240131T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:aecffe19-61f4-482f-a23f-6653f39faf0d
+UID:d1997a02-7a5c-471f-bba9-2bacbeb80221
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplatana Wiper\nSplattershot Pro\nJet
@@ -40,7 +30,7 @@ DTSTART:20240202T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:b1c9f851-e712-47a5-8c8a-90186470ea4b
+UID:20c00635-92ef-4a85-8477-13fa85c58f94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRange Blaster\nExplosher\nTri-Stringe
@@ -50,6 +40,16 @@ DTSTART:20240203T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:f869f438-0398-4f3f-bb8d-ef2e94ae035f
+UID:cb9718ef-8e3f-4b96-9155-0134c1438820
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nLuna Blaster\nSplattershot Nova\nSloshing Machine\nC
+ lassic Squiffer\n\nKing:\nMegalodontia
+DTEND:20240206T235959Z
+DTSTART:20240205T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:42b42f6d-30c4-4ef8-ad85-030a9bc56dc4
 END:VEVENT
 END:VCALENDAR
