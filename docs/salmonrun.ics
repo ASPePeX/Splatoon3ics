@@ -20,7 +20,7 @@ DTSTART:20240131T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:7a1bf70a-8258-41dc-a554-502ef4edcf46
+UID:112e71a1-f72a-46e2-8b8e-6aff4d0bdf51
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplatana Wiper\nSplattershot Pro\nJet
@@ -30,7 +30,7 @@ DTSTART:20240202T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:49a20e0b-13a0-46e7-b9ef-0e26bb2e9b9a
+UID:2ef45564-c179-417a-b2cd-efb65de24990
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRange Blaster\nExplosher\nTri-Stringe
@@ -40,7 +40,7 @@ DTSTART:20240203T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:d77b940d-fd4e-4736-8212-c49c145cae18
+UID:95d0fab8-50bb-4b3e-a597-c45e80a6d991
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplattershot Nova\nSloshing Machine\nC
@@ -50,6 +50,6 @@ DTSTART:20240205T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:c82af364-3870-4fd1-b9a4-82f6611687c3
+UID:88cb4e66-17b8-4ed5-adfd-ffa8b70bb9b8
 END:VEVENT
 END:VCALENDAR
