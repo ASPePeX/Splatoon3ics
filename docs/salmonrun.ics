@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplash-o-matic\nBlaster\nPainbrush\nHydra Splatling\
- n\nKing:\nMegalodontia
-DTEND:20240201T235959Z
-DTSTART:20240131T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:782e6654-28ef-4452-a1ff-1c55fbdb5212
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplatana Wiper\nSplattershot Pro\nJet
   Squelcher\n\nKing:\nCohozuna
 DTEND:20240203T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240202T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:cf70858d-eaf4-42ed-82bd-08f827af18a0
+UID:4b99bfec-726a-4611-9c8b-a8f4799a758d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRange Blaster\nExplosher\nTri-Stringe
@@ -40,7 +30,7 @@ DTSTART:20240203T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:e159d6fa-f4ac-4d37-af99-9cc5edaa2a58
+UID:5b8ba308-39a5-4f68-9255-7f3152358fd3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplattershot Nova\nSloshing Machine\nC
@@ -50,6 +40,16 @@ DTSTART:20240205T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:010e1142-c35c-4b10-9aa8-9d02442106f9
+UID:b4494e62-493a-45cb-82b4-e3314201b795
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nUndercover Brella\nSplat Roller\n.96 Gal\nSplat Char
+ ger\n\nKing:\nHorrorboros
+DTEND:20240208T155959Z
+DTSTART:20240207T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:6d8d85f9-8b3d-4bd2-8a49-bf2b5e8c2f36
 END:VEVENT
 END:VCALENDAR
