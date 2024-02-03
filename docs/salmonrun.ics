@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nClash Blaster\nSplatana Wiper\nSplattershot Pro\nJet
-  Squelcher\n\nKing:\nCohozuna
-DTEND:20240203T155959Z
-DTSTART:20240202T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:0ffe59ea-c322-4957-b92d-0b9c4cdfc20b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRange Blaster\nExplosher\nTri-Stringe
  r\n\nKing:\nHorrorboros
 DTEND:20240205T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240203T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:70a5d7ab-fe6c-46bf-851f-a850e03285e5
+UID:b3364650-14d0-485d-bf02-8015a8b280a1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplattershot Nova\nSloshing Machine\nC
@@ -40,7 +30,7 @@ DTSTART:20240205T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:99296a34-0931-4440-a2b8-15435c00e48a
+UID:9d47e4f9-737b-4d0f-8d4e-7d67afac3465
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Roller\n.96 Gal\nSplat Char
@@ -50,6 +40,16 @@ DTSTART:20240207T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:d25c1ade-4f62-40c6-8d6b-2b802e187f4a
+UID:c55d5f27-2915-414e-8d52-2569167dd3b2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDapple Dualies\nFlingza Roller\nDread Wringer\nBambo
+ ozler 14 Mk I\n\nKing:\nMegalodontia
+DTEND:20240210T075959Z
+DTSTART:20240208T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:5b01df70-e103-49fb-969d-89b92ce9fc8e
 END:VEVENT
 END:VCALENDAR
