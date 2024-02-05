@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Dualies\nRange Blaster\nExplosher\nTri-Stringe
- r\n\nKing:\nHorrorboros
-DTEND:20240205T075959Z
-DTSTART:20240203T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:189f1fc7-d83b-47c0-b575-6979ccc81b4d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplattershot Nova\nSloshing Machine\nC
  lassic Squiffer\n\nKing:\nMegalodontia
 DTEND:20240206T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240205T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:8b66021e-cddf-4bc7-97f3-4b8e9722fba8
+UID:ac719d30-aaeb-454c-928e-66b9ee7f4305
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Roller\n.96 Gal\nSplat Char
@@ -40,7 +30,7 @@ DTSTART:20240207T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:769c3440-551b-4ae7-8a00-cb8fbcaf2c30
+UID:ccb58e30-7903-4f37-b786-b7cb5b668c09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nFlingza Roller\nDread Wringer\nBambo
@@ -50,7 +40,7 @@ DTSTART:20240208T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:fb96f81a-7fd0-4b09-ae1b-7d4f19941b04
+UID:f863742e-f047-4dc9-9484-f5a00bd35ced
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nOctobrush\nHydra Splatling\nRandom\n\n
@@ -60,6 +50,16 @@ DTSTART:20240210T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:2b1e3687-19b4-46af-bbc9-0d9c01eb583c
+UID:9d135e58-04aa-4632-8f80-85e10b094de5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nGoo Tuber\nHeavy Splatli
+ ng\n\nKing:\nHorrorboros
+DTEND:20240213T155959Z
+DTSTART:20240212T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:e2280916-1bb4-4458-8cfd-adf3b6666657
 END:VEVENT
 END:VCALENDAR
