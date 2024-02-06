@@ -20,7 +20,7 @@ DTSTART:20240205T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:c5ba5a6c-80b3-4860-a66d-111dfdd712f8
+UID:7d326b2c-4454-4703-9e15-0422cede0141
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Roller\n.96 Gal\nSplat Char
@@ -30,7 +30,7 @@ DTSTART:20240207T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:15e0c15e-90a3-40fe-9af4-e5815392145a
+UID:df3d8668-2436-41f1-a73e-f08b05571a79
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nFlingza Roller\nDread Wringer\nBambo
@@ -40,7 +40,7 @@ DTSTART:20240208T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:73b4dd19-afac-45a8-b4e7-6e099b9637bc
+UID:df732ef9-ff66-446b-8a18-99a00b227776
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nOctobrush\nHydra Splatling\nRandom\n\n
@@ -50,7 +50,7 @@ DTSTART:20240210T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:62025a5a-d78f-48f2-bd05-52e340e03d36
+UID:a2d23e8a-be6f-4565-9339-ee83de9723c4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nGoo Tuber\nHeavy Splatli
@@ -60,6 +60,6 @@ DTSTART:20240212T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:b4568db8-1ac0-4c77-bb8a-6309c939e264
+UID:e11a3d41-dc15-4f6d-b473-d132ec956a36
 END:VEVENT
 END:VCALENDAR
