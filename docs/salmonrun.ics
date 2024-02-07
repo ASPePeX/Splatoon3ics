@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nLuna Blaster\nSplattershot Nova\nSloshing Machine\nC
- lassic Squiffer\n\nKing:\nMegalodontia
-DTEND:20240206T235959Z
-DTSTART:20240205T080001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:7d326b2c-4454-4703-9e15-0422cede0141
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Roller\n.96 Gal\nSplat Char
  ger\n\nKing:\nHorrorboros
 DTEND:20240208T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240207T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:df3d8668-2436-41f1-a73e-f08b05571a79
+UID:a6930830-46a9-4356-b212-e112c507a80c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nFlingza Roller\nDread Wringer\nBambo
@@ -40,7 +30,7 @@ DTSTART:20240208T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:df732ef9-ff66-446b-8a18-99a00b227776
+UID:a629fa70-84fc-44c5-934f-6d5d973cbde8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nOctobrush\nHydra Splatling\nRandom\n\n
@@ -50,7 +40,7 @@ DTSTART:20240210T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:a2d23e8a-be6f-4565-9339-ee83de9723c4
+UID:6772ae61-e982-4e0a-b0ce-be54dbce13cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nGoo Tuber\nHeavy Splatli
@@ -60,6 +50,16 @@ DTSTART:20240212T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:e11a3d41-dc15-4f6d-b473-d132ec956a36
+UID:a0ebd521-49a4-4c7f-8c96-fd94138bdc01
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nN-ZAP '85\nDualie Squelchers\nDynamo Roller\n.96 Gal
+ \n\nKing:\nMegalodontia
+DTEND:20240215T075959Z
+DTSTART:20240213T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Megalodontia
+UID:18518b35-0e56-4b78-9d53-93f8c377e14b
 END:VEVENT
 END:VCALENDAR
