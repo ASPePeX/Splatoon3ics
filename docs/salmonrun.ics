@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nUndercover Brella\nSplat Roller\n.96 Gal\nSplat Char
- ger\n\nKing:\nHorrorboros
-DTEND:20240208T155959Z
-DTSTART:20240207T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:e4f092d6-c0e1-4a99-8da9-b3f203f9f4b3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nFlingza Roller\nDread Wringer\nBambo
  ozler 14 Mk I\n\nKing:\nMegalodontia
 DTEND:20240210T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240208T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:5651cda7-bec8-4be2-a113-c0abd37001e0
+UID:fb2a7610-358d-4401-991f-13bcfa9328d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nOctobrush\nHydra Splatling\nRandom\n\n
@@ -40,7 +30,7 @@ DTSTART:20240210T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:6c7a8ecb-41f8-491f-af30-5dba1f9e4929
+UID:18aeb75c-98c3-4226-a629-a9ee8e257f45
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nGoo Tuber\nHeavy Splatli
@@ -50,7 +40,7 @@ DTSTART:20240212T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:7449759f-4848-4ff2-b7c8-a1edcfb8b86d
+UID:7897a779-5fdc-4ab2-8756-148ea0d0d14d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nDualie Squelchers\nDynamo Roller\n.96 Gal
@@ -60,6 +50,16 @@ DTSTART:20240213T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:8a9f5f6c-d67b-4277-ab78-161630567ee6
+UID:04898fb5-0230-489f-a988-957d7096f744
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nClash Blaster\nTenta Brella\nJet Sq
+ uelcher\n\nKing:\nCohozuna
+DTEND:20240216T235959Z
+DTSTART:20240215T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:1574a7cc-8d1e-433f-9b8a-45dd5435c2b3
 END:VEVENT
 END:VCALENDAR
