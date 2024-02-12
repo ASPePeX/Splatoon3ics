@@ -20,7 +20,7 @@ DTSTART:20240212T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:c629f972-53e8-4210-a6b8-f8edd44c767c
+UID:7fbc234b-e9f8-4892-820d-aace12ea4cae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nDualie Squelchers\nDynamo Roller\n.96 Gal
@@ -30,7 +30,7 @@ DTSTART:20240213T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:9db8c1ba-aff0-473e-9c47-a01960969b1e
+UID:25acee72-8da9-400e-83c0-82a091eb7cc7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nClash Blaster\nTenta Brella\nJet Sq
@@ -40,7 +40,7 @@ DTSTART:20240215T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:aff0b9b6-80fa-40fb-809d-8ba063aec11f
+UID:f4a05608-853e-42b0-b6dc-9bc86f39d480
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nH-3 Nozzlenose\nBig Swig Roller\nCla
@@ -50,7 +50,7 @@ DTSTART:20240217T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:d1235b3c-b17b-42c7-80f9-c31ed78f1892
+UID:69da6566-0460-4935-a241-27b9d256c5f4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSplat Roller\nHeavy Edit Splatling\nSpl
@@ -60,6 +60,6 @@ DTSTART:20240218T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:89ff8520-1e9e-4fa6-aee0-563c8a0a648e
+UID:c4e53548-16ca-45d7-af2d-041c72f07d94
 END:VEVENT
 END:VCALENDAR
