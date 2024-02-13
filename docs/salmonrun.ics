@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nGoo Tuber\nHeavy Splatli
- ng\n\nKing:\nHorrorboros
-DTEND:20240213T155959Z
-DTSTART:20240212T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:1fec20aa-243d-458f-886e-86ad82ab151c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nDualie Squelchers\nDynamo Roller\n.96 Gal
  \n\nKing:\nMegalodontia
 DTEND:20240215T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240213T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:5777acac-1bbe-416b-9d67-c907016ab302
+UID:6a58668b-c25a-411c-9347-88393e92270e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nClash Blaster\nTenta Brella\nJet Sq
@@ -40,7 +30,7 @@ DTSTART:20240215T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:90201d59-5ac1-4267-ae4f-58a1b76976df
+UID:e42302e7-6b0f-47ea-915e-99f3d9ff9f7e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nH-3 Nozzlenose\nBig Swig Roller\nCla
@@ -50,7 +40,7 @@ DTSTART:20240217T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:00b2dbdf-c1ef-4332-b23a-753e11a9f58d
+UID:665505bb-deab-444b-ba0d-0a912b1b12c4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSplat Roller\nHeavy Edit Splatling\nSpl
@@ -60,6 +50,16 @@ DTSTART:20240218T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:8fe76c4a-540e-4063-9b0a-c016de00126d
+UID:e57794b6-0508-4819-9d73-ba7fa1d24b57
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDapple Dualies\nAerospray MG\nRapid Blaster\nTri-Str
+ inger\n\nKing:\nHorrorboros
+DTEND:20240221T235959Z
+DTSTART:20240220T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:cacbe51a-05f0-46b4-95e6-cf4ea5466eec
 END:VEVENT
 END:VCALENDAR
