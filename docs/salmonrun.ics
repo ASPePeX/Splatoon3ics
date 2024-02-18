@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nMini Splatling\nH-3 Nozzlenose\nBig Swig Roller\nCla
- ssic Squiffer\n\nKing:\nMegalodontia
-DTEND:20240218T155959Z
-DTSTART:20240217T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:7cad0548-a8ee-4071-a379-c716283b9e67
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSplat Roller\nHeavy Edit Splatling\nSpl
  at Charger\n\nKing:\nCohozuna
 DTEND:20240220T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240218T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:adb3ae52-fd18-49df-9c66-fa09bca78947
+UID:dccfb9f7-0a98-4c34-9ff7-5413af92db34
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nAerospray MG\nRapid Blaster\nTri-Str
@@ -40,7 +30,7 @@ DTSTART:20240220T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:9f049652-3d4e-4006-a1d3-acc73972d916
+UID:6e80a154-9cc6-4530-88bb-c857f3fcdb9c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nSlosher\nHydra Splatling
@@ -50,7 +40,7 @@ DTSTART:20240222T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:f49d031f-d3ea-4eb4-9701-ce970e88c1e5
+UID:7dfbd086-ce3e-43d5-ba21-86ed19ef0608
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -59,6 +49,16 @@ DTSTART:20240223T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Random
-UID:c7814437-61e4-40de-a0c9-e2fef213416e
+UID:a542b95c-61fb-497f-a646-3bdf085d4136
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nInkbrush\nSqueezer\nPainbrush\nHeavy Splatling\n\nKi
+ ng:\nHorrorboros
+DTEND:20240226T235959Z
+DTSTART:20240225T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:eb8b08d7-56c0-4cc5-b3bb-587d0ffd05a4
 END:VEVENT
 END:VCALENDAR
