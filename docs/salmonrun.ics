@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nS-BLAST '92\nSplat Roller\nHeavy Edit Splatling\nSpl
- at Charger\n\nKing:\nCohozuna
-DTEND:20240220T075959Z
-DTSTART:20240218T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:a7fc2f56-ae55-4ef5-94ba-0083b7efe622
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nAerospray MG\nRapid Blaster\nTri-Str
  inger\n\nKing:\nHorrorboros
 DTEND:20240221T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240220T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:5212e370-814d-464d-8c8a-a49d3bdaa776
+UID:d8ebbae5-1c85-4ac2-bdb6-c509d731ea2a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nSlosher\nHydra Splatling
@@ -40,7 +30,7 @@ DTSTART:20240222T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:ae791e2f-b9ca-4de1-a80c-7a5d8eac9756
+UID:4cf41f79-30da-4391-a8e3-849c585ba809
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -49,7 +39,7 @@ DTSTART:20240223T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Random
-UID:35815004-e3a8-44f7-a2ce-7e7429713d4a
+UID:bc261bd5-68f1-4733-a5f5-d00703c2db1b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nSqueezer\nPainbrush\nHeavy Splatling\n\nKi
@@ -59,6 +49,16 @@ DTSTART:20240225T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:d3125e2e-a7af-4cd8-a7ee-91574403802a
+UID:86da8b79-3656-44f0-b269-2b77f420e25d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nTri-Slosher\nCarbon Roller\nSplattershot Pro\nRapid 
+ Blaster Pro\n\nKing:\nCohozuna
+DTEND:20240228T155959Z
+DTSTART:20240227T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:eafce1ba-3439-422a-b899-4e3ec2b75fff
 END:VEVENT
 END:VCALENDAR
