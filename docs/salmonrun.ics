@@ -20,7 +20,7 @@ DTSTART:20240220T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:7fb49973-90ea-43d2-9517-0e68f0367ac8
+UID:30f3630c-3bb6-4578-bba5-cbf9f29f5bbf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nSlosher\nHydra Splatling
@@ -30,7 +30,7 @@ DTSTART:20240222T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:12985fbf-f9e2-4974-88f8-4d8a4108ba72
+UID:878c5025-5bea-4d85-8d1f-880b6359287f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -39,7 +39,7 @@ DTSTART:20240223T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Random
-UID:d9e03d8f-80ac-462d-8279-6b13d6932fcc
+UID:4844abb1-7082-481a-901b-ec5dce77386d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nSqueezer\nPainbrush\nHeavy Splatling\n\nKi
@@ -49,7 +49,7 @@ DTSTART:20240225T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:b498b0eb-9798-45f0-afe7-c024824c72e0
+UID:ffb8305e-93d5-46b9-892c-d8952e067069
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nCarbon Roller\nSplattershot Pro\nRapid 
@@ -59,6 +59,6 @@ DTSTART:20240227T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:a4fb2bbb-c0ea-42b6-a09d-e80b8d2456e4
+UID:f09eabb3-7b7c-47b2-9b96-bc5d35eab2d0
 END:VEVENT
 END:VCALENDAR
