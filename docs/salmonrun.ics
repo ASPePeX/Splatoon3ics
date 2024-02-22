@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDapple Dualies\nAerospray MG\nRapid Blaster\nTri-Str
- inger\n\nKing:\nHorrorboros
-DTEND:20240221T235959Z
-DTSTART:20240220T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:06a04753-78b7-45f1-8e70-91f94c3bb1f4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nSlosher\nHydra Splatling
  \n\nKing:\nMegalodontia
 DTEND:20240223T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240222T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:e9f9792e-32f4-42a5-a6d4-005e4284c085
+UID:5be76107-b327-4cc2-b3ca-ff6d095d0a0d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -39,7 +29,7 @@ DTSTART:20240223T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Random
-UID:0ba06caf-c476-4a22-9b06-1849bc0c0ad1
+UID:0c004e18-1afc-48e3-a9c7-d2f0000cf2ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nSqueezer\nPainbrush\nHeavy Splatling\n\nKi
@@ -49,7 +39,7 @@ DTSTART:20240225T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:fd8de2e6-017d-4a03-b275-68f1b1556e4f
+UID:1ae4b909-c89f-4927-b419-0bf766d9ec73
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nCarbon Roller\nSplattershot Pro\nRapid 
@@ -59,6 +49,16 @@ DTSTART:20240227T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:2cd6b8c1-cc42-4cd2-99fb-75e9aac1e2ee
+UID:0f91262f-b7bd-4e2d-9419-a624f6740a62
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nBig Swig Roller\nS
+ plat Charger\n\nKing:\nHorrorboros
+DTEND:20240301T075959Z
+DTSTART:20240228T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:f12f5223-c163-4ffc-a214-6b91531c65f6
 END:VEVENT
 END:VCALENDAR
