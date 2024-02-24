@@ -19,7 +19,7 @@ DTSTART:20240223T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Random
-UID:8677cfa2-b701-4d7f-92bd-25300f2815b9
+UID:c9c874ba-8074-4ea0-b9ae-7221cc129425
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nSqueezer\nPainbrush\nHeavy Splatling\n\nKi
@@ -29,7 +29,7 @@ DTSTART:20240225T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:11a94336-cb76-47e7-9567-97f2254d8621
+UID:3067ec0f-9ced-43ab-8d50-b0143e71b90a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nCarbon Roller\nSplattershot Pro\nRapid 
@@ -39,7 +39,7 @@ DTSTART:20240227T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:9c9780ff-48b2-4d29-9267-c036e591ebc8
+UID:2e344cff-c67e-4150-8d77-ba99f59896b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nBig Swig Roller\nS
@@ -49,7 +49,7 @@ DTSTART:20240228T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:1667739a-3eec-40b0-a211-e626a150545d
+UID:0d76974c-8e1d-4ca3-9dd9-67c1ed75b73d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nUnknown\nDread Wringer\nClassic Squiffer\
@@ -59,6 +59,6 @@ DTSTART:20240301T080001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Megalodontia
-UID:ccdac759-4939-4abf-bb39-255f44dbc6e5
+UID:b0aa6160-658f-4732-86f0-e417ff6688d8
 END:VEVENT
 END:VCALENDAR
