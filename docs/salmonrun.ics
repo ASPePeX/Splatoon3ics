@@ -20,7 +20,7 @@ DTSTART:20240225T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:4383fb15-9ed4-4551-bc75-6b6f2e20a0bf
+UID:1f068a57-c87d-4c04-9c6c-06596125999d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nCarbon Roller\nSplattershot Pro\nRapid 
@@ -30,7 +30,7 @@ DTSTART:20240227T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:6023dbd5-9446-4041-928a-eec4a63aa83a
+UID:b9da6f92-7573-43b5-976a-38a7f9a189c8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nBig Swig Roller\nS
@@ -40,7 +40,7 @@ DTSTART:20240228T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:eb0994fa-74fb-41fa-bf25-6d809fafb2db
+UID:ac6b2be4-e62a-4a8c-a3d5-24ba664e7bb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nUnknown\nDread Wringer\nClassic Squiffer\
@@ -50,7 +50,7 @@ DTSTART:20240301T080001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Megalodontia
-UID:a62fb9bc-02b4-431b-bd07-5a9fe63446cb
+UID:0d3fe81e-800d-4961-863f-cb845980cad5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nUnknown\nBallpoint Splatling\nJet Squelcher
@@ -60,6 +60,6 @@ DTSTART:20240303T000001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Cohozuna
-UID:d47c63c2-6b96-451a-b225-cd12bc036053
+UID:74146771-a096-44c1-887e-189dcb184960
 END:VEVENT
 END:VCALENDAR
