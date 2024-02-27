@@ -20,7 +20,7 @@ DTSTART:20240227T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:8fd7666e-0bdc-44fe-bd83-ed4e971a1fc6
+UID:11d21f4e-f9b3-4d82-aa77-eb27a7008ba6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nBig Swig Roller\nS
@@ -30,7 +30,7 @@ DTSTART:20240228T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:82c1b2a5-caea-43d6-a02b-88460b723deb
+UID:c3215cd5-872a-4221-9bff-c28ffce0b10b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nUnknown\nDread Wringer\nClassic Squiffer\
@@ -40,7 +40,7 @@ DTSTART:20240301T080001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Megalodontia
-UID:6a4d95a2-d5f0-4329-ba96-e9347474383d
+UID:ae730972-6774-486a-982f-19fea576d4bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nUnknown\nBallpoint Splatling\nJet Squelcher
@@ -50,7 +50,7 @@ DTSTART:20240303T000001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Cohozuna
-UID:b1df8786-d82b-4c54-8e6d-47f79fa416de
+UID:c34a1259-c4ef-4b08-85f0-36d11cb3552d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
@@ -60,6 +60,6 @@ DTSTART:20240304T160001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Horrorboros
-UID:03162360-e1a0-4666-8625-a3c6fe7b1e10
+UID:2fb4f62d-3e7b-42e5-b538-4dc7186129cd
 END:VEVENT
 END:VCALENDAR
