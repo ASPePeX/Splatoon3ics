@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\nSqueezer\nPainbrush\nHeavy Splatling\n\nKi
- ng:\nHorrorboros
-DTEND:20240226T235959Z
-DTSTART:20240225T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:365533fe-1053-4c05-955b-0a0eafdc3681
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nCarbon Roller\nSplattershot Pro\nRapid 
  Blaster Pro\n\nKing:\nCohozuna
 DTEND:20240228T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240227T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:eb20737d-4405-4eab-a067-1cdd5e6a6e39
+UID:49ec3567-86e0-4995-a831-97c34c4d89fc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nBig Swig Roller\nS
@@ -40,7 +30,7 @@ DTSTART:20240228T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:37137829-a090-4d4a-914d-c7c8c4d66f44
+UID:242e350e-e724-4a19-a000-fd2aac805fad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nUnknown\nDread Wringer\nClassic Squiffer\
@@ -50,7 +40,7 @@ DTSTART:20240301T080001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Megalodontia
-UID:d01d1a09-8200-4efa-8f51-9eadec9e79f7
+UID:168639f0-87d0-44ab-b005-484ab60be8d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nUnknown\nBallpoint Splatling\nJet Squelcher
@@ -60,6 +50,16 @@ DTSTART:20240303T000001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Cohozuna
-UID:641c77fa-c1c1-4150-8983-d8f0c7f13aa7
+UID:d7940913-9506-4041-88fb-9017db075247
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
+  Splatling\n\nKing:\nHorrorboros
+DTEND:20240306T075959Z
+DTSTART:20240304T160001Z
+LOCATION:
+SEQUENCE:0
+SUMMARY: - Horrorboros
+UID:c127b0b0-024a-4bf9-ac83-d1262974aa5c
 END:VEVENT
 END:VCALENDAR
