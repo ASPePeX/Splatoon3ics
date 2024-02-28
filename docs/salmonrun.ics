@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nTri-Slosher\nCarbon Roller\nSplattershot Pro\nRapid 
- Blaster Pro\n\nKing:\nCohozuna
-DTEND:20240228T155959Z
-DTSTART:20240227T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:0e500b5e-4538-4cd3-bfaf-7a7c4488f668
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nBig Swig Roller\nS
  plat Charger\n\nKing:\nHorrorboros
 DTEND:20240301T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240228T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:7c77b0a9-660d-42ca-b5e1-f82d6a1db91f
+UID:a641e228-7a1a-43f3-b553-2246f7673db0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nUnknown\nDread Wringer\nClassic Squiffer\
@@ -40,7 +30,7 @@ DTSTART:20240301T080001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Megalodontia
-UID:35036ab3-785b-4850-930d-3d572a08ad44
+UID:3ddc5222-bf7d-43de-b410-ab7270841e91
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nUnknown\nBallpoint Splatling\nJet Squelcher
@@ -50,7 +40,7 @@ DTSTART:20240303T000001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Cohozuna
-UID:9154c680-fd77-461c-9320-cb2fea55aeae
+UID:aa136c3a-5d8f-4b32-9189-9c6a94c8d5a5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
@@ -60,6 +50,16 @@ DTSTART:20240304T160001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Horrorboros
-UID:5fb14946-45fe-4684-930e-9196e37a0486
+UID:1b29af65-c928-47f0-8712-6270d066de39
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
+ ter 4K\n\nKing:\nMegalodontia
+DTEND:20240307T235959Z
+DTSTART:20240306T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Megalodontia
+UID:b321c587-5c2a-4b38-8419-0d0e56678d8a
 END:VEVENT
 END:VCALENDAR
