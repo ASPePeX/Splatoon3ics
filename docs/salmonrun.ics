@@ -20,7 +20,7 @@ DTSTART:20240228T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:122049f8-06e4-48a5-a68d-d265ddfbe302
+UID:c2e07d3e-0503-40cf-8caa-1869c5abce30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nUnknown\nDread Wringer\nClassic Squiffer\
@@ -30,7 +30,7 @@ DTSTART:20240301T080001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Megalodontia
-UID:436be220-fba9-425c-85c9-33c7bb41303e
+UID:73e29db5-d554-448c-bf0a-af3a9b19f079
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nUnknown\nBallpoint Splatling\nJet Squelcher
@@ -40,7 +40,7 @@ DTSTART:20240303T000001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Cohozuna
-UID:4a571462-91cb-46fd-8d94-746c9d92fc6a
+UID:f0f9fab7-8821-4b9a-8a2a-ec1912fbfda2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
@@ -50,7 +50,7 @@ DTSTART:20240304T160001Z
 LOCATION:
 SEQUENCE:0
 SUMMARY: - Horrorboros
-UID:fbf6f6bf-d8f9-4f6d-84ce-718b776c96c8
+UID:74199da9-2f9c-41c8-90f1-4770f8e16bf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
@@ -60,6 +60,6 @@ DTSTART:20240306T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:7ae42703-ce8a-4452-8425-f0bafc7d7374
+UID:41ffa8d4-3557-442f-b1bc-ede97c0a59d5
 END:VEVENT
 END:VCALENDAR
