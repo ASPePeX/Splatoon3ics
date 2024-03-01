@@ -20,7 +20,7 @@ DTSTART:20240228T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:c6b9e3a6-570a-482b-baba-cc5ee1ac9c57
+UID:f513274d-29e2-420b-853b-a1bbbbd08e98
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nDread Wringer\nClassic
@@ -30,7 +30,7 @@ DTSTART:20240301T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:6ae6af3c-6493-4ca5-b8d8-27b958bfc5db
+UID:678bd924-a893-4a19-845c-305433b2f667
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nBallpoint Splatlin
@@ -40,7 +40,7 @@ DTSTART:20240303T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:19ad91b4-f942-43f1-b12b-94f5b592e64f
+UID:8685e9d5-420a-4a7e-aec6-0a28a28ac46e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
@@ -50,7 +50,7 @@ DTSTART:20240304T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:b0ed4b82-cfd2-4e34-bbd1-17bdecf6944a
+UID:12557712-7ac0-473a-9eaf-9b992b140263
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
@@ -60,6 +60,6 @@ DTSTART:20240306T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:d66e0432-64f6-4184-8469-f9ae77e7ac45
+UID:dbe44e42-62ec-47d0-94b9-cb9b4334a411
 END:VEVENT
 END:VCALENDAR
