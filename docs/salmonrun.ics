@@ -20,7 +20,7 @@ DTSTART:20240301T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:e53db342-dc01-4c3f-81fa-e28bf31f8116
+UID:8d716110-5481-4a42-8d28-a964b9158087
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nBallpoint Splatlin
@@ -30,7 +30,7 @@ DTSTART:20240303T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:b7cf3220-893c-4f68-8392-53777c050193
+UID:faf6cb47-ffb2-4d60-be82-488b41bf0dab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
@@ -40,7 +40,7 @@ DTSTART:20240304T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:99794af6-d093-4192-911f-ed6df2138a2d
+UID:291f5d54-95f7-4237-9264-a035dd26b4b0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
@@ -50,7 +50,7 @@ DTSTART:20240306T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:abaf5178-fec4-4407-93a1-e1429c6ab4ad
+UID:18379f5d-48f0-46c4-8653-a7bbbac8e6cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSlosher\nSplatana Stamper\nRapid Bla
@@ -60,6 +60,6 @@ DTSTART:20240308T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:a996cb73-ca05-4c67-b22a-50f7ea76ceb6
+UID:713147af-b3b8-477f-b2c8-254dfe3064f0
 END:VEVENT
 END:VCALENDAR
