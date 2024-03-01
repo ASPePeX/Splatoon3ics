@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nBig Swig Roller\nS
- plat Charger\n\nKing:\nHorrorboros
-DTEND:20240301T075959Z
-DTSTART:20240228T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:f513274d-29e2-420b-853b-a1bbbbd08e98
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nDread Wringer\nClassic
   Squiffer\n\nKing:\nMegalodontia
 DTEND:20240302T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240301T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:678bd924-a893-4a19-845c-305433b2f667
+UID:e53db342-dc01-4c3f-81fa-e28bf31f8116
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nBallpoint Splatlin
@@ -40,7 +30,7 @@ DTSTART:20240303T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:8685e9d5-420a-4a7e-aec6-0a28a28ac46e
+UID:b7cf3220-893c-4f68-8392-53777c050193
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
@@ -50,7 +40,7 @@ DTSTART:20240304T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:12557712-7ac0-473a-9eaf-9b992b140263
+UID:99794af6-d093-4192-911f-ed6df2138a2d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
@@ -60,6 +50,16 @@ DTSTART:20240306T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:dbe44e42-62ec-47d0-94b9-cb9b4334a411
+UID:abaf5178-fec4-4407-93a1-e1429c6ab4ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSlosher\nSplatana Stamper\nRapid Bla
+ ster Pro\n\nKing:\nCohozuna
+DTEND:20240308T235959Z
+DTSTART:20240308T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Cohozuna
+UID:a996cb73-ca05-4c67-b22a-50f7ea76ceb6
 END:VEVENT
 END:VCALENDAR
