@@ -20,37 +20,37 @@ DTSTART:20240228T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:3456fc2b-ef63-4780-b1ee-07ce9148755b
+UID:c6b9e3a6-570a-482b-baba-cc5ee1ac9c57
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nN-ZAP '85\nUnknown\nDread Wringer\nClassic Squiffer\
- n\nKing:\nMegalodontia
+DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nDread Wringer\nClassic
+  Squiffer\n\nKing:\nMegalodontia
 DTEND:20240302T235959Z
 DTSTART:20240301T080001Z
-LOCATION:
+LOCATION:Bonerattle Arena
 SEQUENCE:0
-SUMMARY: - Megalodontia
-UID:aae0ad40-fcfa-4bd7-a976-18c16967b6f8
+SUMMARY:Bonerattle Arena - Megalodontia
+UID:6ae6af3c-6493-4ca5-b8d8-27b958bfc5db
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nUnknown\nBallpoint Splatling\nJet Squelcher
- \n\nKing:\nCohozuna
+DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nBallpoint Splatlin
+ g\nJet Squelcher\n\nKing:\nCohozuna
 DTEND:20240304T155959Z
 DTSTART:20240303T000001Z
-LOCATION:
+LOCATION:Bonerattle Arena
 SEQUENCE:0
-SUMMARY: - Cohozuna
-UID:52791b0d-9385-4650-b4d8-2ad88ef3811a
+SUMMARY:Bonerattle Arena - Cohozuna
+UID:19ad91b4-f942-43f1-b12b-94f5b592e64f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
   Splatling\n\nKing:\nHorrorboros
 DTEND:20240306T075959Z
 DTSTART:20240304T160001Z
-LOCATION:
+LOCATION:Bonerattle Arena
 SEQUENCE:0
-SUMMARY: - Horrorboros
-UID:4f8bd838-2dd3-46c3-91d1-76c92ded3661
+SUMMARY:Bonerattle Arena - Horrorboros
+UID:b0ed4b82-cfd2-4e34-bbd1-17bdecf6944a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
@@ -60,6 +60,6 @@ DTSTART:20240306T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:51bd5d71-b7a1-4716-8c2a-2ac7d0c515ae
+UID:d66e0432-64f6-4184-8469-f9ae77e7ac45
 END:VEVENT
 END:VCALENDAR
