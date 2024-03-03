@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nDread Wringer\nClassic
-  Squiffer\n\nKing:\nMegalodontia
-DTEND:20240302T235959Z
-DTSTART:20240301T080001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:dba68705-a818-4db3-98f7-6680f51aa120
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nBallpoint Splatlin
  g\nJet Squelcher\n\nKing:\nCohozuna
 DTEND:20240304T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240303T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:68e4ebef-f625-4301-9844-d934a8122b36
+UID:0b448346-8f2b-40e0-b7b3-2fac30664699
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
@@ -40,7 +30,7 @@ DTSTART:20240304T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:78d24717-bfe1-4703-9887-3e68fc185747
+UID:92542d0a-1100-42d9-82aa-771c5815e239
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
@@ -50,7 +40,7 @@ DTSTART:20240306T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:fa506722-724d-4c3c-b785-0a5d9ca621fe
+UID:99ddad19-b3f3-4616-a0da-d5deb4baff2a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSlosher\nSplatana Stamper\nRapid Bla
@@ -60,6 +50,6 @@ DTSTART:20240308T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:e7dc4869-fc35-4e0f-a34e-75ab1cd62df6
+UID:86b24abf-b0ee-4423-a4aa-83c3e2174178
 END:VEVENT
 END:VCALENDAR
