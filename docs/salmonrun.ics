@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nBallpoint Splatlin
- g\nJet Squelcher\n\nKing:\nCohozuna
-DTEND:20240304T155959Z
-DTSTART:20240303T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Cohozuna
-UID:17d54b0b-6781-4556-893d-dd5a93b68c92
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplat Dualies\nRapid Blaster\nHydra
   Splatling\n\nKing:\nHorrorboros
 DTEND:20240306T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240304T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:1b7b0dd5-30f2-47ca-82ed-dc4518386861
+UID:704e0e9e-9e93-40bc-86d4-946ece661b72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
@@ -40,7 +30,7 @@ DTSTART:20240306T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:c1c42497-d875-4b93-a934-ff9d2df7fc8a
+UID:fea7f2c0-0af7-479b-b749-00c8a6443cf9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSlosher\nSplatana Stamper\nRapid Bla
@@ -50,6 +40,16 @@ DTSTART:20240308T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:677ec6a9-0b28-465d-be80-875f0597e8e0
+UID:9a35f2f0-5b16-493b-9ecb-7182a8ff1d9e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nGlooga Dualies\nSplattershot Nova\nS-BLAST '92\nBamb
+ oozler 14 Mk I\n\nKing:\nCohozuna
+DTEND:20240312T155959Z
+DTSTART:20240311T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:ea5b84f8-6a8e-4316-ba6d-8f2ce3db84ee
 END:VEVENT
 END:VCALENDAR
