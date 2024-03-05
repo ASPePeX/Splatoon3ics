@@ -20,7 +20,7 @@ DTSTART:20240304T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:704e0e9e-9e93-40bc-86d4-946ece661b72
+UID:2e96a6e5-906d-45c0-984e-5ad46ccc3676
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
@@ -30,7 +30,7 @@ DTSTART:20240306T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:fea7f2c0-0af7-479b-b749-00c8a6443cf9
+UID:c0f55fff-61c9-4603-8f21-6e6400ec35f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSlosher\nSplatana Stamper\nRapid Bla
@@ -40,7 +40,7 @@ DTSTART:20240308T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:9a35f2f0-5b16-493b-9ecb-7182a8ff1d9e
+UID:6c71234e-35b9-43a5-af97-c5e26b7b5ce9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nSplattershot Nova\nS-BLAST '92\nBamb
@@ -50,6 +50,6 @@ DTSTART:20240311T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:ea5b84f8-6a8e-4316-ba6d-8f2ce3db84ee
+UID:efe8e1b7-8c1a-4d5d-9479-8a0b6619d512
 END:VEVENT
 END:VCALENDAR
