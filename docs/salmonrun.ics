@@ -20,7 +20,7 @@ DTSTART:20240308T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:32cfe705-6f56-4126-bea3-555df3a74710
+UID:72ad23ee-c837-47e2-a301-b13cedce7da8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nSplattershot Nova\nS-BLAST '92\nBamb
@@ -30,7 +30,7 @@ DTSTART:20240311T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:6f5ff945-7e1f-4e31-aa15-7c6441c15328
+UID:0cb43881-79c7-4dc2-a1e0-4ecc6d4ac3f1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nRange Blaster\nNautilus 47\nTri-Stri
@@ -40,7 +40,7 @@ DTSTART:20240312T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:f7fd0126-444f-422d-85ed-19e3f8bc525c
+UID:877a4113-6ea9-4998-86a3-98e11bc89ae7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nOctobrush\nSplattershot Pro\nTenta Br
@@ -50,6 +50,6 @@ DTSTART:20240314T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:1ae4461a-9037-4e50-9b2d-174e1fe95cc4
+UID:fbe4f1bb-fbc1-4c63-a348-ef1751d10b2f
 END:VEVENT
 END:VCALENDAR
