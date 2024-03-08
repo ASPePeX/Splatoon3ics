@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nSplat Roller\nE-li
- ter 4K\n\nKing:\nMegalodontia
-DTEND:20240307T235959Z
-DTSTART:20240306T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:d97d3865-8774-43b3-9a78-b7140119f16a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSlosher\nSplatana Stamper\nRapid Bla
  ster Pro\n\nKing:\nCohozuna
 DTEND:20240308T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240308T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:a63ff483-d20a-4c9b-bccf-89e4f5a94ed8
+UID:32cfe705-6f56-4126-bea3-555df3a74710
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nSplattershot Nova\nS-BLAST '92\nBamb
@@ -40,7 +30,7 @@ DTSTART:20240311T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:a410112f-103e-4eae-a0ea-86f37535c6d8
+UID:6f5ff945-7e1f-4e31-aa15-7c6441c15328
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nRange Blaster\nNautilus 47\nTri-Stri
@@ -50,6 +40,16 @@ DTSTART:20240312T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:ac7f64ca-10ee-4254-babf-57f3f059a375
+UID:f7fd0126-444f-422d-85ed-19e3f8bc525c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nClash Blaster\nOctobrush\nSplattershot Pro\nTenta Br
+ ella\n\nKing:\nMegalodontia
+DTEND:20240315T235959Z
+DTSTART:20240314T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:1ae4461a-9037-4e50-9b2d-174e1fe95cc4
 END:VEVENT
 END:VCALENDAR
