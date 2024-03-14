@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplash-o-matic\nRange Blaster\nNautilus 47\nTri-Stri
- nger\n\nKing:\nHorrorboros
-DTEND:20240314T075959Z
-DTSTART:20240312T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:b11808af-99fc-4e44-a6d0-8eda9838e89a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nOctobrush\nSplattershot Pro\nTenta Br
  ella\n\nKing:\nMegalodontia
 DTEND:20240315T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240314T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:08ea8727-d2a6-4d88-92f5-fd7ea4948c50
+UID:0ed035d8-597c-4fbb-a484-8542973a3a51
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nExplosher\nSplat 
@@ -40,7 +30,7 @@ DTSTART:20240316T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:f801967b-f002-4a0d-afe9-65d31ecdc87e
+UID:0b4a346f-82a3-4e10-aaa6-a6651aacb476
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSloshing Machine\nFlingza Roller\nE-liter 4
@@ -50,7 +40,7 @@ DTSTART:20240317T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:0317420a-d28f-48f8-9fc9-bc4220234843
+UID:39b08394-8658-428b-982e-ae57ad6fbbfd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nSqueezer\nDread Wringer\nSnipewriter 5
@@ -60,6 +50,16 @@ DTSTART:20240319T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:952a421d-1f5c-40cf-8f8d-68e31de7a2b9
+UID:122f81d6-b07e-451a-83d4-865f53d61c11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nREEF-LUX 450\nSplatana Stamper\nHe
+ avy Splatling\n\nKing:\nCohozuna
+DTEND:20240322T155959Z
+DTSTART:20240321T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Cohozuna
+UID:8ceb310d-c00f-47bc-b868-6b1b740e27b8
 END:VEVENT
 END:VCALENDAR
