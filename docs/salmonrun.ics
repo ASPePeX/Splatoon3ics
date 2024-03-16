@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nClash Blaster\nOctobrush\nSplattershot Pro\nTenta Br
- ella\n\nKing:\nMegalodontia
-DTEND:20240315T235959Z
-DTSTART:20240314T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:4f71c7b7-dc46-4dcc-b990-cab8fce0d9a1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nExplosher\nSplat 
  Charger\n\nKing:\nCohozuna
 DTEND:20240317T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240316T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:2332f0fa-b3c9-4cdc-a196-62013084df14
+UID:72a04721-33f6-40e3-85ba-653960c7a0cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSloshing Machine\nFlingza Roller\nE-liter 4
@@ -40,7 +30,7 @@ DTSTART:20240317T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:e33a025d-d7cd-4234-919e-9f635b5638e2
+UID:cf753cec-79d4-4a1c-825b-e7c0c10de8ab
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nSqueezer\nDread Wringer\nSnipewriter 5
@@ -50,7 +40,7 @@ DTSTART:20240319T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:1c6d9915-35a3-4013-826f-61a5bc1bbd43
+UID:00baab45-07d0-4f67-a130-789242a6c204
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nREEF-LUX 450\nSplatana Stamper\nHe
@@ -60,6 +50,16 @@ DTSTART:20240321T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:a12f3878-42f7-46ea-817a-b0fef69860d8
+UID:36947e82-a0ad-43fc-b2c4-8b136aa82027
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nTri-Stringer\nRand
+ om\n\nKing:\nHorrorboros
+DTEND:20240324T075959Z
+DTSTART:20240322T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:d60807d1-eee1-41a1-b1ad-024aa86cfe28
 END:VEVENT
 END:VCALENDAR
