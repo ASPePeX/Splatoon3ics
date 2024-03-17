@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nExplosher\nSplat 
- Charger\n\nKing:\nCohozuna
-DTEND:20240317T155959Z
-DTSTART:20240316T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Cohozuna
-UID:6e4d61df-f00e-405a-bf80-d5e9ff90b872
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSloshing Machine\nFlingza Roller\nE-liter 4
  K\n\nKing:\nHorrorboros
 DTEND:20240319T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240317T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:1c4a35e8-1211-4954-85f8-d08af0a6c8ac
+UID:4857b91f-d721-49e7-898a-02b180d585c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nSqueezer\nDread Wringer\nSnipewriter 5
@@ -40,7 +30,7 @@ DTSTART:20240319T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:86702b30-1902-4c95-b4be-4bed0565b186
+UID:482f0d93-dd5b-480a-a29e-a741b6bcb33e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nREEF-LUX 450\nSplatana Stamper\nHe
@@ -50,7 +40,7 @@ DTSTART:20240321T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:4577c875-5bda-4b24-98b1-9a6018984e1c
+UID:e7d3b01c-fea4-4a4d-948c-1f7ad08175cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nTri-Stringer\nRand
@@ -60,6 +50,16 @@ DTSTART:20240322T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:8663755b-1ea9-4a82-8aa2-bf1d71da512f
+UID:a459650e-c0cc-4723-a12c-361f9ddece7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nTri-Slosher\nAerospray MG\nSplat Brella\nClassic Squ
+ iffer\n\nKing:\nMegalodontia
+DTEND:20240325T235959Z
+DTSTART:20240324T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:6a24f766-5afb-4c9f-bede-a06aae51d8f9
 END:VEVENT
 END:VCALENDAR
