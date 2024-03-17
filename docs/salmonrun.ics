@@ -20,7 +20,7 @@ DTSTART:20240316T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:8f1d3da3-6dc1-42ff-9080-bf10150529af
+UID:6e4d61df-f00e-405a-bf80-d5e9ff90b872
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSloshing Machine\nFlingza Roller\nE-liter 4
@@ -30,7 +30,7 @@ DTSTART:20240317T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:d21c5ff2-9815-496c-a347-1a49956d5044
+UID:1c4a35e8-1211-4954-85f8-d08af0a6c8ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nSqueezer\nDread Wringer\nSnipewriter 5
@@ -40,7 +40,7 @@ DTSTART:20240319T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:6c49d746-349e-4ca0-869a-3bc3ef96c334
+UID:86702b30-1902-4c95-b4be-4bed0565b186
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nREEF-LUX 450\nSplatana Stamper\nHe
@@ -50,7 +50,7 @@ DTSTART:20240321T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:6f4d1fef-f969-4956-bd46-7fa7c4d7730d
+UID:4577c875-5bda-4b24-98b1-9a6018984e1c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nTri-Stringer\nRand
@@ -60,6 +60,6 @@ DTSTART:20240322T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:2b6567d3-3e80-4092-b816-f7ed0f3fd166
+UID:8663755b-1ea9-4a82-8aa2-bf1d71da512f
 END:VEVENT
 END:VCALENDAR
