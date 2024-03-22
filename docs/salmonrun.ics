@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nREEF-LUX 450\nSplatana Stamper\nHe
- avy Splatling\n\nKing:\nCohozuna
-DTEND:20240322T155959Z
-DTSTART:20240321T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:42a9e021-3509-45bf-b273-feb7c4b96ba9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nTri-Stringer\nRand
  om\n\nKing:\nHorrorboros
 DTEND:20240324T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240322T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:ee7ee330-c476-4b93-899f-27716f3fbd86
+UID:256d6130-f278-4381-b949-c047034c0c9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nAerospray MG\nSplat Brella\nClassic Squ
@@ -40,7 +30,7 @@ DTSTART:20240324T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:45b531b4-2470-4e0e-894b-a89ae2e36979
+UID:8e8908f7-6338-4185-b67b-29363b3197d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nDynamo Roller\nBamboozler 14 Mk I\n.96 G
@@ -50,7 +40,7 @@ DTSTART:20240326T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:c2d9279f-921d-4f8c-968b-80590a5a047f
+UID:3d92da28-e69b-4f72-bf2d-9e83526b6047
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nOctobrush\nH-3 Nozzlenose\nGoo Tuber\n
@@ -60,6 +50,16 @@ DTSTART:20240327T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:90e09f83-e016-48c5-9d3e-afb426c712f1
+UID:6d3b51d7-064a-4b91-b578-69ff84b0cd28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot\nBig Swig Roller\nSlosher\nHydra Splatl
+ ing\n\nKing:\nMegalodontia
+DTEND:20240330T235959Z
+DTSTART:20240329T080001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:b8c7659d-67d5-4f19-ac90-3fad822a905a
 END:VEVENT
 END:VCALENDAR
