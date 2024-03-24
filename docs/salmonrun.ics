@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nRecycled Brella 24 Mk I\nTri-Stringer\nRand
- om\n\nKing:\nHorrorboros
-DTEND:20240324T075959Z
-DTSTART:20240322T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:9b8ed40a-19f2-4712-baf3-1e468b76aa52
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nAerospray MG\nSplat Brella\nClassic Squ
  iffer\n\nKing:\nMegalodontia
 DTEND:20240325T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240324T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:3cd473ca-e84b-4eb3-81f5-6df2fc8e6485
+UID:6d825d53-e846-4239-a2fa-e8e01602d2c8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nDynamo Roller\nBamboozler 14 Mk I\n.96 G
@@ -40,7 +30,7 @@ DTSTART:20240326T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:7a3f34f2-bc8e-4f96-85ce-b6eddda614d8
+UID:d1e69fa9-0597-4cd8-a0f7-34b3952321f4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nOctobrush\nH-3 Nozzlenose\nGoo Tuber\n
@@ -50,7 +40,7 @@ DTSTART:20240327T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:0211bf7b-5902-4681-9d15-40ff4d908c55
+UID:99dd7efb-c4e6-417b-9fa9-dbee330223d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nBig Swig Roller\nSlosher\nHydra Splatl
@@ -60,6 +50,16 @@ DTSTART:20240329T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:b383e092-fd96-41ff-acbe-cfc1b36e5566
+UID:79e2f490-3698-4957-8b67-99a781fa2670
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nFlingza Roller\nHeavy Edit Splatli
+ ng\nJet Squelcher\n\nKing:\nCohozuna
+DTEND:20240401T155959Z
+DTSTART:20240331T000001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:052c62cf-2430-4301-9f58-2b0c98202ffa
 END:VEVENT
 END:VCALENDAR
