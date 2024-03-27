@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBloblobber\nDynamo Roller\nBamboozler 14 Mk I\n.96 G
- al\n\nKing:\nCohozuna
-DTEND:20240327T155959Z
-DTSTART:20240326T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:9f0b41b7-f8ba-431e-9be9-7c83a91ebba6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nOctobrush\nH-3 Nozzlenose\nGoo Tuber\n
  \nKing:\nHorrorboros
 DTEND:20240329T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240327T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:028af117-416f-42fd-bc0e-36bb789bef73
+UID:5525073c-44d6-4f85-8170-f7322a8f4e9f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nBig Swig Roller\nSlosher\nHydra Splatl
@@ -40,7 +30,7 @@ DTSTART:20240329T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:f62c27d6-94d5-4f8a-93d9-167bc9a763df
+UID:13c10748-9f3b-4729-9216-821cdcd6736e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nFlingza Roller\nHeavy Edit Splatli
@@ -50,7 +40,7 @@ DTSTART:20240331T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:e402dbcd-2fb9-441c-9580-cb5fb2069315
+UID:e9bebcaf-566b-476f-b33a-fd5abe3a4246
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nDread Wringer\nRapid Blast
@@ -60,6 +50,16 @@ DTSTART:20240401T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:92b28abd-6940-4277-9e58-333973689b26
+UID:e9e4aaa2-3619-496d-ae53-d5f5b431726d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nSplatana Wiper\nSp
+ lat Charger\n\nKing:\nMegalodontia
+DTEND:20240404T235959Z
+DTSTART:20240403T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Megalodontia
+UID:64385303-3a66-417e-a234-25bfe6cea29f
 END:VEVENT
 END:VCALENDAR
