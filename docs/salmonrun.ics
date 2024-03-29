@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nLuna Blaster\nOctobrush\nH-3 Nozzlenose\nGoo Tuber\n
- \nKing:\nHorrorboros
-DTEND:20240329T075959Z
-DTSTART:20240327T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Horrorboros
-UID:23d277dc-9163-446d-bb9c-83b690db3fda
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nBig Swig Roller\nSlosher\nHydra Splatl
  ing\n\nKing:\nMegalodontia
 DTEND:20240330T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240329T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:041c6e23-a29b-485c-af85-0dd09adf7cbb
+UID:219d6ad3-c832-43b4-9483-fd1dc98bc1db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nFlingza Roller\nHeavy Edit Splatli
@@ -40,7 +30,7 @@ DTSTART:20240331T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:67e59ef8-9ef6-4970-a5be-f2a989aeac52
+UID:60ce294a-2360-48fe-8dea-69ffe8fba2c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nDread Wringer\nRapid Blast
@@ -50,7 +40,7 @@ DTSTART:20240401T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:8ef0be6d-f0b8-4644-8f06-4f54d136479e
+UID:592659a8-64c9-47a9-8023-fb2f0fff490e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nSplatana Wiper\nSp
@@ -60,6 +50,16 @@ DTSTART:20240403T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:43e2e6f5-3fc4-457a-9e37-8bc40a73a7f8
+UID:258c0a54-049f-40b7-abcc-6ebb4f539249
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDapple Dualies\nDouser Dualies FF\nPainbrush\nHeavy 
+ Splatling\n\nKing:\nCohozuna
+DTEND:20240406T155959Z
+DTSTART:20240405T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:b28af1dc-b00d-401f-98b4-f2f3e74db842
 END:VEVENT
 END:VCALENDAR
