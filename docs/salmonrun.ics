@@ -20,7 +20,7 @@ DTSTART:20240329T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:62ada873-33be-4a21-b21f-5492bdf543a1
+UID:0eb0f499-c659-48a7-8492-9191a798e85e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nFlingza Roller\nHeavy Edit Splatli
@@ -30,7 +30,7 @@ DTSTART:20240331T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:b2d35517-4954-421e-85f8-73a60e7a44c1
+UID:d601a813-a772-4e85-963b-8835d2999c8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nDread Wringer\nRapid Blast
@@ -40,7 +40,7 @@ DTSTART:20240401T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:a29b2a14-3245-4288-aa14-77f502427697
+UID:8d17d926-8494-4d61-9339-7b8c909bbc93
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nSplatana Wiper\nSp
@@ -50,7 +50,7 @@ DTSTART:20240403T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:e348c7c8-b402-489b-8df7-01d2cea43e7f
+UID:103a70e8-4fb4-4934-806e-77c3d1937a36
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nDouser Dualies FF\nPainbrush\nHeavy 
@@ -60,6 +60,6 @@ DTSTART:20240405T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:2493378e-e09d-4c5e-a8f4-a3db3e8a183f
+UID:baf457e0-48c7-4d94-a5c2-fc9f360b2421
 END:VEVENT
 END:VCALENDAR
