@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot\nBig Swig Roller\nSlosher\nHydra Splatl
- ing\n\nKing:\nMegalodontia
-DTEND:20240330T235959Z
-DTSTART:20240329T080001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:fb47297d-92a4-42fa-8c16-d182d49a9c95
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nFlingza Roller\nHeavy Edit Splatli
  ng\nJet Squelcher\n\nKing:\nCohozuna
 DTEND:20240401T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240331T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:ca983d19-7a7f-4361-8404-642b22a10c6c
+UID:4793f3b2-7d71-45a2-9001-83ae3cb12bc3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nDread Wringer\nRapid Blast
@@ -40,7 +30,7 @@ DTSTART:20240401T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:31a50143-f2b7-44ff-b18e-439130246b17
+UID:0add3a95-8d84-4387-9c25-240dfb8a3f68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nSplatana Wiper\nSp
@@ -50,7 +40,7 @@ DTSTART:20240403T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:6b5098cb-4f5c-4f13-8c9f-183720dd815f
+UID:57160d3f-4339-49e5-9e2f-2a8e3a292e8d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nDouser Dualies FF\nPainbrush\nHeavy 
@@ -60,6 +50,15 @@ DTSTART:20240405T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:ba3def4c-3539-4f13-ac83-f7e1a2eb2e5e
+UID:8b9c20dc-04b5-4343-98b8-efc0b2c86427
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
+DTEND:20240408T075959Z
+DTSTART:20240406T160001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Random
+UID:e9772558-832b-4dea-8d7b-9d4e68cb9461
 END:VEVENT
 END:VCALENDAR
