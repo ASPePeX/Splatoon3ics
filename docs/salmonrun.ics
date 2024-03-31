@@ -20,7 +20,7 @@ DTSTART:20240331T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:4793f3b2-7d71-45a2-9001-83ae3cb12bc3
+UID:e08a57f3-7ccb-4929-88ff-c3c3747bd9a0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nDread Wringer\nRapid Blast
@@ -30,7 +30,7 @@ DTSTART:20240401T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:0add3a95-8d84-4387-9c25-240dfb8a3f68
+UID:919414d9-8a35-4470-bbe7-abde3aa504a5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nSplatana Wiper\nSp
@@ -40,7 +40,7 @@ DTSTART:20240403T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:57160d3f-4339-49e5-9e2f-2a8e3a292e8d
+UID:0a491be4-94ae-46f0-9473-a28743fd5026
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nDouser Dualies FF\nPainbrush\nHeavy 
@@ -50,7 +50,7 @@ DTSTART:20240405T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:8b9c20dc-04b5-4343-98b8-efc0b2c86427
+UID:0146fe4c-d042-43ed-814f-8bce198447f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -59,6 +59,6 @@ DTSTART:20240406T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:e9772558-832b-4dea-8d7b-9d4e68cb9461
+UID:2a9d6707-8405-4d83-a870-9b29f159b60d
 END:VEVENT
 END:VCALENDAR
