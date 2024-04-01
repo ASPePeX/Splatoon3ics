@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nFlingza Roller\nHeavy Edit Splatli
- ng\nJet Squelcher\n\nKing:\nCohozuna
-DTEND:20240401T155959Z
-DTSTART:20240331T000001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:707ee1ab-7d14-4edf-b10a-30b8b69d2b3f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nDread Wringer\nRapid Blast
  er\n\nKing:\nHorrorboros
 DTEND:20240403T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240401T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:903b188b-5597-499b-8d03-46f740ea8eef
+UID:e2ca5e9f-6e42-4eef-b562-f8c8a852b7a7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nSplatana Wiper\nSp
@@ -40,7 +30,7 @@ DTSTART:20240403T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:b0016f82-83f5-4a55-b6ba-8e12b0c2fb73
+UID:045c04a3-33b0-4b14-a1e0-875100e268a5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nDouser Dualies FF\nPainbrush\nHeavy 
@@ -50,7 +40,7 @@ DTSTART:20240405T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:ca9d4424-c161-4aeb-8710-b2f8764b84fc
+UID:1b3883b9-14b5-466f-91f0-4cdf457bbbe0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -59,6 +49,16 @@ DTSTART:20240406T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:d923087b-a699-4982-af32-072b7cc42530
+UID:b38b23f7-e98c-461c-b506-d5293fe5d5a1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nSloshing Machine\nJet Sque
+ lcher\n\nKing:\nHorrorboros
+DTEND:20240409T235959Z
+DTSTART:20240408T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:8a006001-04b3-4c68-90ed-aeaed549b5f8
 END:VEVENT
 END:VCALENDAR
