@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nDread Wringer\nRapid Blast
- er\n\nKing:\nHorrorboros
-DTEND:20240403T075959Z
-DTSTART:20240401T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:77a97c85-d74d-4ab4-8703-1b43ba4c2412
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nSplatana Wiper\nSp
  lat Charger\n\nKing:\nMegalodontia
 DTEND:20240404T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240403T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:a9083920-01de-45d6-8b3e-9c71b06e9475
+UID:71822d59-2a05-44b1-99e0-806e95ed4817
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nDouser Dualies FF\nPainbrush\nHeavy 
@@ -40,7 +30,7 @@ DTSTART:20240405T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:a19f1e2e-7b9d-40c9-88d9-e34ba5f40261
+UID:25627f1f-2187-432a-b600-4d7433869849
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -49,7 +39,7 @@ DTSTART:20240406T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:2a69ed1e-9987-4b9b-9c99-0cf4304bfb20
+UID:9361dc51-0be9-4456-ab35-b32a107b359b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nSloshing Machine\nJet Sque
@@ -59,6 +49,16 @@ DTSTART:20240408T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:5f63abcd-f6d9-43bf-b0c6-d82d02c32840
+UID:911a3927-5471-490d-8aaa-6327a770ac20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Dualies\nL-3 Nozzlenose\nSplatana Stamper\nBam
+ boozler 14 Mk I\n\nKing:\nCohozuna
+DTEND:20240411T155959Z
+DTSTART:20240410T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:3fb85313-8510-41e2-828e-6ea53d18cb3b
 END:VEVENT
 END:VCALENDAR
