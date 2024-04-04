@@ -20,7 +20,7 @@ DTSTART:20240403T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:f7e316f5-9915-4283-9624-89ba9de8a79e
+UID:287dd982-df41-46a4-89d9-a2105069e14e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nDouser Dualies FF\nPainbrush\nHeavy 
@@ -30,7 +30,7 @@ DTSTART:20240405T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:74b57b3c-2b35-4ca8-bf08-2d6f2c6ef3b3
+UID:131c1133-fecf-4857-bc47-ab0c772c529b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -39,7 +39,7 @@ DTSTART:20240406T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:5addad83-7e79-4982-b90f-ad5d2a8a6895
+UID:14a68c92-e949-424f-b5b5-c7117b52f436
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nSloshing Machine\nJet Sque
@@ -49,7 +49,7 @@ DTSTART:20240408T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:b1cd2edc-bd24-4f88-9616-eab764927acb
+UID:1c6fbc38-51af-4359-854f-55f917a199e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nL-3 Nozzlenose\nSplatana Stamper\nBam
@@ -59,6 +59,6 @@ DTSTART:20240410T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:ea0d2d30-6ed7-44ca-9ace-ac9d2cc9af9a
+UID:ecf07789-ae72-4a2f-8d4d-a1c71fa5e5ae
 END:VEVENT
 END:VCALENDAR
