@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nREEF-LUX 450\nDark Tetra Dualies\nSplatana Wiper\nSp
- lat Charger\n\nKing:\nMegalodontia
-DTEND:20240404T235959Z
-DTSTART:20240403T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Megalodontia
-UID:c28b6793-2b8e-4522-877b-20a5f05422bb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nDouser Dualies FF\nPainbrush\nHeavy 
  Splatling\n\nKing:\nCohozuna
 DTEND:20240406T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240405T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:e0ac653a-aafe-4cb4-8d72-3d8ba628d756
+UID:719a7f42-2ef1-4da3-94be-0eb7b983e3a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -39,7 +29,7 @@ DTSTART:20240406T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:44eaab46-d452-421f-a27e-b2e987fdcbea
+UID:7445f2fa-bb8d-4501-bf1e-e520c6499054
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nSloshing Machine\nJet Sque
@@ -49,7 +39,7 @@ DTSTART:20240408T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:a16f8522-6679-426c-9784-5aeef4937770
+UID:df41afdf-a3ba-4170-bc44-74160b0e1fa4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nL-3 Nozzlenose\nSplatana Stamper\nBam
@@ -59,6 +49,16 @@ DTSTART:20240410T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:738b849d-7927-4ac0-82e1-c8a392406537
+UID:3897b963-fd0c-4564-8a5c-17f8d3d466a0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nLuna Blaster\n.52 Gal\nDualie Squelchers\nSnipewrite
+ r 5H\n\nKing:\nHorrorboros
+DTEND:20240413T075959Z
+DTSTART:20240411T160001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:b00f147c-148b-456c-9962-e02dd3f71595
 END:VEVENT
 END:VCALENDAR
