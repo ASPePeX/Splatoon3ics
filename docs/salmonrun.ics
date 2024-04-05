@@ -20,7 +20,7 @@ DTSTART:20240405T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:f8cadffd-9f3c-405c-b66a-ba2af17d1869
+UID:49fadf2a-f64e-4c62-84a1-0ded096f9296
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -29,7 +29,7 @@ DTSTART:20240406T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:248466b8-b178-462b-9728-6251a59f7e6b
+UID:2bc0a408-eec4-4c3c-a225-ecea7fd31ad3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nSloshing Machine\nJet Sque
@@ -39,7 +39,7 @@ DTSTART:20240408T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:e1f104f9-5760-4220-b0f9-02631a0e13c9
+UID:2a895cad-b3ab-4cae-933b-f8537381fe90
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nL-3 Nozzlenose\nSplatana Stamper\nBam
@@ -49,7 +49,7 @@ DTSTART:20240410T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:6e59c63e-3cfe-4e54-bdcb-db624b70fd2c
+UID:1e34a938-cf2c-47e9-9913-7cd5d7a7ef2c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\n.52 Gal\nDualie Squelchers\nSnipewrite
@@ -59,6 +59,6 @@ DTSTART:20240411T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:7d003e1a-9092-43dc-b170-a0c7fe61f2f2
+UID:b907efe2-874c-45f3-b13a-e817badcb78e
 END:VEVENT
 END:VCALENDAR
