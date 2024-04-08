@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
-DTEND:20240408T075959Z
-DTSTART:20240406T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Random
-UID:e115637b-d4f6-43f8-b5ca-e7c325919c73
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nSloshing Machine\nJet Sque
  lcher\n\nKing:\nHorrorboros
 DTEND:20240409T235959Z
@@ -29,7 +20,7 @@ DTSTART:20240408T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:f33f30f8-2e95-4d63-ba60-99cdd63a509d
+UID:a0dc1311-cbed-4166-9f40-0c602d24276c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nL-3 Nozzlenose\nSplatana Stamper\nBam
@@ -39,7 +30,7 @@ DTSTART:20240410T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:b2b0cb47-bbb7-459c-a64b-50d5fa5774aa
+UID:6e569fa9-0c74-4a73-a69b-a00f83a1eb10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\n.52 Gal\nDualie Squelchers\nSnipewrite
@@ -49,7 +40,7 @@ DTSTART:20240411T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:a122097a-267c-404b-a8a1-1102e93f53f0
+UID:ace2b39c-d9af-4b74-85c6-b83ff6eac857
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nFlingza Roller\nS-BLAST '92\nE-lit
@@ -59,6 +50,16 @@ DTSTART:20240413T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:6d3d2cf0-e1b5-439d-84c8-7666a10d19c3
+UID:49c2bc77-1c68-4525-9c14-003b44ddcfb8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplash-o-matic\nSqueezer\nPainbrush\nRapid Blaster\n
+ \nKing:\nCohozuna
+DTEND:20240416T155959Z
+DTSTART:20240415T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:57c939d8-5d08-4024-9db3-b1239ca38f2d
 END:VEVENT
 END:VCALENDAR
