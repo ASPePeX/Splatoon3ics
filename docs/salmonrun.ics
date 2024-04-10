@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nSloshing Machine\nJet Sque
- lcher\n\nKing:\nHorrorboros
-DTEND:20240409T235959Z
-DTSTART:20240408T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:1809f19a-d4bf-4c9d-afe3-1bdb080622a1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nL-3 Nozzlenose\nSplatana Stamper\nBam
  boozler 14 Mk I\n\nKing:\nCohozuna
 DTEND:20240411T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240410T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:dfb12011-c93e-44fc-a999-6c0d10807c43
+UID:9aad7898-9286-4397-a673-94211315a491
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\n.52 Gal\nDualie Squelchers\nSnipewrite
@@ -40,7 +30,7 @@ DTSTART:20240411T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:e2d96597-4a74-4fe1-a803-285794da5754
+UID:fd49479f-b3ee-4d54-909f-e874911a7729
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nFlingza Roller\nS-BLAST '92\nE-lit
@@ -50,7 +40,7 @@ DTSTART:20240413T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:fad3f0e3-8e77-4271-9f2b-65923323dfe8
+UID:0ef122c1-6750-4cd9-8f02-594b25166373
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nSqueezer\nPainbrush\nRapid Blaster\n
@@ -60,6 +50,16 @@ DTSTART:20240415T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:b7b746e8-0f6a-4ce5-ae7e-746359612a42
+UID:47bb4893-5963-47d9-9612-d27bdd858829
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nInkbrush\nSploosh-o-matic\nSplat Brella\nHydra Splat
+ ling\n\nKing:\nHorrorboros
+DTEND:20240418T075959Z
+DTSTART:20240416T160001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:eb7d96c9-88f7-40a3-a3b5-bb0ce34746fc
 END:VEVENT
 END:VCALENDAR
