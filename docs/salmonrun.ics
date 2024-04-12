@@ -20,7 +20,7 @@ DTSTART:20240411T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:16a8370e-464f-4395-9d07-fc50ad1a2b7b
+UID:50824968-1444-4c14-94c8-5f86c5dee669
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nFlingza Roller\nS-BLAST '92\nE-lit
@@ -30,7 +30,7 @@ DTSTART:20240413T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:ccdf6bef-87e0-4ae6-b470-4f492ee31f5f
+UID:28941eb7-22cd-484c-b6e8-4957e4d716ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nSqueezer\nPainbrush\nRapid Blaster\n
@@ -40,7 +40,7 @@ DTSTART:20240415T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:01fc425a-0345-44a3-8e66-c6ea499a92ce
+UID:26c8561c-b4d8-49d3-b021-0216c9c8ddb7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nSploosh-o-matic\nSplat Brella\nHydra Splat
@@ -50,7 +50,7 @@ DTSTART:20240416T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:c6bfef5c-d860-4d7a-9567-ff68d3117ddb
+UID:c2936918-3e74-4bda-a2b6-41d560dd0c09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nBallpoint Splatling\n.
@@ -60,6 +60,6 @@ DTSTART:20240418T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:c2f04b94-ba2b-4ff7-8d11-2a6bf88193c4
+UID:5ab51a4e-f43e-4be3-9621-68d8b655c814
 END:VEVENT
 END:VCALENDAR
