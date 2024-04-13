@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nLuna Blaster\n.52 Gal\nDualie Squelchers\nSnipewrite
- r 5H\n\nKing:\nHorrorboros
-DTEND:20240413T075959Z
-DTSTART:20240411T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:55ab08ab-a4e2-4ca5-945a-947cad80ba93
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nFlingza Roller\nS-BLAST '92\nE-lit
  er 4K\n\nKing:\nMegalodontia
 DTEND:20240414T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240413T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:2d476206-278a-497e-b209-381a1c3bc175
+UID:d8403ad6-c01c-41eb-ae48-4888e5ae1bed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nSqueezer\nPainbrush\nRapid Blaster\n
@@ -40,7 +30,7 @@ DTSTART:20240415T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:2ba07aeb-73b7-48c7-980d-efde83da9cca
+UID:aad860f4-5472-42d1-bacc-ccbca3fa924b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nSploosh-o-matic\nSplat Brella\nHydra Splat
@@ -50,7 +40,7 @@ DTSTART:20240416T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:b33e7743-a925-4f04-a297-f22a8d4898d4
+UID:1a85be64-86e7-4b99-87e9-88c5d3f150db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nBallpoint Splatling\n.
@@ -60,6 +50,16 @@ DTSTART:20240418T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:14ab8d09-8dca-4e78-a07a-9b74acc0614e
+UID:1746911c-c1ae-459a-a0fc-63e34c7abe7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nMini Splatling\nClassic Squiffer\nRandom\n\
+ nKing:\nMegalodontia
+DTEND:20240421T155959Z
+DTSTART:20240420T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:bf15cacc-2740-45e2-9e62-27f8b38398ad
 END:VEVENT
 END:VCALENDAR
