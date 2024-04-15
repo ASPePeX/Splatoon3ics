@@ -20,7 +20,7 @@ DTSTART:20240415T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:270e2c52-60d4-4363-91b1-aa2e47a66bdc
+UID:d530db9d-9449-4a9f-9d63-0d97d889d794
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nSploosh-o-matic\nSplat Brella\nHydra Splat
@@ -30,7 +30,7 @@ DTSTART:20240416T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:4d379a9b-a61e-492b-9895-abc6934f5ef8
+UID:d5be17b3-5c76-4b57-9817-5f9598aff924
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nBallpoint Splatling\n.
@@ -40,7 +40,7 @@ DTSTART:20240418T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:48bb9d61-165f-436d-8aed-1c607e6708f5
+UID:72dd545b-7295-4d83-a776-94b8827ec93f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMini Splatling\nClassic Squiffer\nRandom\n\
@@ -50,7 +50,7 @@ DTSTART:20240420T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:f4831b1c-ba3e-47f9-b5c4-e7071fca0b73
+UID:0fc4dfd8-543f-4128-a613-19bc2d7c43c5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRecycled Brella 24 Mk I\nHeavy Edit S
@@ -60,6 +60,6 @@ DTSTART:20240421T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:1e6b92f9-293d-476b-b793-34d9408128e2
+UID:076b453a-2638-4f45-b3b4-d679a7764b81
 END:VEVENT
 END:VCALENDAR
