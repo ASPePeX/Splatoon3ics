@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplash-o-matic\nSqueezer\nPainbrush\nRapid Blaster\n
- \nKing:\nCohozuna
-DTEND:20240416T155959Z
-DTSTART:20240415T000001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:61df37bf-94fa-48b0-8950-dc2695b1bc46
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nSploosh-o-matic\nSplat Brella\nHydra Splat
  ling\n\nKing:\nHorrorboros
 DTEND:20240418T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240416T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:c0ee7705-b1d9-49d7-8869-e36a6f0f3abb
+UID:b03b39f5-e654-418b-8421-e8e024033855
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nBallpoint Splatling\n.
@@ -40,7 +30,7 @@ DTSTART:20240418T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:6527afb2-c42f-4773-9875-1c1dc2908f4c
+UID:324c614f-2d35-432d-bac9-ccf3c2d7c28b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMini Splatling\nClassic Squiffer\nRandom\n\
@@ -50,7 +40,7 @@ DTSTART:20240420T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:456ca88d-b84b-47c1-9047-aade115deae4
+UID:9a0307ea-61fe-4a1c-afc0-4a9aa1353c63
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRecycled Brella 24 Mk I\nHeavy Edit S
@@ -60,6 +50,16 @@ DTSTART:20240421T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:1aae3f5b-8c52-4fac-9793-6711cc14cfc3
+UID:4b285065-14bb-43b9-909a-ae125367772d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nFlingza Roller\nSplatana Wiper\nSplat Charger\nJet S
+ quelcher\n\nKing:\nMegalodontia
+DTEND:20240424T235959Z
+DTSTART:20240423T080001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:5543cd80-dc0d-43fe-9670-8007db73c507
 END:VEVENT
 END:VCALENDAR
