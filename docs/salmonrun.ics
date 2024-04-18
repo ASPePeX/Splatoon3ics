@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\nSploosh-o-matic\nSplat Brella\nHydra Splat
- ling\n\nKing:\nHorrorboros
-DTEND:20240418T075959Z
-DTSTART:20240416T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:158f7b12-4cf2-43bd-aa31-3ebf52cb03b5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nBallpoint Splatling\n.
  96 Gal\n\nKing:\nCohozuna
 DTEND:20240419T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240418T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:1485f530-615c-41e8-ba79-499bd03a3edb
+UID:807d6dff-8666-4a68-9b6b-dc25c038716b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMini Splatling\nClassic Squiffer\nRandom\n\
@@ -40,7 +30,7 @@ DTSTART:20240420T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:9570fa79-9fec-4d0a-8b9f-276b89600f91
+UID:6d2b79f4-d3a1-4f04-8aca-4f4b39ccf4a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRecycled Brella 24 Mk I\nHeavy Edit S
@@ -50,7 +40,7 @@ DTSTART:20240421T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:6f8fec29-0ac9-444f-8933-f0e45b80786e
+UID:76f430cd-58be-4676-99e7-1d737dd76529
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplatana Wiper\nSplat Charger\nJet S
@@ -60,6 +50,16 @@ DTSTART:20240423T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:966c4af5-aa20-4fce-8cb0-d8c5f6755b1d
+UID:21c06a30-1c87-46b7-8245-35297dcea4c5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nClash Blaster\nL-3 Nozzlenose\nCarbon Roller\nBamboo
+ zler 14 Mk I\n\nKing:\nCohozuna
+DTEND:20240426T155959Z
+DTSTART:20240425T000001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:c8f8d2bb-61cd-450e-8750-1376cdb73fdc
 END:VEVENT
 END:VCALENDAR
