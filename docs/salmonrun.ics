@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nBallpoint Splatling\n.
- 96 Gal\n\nKing:\nCohozuna
-DTEND:20240419T235959Z
-DTSTART:20240418T080001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:08a213da-c1f2-4e27-8be8-b17ee0d58b2f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMini Splatling\nClassic Squiffer\nRandom\n\
  nKing:\nMegalodontia
 DTEND:20240421T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240420T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:f3350181-46ab-4c29-81ee-256f2193d50b
+UID:55443f34-812c-4aff-8860-c502273f6511
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRecycled Brella 24 Mk I\nHeavy Edit S
@@ -40,7 +30,7 @@ DTSTART:20240421T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:428412cd-712a-4f24-a2fc-24b47e51d937
+UID:9de666c1-3ae4-47c5-9657-1dc56bec6865
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplatana Wiper\nSplat Charger\nJet S
@@ -50,7 +40,7 @@ DTSTART:20240423T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:5212bb3c-3180-456b-9605-e5c7c1f91bef
+UID:ba6c00ff-2232-4766-ad69-720a3014deb7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nL-3 Nozzlenose\nCarbon Roller\nBamboo
@@ -60,6 +50,16 @@ DTSTART:20240425T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:32dd9ee4-2d8d-4df3-8cc5-cc916799a6ae
+UID:e8a666c5-f441-46ed-9bc4-e0af4431bfed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nBig Swig Roller\nSni
+ pewriter 5H\n\nKing:\nHorrorboros
+DTEND:20240428T075959Z
+DTSTART:20240426T160001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:ae55c822-aa43-489b-b8cb-3a170d6777ef
 END:VEVENT
 END:VCALENDAR
