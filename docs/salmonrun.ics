@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nMini Splatling\nClassic Squiffer\nRandom\n\
- nKing:\nMegalodontia
-DTEND:20240421T155959Z
-DTSTART:20240420T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:41f7cd97-d8a0-43c6-90c4-3767050c4599
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nRecycled Brella 24 Mk I\nHeavy Edit S
  platling\nGoo Tuber\n\nKing:\nHorrorboros
 DTEND:20240423T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240421T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:5d1133e5-7319-4212-8685-633c4e0240a7
+UID:ba607a0b-8335-4d53-ae2a-5b5df6f1bf7c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplatana Wiper\nSplat Charger\nJet S
@@ -40,7 +30,7 @@ DTSTART:20240423T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:1f6401a7-499a-418b-bf71-f722c627134c
+UID:d1ef36bd-e13b-4796-966f-892eff559fac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nL-3 Nozzlenose\nCarbon Roller\nBamboo
@@ -50,7 +40,7 @@ DTSTART:20240425T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:b4cf57a3-64d9-4fb5-bad4-efe279a3514f
+UID:7af3ec3d-9303-4040-a6f9-0eb7b80b0373
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nBig Swig Roller\nSni
@@ -60,6 +50,16 @@ DTSTART:20240426T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:9ab58c7d-165b-4d12-89d4-22a353767c79
+UID:34f62121-cb03-427f-aa3b-d8208213ee2a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDapple Dualies\nTri-Slosher\nPainbrush\nTri-Stringer
+ \n\nKing:\nMegalodontia
+DTEND:20240429T235959Z
+DTSTART:20240428T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Megalodontia
+UID:11d4b82c-8435-4045-8c07-84e5249ae91e
 END:VEVENT
 END:VCALENDAR
