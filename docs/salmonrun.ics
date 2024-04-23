@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Dualies\nRecycled Brella 24 Mk I\nHeavy Edit S
- platling\nGoo Tuber\n\nKing:\nHorrorboros
-DTEND:20240423T075959Z
-DTSTART:20240421T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Horrorboros
-UID:2d326572-ccda-475e-be97-c6d4af4e490a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplatana Wiper\nSplat Charger\nJet S
  quelcher\n\nKing:\nMegalodontia
 DTEND:20240424T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240423T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:4ed66489-ffee-4c17-bb3c-0765653dbca6
+UID:8631ccaf-eef2-44e9-868c-623d95d5231a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nL-3 Nozzlenose\nCarbon Roller\nBamboo
@@ -40,7 +30,7 @@ DTSTART:20240425T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:ce5b7d0f-1356-4a20-ad6b-3e322c19db9d
+UID:fb161bcf-3686-4273-ac26-ac84912ef9ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nBig Swig Roller\nSni
@@ -50,7 +40,7 @@ DTSTART:20240426T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:2042a8da-e051-47cf-a13f-3b4f1e762488
+UID:51cce1d6-7798-4f61-b86a-3a3b9a9d8f5e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nTri-Slosher\nPainbrush\nTri-Stringer
@@ -60,6 +50,16 @@ DTSTART:20240428T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:e6ba26a8-f635-4eaa-97bd-be2e95bebbbd
+UID:e0486cca-c61b-47d4-91c8-1877f7cb3909
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nREEF-LUX 450\nSplat Dualies\nH-3 Nozzlenose\nHydra S
+ platling\n\nKing:\nCohozuna
+DTEND:20240501T155959Z
+DTSTART:20240430T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:02b8070b-a097-49af-9595-179c7d74258c
 END:VEVENT
 END:VCALENDAR
