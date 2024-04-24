@@ -20,7 +20,7 @@ DTSTART:20240423T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:62752170-da79-406f-a3cc-443b239e5989
+UID:0d512e16-2019-4360-a76a-02fd8cebcae2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nL-3 Nozzlenose\nCarbon Roller\nBamboo
@@ -30,7 +30,7 @@ DTSTART:20240425T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:afd38bef-ea18-47d8-bd09-6e380254a4b7
+UID:57d609cc-95d4-4108-9e17-868e64e84da6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nBig Swig Roller\nSni
@@ -40,7 +40,7 @@ DTSTART:20240426T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:e9c7d2c7-68e7-4f8d-9a85-42854cfe6d91
+UID:5eee4bc5-c574-44b0-9c5e-c873c83bf556
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nTri-Slosher\nPainbrush\nTri-Stringer
@@ -50,7 +50,7 @@ DTSTART:20240428T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:d785ead5-7a97-4b10-9e34-669058ce456e
+UID:26c856ba-66fa-42d8-b175-d9b67aafb1bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplat Dualies\nH-3 Nozzlenose\nHydra S
@@ -60,6 +60,6 @@ DTSTART:20240430T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:99f5c31d-9d18-4132-9943-194e711680f7
+UID:45ecff38-fd44-43c7-b08e-b7a363fd66be
 END:VEVENT
 END:VCALENDAR
