@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nFlingza Roller\nSplatana Wiper\nSplat Charger\nJet S
- quelcher\n\nKing:\nMegalodontia
-DTEND:20240424T235959Z
-DTSTART:20240423T080001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:90fdb747-17ab-48ad-948b-fed665ece56d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nL-3 Nozzlenose\nCarbon Roller\nBamboo
  zler 14 Mk I\n\nKing:\nCohozuna
 DTEND:20240426T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240425T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:19a18d60-5214-4f45-9a88-19b0a4c7bcb3
+UID:6f739c09-faa6-4f15-99b7-4ddfbadecc6e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nBig Swig Roller\nSni
@@ -40,7 +30,7 @@ DTSTART:20240426T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:39ef4734-ca0e-4aed-bccb-25a68989a7bc
+UID:b24ed67f-b3be-48c3-8221-bb57094fb763
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nTri-Slosher\nPainbrush\nTri-Stringer
@@ -50,7 +40,7 @@ DTSTART:20240428T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:4e76b900-72af-4563-ac1c-cf5672637f1f
+UID:0613947d-32bc-4171-93cb-9803866189d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplat Dualies\nH-3 Nozzlenose\nHydra S
@@ -60,6 +50,16 @@ DTSTART:20240430T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:ad49cbf2-749d-4183-9ea2-f37d8749bbef
+UID:753d2cd5-9107-486d-8871-9aebd7ea89d5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nDread Wringer\n.96 Gal\n\nKi
+ ng:\nHorrorboros
+DTEND:20240503T075959Z
+DTSTART:20240501T160001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:02e6a4aa-9aa0-4373-b0b5-da13ae46d585
 END:VEVENT
 END:VCALENDAR
