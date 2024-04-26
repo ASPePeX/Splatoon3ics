@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nClash Blaster\nL-3 Nozzlenose\nCarbon Roller\nBamboo
- zler 14 Mk I\n\nKing:\nCohozuna
-DTEND:20240426T155959Z
-DTSTART:20240425T000001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:6ab78fff-5558-4dce-bd70-66a7228580ea
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nBig Swig Roller\nSni
  pewriter 5H\n\nKing:\nHorrorboros
 DTEND:20240428T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240426T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:4567e213-61b1-4c93-82a5-31ab6ee4e2af
+UID:8b866793-5232-4207-ba3d-aa4c9a88bb32
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nTri-Slosher\nPainbrush\nTri-Stringer
@@ -40,7 +30,7 @@ DTSTART:20240428T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:16f435e2-a8d6-4373-8ffa-a19a6bb08bbe
+UID:c5b53cd6-df37-434b-9883-2a249b684e19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplat Dualies\nH-3 Nozzlenose\nHydra S
@@ -50,7 +40,7 @@ DTSTART:20240430T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:16c374e3-b4ce-471c-b3e9-70f7461318d9
+UID:e7acf1c7-48e5-4d25-aa79-55fd6b4b50f6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nDread Wringer\n.96 Gal\n\nKi
@@ -60,6 +50,16 @@ DTSTART:20240501T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:8387edeb-e9f0-437c-8745-c9d074607b7e
+UID:73411b35-d91b-4c1c-9962-91b1eb85f14f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nAerospray MG\nOctobrush\nSplatana Stamper\nHeavy Spl
+ atling\n\nKing:\nMegalodontia
+DTEND:20240504T235959Z
+DTSTART:20240503T080001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Megalodontia
+UID:f68261f8-6a1f-4c36-9e00-c2f72c2b4528
 END:VEVENT
 END:VCALENDAR
