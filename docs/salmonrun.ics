@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nBig Swig Roller\nSni
- pewriter 5H\n\nKing:\nHorrorboros
-DTEND:20240428T075959Z
-DTSTART:20240426T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:01a0f383-cbd2-4711-901e-ab375a8a2b5b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nTri-Slosher\nPainbrush\nTri-Stringer
  \n\nKing:\nMegalodontia
 DTEND:20240429T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240428T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:f090d2b2-d1f5-4fd2-bfda-1141e9de0d75
+UID:98315584-88df-44f6-8317-e03a4e030805
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplat Dualies\nH-3 Nozzlenose\nHydra S
@@ -40,7 +30,7 @@ DTSTART:20240430T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:83d4788c-5533-4565-b33a-e11bf715fab7
+UID:8c700206-9daf-47bf-9ede-2c502fbd847c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nDread Wringer\n.96 Gal\n\nKi
@@ -50,7 +40,7 @@ DTSTART:20240501T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:429705c6-9464-4e91-8815-ea61c406c949
+UID:3d7c25f6-bb1c-4965-b21e-f07b6ea1a467
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nOctobrush\nSplatana Stamper\nHeavy Spl
@@ -60,6 +50,16 @@ DTSTART:20240503T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:0f7a3266-f9ee-4bb3-8437-86008bcf3779
+UID:0ffdb0ea-a148-4d03-b1d1-db754ca987a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nN-ZAP '85\nBloblobber\nHeavy Edit Splatling\nE-liter
+  4K\n\nKing:\nCohozuna
+DTEND:20240506T155959Z
+DTSTART:20240505T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:c37b517a-eb2a-47c9-a330-4e5d0112d639
 END:VEVENT
 END:VCALENDAR
