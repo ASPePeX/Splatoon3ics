@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nREEF-LUX 450\nSplat Dualies\nH-3 Nozzlenose\nHydra S
- platling\n\nKing:\nCohozuna
-DTEND:20240501T155959Z
-DTSTART:20240430T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:ce6680d9-584a-4fc3-8796-c7acafd74e72
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nDread Wringer\n.96 Gal\n\nKi
  ng:\nHorrorboros
 DTEND:20240503T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240501T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:b3444c54-00f0-4c4d-b39c-4b85a6dba6b0
+UID:4e3d7761-45f0-4e94-a9f2-2a787c9416b0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nOctobrush\nSplatana Stamper\nHeavy Spl
@@ -40,7 +30,7 @@ DTSTART:20240503T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:55f67ae1-a62f-42b9-be02-6f0c767f0f37
+UID:7e713741-6205-4b36-889d-ef544916f302
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nBloblobber\nHeavy Edit Splatling\nE-liter
@@ -50,7 +40,7 @@ DTSTART:20240505T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:8e4a9efe-df15-4214-9814-b1a5a2ffa01e
+UID:d7b44b88-d2bc-4baf-929b-a7ad095e830d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nDouser Dualies FF\nBallpoint Spla
@@ -60,6 +50,16 @@ DTSTART:20240506T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:fbd93d59-1b35-4c82-8545-d643593be42d
+UID:c87c0a13-f001-4063-b46b-c6912ff15aa3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDapple Dualies\nClash Blaster\nS-BLAST '92\nJet Sque
+ lcher\n\nKing:\nMegalodontia
+DTEND:20240509T235959Z
+DTSTART:20240508T080001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:900fa2cd-d3fc-48d4-a0a9-21dd5cb1c646
 END:VEVENT
 END:VCALENDAR
