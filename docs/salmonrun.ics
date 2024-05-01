@@ -20,7 +20,7 @@ DTSTART:20240430T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:26b2848e-389b-433f-bf05-ee5eac1a234b
+UID:ce6680d9-584a-4fc3-8796-c7acafd74e72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nDread Wringer\n.96 Gal\n\nKi
@@ -30,7 +30,7 @@ DTSTART:20240501T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:f7279f2d-3e56-4a1c-8869-28e2753b24e4
+UID:b3444c54-00f0-4c4d-b39c-4b85a6dba6b0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nOctobrush\nSplatana Stamper\nHeavy Spl
@@ -40,7 +40,7 @@ DTSTART:20240503T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:8e768ada-e76b-4efb-b109-13df95b9d321
+UID:55f67ae1-a62f-42b9-be02-6f0c767f0f37
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nBloblobber\nHeavy Edit Splatling\nE-liter
@@ -50,7 +50,7 @@ DTSTART:20240505T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:4b1f4b81-d23c-4b79-8d47-60862c1f4c99
+UID:8e4a9efe-df15-4214-9814-b1a5a2ffa01e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nDouser Dualies FF\nBallpoint Spla
@@ -60,6 +60,6 @@ DTSTART:20240506T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:b1582ad2-c08d-4d24-a6ce-eb7afab77c89
+UID:fbd93d59-1b35-4c82-8545-d643593be42d
 END:VEVENT
 END:VCALENDAR
