@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nDread Wringer\n.96 Gal\n\nKi
- ng:\nHorrorboros
-DTEND:20240503T075959Z
-DTSTART:20240501T160001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:d9719abd-8ade-4c66-b299-df1f5bf0eb02
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nOctobrush\nSplatana Stamper\nHeavy Spl
  atling\n\nKing:\nMegalodontia
 DTEND:20240504T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240503T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:1e30a5fa-569f-431e-962b-8ccdf541d76e
+UID:91fa3083-9d0e-472f-8ad9-e3b24005a12f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nBloblobber\nHeavy Edit Splatling\nE-liter
@@ -40,7 +30,7 @@ DTSTART:20240505T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:6a9b6611-eb86-49fd-9f93-b993326c0b5b
+UID:3bc45eda-6e18-4a7e-9363-260aa0fd21ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nDouser Dualies FF\nBallpoint Spla
@@ -50,7 +40,7 @@ DTSTART:20240506T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:a24d3774-c53b-4b9e-b6e9-c13617e154a5
+UID:70ddde7b-97f2-455c-be4c-fbcbad591b1b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nClash Blaster\nS-BLAST '92\nJet Sque
@@ -60,6 +50,16 @@ DTSTART:20240508T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:3b60678c-50b9-4e4b-9958-2b811bb635c3
+UID:39887bfa-a956-4348-b0a4-28f33d6ea4de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nTri-Slosher\nFlingza Roller\nSplattershot Pro\nHydra
+  Splatling\n\nKing:\nCohozuna
+DTEND:20240511T155959Z
+DTSTART:20240510T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:d91587a4-2f0c-40d8-9003-bd2395df4233
 END:VEVENT
 END:VCALENDAR
