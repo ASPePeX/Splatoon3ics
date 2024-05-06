@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nN-ZAP '85\nBloblobber\nHeavy Edit Splatling\nE-liter
-  4K\n\nKing:\nCohozuna
-DTEND:20240506T155959Z
-DTSTART:20240505T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:b40503e9-df20-4b72-b63d-87f6a523a6a2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nDouser Dualies FF\nBallpoint Spla
  tling\nBamboozler 14 Mk I\n\nKing:\nHorrorboros
 DTEND:20240508T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240506T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:19f7ade0-e7c0-4c54-b1ef-05cf9df0fe64
+UID:7b59ec3c-09a3-4263-aa8a-ebb972753098
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nClash Blaster\nS-BLAST '92\nJet Sque
@@ -40,7 +30,7 @@ DTSTART:20240508T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:51f419a7-2b33-46e2-ad31-51ed0d18e6e6
+UID:b7231a24-c0ff-481c-9fe4-e7cad77a91e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nFlingza Roller\nSplattershot Pro\nHydra
@@ -50,6 +40,16 @@ DTSTART:20240510T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:4307a40e-f527-4fd3-bf74-94c482e1fa7e
+UID:4165dd7e-68a1-4e8d-ba58-2562b76c266e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nInkbrush\nSplattershot Jr.\nSplatana Stamper\nGoo Tu
+ ber\n\nKing:\nHorrorboros
+DTEND:20240513T075959Z
+DTSTART:20240511T160001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:b625d734-51b1-42f8-84a2-6d3a963b6478
 END:VEVENT
 END:VCALENDAR
