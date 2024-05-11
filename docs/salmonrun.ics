@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nTri-Slosher\nFlingza Roller\nSplattershot Pro\nHydra
-  Splatling\n\nKing:\nCohozuna
-DTEND:20240511T155959Z
-DTSTART:20240510T000001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:3991e422-7d0a-4ddc-bb90-a95798324b4e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nSplattershot Jr.\nSplatana Stamper\nGoo Tu
  ber\n\nKing:\nHorrorboros
 DTEND:20240513T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240511T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:aafb47e7-77b6-4dce-8baa-410cd8c6c2fa
+UID:38ceac81-6696-4f42-ba53-f887faf27a2c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nCarbon Roller\nDualie Squelchers\nT
@@ -40,7 +30,7 @@ DTSTART:20240513T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:8273ab4a-f90d-45de-828b-0adaf86f8aba
+UID:f411a80d-d180-4aa2-a84e-d33dded00ce5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nRecycled Brella 24
@@ -50,6 +40,16 @@ DTSTART:20240515T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:a1df6203-2f61-4c67-8724-6a40b75dc7ce
+UID:a2d840c6-d904-4469-961b-16fb9d09a66a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nNautilus 47\nClassic Squiffer
+ \n\nKing:\nHorrorboros
+DTEND:20240518T075959Z
+DTSTART:20240516T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:6ae1c081-5bcb-4688-839c-299f89594072
 END:VEVENT
 END:VCALENDAR
