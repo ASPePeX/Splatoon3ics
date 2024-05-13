@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\nSplattershot Jr.\nSplatana Stamper\nGoo Tu
- ber\n\nKing:\nHorrorboros
-DTEND:20240513T075959Z
-DTSTART:20240511T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:1b438d02-5134-4321-8443-443ce97c8c98
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nCarbon Roller\nDualie Squelchers\nT
  ri-Stringer\n\nKing:\nMegalodontia
 DTEND:20240514T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240513T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:00a5c174-60d0-4518-8be4-cc0fb13e67f4
+UID:03195c50-c1db-4ac8-b4ff-69c144856c81
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDark Tetra Dualies\nRecycled Brella 24
@@ -40,7 +30,7 @@ DTSTART:20240515T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:914d7425-81f6-4008-bf24-9d5488fe196c
+UID:3a6faaac-a941-4378-960e-50188297d569
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nNautilus 47\nClassic Squiffer
@@ -50,7 +40,7 @@ DTSTART:20240516T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:8736ccbc-5698-46fe-abf1-4976f0357317
+UID:1561420b-0f03-41f1-8dd7-726f9ecfeb8b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Dualies\n.96 Gal\nRandom\n\nKing:\n
@@ -60,6 +50,16 @@ DTSTART:20240518T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:96857bb9-0c20-4d72-915e-f3e88baf7eb6
+UID:5d46662c-ad8d-42c1-b787-719e55a1b7ba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nGlooga Dualies\nBloblobber\nExplosher\nHeavy Splatli
+ ng\n\nKing:\nCohozuna
+DTEND:20240521T155959Z
+DTSTART:20240520T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Cohozuna
+UID:b267d88a-0bbf-41c8-b295-5bc9690c0da4
 END:VEVENT
 END:VCALENDAR
