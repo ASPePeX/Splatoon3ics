@@ -20,7 +20,7 @@ DTSTART:20240515T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:67e0bd39-4301-4861-bd7d-2f99c39ce46b
+UID:799f078d-8c69-4492-85dc-0790b108cf9a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nNautilus 47\nClassic Squiffer
@@ -30,7 +30,7 @@ DTSTART:20240516T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:9086c6ab-f993-4b09-9ef2-b3e79f6927ab
+UID:6d7489fc-07fc-409b-9b0f-dc5f396fb8d8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Dualies\n.96 Gal\nRandom\n\nKing:\n
@@ -40,7 +40,7 @@ DTSTART:20240518T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:b4bfbf16-14b0-4135-b2f3-4c28603ef17b
+UID:9b455b87-e901-428c-a4ab-8ac798f18a5b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nBloblobber\nExplosher\nHeavy Splatli
@@ -50,7 +50,7 @@ DTSTART:20240520T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:0a408f6c-8829-42a8-8a34-0accb542e0b4
+UID:946d5db9-70f4-4ca6-b614-d4dbfddec516
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nSplatana Wiper\nS-BLAST '92\nSplat Ch
@@ -60,6 +60,6 @@ DTSTART:20240521T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:c512d6ee-3a51-4760-9b98-a59f6decbd33
+UID:bf51bfdb-d2d8-46d7-81b7-6be24226ca28
 END:VEVENT
 END:VCALENDAR
