@@ -20,7 +20,7 @@ DTSTART:20240516T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:d1761508-6d81-4bf5-87c9-615137a84fb1
+UID:6347a0e6-dbf7-47a0-81f7-cc8e19f499ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Dualies\n.96 Gal\nRandom\n\nKing:\n
@@ -30,7 +30,7 @@ DTSTART:20240518T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:4790639d-a90d-46c8-b279-02397b61e33b
+UID:0f77e3a5-2aca-452f-9b4a-83bdeacf4bf8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nBloblobber\nExplosher\nHeavy Splatli
@@ -40,7 +40,7 @@ DTSTART:20240520T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:fce3ad34-ae08-4cf0-bafd-17f29db8ab22
+UID:56a8fb38-2170-489d-bda5-529730a6ce57
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nSplatana Wiper\nS-BLAST '92\nSplat Ch
@@ -50,7 +50,7 @@ DTSTART:20240521T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:c9bff6cf-cc55-4824-8c31-305a42236b2a
+UID:11e3814b-2bc1-4faf-8eea-25c96e546b4e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSqueezer\nDouser Dualies FF\nTenta Br
@@ -60,6 +60,6 @@ DTSTART:20240523T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:d53e6289-7135-4fe1-94de-4d177319d341
+UID:fb3498fc-ac85-4e0b-9cf5-76a6b8dbade2
 END:VEVENT
 END:VCALENDAR
