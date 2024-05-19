@@ -20,7 +20,7 @@ DTSTART:20240518T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:8ccd1983-bd7d-4b9f-a1c3-6b98e9773b1b
+UID:1e86e0b4-c818-4a0a-8d30-a380b28577fc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nBloblobber\nExplosher\nHeavy Splatli
@@ -30,7 +30,7 @@ DTSTART:20240520T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:1ee261ab-9883-4234-a826-6d28eea70c27
+UID:df9babf6-c8aa-4581-9626-d4655f2fd3a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nSplatana Wiper\nS-BLAST '92\nSplat Ch
@@ -40,7 +40,7 @@ DTSTART:20240521T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:39fe97a2-90b3-4197-a59a-3fd8e5de9725
+UID:b42834cf-1574-4421-b43a-7ed3e22ff4ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSqueezer\nDouser Dualies FF\nTenta Br
@@ -50,7 +50,7 @@ DTSTART:20240523T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:8a2702fc-e2f5-4d17-a9c0-4cda883575dd
+UID:bc9473dc-f18d-4543-8e88-b4ccda582b7a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -59,6 +59,6 @@ DTSTART:20240525T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:9cbec777-4bbb-40b1-ad94-03e67244e566
+UID:f9532daa-50eb-4b36-b20b-e5da2aa9c011
 END:VEVENT
 END:VCALENDAR
