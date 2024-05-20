@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Dualies\n.96 Gal\nRandom\n\nKing:\n
- Megalodontia
-DTEND:20240519T235959Z
-DTSTART:20240518T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:12b67bfa-e746-4465-966d-3341100a225e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nBloblobber\nExplosher\nHeavy Splatli
  ng\n\nKing:\nCohozuna
 DTEND:20240521T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240520T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:7e6e78aa-6881-4ef1-9586-86f6002f9d78
+UID:6e2a626e-ba8b-48af-85ca-9d8c12c684bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nSplatana Wiper\nS-BLAST '92\nSplat Ch
@@ -40,7 +30,7 @@ DTSTART:20240521T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:ba69ffc3-590d-41f5-a938-2f9db2590915
+UID:32ffa6d5-9261-46fe-9752-e83cf0da3bd7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSqueezer\nDouser Dualies FF\nTenta Br
@@ -50,7 +40,7 @@ DTSTART:20240523T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:722efce6-4552-429b-8491-39f5de34c590
+UID:a633fbd0-517e-4206-b2b5-40348b2a244d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -59,6 +49,16 @@ DTSTART:20240525T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:e8f57367-7627-49b0-b1e7-44354f9b641b
+UID:58bb39de-6985-4bca-b927-b9440e8e835c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
+ r 14 Mk I\n\nKing:\nCohozuna
+DTEND:20240528T075959Z
+DTSTART:20240526T160001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:0e7b90ed-ebd9-4003-837e-c83b28e6dccc
 END:VEVENT
 END:VCALENDAR
