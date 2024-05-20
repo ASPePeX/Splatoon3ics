@@ -20,7 +20,7 @@ DTSTART:20240520T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:6e2a626e-ba8b-48af-85ca-9d8c12c684bc
+UID:b9239f48-77e4-4481-9c84-18b734bbcf9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nSplatana Wiper\nS-BLAST '92\nSplat Ch
@@ -30,7 +30,7 @@ DTSTART:20240521T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:32ffa6d5-9261-46fe-9752-e83cf0da3bd7
+UID:c7fd3bd5-77a6-461f-bb6f-3fa7a7445dc2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSqueezer\nDouser Dualies FF\nTenta Br
@@ -40,7 +40,7 @@ DTSTART:20240523T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:a633fbd0-517e-4206-b2b5-40348b2a244d
+UID:49f66123-a506-4753-bd7d-583482947af7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -49,7 +49,7 @@ DTSTART:20240525T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:58bb39de-6985-4bca-b927-b9440e8e835c
+UID:6c4bf475-604a-4f7a-b9c5-862e5d6d110b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
@@ -59,6 +59,6 @@ DTSTART:20240526T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:0e7b90ed-ebd9-4003-837e-c83b28e6dccc
+UID:e6c78ac1-120d-42e4-968a-3f69e93be311
 END:VEVENT
 END:VCALENDAR
