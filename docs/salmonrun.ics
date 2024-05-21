@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nGlooga Dualies\nBloblobber\nExplosher\nHeavy Splatli
- ng\n\nKing:\nCohozuna
-DTEND:20240521T155959Z
-DTSTART:20240520T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:0d41a32c-e899-4606-b320-54c8a59a1b52
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nSplatana Wiper\nS-BLAST '92\nSplat Ch
  arger\n\nKing:\nHorrorboros
 DTEND:20240523T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240521T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:f9020521-7576-4469-9cf1-99447fed546b
+UID:dda630e6-a304-4cc1-b6ca-3c717288a6d8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSqueezer\nDouser Dualies FF\nTenta Br
@@ -40,7 +30,7 @@ DTSTART:20240523T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:1f9b59bc-91fa-419c-b461-8b4762b78129
+UID:0d11fe63-eb7d-4922-a463-abb9ad5f82c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -49,7 +39,7 @@ DTSTART:20240525T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:11a4e7d6-9e26-4e58-80cd-6e55f4263797
+UID:c028473e-a34f-4685-908d-3610e5d51a3c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
@@ -59,6 +49,16 @@ DTSTART:20240526T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:ee88d9f4-0278-42c7-9f32-cca038830f3e
+UID:c29b592f-3303-4986-9c76-93ce175fbdfa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nBallpoint Splatling\nR
+ apid Blaster\n\nKing:\nHorrorboros
+DTEND:20240529T235959Z
+DTSTART:20240528T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:7bddbbf5-1713-4813-961f-55bfd80eee52
 END:VEVENT
 END:VCALENDAR
