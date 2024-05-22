@@ -20,7 +20,7 @@ DTSTART:20240521T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:dda630e6-a304-4cc1-b6ca-3c717288a6d8
+UID:8cc194ad-1b16-4c84-8ee8-f8c13b46ef5a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSqueezer\nDouser Dualies FF\nTenta Br
@@ -30,7 +30,7 @@ DTSTART:20240523T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:0d11fe63-eb7d-4922-a463-abb9ad5f82c7
+UID:c90640ad-730c-444a-a236-50dcbbe95313
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -39,7 +39,7 @@ DTSTART:20240525T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:c028473e-a34f-4685-908d-3610e5d51a3c
+UID:360cf594-031c-4316-bcdf-4d51feac4c65
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
@@ -49,7 +49,7 @@ DTSTART:20240526T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:c29b592f-3303-4986-9c76-93ce175fbdfa
+UID:5470cae4-538a-4500-9bfe-2e978a87703c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nBallpoint Splatling\nR
@@ -59,6 +59,6 @@ DTSTART:20240528T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:7bddbbf5-1713-4813-961f-55bfd80eee52
+UID:3b291d22-c5bc-4fbf-ac99-57c6d0d9fd0d
 END:VEVENT
 END:VCALENDAR
