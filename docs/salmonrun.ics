@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDread Wringer\nSplatana Wiper\nS-BLAST '92\nSplat Ch
- arger\n\nKing:\nHorrorboros
-DTEND:20240523T075959Z
-DTSTART:20240521T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:bff02df6-c10a-42ae-b2f4-cb4e0c5e1d6a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSqueezer\nDouser Dualies FF\nTenta Br
  ella\n\nKing:\nMegalodontia
 DTEND:20240524T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240523T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:928cd395-c87e-405e-8132-3bd1054510d7
+UID:3594da89-6fc3-4ba6-95a8-6d1445f52005
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -39,7 +29,7 @@ DTSTART:20240525T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:43d5c032-446d-48c0-a512-b9ed613b53e4
+UID:cdf14cdc-a113-4ec7-b01a-05162c330ee3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
@@ -49,7 +39,7 @@ DTSTART:20240526T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:a1e18d6f-e7b7-4af7-86e4-03536550c169
+UID:28807391-e585-46ea-9377-33c573e9dbe7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nBallpoint Splatling\nR
@@ -59,6 +49,16 @@ DTSTART:20240528T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:45a39df7-e97f-4cd6-bead-6f2055012ab3
+UID:ed03fe32-e599-420e-a54c-c4b6da17e545
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot Nova\nNautilus 47\nTri
+ -Stringer\n\nKing:\nMegalodontia
+DTEND:20240531T155959Z
+DTSTART:20240530T000001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Megalodontia
+UID:24348f67-30d2-4663-a83c-5031d7056384
 END:VEVENT
 END:VCALENDAR
