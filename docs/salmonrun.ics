@@ -20,7 +20,7 @@ DTSTART:20240523T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:aa6bdaf4-a800-47c4-b2ca-a0a94667b45c
+UID:f23af921-4b73-4853-bde6-bbf73ca48ccd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
@@ -29,7 +29,7 @@ DTSTART:20240525T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:d7b528dc-c828-4109-9c4a-ccc41f42dc0e
+UID:2a7df7d9-43b7-49a6-ab52-465c2d3c365f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
@@ -39,7 +39,7 @@ DTSTART:20240526T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:f9f3eacc-523f-4051-bc52-03cebec18b92
+UID:6d360f48-befc-4541-a196-2e3d8b118e76
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nBallpoint Splatling\nR
@@ -49,7 +49,7 @@ DTSTART:20240528T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:c17c30f0-6e26-4866-942e-0b5f1d087aa5
+UID:35485b12-32c2-4325-b70a-2ab3b84d1bd9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot Nova\nNautilus 47\nTri
@@ -59,6 +59,6 @@ DTSTART:20240530T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:f8f524e4-ff3b-451a-a36b-00dc2ce7e86e
+UID:66424d15-d02c-4493-9c9e-500f5f8c6fbe
 END:VEVENT
 END:VCALENDAR
