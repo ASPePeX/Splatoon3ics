@@ -13,23 +13,13 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nClash Blaster\nSqueezer\nDouser Dualies FF\nTenta Br
- ella\n\nKing:\nMegalodontia
-DTEND:20240524T235959Z
-DTSTART:20240523T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:b4ffa173-c1f1-485c-b511-824bf2166ce8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
 DTEND:20240526T155959Z
 DTSTART:20240525T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:64f28647-09f2-410f-8eb9-1960ba274a39
+UID:3a0f7473-bd99-4851-8d82-b3e85c153aa2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
@@ -39,7 +29,7 @@ DTSTART:20240526T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:a56978ae-96e5-4705-be7b-be3d18c016a0
+UID:b211b92b-b0bb-4a3f-86fe-098a6c95ab35
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nBallpoint Splatling\nR
@@ -49,7 +39,7 @@ DTSTART:20240528T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:c1f4c0cf-4960-41b5-8814-97fceb4b3f88
+UID:6b47ef6e-e60d-43b3-b7c9-3e3547c36ed1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot Nova\nNautilus 47\nTri
@@ -59,6 +49,16 @@ DTSTART:20240530T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:04c32efd-0083-45ae-a3e6-2b5f6d45d501
+UID:a61126af-a88b-4868-937c-fe7f0b99151e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nRapid Blaster Pro\nR
+ andom\n\nKing:\nCohozuna
+DTEND:20240602T075959Z
+DTSTART:20240531T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:517b81f6-08c0-4610-8694-9572e40fb4a6
 END:VEVENT
 END:VCALENDAR
