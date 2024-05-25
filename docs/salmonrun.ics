@@ -19,7 +19,7 @@ DTSTART:20240525T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Random
-UID:c1ad24b2-70fa-429c-951d-21477af6c3fb
+UID:7ae32b75-062a-4738-85e5-6f1de064bf96
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
@@ -29,7 +29,7 @@ DTSTART:20240526T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:3dfea24e-8d76-4486-b9b6-fe9d0f771109
+UID:c26e3b90-6b2d-470c-b42e-03d5ad6f6d23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nBallpoint Splatling\nR
@@ -39,7 +39,7 @@ DTSTART:20240528T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:2441796a-beae-4eb0-b641-cd2963b7651f
+UID:002f82d9-d970-47bb-a046-91162600fcf4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot Nova\nNautilus 47\nTri
@@ -49,7 +49,7 @@ DTSTART:20240530T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:8b3121ca-900b-4278-bd35-eea9edc86cc5
+UID:6aa8569a-5f53-4ed4-8979-ee0284a0811d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nRapid Blaster Pro\nR
@@ -59,6 +59,6 @@ DTSTART:20240531T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:f66a1be2-f769-4344-bf3b-039736c51188
+UID:0e8d809b-60d8-4351-b63c-702125ad1b92
 END:VEVENT
 END:VCALENDAR
