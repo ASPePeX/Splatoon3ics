@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nRandom
-DTEND:20240526T155959Z
-DTSTART:20240525T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Random
-UID:a467fc8b-0164-4d48-81fa-b60841557195
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
  r 14 Mk I\n\nKing:\nCohozuna
 DTEND:20240528T075959Z
@@ -29,7 +20,7 @@ DTSTART:20240526T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:39db3de9-21f8-46c3-ba61-3b5ac8d2e163
+UID:d856e0d6-9cc5-4d75-97aa-a2fc56068823
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nBallpoint Splatling\nR
@@ -39,7 +30,7 @@ DTSTART:20240528T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:cb5cce98-e178-45c3-94aa-7af58ae1ca6e
+UID:25a8c1a9-172f-4add-b1ba-509d45e803b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot Nova\nNautilus 47\nTri
@@ -49,7 +40,7 @@ DTSTART:20240530T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:9f85d84a-2ea0-46c2-a5d9-509e47b55064
+UID:0f075b1f-4ba5-485f-8f10-b62ea102a178
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nRapid Blaster Pro\nR
@@ -59,6 +50,16 @@ DTSTART:20240531T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:440c0918-6042-476f-9222-47d40c7c0381
+UID:60010ce5-5cee-4563-9aa3-4c5f5f7b8a97
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplash-o-matic\nL-3 Nozzlenose\nUnknown\nHydra Splat
+ ling\n\nKing:\nHorrorboros
+DTEND:20240603T235959Z
+DTSTART:20240602T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:bf4f1732-a7b0-493b-b889-12adf44c5511
 END:VEVENT
 END:VCALENDAR
