@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nLuna Blaster\nSplat Brella\nDynamo Roller\nBamboozle
- r 14 Mk I\n\nKing:\nCohozuna
-DTEND:20240528T075959Z
-DTSTART:20240526T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:964da501-4b5f-4983-8544-eae2050e9a9f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nBallpoint Splatling\nR
  apid Blaster\n\nKing:\nHorrorboros
 DTEND:20240529T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240528T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:bf0a5ccf-eadf-4047-bf6a-147d67dcc936
+UID:dca6af28-285a-4eb1-8559-1147a6a1a69d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot Nova\nNautilus 47\nTri
@@ -40,7 +30,7 @@ DTSTART:20240530T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:1a60e72e-aa94-41c2-ae12-e54f8fc25361
+UID:d258f667-705c-49fe-924a-da7c6da93ce5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nRapid Blaster Pro\nR
@@ -50,7 +40,7 @@ DTSTART:20240531T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:13cf5551-755a-4f4e-8a33-0f3def3c9982
+UID:1643e615-f707-4b16-b013-ab585296687f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nL-3 Nozzlenose\nUnknown\nHydra Splat
@@ -60,6 +50,16 @@ DTSTART:20240602T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:6983521b-ba49-4b34-91d7-5995337e4d95
+UID:1909e4ce-e4e3-4933-ba56-04c07f8d82b0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nREEF-LUX 450\nSqueezer\nBig Swig Roller\nUnknown\n\n
+ King:\nMegalodontia
+DTEND:20240605T155959Z
+DTSTART:20240604T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:60ad2d0f-bab1-408e-9328-afe0c9b3f192
 END:VEVENT
 END:VCALENDAR
