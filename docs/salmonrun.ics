@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nBallpoint Splatling\nR
- apid Blaster\n\nKing:\nHorrorboros
-DTEND:20240529T235959Z
-DTSTART:20240528T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:c6884828-953e-4cd7-887f-521459307c82
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot Nova\nNautilus 47\nTri
  -Stringer\n\nKing:\nMegalodontia
 DTEND:20240531T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240530T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:173deaec-a39a-4774-8778-e8ba1b41080f
+UID:8bde9b7a-1357-4a6f-a355-23003072444b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nRapid Blaster Pro\nR
@@ -40,7 +30,7 @@ DTSTART:20240531T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:0b960586-5c31-43b6-aae8-17c591607a5e
+UID:96ebd9e7-5274-4cd8-b5f5-f40dbe977d01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nL-3 Nozzlenose\nUnknown\nHydra Splat
@@ -50,7 +40,7 @@ DTSTART:20240602T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:d97a5387-1be8-4adf-bf94-da3a62c87ac7
+UID:568db31d-41b8-435c-9860-eb43360762cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSqueezer\nBig Swig Roller\nUnknown\n\n
@@ -60,6 +50,16 @@ DTSTART:20240604T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:858b7473-b039-42bb-bf92-9b80475b88c9
+UID:0da60878-9708-4168-bc43-8f784c4b6857
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nClash Blaster\nDapple Dualies\nRecycled Brella 24 Mk
+  I\nGoo Tuber\n\nKing:\nCohozuna
+DTEND:20240607T235959Z
+DTSTART:20240605T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:602aef72-4ea3-41e8-b880-b5c78d5ef463
 END:VEVENT
 END:VCALENDAR
