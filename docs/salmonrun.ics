@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot Nova\nNautilus 47\nTri
- -Stringer\n\nKing:\nMegalodontia
-DTEND:20240531T155959Z
-DTSTART:20240530T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:a57209a1-4003-4dad-9237-f3c9683d884b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nRapid Blaster Pro\nR
  andom\n\nKing:\nCohozuna
 DTEND:20240602T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240531T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:2939683f-cdbf-4021-b3a3-a9eb24dff74f
+UID:26e59e92-2cea-4e75-9bc4-c01b28ad9a72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nL-3 Nozzlenose\nUnknown\nHydra Splat
@@ -40,7 +30,7 @@ DTSTART:20240602T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:dfffef15-7958-4200-81b3-a9b2d69601ce
+UID:85e8fb0f-b7ba-49a8-9767-7f33cf228564
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSqueezer\nBig Swig Roller\nUnknown\n\n
@@ -50,7 +40,7 @@ DTSTART:20240604T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:8b223647-fb20-444a-93a1-dc73eba6f23b
+UID:9d62f0a3-d2e8-48a3-bda7-d0ac1d125d14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nDapple Dualies\nRecycled Brella 24 Mk
@@ -60,6 +50,6 @@ DTSTART:20240605T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:216d8679-c31d-4496-a583-6defab2434a6
+UID:ad830049-cac8-4386-b551-81390173b0b8
 END:VEVENT
 END:VCALENDAR
