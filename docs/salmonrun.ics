@@ -20,7 +20,7 @@ DTSTART:20240531T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:e623efa0-e6e7-4f54-be9f-31468ead66ab
+UID:e0d723dc-e940-429b-bc18-668a9cc87f0e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nL-3 Nozzlenose\nMint Decavitator\nHy
@@ -30,7 +30,7 @@ DTSTART:20240602T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:f7769730-98fe-4cdd-a95c-053d8fa30e88
+UID:f5df4acc-527b-40b1-a3d0-70d31b2ffdce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSqueezer\nBig Swig Roller\nWellstring 
@@ -40,7 +40,7 @@ DTSTART:20240604T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:84888406-4db3-4fa1-9932-f8f7cfa8d49e
+UID:47d20c43-0fa5-4198-8dd4-e6cdf8cd82ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nDapple Dualies\nRecycled Brella 24 Mk
@@ -50,6 +50,6 @@ DTSTART:20240605T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:04c8fad4-9053-4902-8597-d7a85c2a5210
+UID:23ce6045-7704-40b4-bf4f-d3b33dc90987
 END:VEVENT
 END:VCALENDAR
