@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot\nRapid Blaster Pro\nR
- andom\n\nKing:\nCohozuna
-DTEND:20240602T075959Z
-DTSTART:20240531T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:3d5dfaf7-770e-470a-94f9-69887c66e222
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nL-3 Nozzlenose\nMint Decavitator\nHy
  dra Splatling\n\nKing:\nHorrorboros
 DTEND:20240603T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240602T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:58624523-0c1e-473b-945f-a40a34695d6d
+UID:522953f3-d8ca-4a1c-9dcc-ed53a01a119d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSqueezer\nBig Swig Roller\nWellstring 
@@ -40,7 +30,7 @@ DTSTART:20240604T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:14b13a7b-c116-45c5-bc3e-f4798c1e649a
+UID:116d02c0-72c3-4657-948e-8bd805c6593f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nDapple Dualies\nRecycled Brella 24 Mk
@@ -50,6 +40,6 @@ DTSTART:20240605T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:955b766d-faba-4c84-ba2c-cb54d49b49e6
+UID:95ff138f-2d23-41ae-b816-3beb58248e40
 END:VEVENT
 END:VCALENDAR
