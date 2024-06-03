@@ -20,7 +20,7 @@ DTSTART:20240602T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:238de1c0-3455-4c93-813f-062579823eb5
+UID:e8a5b8f5-449c-42a6-a9ff-500ee59c5ec3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSqueezer\nBig Swig Roller\nWellstring 
@@ -30,7 +30,7 @@ DTSTART:20240604T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:58b602e0-e1ad-4c28-bf68-e9ad22cbf3de
+UID:dbaee6c1-9106-46de-9354-1519199b6685
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nDapple Dualies\nRecycled Brella 24 Mk
@@ -40,7 +40,7 @@ DTSTART:20240605T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:8ef4ba10-38b5-4e0d-a4aa-b8f368b483dd
+UID:0fdc4b55-688e-442d-a5f9-80b39468544c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nUndercover Brella\nHeavy Edit Splatling
@@ -50,6 +50,6 @@ DTSTART:20240610T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:d55840ab-d385-4bc3-8226-2c3817102b59
+UID:4193c808-2dae-4f7a-adf6-4d405e50ab61
 END:VEVENT
 END:VCALENDAR
