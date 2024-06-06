@@ -20,7 +20,7 @@ DTSTART:20240605T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:0744d692-b8d2-4cd8-a41b-a3e9c1e25d3d
+UID:fa59f7c7-0b60-445a-838b-ca60f11cf8cd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nUndercover Brella\nHeavy Edit Splatling
@@ -30,7 +30,7 @@ DTSTART:20240610T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:6593670c-985f-4fe6-9869-48a9062b42df
+UID:db7f7eea-05d4-4574-bfb1-e6a40f6f56b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nDouser Dualies FF\nOctobrush\nSplat Charger
@@ -40,6 +40,6 @@ DTSTART:20240611T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:e4c928a8-4182-492c-acdb-96ba80d03c0b
+UID:473013ff-4326-4b37-ba1e-854520557c79
 END:VEVENT
 END:VCALENDAR
