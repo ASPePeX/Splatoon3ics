@@ -20,7 +20,7 @@ DTSTART:20240605T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:5af519f1-ad48-46f8-b1ac-fe6bd53fdc75
+UID:6b3ce0c2-6823-4c2c-8e1b-7c4ed939381d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nUndercover Brella\nHeavy Edit Splatling
@@ -30,7 +30,7 @@ DTSTART:20240610T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:ab3f57b1-f955-4882-8e9d-fb64f211434c
+UID:7b97c845-c396-4ec5-8631-d5838241bdd1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nDouser Dualies FF\nOctobrush\nSplat Charger
@@ -40,7 +40,7 @@ DTSTART:20240611T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:96d22228-28cd-4a0e-857c-77a6067aad3e
+UID:9f5505af-c9d0-4331-8ad7-2c4e0eedea54
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDark Tetra Dualies\nFlingza Roller\n
@@ -50,6 +50,6 @@ DTSTART:20240613T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:edb55dd0-0c5c-457f-a4c9-c36b5046d87e
+UID:b428ea0d-5db9-4bcf-82ed-05fa0796f994
 END:VEVENT
 END:VCALENDAR
