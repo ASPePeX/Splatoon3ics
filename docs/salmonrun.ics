@@ -20,7 +20,7 @@ DTSTART:20240610T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:9ba3bbb6-781a-47a4-882a-4cfac30341c4
+UID:b3ea21b1-cfa9-434f-9b14-7544bffaad57
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nDouser Dualies FF\nOctobrush\nSplat Charger
@@ -30,7 +30,7 @@ DTSTART:20240611T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:547a5abf-b705-45bb-b80a-96bd81f28898
+UID:771d9b14-b1aa-41f2-a008-804108e999de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDark Tetra Dualies\nFlingza Roller\n
@@ -40,7 +40,7 @@ DTSTART:20240613T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:42056c3e-4f73-45e7-9d2c-511d516413ae
+UID:3dc8a41a-cdef-4d80-9545-0bee0df9c71e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nMint Decavitator\nDualie Squelchers
@@ -50,6 +50,16 @@ DTSTART:20240615T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:289af87f-eef3-4b4a-a412-95573667f364
+UID:42367a84-9cd1-4094-8701-29fb1471f837
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nExplosher\nClassic Squiffer\
+ n\nKing:\nMegalodontia
+DTEND:20240618T075959Z
+DTSTART:20240616T160001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Megalodontia
+UID:35e41121-b69b-404c-b28b-29bfc96ac889
 END:VEVENT
 END:VCALENDAR
