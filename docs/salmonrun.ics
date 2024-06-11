@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nTri-Slosher\nUndercover Brella\nHeavy Edit Splatling
- \nJet Squelcher\n\nKing:\nHorrorboros
-DTEND:20240611T155959Z
-DTSTART:20240610T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:12681551-4126-40ea-9a3b-9eb8df583cac
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nDouser Dualies FF\nOctobrush\nSplat Charger
  \n\nKing:\nMegalodontia
 DTEND:20240613T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240611T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:465d20bc-0f8c-4ca5-8806-6de9cfd34198
+UID:c6428763-a701-488a-baa3-6930064a1ac7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDark Tetra Dualies\nFlingza Roller\n
@@ -40,7 +30,7 @@ DTSTART:20240613T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:420bbd24-2798-4142-90aa-d058be06c4d7
+UID:3fd7bf14-9305-4c3d-8c29-99b75e44fa17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nMint Decavitator\nDualie Squelchers
@@ -50,7 +40,7 @@ DTSTART:20240615T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:0b199a04-9cca-46b5-a8be-08a4cbd209ed
+UID:0132adc8-7c65-44a8-9162-74c8f132a89f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nExplosher\nClassic Squiffer\
@@ -60,6 +50,16 @@ DTSTART:20240616T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:aeb88a32-ff38-4305-bca4-c0f616274504
+UID:c4844129-6a52-487c-ab20-80510252ba62
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Dualies\nCarbon Roller\nMini Splatling\nTri-St
+ ringer\n\nKing:\nCohozuna
+DTEND:20240619T235959Z
+DTSTART:20240618T080001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Cohozuna
+UID:9c209dfa-da82-46ef-8e12-8deb99aa360d
 END:VEVENT
 END:VCALENDAR
