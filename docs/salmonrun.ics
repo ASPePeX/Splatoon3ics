@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nDouser Dualies FF\nOctobrush\nSplat Charger
- \n\nKing:\nMegalodontia
-DTEND:20240613T075959Z
-DTSTART:20240611T160001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:269264a5-6700-406b-9182-eebf8ad0d5c0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDark Tetra Dualies\nFlingza Roller\n
  Rapid Blaster\n\nKing:\nCohozuna
 DTEND:20240614T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240613T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:43709442-7036-401b-a39d-d37ee76d311c
+UID:72f8890e-22f6-4325-9b70-086a5dc20ac8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nMint Decavitator\nDualie Squelchers
@@ -40,7 +30,7 @@ DTSTART:20240615T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:418c3020-ac1c-4204-973b-e11e3d3f3c26
+UID:4aae6fd6-4d32-4926-988b-e814bf7df05c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nExplosher\nClassic Squiffer\
@@ -50,7 +40,7 @@ DTSTART:20240616T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:f324606a-9730-47c9-861b-d256a86dd786
+UID:a9f8729e-2fbe-4b61-b96d-ebe99d98f9fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nCarbon Roller\nMini Splatling\nTri-St
@@ -60,6 +50,16 @@ DTSTART:20240618T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:6b9df1e5-0ec2-4d29-9b18-6323778ec3ef
+UID:f1820196-2bc2-445e-a9e4-a1799b2ceb93
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nAerospray MG\nSplat Brella\nSplat Roller\nE-liter 4K
+ \n\nKing:\nHorrorboros
+DTEND:20240621T155959Z
+DTSTART:20240620T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:e50dbc50-f48e-455a-8b2e-356ab6217b6d
 END:VEVENT
 END:VCALENDAR
