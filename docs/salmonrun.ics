@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\nLuna Blaster\nExplosher\nClassic Squiffer\
- n\nKing:\nMegalodontia
-DTEND:20240618T075959Z
-DTSTART:20240616T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:50f54ca6-f231-44a0-8fe4-5a48b884ff0f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nCarbon Roller\nMini Splatling\nTri-St
  ringer\n\nKing:\nCohozuna
 DTEND:20240619T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240618T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:4f45ddd1-557c-4819-91d6-27f0d908d102
+UID:aa83cc95-4c7d-4e73-8c8c-22f8778fdf4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSplat Brella\nSplat Roller\nE-liter 4K
@@ -40,7 +30,7 @@ DTSTART:20240620T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:29354551-ad4b-4e97-be5b-da90844c9190
+UID:86c97e9d-50ca-4edf-8c7b-68cbfb6e8689
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nBlaster\nHydra Splatling\nRandom\n\nKing:
@@ -50,7 +40,7 @@ DTSTART:20240621T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:e2216d57-c451-4917-b0d4-15e4b175d90b
+UID:d71eadb7-ed5b-4ffb-b88a-c5818661fcc2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nRange Blaster\nBloblobber\nWellstring V\n\n
@@ -60,6 +50,16 @@ DTSTART:20240623T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:ac97f346-9f27-40c5-8241-8ccfe262cd02
+UID:f8e15ba1-60c7-480e-a50a-7ea35190a2d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nREEF-LUX 450\nSloshing Machine\nHeavy Edit Splatling
+ \nJet Squelcher\n\nKing:\nHorrorboros
+DTEND:20240626T155959Z
+DTSTART:20240625T000001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Horrorboros
+UID:7420d771-51f3-4096-89ea-95f1a65f15c1
 END:VEVENT
 END:VCALENDAR
