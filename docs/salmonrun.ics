@@ -20,7 +20,7 @@ DTSTART:20240618T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:93f96b62-060e-4b4f-8b69-272a30c69e73
+UID:7844ac13-76e4-4398-beba-4ded4e991397
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSplat Brella\nSplat Roller\nE-liter 4K
@@ -30,7 +30,7 @@ DTSTART:20240620T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:4646f578-495a-49b9-ae43-a718ad336b29
+UID:e2d597ba-73c1-496d-9975-fe3496689f94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nBlaster\nHydra Splatling\nRandom\n\nKing:
@@ -40,7 +40,7 @@ DTSTART:20240621T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:d02b90e0-e214-41d9-b135-480e5a35de4b
+UID:f56bb1c7-283c-4426-b232-1dd1cb5da8d1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nRange Blaster\nBloblobber\nWellstring V\n\n
@@ -50,7 +50,7 @@ DTSTART:20240623T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:46175779-7378-464b-a4f5-c3e78bb77acd
+UID:d0099f65-f306-429c-9a72-55409a7f253f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSloshing Machine\nHeavy Edit Splatling
@@ -60,6 +60,6 @@ DTSTART:20240625T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:1ad7a604-47b8-4ec8-833d-61a1e06fc8fc
+UID:47261c9a-06a4-4240-b9b4-35f288f2b759
 END:VEVENT
 END:VCALENDAR
