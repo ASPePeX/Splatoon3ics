@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Dualies\nCarbon Roller\nMini Splatling\nTri-St
- ringer\n\nKing:\nCohozuna
-DTEND:20240619T235959Z
-DTSTART:20240618T080001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:9528eeb5-3482-4ead-a268-61dbaf5d70b8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSplat Brella\nSplat Roller\nE-liter 4K
  \n\nKing:\nHorrorboros
 DTEND:20240621T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240620T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:33f6bff1-4abc-472e-bd63-bb155b466a95
+UID:47e685be-db8b-457e-9460-30a7e785c1f2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nBlaster\nHydra Splatling\nRandom\n\nKing:
@@ -40,7 +30,7 @@ DTSTART:20240621T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:99ddb72d-d01e-465d-b420-c4807f77a70d
+UID:80b19ea3-ea62-4344-aa1f-34818a8cd312
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nRange Blaster\nBloblobber\nWellstring V\n\n
@@ -50,7 +40,7 @@ DTSTART:20240623T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:66cb8019-2b3b-47d6-ab1f-a61d315bcc3a
+UID:7363919b-e7d9-4774-b751-d268dec8b925
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSloshing Machine\nHeavy Edit Splatling
@@ -60,6 +50,16 @@ DTSTART:20240625T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:6b1eae7a-3b8a-4f4c-bb68-98c2ddbedd91
+UID:6c1808d8-9642-4af9-a56d-325b75175b9d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nDouser Dualies FF\nBallpoint Splat
+ ling\nRapid Blaster\n\nKing:\nMegalodontia
+DTEND:20240628T075959Z
+DTSTART:20240626T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:f4a2d660-380b-4a1e-a568-bdc14664a095
 END:VEVENT
 END:VCALENDAR
