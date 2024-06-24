@@ -20,7 +20,7 @@ DTSTART:20240623T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:981ce653-376c-4b23-9358-75e75a1880de
+UID:ec6bfe7a-6593-4b01-abe2-c464c76ee456
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSloshing Machine\nHeavy Edit Splatling
@@ -30,7 +30,7 @@ DTSTART:20240625T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:4a4ee122-741a-4f3f-a9ed-9c796c69252e
+UID:8356fc4b-5e90-4b1c-b971-dff0d6a09a4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nDouser Dualies FF\nBallpoint Splat
@@ -40,7 +40,7 @@ DTSTART:20240626T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:d48d5a5f-e588-4b91-ae28-ee82e36a8c00
+UID:316faf66-d7e0-4696-a60f-9b2bbf6ac6b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplatana Wiper\nSplattershot Pro\
@@ -50,7 +50,7 @@ DTSTART:20240628T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:f41b7d22-06df-4662-911e-703052f20a83
+UID:afa90d86-e55b-4986-8ac5-9ad0835aeb1f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nBlaster\nH-3 Nozzlenose\nClassic Squi
@@ -60,6 +60,6 @@ DTSTART:20240630T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:d5ebfbef-2011-4910-8469-1c11fc11ea47
+UID:e575a70b-7368-463e-9ff7-048444b32a2f
 END:VEVENT
 END:VCALENDAR
