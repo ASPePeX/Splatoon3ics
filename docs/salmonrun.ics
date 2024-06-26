@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nREEF-LUX 450\nSloshing Machine\nHeavy Edit Splatling
- \nJet Squelcher\n\nKing:\nHorrorboros
-DTEND:20240626T155959Z
-DTSTART:20240625T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Horrorboros
-UID:d20da1b9-bdd2-4146-845c-57a5723e8942
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nDouser Dualies FF\nBallpoint Splat
  ling\nRapid Blaster\n\nKing:\nMegalodontia
 DTEND:20240628T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240626T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:eb6ef198-37f7-43db-9bc1-2de274dc30e6
+UID:5d433574-c3c5-4933-b98e-05bb93874639
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplatana Wiper\nSplattershot Pro\
@@ -40,7 +30,7 @@ DTSTART:20240628T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:36a04e0d-1d76-4396-9d3d-1c2cb5c03230
+UID:9b8d5a97-2d1c-4930-a2f9-13a7b8eef1cf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nBlaster\nH-3 Nozzlenose\nClassic Squi
@@ -50,7 +40,7 @@ DTSTART:20240630T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:95ac40ee-9284-47cb-9dee-f72c5dcdf7b3
+UID:efd6f0aa-b873-4265-84be-d99b925093ad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplash-o-matic\nCarbon Roller\nTenta Br
@@ -60,6 +50,16 @@ DTSTART:20240701T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:c1e9ec90-903f-4429-bac2-accc333fa25b
+UID:0ca4a6a2-5683-40b6-8d08-6ba413ea0c85
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Nova\nSplatana Stamper\nPainbrush\nRapi
+ d Blaster Pro\n\nKing:\nCohozuna
+DTEND:20240704T235959Z
+DTSTART:20240703T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:f4036345-49e3-4849-a368-a3b7012c0f62
 END:VEVENT
 END:VCALENDAR
