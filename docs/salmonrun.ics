@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nDouser Dualies FF\nBallpoint Splat
- ling\nRapid Blaster\n\nKing:\nMegalodontia
-DTEND:20240628T075959Z
-DTSTART:20240626T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:34a01edd-7911-4810-a79b-2de8263f7517
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplatana Wiper\nSplattershot Pro\
  nHeavy Splatling\n\nKing:\nCohozuna
 DTEND:20240629T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240628T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:c5a526f8-0446-4062-aae9-4f10135a3243
+UID:6e175495-d295-4f24-82aa-3275f1e4797b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nBlaster\nH-3 Nozzlenose\nClassic Squi
@@ -40,7 +30,7 @@ DTSTART:20240630T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:b790bd13-5b5e-4ab1-909f-71f86731ed04
+UID:22b988f7-90ef-4240-8910-e69c6077e082
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplash-o-matic\nCarbon Roller\nTenta Br
@@ -50,7 +40,7 @@ DTSTART:20240701T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:62268f4a-a5ca-428a-a1cc-500dcf92ce75
+UID:b6f9893a-0304-45ed-be9f-169ceb0f49d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nSplatana Stamper\nPainbrush\nRapi
@@ -60,6 +50,16 @@ DTSTART:20240703T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:8fb8baf7-613d-4b39-93b3-e0fb8366707d
+UID:60892dc5-e5b5-4e8f-b756-f8cae5a144e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nClash Blaster\nMini Splatling\nDread Wringer\nBamboo
+ zler 14 Mk I\n\nKing:\nHorrorboros
+DTEND:20240706T155959Z
+DTSTART:20240705T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:52880993-71b8-4dc1-b045-c52a4340ba23
 END:VEVENT
 END:VCALENDAR
