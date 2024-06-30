@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nUndercover Brella\nSplatana Wiper\nSplattershot Pro\
- nHeavy Splatling\n\nKing:\nCohozuna
-DTEND:20240629T235959Z
-DTSTART:20240628T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:c69181b3-0d39-43f0-b86c-13ad9c652790
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nBlaster\nH-3 Nozzlenose\nClassic Squi
  ffer\n\nKing:\nHorrorboros
 DTEND:20240701T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240630T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:be4131d8-254a-40f1-9d27-5c892f866fe4
+UID:cf4ef993-8c5c-4661-8b24-b1197c34ddb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplash-o-matic\nCarbon Roller\nTenta Br
@@ -40,7 +30,7 @@ DTSTART:20240701T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:bc48c4e0-d544-4dbd-9df4-4631f98ee96b
+UID:a4a587fd-0178-433a-91a6-f7d5bb223850
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nSplatana Stamper\nPainbrush\nRapi
@@ -50,7 +40,7 @@ DTSTART:20240703T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:10201657-9c99-4dc5-95c7-4e4b49e9f862
+UID:16eb06bc-af01-40fd-a215-2f562e76530a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nMini Splatling\nDread Wringer\nBamboo
@@ -60,6 +50,15 @@ DTSTART:20240705T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:6ea12d19-3e61-47ec-9d90-646b1394c9f3
+UID:c738af06-7aad-4892-a883-151b8eb10a5b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
+DTEND:20240708T075959Z
+DTSTART:20240706T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Triumvirate
+UID:d81f9829-48f3-46f2-a94b-910493b944bb
 END:VEVENT
 END:VCALENDAR
