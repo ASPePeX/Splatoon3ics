@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Dualies\nBlaster\nH-3 Nozzlenose\nClassic Squi
- ffer\n\nKing:\nHorrorboros
-DTEND:20240701T155959Z
-DTSTART:20240630T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:90278de9-eb9d-4a1c-a14c-743b432a29a3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplash-o-matic\nCarbon Roller\nTenta Br
  ella\n\nKing:\nMegalodontia
 DTEND:20240703T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240701T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:5b31c5fc-a31b-4e73-99ab-512911655851
+UID:a408f593-b82a-404a-9151-edb5ff3fe1f0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nSplatana Stamper\nPainbrush\nRapi
@@ -40,7 +30,7 @@ DTSTART:20240703T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:eb1ac42c-f84a-4f12-8477-e00057f9a6ab
+UID:db0562a8-3390-4045-8493-cf1a2516c173
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nMini Splatling\nDread Wringer\nBamboo
@@ -50,7 +40,7 @@ DTSTART:20240705T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:c755aa61-0549-43ed-925b-0f4fd61ad4ac
+UID:4207d9c0-f5c2-4747-93fa-d03908432ef3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20240706T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:aa8c029d-ab3b-4971-b2d6-07879d07bcc7
+UID:cf7ef7c4-0aa7-4812-84ac-9291fc6f591a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nMint Decavitator\
+ n.96 Gal\n\nKing:\nCohozuna
+DTEND:20240709T235959Z
+DTSTART:20240708T080001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Cohozuna
+UID:044f8e94-73db-4bc4-adc6-bc97e033ff14
 END:VEVENT
 END:VCALENDAR
