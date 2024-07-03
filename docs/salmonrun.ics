@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nTri-Slosher\nSplash-o-matic\nCarbon Roller\nTenta Br
- ella\n\nKing:\nMegalodontia
-DTEND:20240703T075959Z
-DTSTART:20240701T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Megalodontia
-UID:a758ca8d-081b-4106-a960-3b7368ea08de
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nSplatana Stamper\nPainbrush\nRapi
  d Blaster Pro\n\nKing:\nCohozuna
 DTEND:20240704T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240703T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:1aae2a9c-2dea-49ad-9c01-353a18e5b53f
+UID:4ba9357b-b6eb-40aa-88ab-1f5dac42e38d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nMini Splatling\nDread Wringer\nBamboo
@@ -40,7 +30,7 @@ DTSTART:20240705T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:677b5f41-e935-4332-a0cc-d7c072f8c8c2
+UID:279be045-155d-4df9-b384-faa6299f8e03
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +39,7 @@ DTSTART:20240706T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:fdd69489-0f0d-4f27-98ad-0c8c3a759237
+UID:11053013-c34d-4813-8def-7b9956dfbd5e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nMint Decavitator\
@@ -59,6 +49,16 @@ DTSTART:20240708T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:7c718ce3-d9dc-4186-86ed-b710cf36ab80
+UID:d1fdd6b3-33ac-4653-a75a-91846b781e19
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Roller\nSplattershot Pro\nS-BLAST '92\nGoo Tub
+ er\n\nKing:\nHorrorboros
+DTEND:20240711T155959Z
+DTSTART:20240710T000001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:a614b014-b1ae-484d-b347-eea4bb4880e7
 END:VEVENT
 END:VCALENDAR
