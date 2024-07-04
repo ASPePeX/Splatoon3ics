@@ -20,7 +20,7 @@ DTSTART:20240703T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:f00b9a01-f6b0-4d87-ab0e-e912d3010476
+UID:efd88967-b836-4325-8719-b4d4029c3f48
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nMini Splatling\nDread Wringer\nBamboo
@@ -30,7 +30,7 @@ DTSTART:20240705T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:e15aed2b-b784-4662-b77a-3ae13c9a073f
+UID:3764fad4-70dc-4f29-a2c9-b18707ca8f5d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20240706T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:61a5e178-9064-47de-8341-ec38c3b125fa
+UID:44920b63-25a6-4d44-a178-a446b7334637
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nMint Decavitator\
@@ -49,7 +49,7 @@ DTSTART:20240708T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:0e85794c-b237-4579-a4ae-966b2f7d51b3
+UID:002101cf-738c-44bf-98b9-dacc1eca11c3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Roller\nSplattershot Pro\nS-BLAST '92\nGoo Tub
@@ -59,6 +59,6 @@ DTSTART:20240710T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:d738bdd8-1d5d-4f8a-a33b-b86f35c04eb5
+UID:7e68bc2d-620d-42bd-9d3c-24e54111725f
 END:VEVENT
 END:VCALENDAR
