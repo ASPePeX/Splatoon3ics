@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Nova\nSplatana Stamper\nPainbrush\nRapi
- d Blaster Pro\n\nKing:\nCohozuna
-DTEND:20240704T235959Z
-DTSTART:20240703T080001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:f7290479-dbbf-4a7f-a915-350b3affb8d9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nMini Splatling\nDread Wringer\nBamboo
  zler 14 Mk I\n\nKing:\nHorrorboros
 DTEND:20240706T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240705T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:39d9439d-e904-431a-93f7-6498d995c7d0
+UID:e60790ff-58b4-4b95-aec5-b076382a3589
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +29,7 @@ DTSTART:20240706T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:b509766c-944c-4513-8d88-930a98aace88
+UID:1d992297-111e-403c-a4c0-fa04281b8a35
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nMint Decavitator\
@@ -49,7 +39,7 @@ DTSTART:20240708T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:92a078ac-fd98-4e50-acbc-ce0dbbf3c5f5
+UID:ef297dd7-0299-4e64-b669-389948023a9f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Roller\nSplattershot Pro\nS-BLAST '92\nGoo Tub
@@ -59,6 +49,16 @@ DTSTART:20240710T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:411132b4-8f21-4a62-9ec7-4f491d13b662
+UID:cb2f1755-98f9-489d-89ca-44f443dd3034
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot\nRecycled Brella 24 Mk I\nBloblobber\nS
+ plat Charger\n\nKing:\nMegalodontia
+DTEND:20240713T075959Z
+DTSTART:20240711T160001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:a382b3dc-737c-4c86-8bb9-164a256d3488
 END:VEVENT
 END:VCALENDAR
