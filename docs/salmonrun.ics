@@ -20,7 +20,7 @@ DTSTART:20240705T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:2488b4a5-1b5c-46ef-8f39-8e55cfe5320f
+UID:06f31687-781f-4a82-96ce-6b9de0c37de4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20240706T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:98677bff-7ea7-448f-9dc8-574690e4165e
+UID:6459bf8b-a42d-43df-9b56-5cb910f54578
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nMint Decavitator\
@@ -39,7 +39,7 @@ DTSTART:20240708T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:cceaf589-64c0-4422-bc90-3ef72670b261
+UID:ca51c642-4273-4ac7-abaf-fed593a7bc69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Roller\nSplattershot Pro\nS-BLAST '92\nGoo Tub
@@ -49,7 +49,7 @@ DTSTART:20240710T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:53ea2354-7338-4584-90f7-105c1fc3a6f1
+UID:48dd1e6e-a6ac-436f-a36c-cea31b11ff55
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nRecycled Brella 24 Mk I\nBloblobber\nS
@@ -59,6 +59,6 @@ DTSTART:20240711T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:99706dc9-4ac5-4c4f-a23f-7ab8ea798033
+UID:2685646a-eaae-44f8-9ad0-23e7eea47662
 END:VEVENT
 END:VCALENDAR
