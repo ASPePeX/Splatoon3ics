@@ -13,23 +13,13 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nClash Blaster\nMini Splatling\nDread Wringer\nBamboo
- zler 14 Mk I\n\nKing:\nHorrorboros
-DTEND:20240706T155959Z
-DTSTART:20240705T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:06f31687-781f-4a82-96ce-6b9de0c37de4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
 DTEND:20240708T075959Z
 DTSTART:20240706T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:6459bf8b-a42d-43df-9b56-5cb910f54578
+UID:02c36063-0c47-4b28-8672-c4642db327fe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nMint Decavitator\
@@ -39,7 +29,7 @@ DTSTART:20240708T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:ca51c642-4273-4ac7-abaf-fed593a7bc69
+UID:f620f852-fee2-4a42-9e9d-7768b8bab2b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Roller\nSplattershot Pro\nS-BLAST '92\nGoo Tub
@@ -49,7 +39,7 @@ DTSTART:20240710T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:48dd1e6e-a6ac-436f-a36c-cea31b11ff55
+UID:7d9ab651-a1b1-4f81-8b43-597639fb1738
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nRecycled Brella 24 Mk I\nBloblobber\nS
@@ -59,6 +49,16 @@ DTSTART:20240711T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:2685646a-eaae-44f8-9ad0-23e7eea47662
+UID:9ef66a91-83ed-405f-83b4-fd25dd80293a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nAerospray MG\nSqueezer\nDynamo Roller\nHydra Splatli
+ ng\n\nKing:\nCohozuna
+DTEND:20240714T235959Z
+DTSTART:20240713T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:0aa6c5ae-305b-41d9-a8c6-97ac8ac08fd5
 END:VEVENT
 END:VCALENDAR
