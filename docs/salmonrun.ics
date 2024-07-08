@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
-DTEND:20240708T075959Z
-DTSTART:20240706T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:e48c952a-644f-4921-b74d-5a9c9d8a420c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nUndercover Brella\nMint Decavitator\
  n.96 Gal\n\nKing:\nCohozuna
 DTEND:20240709T235959Z
@@ -29,7 +20,7 @@ DTSTART:20240708T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:ef3a9e74-2627-44e7-9d9c-e4a7ce633402
+UID:dab5537c-c266-40c7-942b-60a9e4c9197a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Roller\nSplattershot Pro\nS-BLAST '92\nGoo Tub
@@ -39,7 +30,7 @@ DTSTART:20240710T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:a29e1ae6-7994-4e8e-b1f7-5e74edd40daf
+UID:3f8d7a05-015d-4fe9-9d35-3bcdbfaa3fdb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nRecycled Brella 24 Mk I\nBloblobber\nS
@@ -49,7 +40,7 @@ DTSTART:20240711T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:a6f0d4b4-2992-471e-9e60-daf046d34bc9
+UID:7817cb60-77de-4ef4-82e1-336148eebb81
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSqueezer\nDynamo Roller\nHydra Splatli
@@ -59,6 +50,16 @@ DTSTART:20240713T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:e4f7bdff-7b45-4f4d-a8fd-a43b562f62e3
+UID:0fec7f41-129d-4667-b2c2-050b9aff9b64
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nPainbrush\nWellstri
+ ng V\n\nKing:\nHorrorboros
+DTEND:20240716T155959Z
+DTSTART:20240715T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:9465f03b-9b6b-4d6c-a92d-3204430d6c79
 END:VEVENT
 END:VCALENDAR
