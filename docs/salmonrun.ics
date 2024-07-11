@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Roller\nSplattershot Pro\nS-BLAST '92\nGoo Tub
- er\n\nKing:\nHorrorboros
-DTEND:20240711T155959Z
-DTSTART:20240710T000001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:6f9defbb-73ac-4e95-a52d-08fa3bf1b267
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nRecycled Brella 24 Mk I\nBloblobber\nS
  plat Charger\n\nKing:\nMegalodontia
 DTEND:20240713T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240711T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:1c70954e-20a2-4578-a50a-1f476069f6b6
+UID:0f2cf531-4647-4f6e-8478-2939edf34f81
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSqueezer\nDynamo Roller\nHydra Splatli
@@ -40,7 +30,7 @@ DTSTART:20240713T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:b2cca8b3-0fc3-442c-aa10-f176c124536a
+UID:b1d0409a-b915-4d14-9d8d-86176c4945d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nPainbrush\nWellstri
@@ -50,7 +40,7 @@ DTSTART:20240715T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:041cf1a8-6b37-4565-81d2-6e94f743885f
+UID:63787974-b951-442f-87a6-53da049b59ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nGlooga Dualies\nSplattershot Nova\nE-l
@@ -60,6 +50,16 @@ DTSTART:20240716T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:70b382e0-26b0-4b0a-a2e4-fa5cb0c319e1
+UID:7bcc8cc8-04b6-446c-a7ef-8e5ad52123ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nSplatana Stamper\nMini Splatling\nRapid Bla
+ ster Pro\n\nKing:\nCohozuna
+DTEND:20240719T235959Z
+DTSTART:20240718T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:63fd44c6-f997-4849-bfeb-23a4376ebfba
 END:VEVENT
 END:VCALENDAR
