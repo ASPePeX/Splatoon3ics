@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot\nRecycled Brella 24 Mk I\nBloblobber\nS
- plat Charger\n\nKing:\nMegalodontia
-DTEND:20240713T075959Z
-DTSTART:20240711T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:72030d61-5a32-4317-9daf-0be01180f156
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSqueezer\nDynamo Roller\nHydra Splatli
  ng\n\nKing:\nCohozuna
 DTEND:20240714T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240713T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:ad09e959-1dd4-45e3-a0bb-9c69713c864a
+UID:0130ab1f-9d7e-46f3-a621-8e64d03ef44f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nPainbrush\nWellstri
@@ -40,7 +30,7 @@ DTSTART:20240715T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:668194a4-6fd9-4457-9daa-0c37592a4d9e
+UID:677985e2-0b07-4b98-9dbd-248bbfd3ae8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nGlooga Dualies\nSplattershot Nova\nE-l
@@ -50,7 +40,7 @@ DTSTART:20240716T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:29eb2107-7f41-4b65-a5d4-b370cad3ad09
+UID:66123bab-1930-4918-bedc-2c4e04c570ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplatana Stamper\nMini Splatling\nRapid Bla
@@ -60,6 +50,16 @@ DTSTART:20240718T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:3583855f-7f95-4a39-984a-8681be7dbab7
+UID:0b4228aa-9cfc-4b61-b2d4-958c84277c48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\n.96 Gal\nRandom\n\nKing:\nH
+ orrorboros
+DTEND:20240721T155959Z
+DTSTART:20240720T000001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Horrorboros
+UID:2adcae29-399b-468f-94ee-7f34363c77f5
 END:VEVENT
 END:VCALENDAR
