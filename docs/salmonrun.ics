@@ -20,7 +20,7 @@ DTSTART:20240711T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:4a558e6d-6a78-4429-8010-945c7c03b24a
+UID:72030d61-5a32-4317-9daf-0be01180f156
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSqueezer\nDynamo Roller\nHydra Splatli
@@ -30,7 +30,7 @@ DTSTART:20240713T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:77f4dd09-804e-4669-9dea-6b8447f67a34
+UID:ad09e959-1dd4-45e3-a0bb-9c69713c864a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nPainbrush\nWellstri
@@ -40,7 +40,7 @@ DTSTART:20240715T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:d9d47cba-85d5-4875-81bb-f4715c8d604f
+UID:668194a4-6fd9-4457-9daa-0c37592a4d9e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nGlooga Dualies\nSplattershot Nova\nE-l
@@ -50,7 +50,7 @@ DTSTART:20240716T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:143e108b-0c4b-41ac-a7fb-6a05ec2247df
+UID:29eb2107-7f41-4b65-a5d4-b370cad3ad09
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplatana Stamper\nMini Splatling\nRapid Bla
@@ -60,6 +60,6 @@ DTSTART:20240718T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:9c8a3990-ede8-4f07-a193-dac1c286a1d8
+UID:3583855f-7f95-4a39-984a-8681be7dbab7
 END:VEVENT
 END:VCALENDAR
