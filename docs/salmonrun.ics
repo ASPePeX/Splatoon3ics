@@ -20,7 +20,7 @@ DTSTART:20240713T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:5aa1b3f1-c09c-40c8-80fe-6305c4809de7
+UID:7381c08d-0e62-4807-a5b1-4262f5cd0db3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nPainbrush\nWellstri
@@ -30,7 +30,7 @@ DTSTART:20240715T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:11cfdb77-58b8-4f4a-940f-34626663d97b
+UID:5ec84654-e452-4103-8af7-0effc857764c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nGlooga Dualies\nSplattershot Nova\nE-l
@@ -40,7 +40,7 @@ DTSTART:20240716T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:2c3594b5-3745-42b4-bb93-bc86b7b44851
+UID:71a5e9d3-f6b5-4546-be2f-7ccc688bcbfe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplatana Stamper\nMini Splatling\nRapid Bla
@@ -50,7 +50,7 @@ DTSTART:20240718T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:2d7dc6fa-f443-4fe2-bae1-6c630b4f477f
+UID:094cdff8-12e2-4770-bfc3-eb88303280c8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\n.96 Gal\nRandom\n\nKing:\nH
@@ -60,6 +60,6 @@ DTSTART:20240720T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:6344b980-3907-44e5-871d-f3e4a566b24d
+UID:b3c456cb-04bc-4c4c-99b1-8a56c66d8767
 END:VEVENT
 END:VCALENDAR
