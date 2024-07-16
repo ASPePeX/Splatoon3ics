@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nPainbrush\nWellstri
- ng V\n\nKing:\nHorrorboros
-DTEND:20240716T155959Z
-DTSTART:20240715T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:af83ed3b-3337-43fd-88cf-ee9e10e5aaa0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nLuna Blaster\nGlooga Dualies\nSplattershot Nova\nE-l
  iter 4K\n\nKing:\nMegalodontia
 DTEND:20240718T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240716T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:2cf5788f-80d6-4155-9d50-bbb4f7a6f1e0
+UID:de196981-7101-4d26-8e55-57f1cb6c4e05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplatana Stamper\nMini Splatling\nRapid Bla
@@ -40,7 +30,7 @@ DTSTART:20240718T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:88222ab4-2a52-4aee-a58f-6ae87df3f763
+UID:2cb1d4a5-f61f-4915-9453-8887afbc84e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\n.96 Gal\nRandom\n\nKing:\nH
@@ -50,6 +40,16 @@ DTSTART:20240720T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:6769624d-529e-4191-82ed-e1c89addd604
+UID:40609971-b581-48fe-b1d2-67b19499c0ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nMint Decavitator\nB
+ amboozler 14 Mk I\n\nKing:\nMegalodontia
+DTEND:20240723T075959Z
+DTSTART:20240721T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:11555c95-52c4-424b-9730-0c0374b49246
 END:VEVENT
 END:VCALENDAR
