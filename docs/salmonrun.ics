@@ -20,7 +20,7 @@ DTSTART:20240716T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:5fa9d0d4-371c-4b7b-a83e-c9ce30c1cc61
+UID:cf91cb7e-f7c8-4328-8b06-f60374130709
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplatana Stamper\nMini Splatling\nRapid Bla
@@ -30,7 +30,7 @@ DTSTART:20240718T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:8943c69a-34a1-42c1-9301-3d66ca58e150
+UID:f8b51abc-be19-41b3-92ab-e53ff0d16bf6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\n.96 Gal\nRandom\n\nKing:\nH
@@ -40,7 +40,7 @@ DTSTART:20240720T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:d5c24aae-024e-47f4-8d49-c4f653f4c7a1
+UID:334d63a5-cc25-4cef-8533-57437035f7b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nMint Decavitator\nB
@@ -50,6 +50,6 @@ DTSTART:20240721T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:5168b41f-1121-49a1-a882-93bcd1c57951
+UID:edeb8cdb-377a-4826-b866-5cae33b02404
 END:VEVENT
 END:VCALENDAR
