@@ -20,7 +20,7 @@ DTSTART:20240718T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:124f47e9-58f7-41c0-ab46-6b77454984bd
+UID:1055d411-3f9d-4c65-be78-732c82db403c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\n.96 Gal\nRandom\n\nKing:\nH
@@ -30,7 +30,7 @@ DTSTART:20240720T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:6e89d8bb-decc-4e8c-8530-0da44b4c6bfe
+UID:85be331f-9b61-405f-8a6c-f4953af34337
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nMint Decavitator\nB
@@ -40,7 +40,7 @@ DTSTART:20240721T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:00f96b26-7739-4727-8608-8070c3b0aad9
+UID:14101066-7e58-4988-bded-6d64f6fa920c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nH-3 Nozzlenose\nClash Blaster\nTri-
@@ -50,6 +50,6 @@ DTSTART:20240723T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:ca747fd6-6056-41a0-835d-2208cee7c4a7
+UID:c45155aa-46df-49d9-90d8-36317cedced3
 END:VEVENT
 END:VCALENDAR
