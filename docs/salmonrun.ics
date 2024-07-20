@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nSplatana Stamper\nMini Splatling\nRapid Bla
- ster Pro\n\nKing:\nCohozuna
-DTEND:20240719T235959Z
-DTSTART:20240718T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:1055d411-3f9d-4c65-be78-732c82db403c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\n.96 Gal\nRandom\n\nKing:\nH
  orrorboros
 DTEND:20240721T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240720T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:85be331f-9b61-405f-8a6c-f4953af34337
+UID:1d4acfe3-4b76-40cc-af1a-10d964a0ca05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nMint Decavitator\nB
@@ -40,7 +30,7 @@ DTSTART:20240721T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:14101066-7e58-4988-bded-6d64f6fa920c
+UID:339f806e-3a11-4cfe-af61-0529f379a2a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nH-3 Nozzlenose\nClash Blaster\nTri-
@@ -50,6 +40,16 @@ DTSTART:20240723T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:c45155aa-46df-49d9-90d8-36317cedced3
+UID:3884bb3b-473c-4362-b5b9-a0746986304a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Dualies\nSplattershot Nova\nRecycled Brella 24
+  Mk I\nE-liter 4K\n\nKing:\nHorrorboros
+DTEND:20240726T155959Z
+DTSTART:20240725T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:7c161846-c324-4299-b3d1-df0671bf4e87
 END:VEVENT
 END:VCALENDAR
