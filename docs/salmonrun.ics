@@ -20,7 +20,7 @@ DTSTART:20240720T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:5c97f3e4-5daa-4cce-a01d-1a5c6a31b418
+UID:b76c9272-fade-4128-b9be-ac3f77c0f856
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nMint Decavitator\nB
@@ -30,7 +30,7 @@ DTSTART:20240721T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:3cb7828b-b1f3-4b6e-b4c3-393241519b30
+UID:488f3a48-0f13-4cd1-8608-b34ce528d3d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nH-3 Nozzlenose\nClash Blaster\nTri-
@@ -40,7 +40,7 @@ DTSTART:20240723T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:b5d3e29a-b9c6-43be-949d-f63947f15010
+UID:97e84d22-6917-4994-89b9-01d588e4997f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplattershot Nova\nRecycled Brella 24
@@ -50,6 +50,6 @@ DTSTART:20240725T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:51a53bbe-dba4-4336-8ec6-9515d9b8bcce
+UID:b8eeeeb3-c82c-4202-a20a-4ece26981dbe
 END:VEVENT
 END:VCALENDAR
