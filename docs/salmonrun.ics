@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nN-ZAP '85\nSplat Brella\n.96 Gal\nRandom\n\nKing:\nH
- orrorboros
-DTEND:20240721T155959Z
-DTSTART:20240720T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Horrorboros
-UID:f41f2445-c767-4615-9276-c33ab56226fb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nMint Decavitator\nB
  amboozler 14 Mk I\n\nKing:\nMegalodontia
 DTEND:20240723T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240721T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:eee81eee-7c5c-4a92-af08-1a11c4071811
+UID:5334109d-081f-46c7-a4e9-3c86f22ae63b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nH-3 Nozzlenose\nClash Blaster\nTri-
@@ -40,7 +30,7 @@ DTSTART:20240723T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:6c196995-212f-4b76-829e-72230ffe9f24
+UID:17348f0f-27dd-488e-a048-fcf742b8de3e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplattershot Nova\nRecycled Brella 24
@@ -50,6 +40,16 @@ DTSTART:20240725T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:f7dfa187-a43b-41d5-bcc4-4a29676d2a05
+UID:9617b2e0-2868-48e3-ae8d-b0fa7574a47d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Wiper\nSplat Roller\nHeavy Sp
+ latling\n\nKing:\nMegalodontia
+DTEND:20240728T075959Z
+DTSTART:20240726T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Megalodontia
+UID:1aa21421-6d86-4c70-a1f4-21061209b9b7
 END:VEVENT
 END:VCALENDAR
