@@ -20,7 +20,7 @@ DTSTART:20240723T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:677ebbca-4c68-4cfb-bb88-2a8dd314b5b8
+UID:46589e9c-5111-4b02-af79-330eb0d8be2e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplattershot Nova\nRecycled Brella 24
@@ -30,7 +30,7 @@ DTSTART:20240725T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:94b492e2-9880-4c38-9af4-2011533a23ce
+UID:88d28409-ac3b-4bfe-8cf7-9460bf2f3821
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Wiper\nSplat Roller\nHeavy Sp
@@ -40,7 +40,7 @@ DTSTART:20240726T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:6c3d784d-f686-45aa-9c23-8be92f3a28ca
+UID:f92ef7df-c04c-4b34-97b3-44b73c6b8caa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nTri-Slosher\nDread Wringer\n.96 Gal\n\nKin
@@ -50,7 +50,7 @@ DTSTART:20240728T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:a2bad074-7547-4ed3-a4a2-11a9884ec91c
+UID:a2a47245-342d-4011-a0be-363bfe6e8b48
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSploosh-o-matic\nNautilus 47\nRapid Blast
@@ -60,6 +60,6 @@ DTSTART:20240730T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:1ef00ad0-4f8b-4b54-a4cc-0aa50c109a88
+UID:f614b6a6-b493-4e94-9d1c-2f8cf6e90c88
 END:VEVENT
 END:VCALENDAR
