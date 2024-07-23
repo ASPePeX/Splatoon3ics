@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nMint Decavitator\nB
- amboozler 14 Mk I\n\nKing:\nMegalodontia
-DTEND:20240723T075959Z
-DTSTART:20240721T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:e3b2fc1a-3fbe-4d89-8399-4e071ec034e5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nH-3 Nozzlenose\nClash Blaster\nTri-
  Stringer\n\nKing:\nCohozuna
 DTEND:20240724T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240723T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:115db30d-0409-4b4d-a710-6f201931493b
+UID:677ebbca-4c68-4cfb-bb88-2a8dd314b5b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplattershot Nova\nRecycled Brella 24
@@ -40,7 +30,7 @@ DTSTART:20240725T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:f570a5ec-3d0d-4478-8fcf-fc7172f8b319
+UID:94b492e2-9880-4c38-9af4-2011533a23ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Wiper\nSplat Roller\nHeavy Sp
@@ -50,7 +40,7 @@ DTSTART:20240726T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:4394e110-b583-44a9-a681-0f19d8b4da5b
+UID:6c3d784d-f686-45aa-9c23-8be92f3a28ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nTri-Slosher\nDread Wringer\n.96 Gal\n\nKin
@@ -60,6 +50,16 @@ DTSTART:20240728T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:373ce596-eabf-4a7b-826d-65ba47156ca4
+UID:a2bad074-7547-4ed3-a4a2-11a9884ec91c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nN-ZAP '85\nSploosh-o-matic\nNautilus 47\nRapid Blast
+ er\n\nKing:\nHorrorboros
+DTEND:20240731T155959Z
+DTSTART:20240730T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:1ef00ad0-4f8b-4b54-a4cc-0aa50c109a88
 END:VEVENT
 END:VCALENDAR
