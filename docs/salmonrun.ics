@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Dualies\nSplattershot Nova\nRecycled Brella 24
-  Mk I\nE-liter 4K\n\nKing:\nHorrorboros
-DTEND:20240726T155959Z
-DTSTART:20240725T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:b04607f2-f7b6-4f53-9371-4ad6cc12295d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Wiper\nSplat Roller\nHeavy Sp
  latling\n\nKing:\nMegalodontia
 DTEND:20240728T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240726T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:63158c30-e518-4a92-98fc-72b07f326ecb
+UID:3702c23c-0d39-4a9f-aa1a-289958bb9bf8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nTri-Slosher\nDread Wringer\n.96 Gal\n\nKin
@@ -40,7 +30,7 @@ DTSTART:20240728T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:b4c987d8-3329-4364-ac91-e52fa69cca75
+UID:04be4a28-ec02-41b8-955d-293b4b8cada4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSploosh-o-matic\nNautilus 47\nRapid Blast
@@ -50,7 +40,7 @@ DTSTART:20240730T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:40e62ab7-e3b2-419e-a3c4-f8a7fc865364
+UID:bf054c6c-6941-4a78-9044-0c671b665ccd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nBlaster\nDualie Squelchers\nHeavy Ed
@@ -60,6 +50,16 @@ DTSTART:20240731T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:f722de3a-b10c-434d-aa09-58da17136083
+UID:0b04b1e0-1d24-4afe-b96a-676543a6ce01
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBallpoint Splatling\nSqueezer\nJet Squelcher\nRandom
+ \n\nKing:\nCohozuna
+DTEND:20240803T235959Z
+DTSTART:20240802T080001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:1a54c87d-59cd-4cc3-ac1b-1368cefe331d
 END:VEVENT
 END:VCALENDAR
