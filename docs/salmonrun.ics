@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Wiper\nSplat Roller\nHeavy Sp
- latling\n\nKing:\nMegalodontia
-DTEND:20240728T075959Z
-DTSTART:20240726T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Megalodontia
-UID:8b813025-c790-4429-a249-96f43592c602
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nTri-Slosher\nDread Wringer\n.96 Gal\n\nKin
  g:\nCohozuna
 DTEND:20240729T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240728T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:065942d7-b244-459a-b926-1400c8eb16ac
+UID:059fc329-10c9-4ba5-b3f7-e7f36c432156
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSploosh-o-matic\nNautilus 47\nRapid Blast
@@ -40,7 +30,7 @@ DTSTART:20240730T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:3b6aae51-95a1-4f0a-bfcc-392bc0405adb
+UID:e0234feb-f050-4a5c-944a-7a208c30680c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nBlaster\nDualie Squelchers\nHeavy Ed
@@ -50,7 +40,7 @@ DTSTART:20240731T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:31292cfb-2660-46f1-b934-48807c924a1e
+UID:adf135ab-2eab-4344-9f1c-6441a981ca21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nSqueezer\nJet Squelcher\nRandom
@@ -60,6 +50,16 @@ DTSTART:20240802T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:e1902206-a107-411e-88df-bbcba10b54aa
+UID:8596e7b6-34e3-4427-993b-7eb57c6e01d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDouser Dualies FF\nOctobrush\nFlingza Roller\nE-lite
+ r 4K\n\nKing:\nHorrorboros
+DTEND:20240805T155959Z
+DTSTART:20240804T000001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:09c391a8-82df-4def-a8de-709aeffdf5a5
 END:VEVENT
 END:VCALENDAR
