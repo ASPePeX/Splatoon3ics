@@ -20,7 +20,7 @@ DTSTART:20240728T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:0ca08530-dcf5-488f-90c7-e3c138ea8ae4
+UID:cf429167-1c1f-451d-b554-fa94c186b1c9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSploosh-o-matic\nNautilus 47\nRapid Blast
@@ -30,7 +30,7 @@ DTSTART:20240730T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:874f9d8c-f993-4bf6-b38a-a07c41b9b9da
+UID:8b4164df-e21a-4b92-b223-948db177fe93
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nBlaster\nDualie Squelchers\nHeavy Ed
@@ -40,7 +40,7 @@ DTSTART:20240731T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:4cc10e08-a3bc-4ccd-8fb3-e4e31fb3f176
+UID:e233eff5-c3d5-4b6a-bad4-5e8f5604b627
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nSqueezer\nJet Squelcher\nRandom
@@ -50,7 +50,7 @@ DTSTART:20240802T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:5c3efc7a-8b50-4bdf-aa93-49403a897db3
+UID:6359eeb9-4b56-4fd2-ba2a-644032c1f50e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nOctobrush\nFlingza Roller\nE-lite
@@ -60,6 +60,6 @@ DTSTART:20240804T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:dd87db64-e402-446a-bd57-cfa5b49c9485
+UID:c97d9f59-a3cd-44f3-9f68-8ff4ad417337
 END:VEVENT
 END:VCALENDAR
