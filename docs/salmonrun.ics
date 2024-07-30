@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\nTri-Slosher\nDread Wringer\n.96 Gal\n\nKin
- g:\nCohozuna
-DTEND:20240729T235959Z
-DTSTART:20240728T080001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:cf429167-1c1f-451d-b554-fa94c186b1c9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSploosh-o-matic\nNautilus 47\nRapid Blast
  er\n\nKing:\nHorrorboros
 DTEND:20240731T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240730T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:8b4164df-e21a-4b92-b223-948db177fe93
+UID:04df33ee-cb2b-4977-a7ce-df450971c9e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nBlaster\nDualie Squelchers\nHeavy Ed
@@ -40,7 +30,7 @@ DTSTART:20240731T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:e233eff5-c3d5-4b6a-bad4-5e8f5604b627
+UID:fa83bbdb-8641-4501-9d0c-c3b0119f9128
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nSqueezer\nJet Squelcher\nRandom
@@ -50,7 +40,7 @@ DTSTART:20240802T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:6359eeb9-4b56-4fd2-ba2a-644032c1f50e
+UID:d5494870-5070-46a3-b4ca-7e33fcd8a2fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nOctobrush\nFlingza Roller\nE-lite
@@ -60,6 +50,16 @@ DTSTART:20240804T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:c97d9f59-a3cd-44f3-9f68-8ff4ad417337
+UID:77ddf11a-92ee-4542-a2a2-dbaa74b9dffe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nAerospray MG\nClash Blaster\nClass
+ ic Squiffer\n\nKing:\nMegalodontia
+DTEND:20240807T075959Z
+DTSTART:20240805T160001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:fb0c5c2f-8a62-4a18-ad8c-d7718dd5bd41
 END:VEVENT
 END:VCALENDAR
