@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nN-ZAP '85\nSploosh-o-matic\nNautilus 47\nRapid Blast
- er\n\nKing:\nHorrorboros
-DTEND:20240731T155959Z
-DTSTART:20240730T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:5d6c6bbd-418a-412c-ae70-2e9628e1b14d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nBlaster\nDualie Squelchers\nHeavy Ed
  it Splatling\n\nKing:\nMegalodontia
 DTEND:20240802T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240731T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:dbac0b79-74ed-4c62-8b79-870747b0a315
+UID:290454b7-56b4-4662-8d70-bbaacf50d218
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nSqueezer\nJet Squelcher\nRandom
@@ -40,7 +30,7 @@ DTSTART:20240802T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:90992099-e711-472e-a07c-8811dac3e71f
+UID:67c12beb-cb89-4a10-a53b-c72452f7e500
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nOctobrush\nFlingza Roller\nE-lite
@@ -50,7 +40,7 @@ DTSTART:20240804T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:0bcbacd7-5fad-47e1-874c-f7c7f334f2d9
+UID:a7057fe0-3dbc-47f1-96c7-32e87fc9bc7c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nAerospray MG\nClash Blaster\nClass
@@ -60,6 +50,16 @@ DTSTART:20240805T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:1939726d-6769-4972-8042-b2571d370648
+UID:0397ac51-f896-4b69-bf92-3c55dd45b9fb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nCarbon Roller\nUndercover Brella\nSplattershot Pro\n
+ Wellstring V\n\nKing:\nCohozuna
+DTEND:20240808T235959Z
+DTSTART:20240807T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:74aa0156-0956-4032-9a9a-ea65823c6249
 END:VEVENT
 END:VCALENDAR
