@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBallpoint Splatling\nSqueezer\nJet Squelcher\nRandom
- \n\nKing:\nCohozuna
-DTEND:20240803T235959Z
-DTSTART:20240802T080001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:98a982a1-96b2-4c2d-966d-78a0a6994c97
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nOctobrush\nFlingza Roller\nE-lite
  r 4K\n\nKing:\nHorrorboros
 DTEND:20240805T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240804T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:c2ff288c-8405-42e0-a4f0-703f27d25ba9
+UID:d16c5846-d80d-4092-bd65-bbc9693fc957
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nAerospray MG\nClash Blaster\nClass
@@ -40,7 +30,7 @@ DTSTART:20240805T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:503ab92f-6421-4929-83a9-79eeb38cfc8d
+UID:f1100ba4-ee0e-4802-bdd8-5bb4b0a75129
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nUndercover Brella\nSplattershot Pro\n
@@ -50,7 +40,7 @@ DTSTART:20240807T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:f18c2b70-5838-4343-9f4d-fb60c9c013ee
+UID:52b9f947-766a-4a1a-8bd5-0d0ae296cd42
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSplash-o-matic\nSplat Rolle
@@ -60,6 +50,16 @@ DTSTART:20240809T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:43a5995a-d853-47b3-a902-90ce3e62d6c5
+UID:6260c91f-476a-4f55-b9d3-c87b44ac1793
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Dualies\nSlosher\nExplosher\nSnipewriter 5H\n\
+ nKing:\nMegalodontia
+DTEND:20240812T075959Z
+DTSTART:20240810T160001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:4e055cfd-c231-4997-bb2d-56fb13f64bad
 END:VEVENT
 END:VCALENDAR
