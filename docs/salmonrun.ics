@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDouser Dualies FF\nOctobrush\nFlingza Roller\nE-lite
- r 4K\n\nKing:\nHorrorboros
-DTEND:20240805T155959Z
-DTSTART:20240804T000001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:a8e27104-8e02-4681-a2d8-bd3573f1a36a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nAerospray MG\nClash Blaster\nClass
  ic Squiffer\n\nKing:\nMegalodontia
 DTEND:20240807T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240805T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:7c112ed0-8562-4e81-b8a3-30323c4c5de5
+UID:f447924c-66ad-401f-b9aa-ba327ed18baf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nUndercover Brella\nSplattershot Pro\n
@@ -40,7 +30,7 @@ DTSTART:20240807T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:bd0a7a86-b07f-428c-b2e1-c2cd0a8599a9
+UID:d4bbf53f-c324-477e-86b4-885575885639
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSplash-o-matic\nSplat Rolle
@@ -50,7 +40,7 @@ DTSTART:20240809T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:8bf2cd13-1c25-4eff-81bb-14f657a65832
+UID:c8b3aa98-463d-4446-a149-61b7f4e488df
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSlosher\nExplosher\nSnipewriter 5H\n\
@@ -60,6 +50,16 @@ DTSTART:20240810T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:2de54bce-a06e-4e8b-86be-711cce781189
+UID:d2f9ac0d-2f5a-4d38-b9c1-603b17802b2b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRange Blaster\nSqueezer\nDapple Dualies\nTenta Brell
+ a\n\nKing:\nCohozuna
+DTEND:20240813T235959Z
+DTSTART:20240812T080001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Cohozuna
+UID:a7ee7ae7-a386-456b-91fd-387bfeca3852
 END:VEVENT
 END:VCALENDAR
