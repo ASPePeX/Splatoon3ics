@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nAerospray MG\nClash Blaster\nClass
- ic Squiffer\n\nKing:\nMegalodontia
-DTEND:20240807T075959Z
-DTSTART:20240805T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:a9bf6f62-a908-4897-8696-4e8d93dd8faf
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nUndercover Brella\nSplattershot Pro\n
  Wellstring V\n\nKing:\nCohozuna
 DTEND:20240808T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240807T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:7a6575c4-2f98-493b-9834-c99aa6f8f61b
+UID:074b5f08-e7a3-41ca-abea-4fef54cdfdfc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSplash-o-matic\nSplat Rolle
@@ -40,7 +30,7 @@ DTSTART:20240809T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:3628055c-cded-4b69-a8f3-152b7c32c8ae
+UID:2936a939-d20d-4d19-8d77-e6787aff629d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSlosher\nExplosher\nSnipewriter 5H\n\
@@ -50,7 +40,7 @@ DTSTART:20240810T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:0357ddc8-72d6-45e5-8e9a-679a5f017ccc
+UID:e046e40d-d86b-4a90-ac15-32cdb1e52313
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRange Blaster\nSqueezer\nDapple Dualies\nTenta Brell
@@ -60,6 +50,16 @@ DTSTART:20240812T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:4719891e-6d78-4303-be23-ef8681049df2
+UID:31557dfc-99a3-4ce6-ada9-559662faff29
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nMint Decavitator\nOctobrush\nHydra Splatlin
+ g\n\nKing:\nHorrorboros
+DTEND:20240815T155959Z
+DTSTART:20240814T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:6564a1cb-b2fb-4c79-8f4d-527a8be088ef
 END:VEVENT
 END:VCALENDAR
