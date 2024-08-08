@@ -20,7 +20,7 @@ DTSTART:20240807T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:55f178c2-0b84-48e4-89fd-1cc3ebe2db14
+UID:7964883f-ba10-45c1-bf06-b5b179fb4f15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSplash-o-matic\nSplat Rolle
@@ -30,7 +30,7 @@ DTSTART:20240809T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:ee2bb8a5-8bb5-4cff-bf90-d178946bbf1c
+UID:11c50a18-309d-4e81-94bc-f89bbd022835
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSlosher\nExplosher\nSnipewriter 5H\n\
@@ -40,7 +40,7 @@ DTSTART:20240810T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:0b20de3b-e7e9-411e-9cb2-97542cb6b3c2
+UID:8a03693c-874f-431f-806e-922500619240
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRange Blaster\nSqueezer\nDapple Dualies\nTenta Brell
@@ -50,7 +50,7 @@ DTSTART:20240812T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:4e93aa0d-3a3b-4fac-95c9-616d5c394ff2
+UID:ea437964-5469-43dc-825a-4293e8493e31
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMint Decavitator\nOctobrush\nHydra Splatlin
@@ -60,6 +60,6 @@ DTSTART:20240814T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:187cf757-8ab9-4d8f-80dd-bcdba38261ee
+UID:0f5c4966-ee7e-4c8a-aef9-ea25f8437a97
 END:VEVENT
 END:VCALENDAR
