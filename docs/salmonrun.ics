@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSplash-o-matic\nSplat Rolle
- r\nTri-Stringer\n\nKing:\nHorrorboros
-DTEND:20240810T155959Z
-DTSTART:20240809T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:4809879c-abf7-477c-a359-2c3a4453ecae
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSlosher\nExplosher\nSnipewriter 5H\n\
  nKing:\nMegalodontia
 DTEND:20240812T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240810T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:65462055-071d-475d-b25e-f312a1aa8499
+UID:9b9c5cce-d698-46e9-b849-3c448b838339
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRange Blaster\nSqueezer\nDapple Dualies\nTenta Brell
@@ -40,7 +30,7 @@ DTSTART:20240812T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:f152e119-27b4-4968-acc0-d92034da02ac
+UID:996fe832-fd29-473f-a769-83ab99aafa6e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMint Decavitator\nOctobrush\nHydra Splatlin
@@ -50,7 +40,7 @@ DTSTART:20240814T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:2991eb70-fd3f-44a4-bb45-88e8bfe8c281
+UID:eccdfc7c-d5c9-498e-ba1f-c1c6a923f067
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nTri-Slosher\nPainbrush\nWellstrin
@@ -60,6 +50,15 @@ DTSTART:20240815T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:27fb8d10-9b0b-43db-a43e-ee3f82f046fd
+UID:b33daa1e-c2cb-4d2f-a7de-3acc0bf6eba4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
+DTEND:20240818T235959Z
+DTSTART:20240817T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Triumvirate
+UID:7c8fe3da-d29d-4d43-a658-d42db89aa672
 END:VEVENT
 END:VCALENDAR
