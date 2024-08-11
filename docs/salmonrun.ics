@@ -20,7 +20,7 @@ DTSTART:20240810T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:5cb2c851-b13b-4706-9770-0116e305aefb
+UID:88fa79ae-f80e-4c1b-bb17-6387f96b443f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRange Blaster\nSqueezer\nDapple Dualies\nTenta Brell
@@ -30,7 +30,7 @@ DTSTART:20240812T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:6a2d98f6-564a-445b-a773-cee0ce6a7b5b
+UID:20b4a50a-2e79-4a10-bdca-b85576b7e958
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMint Decavitator\nOctobrush\nHydra Splatlin
@@ -40,7 +40,7 @@ DTSTART:20240814T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:9590da84-1e66-4ad9-ba58-cca433aa4d94
+UID:7764054d-0285-44b8-838b-cd005f35e22b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nTri-Slosher\nPainbrush\nWellstrin
@@ -50,7 +50,7 @@ DTSTART:20240815T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:19040930-8eff-4a11-88e4-9479571ded1c
+UID:94ae2f78-0131-44b3-9c60-d4121ba9c429
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +59,6 @@ DTSTART:20240817T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:d65750f7-ae9d-4d38-bf25-98fed1707a19
+UID:39412728-4e5c-400b-ad97-2cf9a041e9e2
 END:VEVENT
 END:VCALENDAR
