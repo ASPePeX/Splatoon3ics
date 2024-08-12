@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Dualies\nSlosher\nExplosher\nSnipewriter 5H\n\
- nKing:\nMegalodontia
-DTEND:20240812T075959Z
-DTSTART:20240810T160001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:dab6828e-ce9a-44cf-a1dc-4948e849195d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRange Blaster\nSqueezer\nDapple Dualies\nTenta Brell
  a\n\nKing:\nCohozuna
 DTEND:20240813T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240812T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:c1d55377-0ca2-44ac-a8ff-f8a1b58308a7
+UID:44904f19-8d81-4c7b-8110-b53009f99f11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMint Decavitator\nOctobrush\nHydra Splatlin
@@ -40,7 +30,7 @@ DTSTART:20240814T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:1f5c61eb-ba8b-40c4-82e6-e49cc8758a90
+UID:b1a0df8a-7380-4db8-aac8-20402c93a998
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nTri-Slosher\nPainbrush\nWellstrin
@@ -50,7 +40,7 @@ DTSTART:20240815T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:d6b29f98-4139-4b60-aaee-d8d338b4b516
+UID:af1aebb8-fd62-4ea4-afc0-0c36dbe35088
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20240817T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:7009ea18-c8c4-44fe-981e-ed35799a6b83
+UID:dbc82147-3488-4e9b-901a-97436aaa806c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot\nCarbon Roller\nSplatana Stamper\nGoo T
+ uber\n\nKing:\nHorrorboros
+DTEND:20240820T155959Z
+DTSTART:20240819T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:5378d73b-4d00-4b7e-8e9d-cb400507f32e
 END:VEVENT
 END:VCALENDAR
