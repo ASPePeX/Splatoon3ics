@@ -20,7 +20,7 @@ DTSTART:20240812T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:495a6d0f-579d-45a2-9099-a8b11b0ba821
+UID:b4d803e7-d197-40ca-8e1c-dbeaf0ddebbe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMint Decavitator\nOctobrush\nHydra Splatlin
@@ -30,7 +30,7 @@ DTSTART:20240814T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:1848b299-f1a0-4098-826c-a85bb19881b3
+UID:df9c991f-c565-4a9c-8811-245d521dd74d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nTri-Slosher\nPainbrush\nWellstrin
@@ -40,7 +40,7 @@ DTSTART:20240815T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:a4f269ad-a6e5-4940-9205-ec1f54cc1f41
+UID:6819b08a-244c-4787-881b-b63ad97e0d4e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +49,7 @@ DTSTART:20240817T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:5a3bc770-6ddc-43ee-ba02-e539693f413e
+UID:d0ab2761-4b34-4378-a771-302a9aa302a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nCarbon Roller\nSplatana Stamper\nGoo T
@@ -59,6 +59,6 @@ DTSTART:20240819T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:3e3b094f-8fd1-49cb-8d6e-f556ca383b9d
+UID:a1285513-7209-4f72-bbba-e87347b2eac4
 END:VEVENT
 END:VCALENDAR
