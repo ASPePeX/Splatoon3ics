@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRange Blaster\nSqueezer\nDapple Dualies\nTenta Brell
- a\n\nKing:\nCohozuna
-DTEND:20240813T235959Z
-DTSTART:20240812T080001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Cohozuna
-UID:0d69a88c-3f9d-484a-b0c9-0b7634250f65
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nMint Decavitator\nOctobrush\nHydra Splatlin
  g\n\nKing:\nHorrorboros
 DTEND:20240815T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240814T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:024d8c41-1021-4108-a206-694b67dd8260
+UID:ffe9ee8a-7ebf-4cdb-8992-4590459eb363
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nTri-Slosher\nPainbrush\nWellstrin
@@ -40,7 +30,7 @@ DTSTART:20240815T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:2b9d73ae-271c-4b68-8e9b-fea0d3805bba
+UID:7a2cef11-6b47-4d9b-984c-85c21383e3cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +39,7 @@ DTSTART:20240817T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:8bf14ec5-3996-4eed-a566-0a35fa7b00e0
+UID:10b8fe9f-b33e-485f-814c-77d803b561ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nCarbon Roller\nSplatana Stamper\nGoo T
@@ -59,6 +49,16 @@ DTSTART:20240819T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:cb10c152-aea4-4add-9209-d514de45d33d
+UID:604b451e-bf71-4b67-8568-c4e95a62374e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nS-BLAST '92\nDark Tetra Dualies\nRecycled Brella 24 
+ Mk I\nHeavy Splatling\n\nKing:\nMegalodontia
+DTEND:20240822T075959Z
+DTSTART:20240820T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Megalodontia
+UID:084e93db-59ed-4578-9180-d047bd01dd77
 END:VEVENT
 END:VCALENDAR
