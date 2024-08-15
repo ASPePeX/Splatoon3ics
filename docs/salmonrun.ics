@@ -20,7 +20,7 @@ DTSTART:20240814T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:8d0c8de0-44d2-4333-a909-122d9bfa9c02
+UID:e21902d6-560e-4bf3-8bae-4dca799db165
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nTri-Slosher\nPainbrush\nWellstrin
@@ -30,7 +30,7 @@ DTSTART:20240815T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:e238b098-e088-4dba-94fa-cc2fcee585af
+UID:7fc6a87e-fdfa-4d81-9d2a-40a25067e5d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20240817T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:80e3ced6-2186-48a8-acd3-5470fdc83aeb
+UID:afdff966-c0fa-4b94-9a01-124ab4d58a32
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nCarbon Roller\nSplatana Stamper\nGoo T
@@ -49,7 +49,7 @@ DTSTART:20240819T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:765cea3c-ac17-4c5d-a5e4-2026412c57c5
+UID:bb99440d-14aa-4d8c-adc4-1a8da217613e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDark Tetra Dualies\nRecycled Brella 24 
@@ -59,6 +59,6 @@ DTSTART:20240820T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:dd2c7d3c-eb09-4daf-970f-1c2ae9e9c50e
+UID:43025c5b-ca5d-4cad-ba5b-d0934ca91c5a
 END:VEVENT
 END:VCALENDAR
