@@ -20,7 +20,7 @@ DTSTART:20240815T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:623a1d7b-9a9e-4435-87f2-2b5111e821b8
+UID:ee606cb6-c823-433f-b461-c813e37c26b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20240817T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:03260ebf-fca9-4f0a-991e-4f953618f04f
+UID:e6e19c80-252d-4c00-8ff0-337e1d55e11c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nCarbon Roller\nSplatana Stamper\nGoo T
@@ -39,7 +39,7 @@ DTSTART:20240819T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:2b622739-75ef-4995-b4f5-e7eaab2339f9
+UID:1afe8898-56db-4c4d-9396-13ffd8359d76
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDark Tetra Dualies\nRecycled Brella 24 
@@ -49,7 +49,7 @@ DTSTART:20240820T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:28bd0167-2365-4d56-883e-8fc4a3821f18
+UID:f8d836fc-803f-4fc9-bac8-7f68f3ef0ab7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nBloblobber\nRapid Blaster Pro\nBamboo
@@ -59,6 +59,6 @@ DTSTART:20240822T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:8b314ea7-5bd2-4c36-abb7-16cdf9eed057
+UID:63157ec7-4ba6-4991-8459-948015abedc5
 END:VEVENT
 END:VCALENDAR
