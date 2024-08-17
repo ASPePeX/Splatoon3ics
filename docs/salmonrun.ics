@@ -13,23 +13,13 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDouser Dualies FF\nTri-Slosher\nPainbrush\nWellstrin
- g V\n\nKing:\nMegalodontia
-DTEND:20240817T075959Z
-DTSTART:20240815T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:826c3322-729c-493e-b96a-7b45d15e5e59
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
 DTEND:20240818T235959Z
 DTSTART:20240817T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:959f9370-546e-4720-91aa-19397f804ff4
+UID:b9ddc111-5ace-4298-aa04-52ce358ddcb5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nCarbon Roller\nSplatana Stamper\nGoo T
@@ -39,7 +29,7 @@ DTSTART:20240819T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:c2248cdc-ae0d-4214-b173-51b1e5887441
+UID:edf97787-1a00-4471-a8f3-762f4e2ba1ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDark Tetra Dualies\nRecycled Brella 24 
@@ -49,7 +39,7 @@ DTSTART:20240820T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:43b160e3-d757-4e2d-ad8e-83ee1370704f
+UID:9e5be0db-890b-41da-ad1c-357a1f391ebe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nBloblobber\nRapid Blaster Pro\nBamboo
@@ -59,6 +49,16 @@ DTSTART:20240822T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:e658be52-de50-4bc4-9f90-4f88ab12a3af
+UID:d25fc132-f52f-4bf8-b0b0-6eb5478685f6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nBlaster\n.96 Gal\n
+ \nKing:\nHorrorboros
+DTEND:20240825T155959Z
+DTSTART:20240824T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:e33f14bc-b874-4cc3-8d37-66751653ebc6
 END:VEVENT
 END:VCALENDAR
