@@ -19,7 +19,7 @@ DTSTART:20240817T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:1eb7e6b2-9835-47a9-a565-63d2caeb54a4
+UID:c1572b33-f22d-49a1-890b-de217ff85b3e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nCarbon Roller\nSplatana Stamper\nGoo T
@@ -29,7 +29,7 @@ DTSTART:20240819T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:4162ef9a-78de-4aa5-b458-6c3656350c48
+UID:1fef1fde-d40a-41df-965a-60343f2d1e11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDark Tetra Dualies\nRecycled Brella 24 
@@ -39,7 +39,7 @@ DTSTART:20240820T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:884bb01f-5650-4ecf-ace1-043bb812246f
+UID:2dcf1e80-c3f2-46f5-89c7-56c1a05923d1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nBloblobber\nRapid Blaster Pro\nBamboo
@@ -49,7 +49,7 @@ DTSTART:20240822T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:96b50005-8a25-4f78-903c-31056e905f44
+UID:c0706e62-d8d1-4360-8e42-f9afd0217f13
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nBlaster\n.96 Gal\n
@@ -59,6 +59,6 @@ DTSTART:20240824T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:9a688078-fd19-47c1-87b0-37aa8609c583
+UID:3b1688bb-5fe9-4965-97ba-c08635009269
 END:VEVENT
 END:VCALENDAR
