@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
-DTEND:20240818T235959Z
-DTSTART:20240817T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:c1572b33-f22d-49a1-890b-de217ff85b3e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nCarbon Roller\nSplatana Stamper\nGoo T
  uber\n\nKing:\nHorrorboros
 DTEND:20240820T155959Z
@@ -29,7 +20,7 @@ DTSTART:20240819T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:1fef1fde-d40a-41df-965a-60343f2d1e11
+UID:bbe4d84d-bbd1-4eb8-a633-335999e78ea0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDark Tetra Dualies\nRecycled Brella 24 
@@ -39,7 +30,7 @@ DTSTART:20240820T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:2dcf1e80-c3f2-46f5-89c7-56c1a05923d1
+UID:7008b6d7-4198-4bd3-b39b-339ff09b97bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nBloblobber\nRapid Blaster Pro\nBamboo
@@ -49,7 +40,7 @@ DTSTART:20240822T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:c0706e62-d8d1-4360-8e42-f9afd0217f13
+UID:0533abf9-03e4-4a7e-8c33-e5401318e8c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nBlaster\n.96 Gal\n
@@ -59,6 +50,16 @@ DTSTART:20240824T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:3b1688bb-5fe9-4965-97ba-c08635009269
+UID:c45deb2e-590f-49f1-aeee-e2597c3939e4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nGlooga Dualies\nLuna Blaster\nMini Splatling\nSplat 
+ Charger\n\nKing:\nMegalodontia
+DTEND:20240827T075959Z
+DTSTART:20240825T160001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Megalodontia
+UID:fa24853b-9d13-4355-948f-508cf71bd0a1
 END:VEVENT
 END:VCALENDAR
