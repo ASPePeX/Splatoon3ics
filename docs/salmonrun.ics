@@ -20,7 +20,7 @@ DTSTART:20240819T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:b6e3442c-636f-4acc-8690-9edba2598504
+UID:2f7e1184-12b1-4aa2-bfee-37d65360b2f5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDark Tetra Dualies\nRecycled Brella 24 
@@ -30,7 +30,7 @@ DTSTART:20240820T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:39223040-8f3c-44b4-96c9-938b8325624a
+UID:7ba550f8-bc5f-4d58-bf6e-187a16b26f7b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nBloblobber\nRapid Blaster Pro\nBamboo
@@ -40,7 +40,7 @@ DTSTART:20240822T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:5adff9d8-7185-496b-9082-7d64f5c300e7
+UID:ae973708-c679-48a3-9b62-405749104d2c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nBlaster\n.96 Gal\n
@@ -50,7 +50,7 @@ DTSTART:20240824T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:f2082026-fdd8-4eb0-b67c-3750ac9c3032
+UID:750222b9-be32-4061-b465-b08fc4e0aca0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nLuna Blaster\nMini Splatling\nSplat 
@@ -60,6 +60,6 @@ DTSTART:20240825T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:b16be511-3b06-4750-83f8-b7312e9218c5
+UID:17a73ea5-5fd9-45d1-a7ae-11f780b49b04
 END:VEVENT
 END:VCALENDAR
