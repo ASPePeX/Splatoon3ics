@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nBlaster\n.96 Gal\n
- \nKing:\nHorrorboros
-DTEND:20240825T155959Z
-DTSTART:20240824T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:6faa9f52-81f9-4ab6-b5d9-b0a394751978
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nLuna Blaster\nMini Splatling\nSplat 
  Charger\n\nKing:\nMegalodontia
 DTEND:20240827T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240825T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:dc657247-5c0f-405e-a7dd-e654a34c6976
+UID:01b85668-ddae-4fd1-83e7-037d9771c326
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nDynamo Roller\nSplat Brella\nJet Squ
@@ -40,7 +30,7 @@ DTSTART:20240827T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:a79ee10f-a2ec-44ac-afa6-4b573b9825ab
+UID:cfb1670a-698e-4ad3-a224-06f794bb52d5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSloshing Machine\nUndercover Brella\nClas
@@ -50,7 +40,7 @@ DTSTART:20240829T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:316757fb-b3aa-4855-a5cc-918c97a8f69c
+UID:e675856d-c385-4559-9b6b-c85093f53a5e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nSplatana Wiper\nNautilus 47\nHydra Spl
@@ -60,6 +50,16 @@ DTSTART:20240830T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:11f02e91-ab0f-4609-8f21-de9747917b80
+UID:3d214b17-0629-4cf1-9b12-3c98b8f6810c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nAerospray MG\nSplash-o-matic\nDread Wringer\nE-liter
+  4K\n\nKing:\nCohozuna
+DTEND:20240902T235959Z
+DTSTART:20240901T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:b86bb33d-f5ce-44d3-ade7-420adefa9886
 END:VEVENT
 END:VCALENDAR
