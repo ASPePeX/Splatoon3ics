@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nGlooga Dualies\nLuna Blaster\nMini Splatling\nSplat 
- Charger\n\nKing:\nMegalodontia
-DTEND:20240827T075959Z
-DTSTART:20240825T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:258147e2-e685-4b9f-ab99-634470dd9747
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nDynamo Roller\nSplat Brella\nJet Squ
  elcher\n\nKing:\nCohozuna
 DTEND:20240828T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240827T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:42b2bcf7-51ea-4d0d-8d82-36a7cc4125e9
+UID:ae43d301-368a-4f58-95dd-a2a0259024dd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSloshing Machine\nUndercover Brella\nClas
@@ -40,7 +30,7 @@ DTSTART:20240829T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:db3c7e8f-d520-44a3-93b8-755a3f7cfd23
+UID:cea795f2-bf49-4270-88ab-1888955589ad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nSplatana Wiper\nNautilus 47\nHydra Spl
@@ -50,7 +40,7 @@ DTSTART:20240830T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:a295a447-09ba-4ea2-b4dd-adbfd0013287
+UID:7d6f6e2d-11b9-4962-adf1-d63c1bac76e6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSplash-o-matic\nDread Wringer\nE-liter
@@ -60,6 +50,16 @@ DTSTART:20240901T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:553bf17b-1c22-4421-995b-1b8944fb30c1
+UID:0bdc74a6-7ba9-4b11-a90b-248829624381
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nInkbrush\nCarbon Roller\nWellstring
+  V\n\nKing:\nHorrorboros
+DTEND:20240904T155959Z
+DTSTART:20240903T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:7aefd183-0d98-437d-9bbc-7d35601b70e3
 END:VEVENT
 END:VCALENDAR
