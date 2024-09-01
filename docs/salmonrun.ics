@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot\nSplatana Wiper\nNautilus 47\nHydra Spl
- atling\n\nKing:\nMegalodontia
-DTEND:20240901T075959Z
-DTSTART:20240830T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:c78769a8-9a55-4699-8095-055c93132c91
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSplash-o-matic\nDread Wringer\nE-liter
   4K\n\nKing:\nCohozuna
 DTEND:20240902T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240901T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:9ef34d06-020a-42ea-8ed6-22294734f8c8
+UID:55650f18-aa28-463c-bdca-bf4c229e072c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nInkbrush\nCarbon Roller\nWellstring
@@ -40,7 +30,7 @@ DTSTART:20240903T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:eed6ef8b-82d0-4a89-bcf1-f6a366cd3b4f
+UID:6e73fac0-0bb3-40b8-847a-35609cac1532
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSqueezer\nS-BLAST '92\nHeavy Splatling\n\nK
@@ -50,6 +40,6 @@ DTSTART:20240904T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:34bef656-3374-45f4-91bc-b6553c1f9673
+UID:722c584e-a9ab-4014-8c35-c7f8c45608ae
 END:VEVENT
 END:VCALENDAR
