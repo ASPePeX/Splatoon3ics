@@ -20,7 +20,7 @@ DTSTART:20240901T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:55650f18-aa28-463c-bdca-bf4c229e072c
+UID:95c341fe-86a0-4fd2-8ff6-ed248a9bc14e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nInkbrush\nCarbon Roller\nWellstring
@@ -30,7 +30,7 @@ DTSTART:20240903T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:6e73fac0-0bb3-40b8-847a-35609cac1532
+UID:0af16208-451f-4f69-8a6d-00e64f4e39eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSqueezer\nS-BLAST '92\nHeavy Splatling\n\nK
@@ -40,6 +40,6 @@ DTSTART:20240904T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:722c584e-a9ab-4014-8c35-c7f8c45608ae
+UID:25fdef94-6262-47b5-b1ab-b4fb7b2f5957
 END:VEVENT
 END:VCALENDAR
