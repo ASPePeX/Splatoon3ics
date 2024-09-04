@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nInkbrush\nCarbon Roller\nWellstring
-  V\n\nKing:\nHorrorboros
-DTEND:20240904T155959Z
-DTSTART:20240903T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:26dd7994-0cc3-4aa0-ba1c-15285a5994f0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSqueezer\nS-BLAST '92\nHeavy Splatling\n\nK
  ing:\nMegalodontia
 DTEND:20240906T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240904T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:88660a31-b65a-4935-950b-734473c37644
+UID:3ba4e6f9-b66e-494e-ab49-f2bdf321df60
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nH-3 Nozzlenose\nSplattershot Nova\nFlingza Roller\nE
@@ -40,7 +30,7 @@ DTSTART:20240909T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:9d6f7ff2-2d9e-426d-afc9-c03b72a3ae9c
+UID:212ab740-459f-443a-b46c-2ba15402f0ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplash-o-matic\n.52 Gal\nWellstring 
@@ -50,6 +40,6 @@ DTSTART:20240910T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:4b92b9e4-87d2-4e89-b2c9-06859c689dfb
+UID:cca8ecdd-4b77-4318-a2de-07c246f4a2a1
 END:VEVENT
 END:VCALENDAR
