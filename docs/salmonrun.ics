@@ -20,7 +20,7 @@ DTSTART:20240903T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:17cefe5d-c3a9-4d18-9adb-d6058e0babb1
+UID:26dd7994-0cc3-4aa0-ba1c-15285a5994f0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSqueezer\nS-BLAST '92\nHeavy Splatling\n\nK
@@ -30,7 +30,7 @@ DTSTART:20240904T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:b1597335-5b04-4b9d-b168-f3952c4e440a
+UID:88660a31-b65a-4935-950b-734473c37644
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nH-3 Nozzlenose\nSplattershot Nova\nFlingza Roller\nE
@@ -40,7 +40,7 @@ DTSTART:20240909T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:49db12af-c97e-4af8-af2e-9743ba56dc9a
+UID:9d6f7ff2-2d9e-426d-afc9-c03b72a3ae9c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplash-o-matic\n.52 Gal\nWellstring 
@@ -50,6 +50,6 @@ DTSTART:20240910T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:9d270eca-dd3e-43dd-8a8e-acaffa3e8ff6
+UID:4b92b9e4-87d2-4e89-b2c9-06859c689dfb
 END:VEVENT
 END:VCALENDAR
