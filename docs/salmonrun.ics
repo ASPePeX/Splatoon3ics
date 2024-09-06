@@ -20,7 +20,7 @@ DTSTART:20240904T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:e64a7ab4-0c58-4b51-aebe-b44842e18ffe
+UID:530d0c86-4df3-4b0e-a8e9-7fc2a50dfd25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nH-3 Nozzlenose\nSplattershot Nova\nFlingza Roller\nE
@@ -30,7 +30,7 @@ DTSTART:20240909T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:550b54fd-3c36-4227-ac75-476129d52bd2
+UID:76141d6e-ddf3-41fd-9312-5c8df50b3eca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplash-o-matic\n.52 Gal\nWellstring 
@@ -40,7 +40,7 @@ DTSTART:20240910T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:790c41e6-d79e-425b-a29a-7616245877d0
+UID:5dc93221-9f81-4fa0-8a9a-51530d2c262f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nLuna Blaster\nMini Splatling\nBambo
@@ -50,6 +50,6 @@ DTSTART:20240912T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:4befdaa3-df2c-4b64-a47b-9571f89e7f37
+UID:68185731-1ff4-4fcc-bceb-e2461c4c0c7c
 END:VEVENT
 END:VCALENDAR
