@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nSqueezer\nS-BLAST '92\nHeavy Splatling\n\nK
- ing:\nMegalodontia
-DTEND:20240906T235959Z
-DTSTART:20240904T160001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:3b7fcfb3-9ffb-4f5b-9b1b-492052da0f40
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nH-3 Nozzlenose\nSplattershot Nova\nFlingza Roller\nE
  -liter 4K\n\nKing:\nCohozuna
 DTEND:20240910T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240909T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:6853ce51-dbd7-4cfc-9269-ff701fdc3db0
+UID:5d8a6633-3512-4ed2-bd57-ad87c517f542
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplash-o-matic\n.52 Gal\nWellstring 
@@ -40,7 +30,7 @@ DTSTART:20240910T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:b7dd4360-36c8-4d9a-94da-96b398856fb8
+UID:3c24ef63-2265-4437-8a0c-2943f3ce5db1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nLuna Blaster\nMini Splatling\nBambo
@@ -50,6 +40,16 @@ DTSTART:20240912T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:82cd1ebb-ab09-452b-a395-88e9038fa5b9
+UID:b3d25389-7717-40bb-bf9b-ccc7ddb49a42
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDualie Squelchers\nSplat Brella\nSqueezer\nHydra Spl
+ atling\n\nKing:\nCohozuna
+DTEND:20240915T155959Z
+DTSTART:20240914T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:1d28b86a-16c9-405a-94a9-8f665566a345
 END:VEVENT
 END:VCALENDAR
