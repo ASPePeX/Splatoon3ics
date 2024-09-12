@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplash-o-matic\n.52 Gal\nWellstring 
- V\n\nKing:\nHorrorboros
-DTEND:20240912T075959Z
-DTSTART:20240910T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:0dbfc696-a4c2-4fee-9590-c03d6ff181f7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nLuna Blaster\nMini Splatling\nBambo
  ozler 14 Mk I\n\nKing:\nMegalodontia
 DTEND:20240913T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240912T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:a955cc81-741a-460c-b080-d7b5dd516936
+UID:22b89268-27c6-489e-9c59-ae8681e14633
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSplat Brella\nSqueezer\nHydra Spl
@@ -40,7 +30,7 @@ DTSTART:20240914T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:599f9d73-5739-4424-bc60-3e68c1ab8ac9
+UID:f2222345-93ca-4c5c-9586-adbba644d686
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nNautilus 47\nTenta 
@@ -50,7 +40,7 @@ DTSTART:20240915T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:5438b79a-f28f-48d1-bc13-0a7b61fa0c04
+UID:0e327e35-d397-4f88-b93b-a6c4cc8407e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nBloblobber\nDynamo Roller\nTri-Stringe
@@ -60,6 +50,16 @@ DTSTART:20240917T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:6c9e4e6a-ef36-4faf-b827-3b75d40303ed
+UID:fd0c3d5f-c67b-4171-a86f-50a937a72ec0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nExplosher\nN-ZAP '85\n.96 Gal\n\nKi
+ ng:\nCohozuna
+DTEND:20240920T155959Z
+DTSTART:20240919T000001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:d4dac9fd-87be-4938-b21e-1d3177e2f108
 END:VEVENT
 END:VCALENDAR
