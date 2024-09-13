@@ -20,7 +20,7 @@ DTSTART:20240912T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:8fd20c1c-ce0b-45c2-be47-ec680fe0884c
+UID:33ad3aad-d688-4cfd-95cc-6bd0b5b5dd23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSplat Brella\nSqueezer\nHydra Spl
@@ -30,7 +30,7 @@ DTSTART:20240914T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:437b480f-6838-4ba8-bf5f-6d107f2ce61a
+UID:b40fc852-57bf-42cc-8462-54a6b9c44e5d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nNautilus 47\nTenta 
@@ -40,7 +40,7 @@ DTSTART:20240915T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:25d80fc9-d169-413d-bc13-ea8c4c8a65eb
+UID:0f16b11c-1469-445d-91ef-74ec2ba0d435
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nBloblobber\nDynamo Roller\nTri-Stringe
@@ -50,7 +50,7 @@ DTSTART:20240917T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:e0c13e32-3da5-47fb-ae82-6dc7a20e737f
+UID:b24f0cdb-93b2-4998-8672-bffd7e87ff5f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nExplosher\nN-ZAP '85\n.96 Gal\n\nKi
@@ -60,6 +60,6 @@ DTSTART:20240919T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:6062473b-358c-45dc-b4ef-7b024c2e816f
+UID:2f8559ae-3d63-4265-b783-262f6392a015
 END:VEVENT
 END:VCALENDAR
