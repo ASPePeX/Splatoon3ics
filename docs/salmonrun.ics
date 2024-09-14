@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBig Swig Roller\nLuna Blaster\nMini Splatling\nBambo
- ozler 14 Mk I\n\nKing:\nMegalodontia
-DTEND:20240913T235959Z
-DTSTART:20240912T080001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:f509644f-65c6-4582-a9c6-6ed132af750e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSplat Brella\nSqueezer\nHydra Spl
  atling\n\nKing:\nCohozuna
 DTEND:20240915T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240914T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:a20a20b1-d636-48e7-86be-4e70216d8ba7
+UID:21788dd0-6738-4b27-89d1-b9f9ebd0248a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nNautilus 47\nTenta 
@@ -40,7 +30,7 @@ DTSTART:20240915T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:73da94b2-ca2c-4e91-8308-822fe0c6c875
+UID:678d0747-4c58-4d99-886f-fea972dbfe99
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nBloblobber\nDynamo Roller\nTri-Stringe
@@ -50,7 +40,7 @@ DTSTART:20240917T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:8e2ceaae-b1f6-4618-ac31-4eeec3cce5f9
+UID:d0fa716a-690c-480c-892a-ffdfef959215
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nExplosher\nN-ZAP '85\n.96 Gal\n\nKi
@@ -60,6 +50,16 @@ DTSTART:20240919T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:7e0448ac-b669-48a7-b022-b5a66a83aa92
+UID:0f481dd6-dd0c-433d-9aa2-9bd0b136d36d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nUndercover Brella\nSplat Dualies\nSplat Charger\nRan
+ dom\n\nKing:\nHorrorboros
+DTEND:20240922T075959Z
+DTSTART:20240920T160001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:396379dc-2449-421b-ba5c-4f83bbdbc553
 END:VEVENT
 END:VCALENDAR
