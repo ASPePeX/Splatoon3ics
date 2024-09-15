@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDualie Squelchers\nSplat Brella\nSqueezer\nHydra Spl
- atling\n\nKing:\nCohozuna
-DTEND:20240915T155959Z
-DTSTART:20240914T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:81aae778-e17d-4d8f-ba01-ae2aca313feb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nNautilus 47\nTenta 
  Brella\n\nKing:\nHorrorboros
 DTEND:20240917T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240915T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:9316a3ab-3bfa-4c52-8b3b-71e0161bfcef
+UID:1754b2e6-7eec-4160-9c47-69008eeb4784
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nBloblobber\nDynamo Roller\nTri-Stringe
@@ -40,7 +30,7 @@ DTSTART:20240917T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:78e154c0-490f-426d-9c9c-eae09243c211
+UID:ff484c05-7b8b-4f46-ac13-53497a87a697
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nExplosher\nN-ZAP '85\n.96 Gal\n\nKi
@@ -50,7 +40,7 @@ DTSTART:20240919T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:64c6fd2e-01ed-4dd0-99a2-5e9dc8cb1763
+UID:a242a7d1-8e5d-4aeb-a6ff-d0f28cadbccd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Dualies\nSplat Charger\nRan
@@ -60,6 +50,16 @@ DTSTART:20240920T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:a8cdfb08-1ebb-401b-a4be-58252a0eb010
+UID:ba0f6c74-dfb2-416a-83e9-b0d318360126
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nMint Decavitator\nSplatters
+ hot Pro\nRapid Blaster\n\nKing:\nMegalodontia
+DTEND:20240923T235959Z
+DTSTART:20240922T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Megalodontia
+UID:fe3c9759-f1c4-42f8-95ef-bc9ae58583ec
 END:VEVENT
 END:VCALENDAR
