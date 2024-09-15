@@ -20,7 +20,7 @@ DTSTART:20240914T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:d1c3c230-1f48-4fc2-9eed-b2b8f24aca01
+UID:81aae778-e17d-4d8f-ba01-ae2aca313feb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nNautilus 47\nTenta 
@@ -30,7 +30,7 @@ DTSTART:20240915T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:e3d1c80f-9572-43e4-b8c1-a328dbb0707f
+UID:9316a3ab-3bfa-4c52-8b3b-71e0161bfcef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nBloblobber\nDynamo Roller\nTri-Stringe
@@ -40,7 +40,7 @@ DTSTART:20240917T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:2e44ba82-3636-482c-9e90-c5527dca7e6a
+UID:78e154c0-490f-426d-9c9c-eae09243c211
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nExplosher\nN-ZAP '85\n.96 Gal\n\nKi
@@ -50,7 +50,7 @@ DTSTART:20240919T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:dd4d1f43-2e22-4bf7-a1dd-f52ca5a53e54
+UID:64c6fd2e-01ed-4dd0-99a2-5e9dc8cb1763
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Dualies\nSplat Charger\nRan
@@ -60,6 +60,6 @@ DTSTART:20240920T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:8ff850ba-c9a8-457e-a08f-809e5fb80761
+UID:a8cdfb08-1ebb-401b-a4be-58252a0eb010
 END:VEVENT
 END:VCALENDAR
