@@ -20,7 +20,7 @@ DTSTART:20240915T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:0acdb9f7-ab2c-416f-8cb8-0a52d2a670c1
+UID:3fceb91a-c7a0-408b-9aad-968674acb1c1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nBloblobber\nDynamo Roller\nTri-Stringe
@@ -30,7 +30,7 @@ DTSTART:20240917T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:f463c314-f6db-49e5-a6ca-7b72d947bdf7
+UID:1b7a0c17-f2bb-4505-8746-f8be58d4b3c5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nExplosher\nN-ZAP '85\n.96 Gal\n\nKi
@@ -40,7 +40,7 @@ DTSTART:20240919T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:c0617f2e-e099-48f2-a806-1febf76dabd9
+UID:17bdabf3-fe88-4212-b3f6-86fbff66f54b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Dualies\nSplat Charger\nRan
@@ -50,7 +50,7 @@ DTSTART:20240920T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:fdde4b76-ff6f-4da6-81d1-872e460fdbb7
+UID:97732418-ecbb-411b-a97d-094ad70245ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nMint Decavitator\nSplatters
@@ -60,6 +60,6 @@ DTSTART:20240922T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:1a850df2-60fe-4b5b-bda4-3c58ec0bd572
+UID:cfef9bb1-dffe-44ac-9824-b8c2a9eb1755
 END:VEVENT
 END:VCALENDAR
