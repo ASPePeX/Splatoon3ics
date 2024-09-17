@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nNautilus 47\nTenta 
- Brella\n\nKing:\nHorrorboros
-DTEND:20240917T075959Z
-DTSTART:20240915T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Horrorboros
-UID:57ae9ee9-52be-41ff-a072-7f02452aab3a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nBloblobber\nDynamo Roller\nTri-Stringe
  r\n\nKing:\nMegalodontia
 DTEND:20240918T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240917T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:0ecc6d68-8739-48ad-9a3b-eaa1c868b091
+UID:364a1806-1485-47c1-b987-0a267038f466
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nExplosher\nN-ZAP '85\n.96 Gal\n\nKi
@@ -40,7 +30,7 @@ DTSTART:20240919T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:6e91f02c-908d-46a3-9812-87b04deffa11
+UID:37875d89-52fa-41c3-94a8-c12d03c3578f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Dualies\nSplat Charger\nRan
@@ -50,7 +40,7 @@ DTSTART:20240920T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:dcc6f00c-1e0c-4b9c-8e9b-386638a492c0
+UID:108c2209-733a-419f-b594-2468a7be6463
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nMint Decavitator\nSplatters
@@ -60,6 +50,16 @@ DTSTART:20240922T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:85f345a5-5cb7-4afc-8018-937150016182
+UID:c504d121-cea1-49ea-be56-3fc667094477
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nInkbrush\nS-BLAST '92\nL-3 Nozzlenose\nClassic Squif
+ fer\n\nKing:\nCohozuna
+DTEND:20240925T155959Z
+DTSTART:20240924T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:95540444-5a0d-4fef-97f8-653862ce14f3
 END:VEVENT
 END:VCALENDAR
