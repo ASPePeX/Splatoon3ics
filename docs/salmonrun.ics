@@ -20,7 +20,7 @@ DTSTART:20240919T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:ca70f131-0e90-4f23-9a19-775ac5afd155
+UID:c2059714-33d4-4e04-8b91-ecedbcc6c909
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Dualies\nSplat Charger\nRan
@@ -30,7 +30,7 @@ DTSTART:20240920T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:253228dd-c448-4e6b-9340-d8b6663962cb
+UID:9f77a061-5e19-42f3-abfe-7f107c12e30f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nMint Decavitator\nSplatters
@@ -40,7 +40,7 @@ DTSTART:20240922T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:cfc6a7bd-ae12-4e67-931e-03b0eb16cecf
+UID:ffc15d10-221d-4cba-950c-5936c91cb722
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nS-BLAST '92\nL-3 Nozzlenose\nClassic Squif
@@ -50,7 +50,7 @@ DTSTART:20240924T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:c49bcde8-85e5-4c4b-ba65-bbe761a3b401
+UID:8a521571-7747-4898-b573-8e0784819078
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nDapple Dualies\nSqueezer\nWellst
@@ -60,6 +60,6 @@ DTSTART:20240925T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:a146e91c-48fb-45cc-bc53-9537b9aa29db
+UID:2486ce33-1ce9-4766-880d-f13d1ed8a904
 END:VEVENT
 END:VCALENDAR
