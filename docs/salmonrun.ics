@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nExplosher\nN-ZAP '85\n.96 Gal\n\nKi
- ng:\nCohozuna
-DTEND:20240920T155959Z
-DTSTART:20240919T000001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:a17ecd11-8dfe-45bd-bf11-14b0efb88a45
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplat Dualies\nSplat Charger\nRan
  dom\n\nKing:\nHorrorboros
 DTEND:20240922T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240920T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:2b53780a-0800-4dcf-a6a0-220507be9ede
+UID:ab5ea1de-2dff-47aa-b239-5a8376922c30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nMint Decavitator\nSplatters
@@ -40,7 +30,7 @@ DTSTART:20240922T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:c46bed7f-8f55-4ba3-ab0c-7ac9afb2ef86
+UID:0bb3c586-aaff-4fac-833c-2744afce841d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nS-BLAST '92\nL-3 Nozzlenose\nClassic Squif
@@ -50,7 +40,7 @@ DTSTART:20240924T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:9ba7b4c9-a4db-474b-83f7-006e5517dec2
+UID:eb7f2e4f-83cf-4d7b-af95-12b05e21d3fa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nDapple Dualies\nSqueezer\nWellst
@@ -60,6 +50,16 @@ DTSTART:20240925T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:023cdf8c-75e9-44f9-99b6-5533625036f4
+UID:339a9b5f-4234-451a-9260-6a3ad0b5e3a8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nClash Blaster\nBloblobber\nSplatana Stamper\nSnipewr
+ iter 5H\n\nKing:\nMegalodontia
+DTEND:20240928T235959Z
+DTSTART:20240927T080001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Megalodontia
+UID:f2fa19d7-d3b8-48d8-8e45-14b4af9f8f52
 END:VEVENT
 END:VCALENDAR
