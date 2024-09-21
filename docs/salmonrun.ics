@@ -20,7 +20,7 @@ DTSTART:20240920T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:3ee5353c-2a8d-4dc6-9287-0e9334ee4a5b
+UID:1e423e21-052c-4eef-82f3-97afca488472
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nMint Decavitator\nSplatters
@@ -30,7 +30,7 @@ DTSTART:20240922T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:a9ee53ee-5ab6-4e1b-be2d-cba53119aa3c
+UID:1b835f76-4264-49ba-851f-9b6898567816
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nS-BLAST '92\nL-3 Nozzlenose\nClassic Squif
@@ -40,7 +40,7 @@ DTSTART:20240924T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:dab5f4d2-475e-4c85-a3d2-6bc0e00f2fee
+UID:1c6e69ff-61cf-45ac-8365-7da142149015
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nDapple Dualies\nSqueezer\nWellst
@@ -50,7 +50,7 @@ DTSTART:20240925T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:2b5e64e1-870f-44fb-9989-99e8c1e63027
+UID:52ad32b8-c7f5-4890-a81d-a3b5279cbfa7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nBloblobber\nSplatana Stamper\nSnipewr
@@ -60,6 +60,6 @@ DTSTART:20240927T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:d9db8ece-69ee-4cc7-8b39-702f1826539f
+UID:1e8af516-ba7d-44a1-b6a9-f05f589220f0
 END:VEVENT
 END:VCALENDAR
