@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nUndercover Brella\nSplat Dualies\nSplat Charger\nRan
- dom\n\nKing:\nHorrorboros
-DTEND:20240922T075959Z
-DTSTART:20240920T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:1cbbc30e-d01b-4a37-9dae-dc13831666b5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nMint Decavitator\nSplatters
  hot Pro\nRapid Blaster\n\nKing:\nMegalodontia
 DTEND:20240923T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240922T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:acbef408-bf75-4dc3-a51c-3b88bdf022ce
+UID:213bd258-d2bb-4018-ae38-730367514e20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nS-BLAST '92\nL-3 Nozzlenose\nClassic Squif
@@ -40,7 +30,7 @@ DTSTART:20240924T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:49031bc2-6ec6-46b2-8cab-2236d1db058c
+UID:4661bfe5-f470-40b3-a39a-fcf8321363bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nDapple Dualies\nSqueezer\nWellst
@@ -50,7 +40,7 @@ DTSTART:20240925T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:d74daa30-3b84-41a4-a081-8e717930f925
+UID:88086003-51ba-4296-af46-0b48eacd75c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nBloblobber\nSplatana Stamper\nSnipewr
@@ -60,6 +50,16 @@ DTSTART:20240927T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:72c4c55d-de40-44aa-ae02-7f1262a874dd
+UID:1856b280-9101-49c1-848c-4b41412dcd5f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplash-o-matic\nREEF-LUX 450\nBig Swig Roller\nHydra
+  Splatling\n\nKing:\nCohozuna
+DTEND:20240930T155959Z
+DTSTART:20240929T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:bc303198-2819-4d1f-9528-ff9892342e75
 END:VEVENT
 END:VCALENDAR
