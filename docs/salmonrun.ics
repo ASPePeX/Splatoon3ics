@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nMint Decavitator\nSplatters
- hot Pro\nRapid Blaster\n\nKing:\nMegalodontia
-DTEND:20240923T235959Z
-DTSTART:20240922T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Megalodontia
-UID:fe384f90-55bc-4405-a023-b6f79b84c89f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nS-BLAST '92\nL-3 Nozzlenose\nClassic Squif
  fer\n\nKing:\nCohozuna
 DTEND:20240925T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240924T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:79fd2963-9f67-4050-8f6d-fce2895e7843
+UID:d10c5eeb-4b28-4e55-90d1-055ddbcc0195
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nDapple Dualies\nSqueezer\nWellst
@@ -40,7 +30,7 @@ DTSTART:20240925T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:7cf47fce-703b-4fdd-9998-a19018765ff3
+UID:a4b07dec-f003-4f16-a3d2-a58e19f49f50
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nBloblobber\nSplatana Stamper\nSnipewr
@@ -50,7 +40,7 @@ DTSTART:20240927T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:f374a1fb-e57e-496a-b8cb-c51ca54017c4
+UID:b39c5e06-044a-49d4-8744-76dc6aa2a35b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nREEF-LUX 450\nBig Swig Roller\nHydra
@@ -60,6 +50,16 @@ DTSTART:20240929T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:61aa399c-6abd-4b19-b8b9-31d13ff9e6cf
+UID:d9c1ff01-4efd-49b2-9ee9-8cada39321b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Nova\nDynamo Roller\n
+ Heavy Splatling\n\nKing:\nHorrorboros
+DTEND:20241002T075959Z
+DTSTART:20240930T160001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:20cabd1c-c093-446a-b064-1f2980e9bf0c
 END:VEVENT
 END:VCALENDAR
