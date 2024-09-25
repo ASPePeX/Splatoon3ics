@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\nS-BLAST '92\nL-3 Nozzlenose\nClassic Squif
- fer\n\nKing:\nCohozuna
-DTEND:20240925T155959Z
-DTSTART:20240924T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:e9bb9980-a8f0-4bf4-8200-0687dbf29d30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nDapple Dualies\nSqueezer\nWellst
  ring V\n\nKing:\nHorrorboros
 DTEND:20240927T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240925T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:35db56fb-007d-47fc-8d19-6d54f7a9178f
+UID:75da0461-152b-4793-abfe-1ebb6a298450
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nBloblobber\nSplatana Stamper\nSnipewr
@@ -40,7 +30,7 @@ DTSTART:20240927T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:c964dcae-a8c8-47cb-80f2-88f2744dd597
+UID:16af3db5-cddd-4e64-807f-18147c173d01
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nREEF-LUX 450\nBig Swig Roller\nHydra
@@ -50,7 +40,7 @@ DTSTART:20240929T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:3cd6973a-f43e-4127-978f-752103ac3691
+UID:906602db-6748-422c-a544-990f182df694
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Nova\nDynamo Roller\n
@@ -60,6 +50,16 @@ DTSTART:20240930T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:588c1dcd-5e34-4989-984a-a79edcd313cf
+UID:c22a3c22-67c0-44da-801f-1b95e8bfa92d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nRapid Blaster\nJet Sq
+ uelcher\n\nKing:\nMegalodontia
+DTEND:20241003T235959Z
+DTSTART:20241002T080001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:859b4f57-d64d-4116-a5ef-81d637e9cf02
 END:VEVENT
 END:VCALENDAR
