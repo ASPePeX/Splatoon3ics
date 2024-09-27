@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDark Tetra Dualies\nDapple Dualies\nSqueezer\nWellst
- ring V\n\nKing:\nHorrorboros
-DTEND:20240927T075959Z
-DTSTART:20240925T160001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:3126b95a-4f6d-4aad-b84d-0910de0427a5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nBloblobber\nSplatana Stamper\nSnipewr
  iter 5H\n\nKing:\nMegalodontia
 DTEND:20240928T235959Z
@@ -30,7 +20,7 @@ DTSTART:20240927T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:f813cf4c-6ff6-4573-8c7a-c6d5d43c006d
+UID:eba0fbe2-3de2-44f4-97e1-a9516ab4441d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nREEF-LUX 450\nBig Swig Roller\nHydra
@@ -40,7 +30,7 @@ DTSTART:20240929T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:aabc1718-9e6e-46b2-80c8-e28f832653aa
+UID:14248424-8b63-4112-91af-4137784e6937
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Nova\nDynamo Roller\n
@@ -50,7 +40,7 @@ DTSTART:20240930T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:2ea374df-b69f-47df-85fb-95294e73b3d9
+UID:2f7ec89f-7909-4b5b-8ca6-dcffc6684386
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nRapid Blaster\nJet Sq
@@ -60,6 +50,16 @@ DTSTART:20241002T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:0c6f36ff-c494-465e-8598-c399d7a96eaf
+UID:2c8e75e4-6d27-4b6e-8475-a743da0dd33c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBallpoint Splatling\nFlingza Roller\nLuna Blaster\n.
+ 96 Gal\n\nKing:\nCohozuna
+DTEND:20241005T155959Z
+DTSTART:20241004T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:b5a15496-e052-4abe-b0a1-c531c1f301d4
 END:VEVENT
 END:VCALENDAR
