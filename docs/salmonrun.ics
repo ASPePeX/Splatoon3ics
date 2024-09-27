@@ -20,7 +20,7 @@ DTSTART:20240927T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:eba0fbe2-3de2-44f4-97e1-a9516ab4441d
+UID:15cfc4b4-d559-4726-85cd-1b5c81f013d6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nREEF-LUX 450\nBig Swig Roller\nHydra
@@ -30,7 +30,7 @@ DTSTART:20240929T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:14248424-8b63-4112-91af-4137784e6937
+UID:f35c5eb3-a631-4499-bc9c-3db5efb918c1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Nova\nDynamo Roller\n
@@ -40,7 +40,7 @@ DTSTART:20240930T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:2f7ec89f-7909-4b5b-8ca6-dcffc6684386
+UID:043f96a4-394a-48aa-ae59-7ce93c0b1ccf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nRapid Blaster\nJet Sq
@@ -50,7 +50,7 @@ DTSTART:20241002T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:2c8e75e4-6d27-4b6e-8475-a743da0dd33c
+UID:4d62c965-1643-425f-9b28-d04d553dd4bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nFlingza Roller\nLuna Blaster\n.
@@ -60,6 +60,6 @@ DTSTART:20241004T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:b5a15496-e052-4abe-b0a1-c531c1f301d4
+UID:d9bfaddc-7ae0-4bfb-8c0f-5a87b75c5ee9
 END:VEVENT
 END:VCALENDAR
