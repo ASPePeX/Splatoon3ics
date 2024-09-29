@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nClash Blaster\nBloblobber\nSplatana Stamper\nSnipewr
- iter 5H\n\nKing:\nMegalodontia
-DTEND:20240928T235959Z
-DTSTART:20240927T080001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:06d286ce-631d-4566-aadd-055315cdefe1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nREEF-LUX 450\nBig Swig Roller\nHydra
   Splatling\n\nKing:\nCohozuna
 DTEND:20240930T155959Z
@@ -30,7 +20,7 @@ DTSTART:20240929T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:4b1581be-d79a-474f-b587-3b1e2b778b84
+UID:4279bb1c-ac0f-4cb3-b16d-042e4f8e5ab8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Nova\nDynamo Roller\n
@@ -40,7 +30,7 @@ DTSTART:20240930T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:8121a271-ab6e-43a5-a259-ef0fb57ea4a2
+UID:2cf1b687-a14f-4a04-80b7-fa449b07f9fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nRapid Blaster\nJet Sq
@@ -50,7 +40,7 @@ DTSTART:20241002T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:a6b371e4-e87e-498b-9a4b-afdbc040c11d
+UID:e1631bea-cf5f-4e30-b190-ee283360d19f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nFlingza Roller\nLuna Blaster\n.
@@ -60,6 +50,15 @@ DTSTART:20241004T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:aafcba3d-f663-495c-88df-1378f9a698cf
+UID:538fd8c1-01ff-47fa-8a98-29640a168534
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
+DTEND:20241007T075959Z
+DTSTART:20241005T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Triumvirate
+UID:d3b072f9-c56d-4f1e-88c6-52d2698d1423
 END:VEVENT
 END:VCALENDAR
