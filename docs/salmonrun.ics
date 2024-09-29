@@ -20,7 +20,7 @@ DTSTART:20240929T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:7513abec-e422-4b79-b298-862bd8465278
+UID:74dcaa95-e714-4820-880b-8bc07199b49e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Nova\nDynamo Roller\n
@@ -30,7 +30,7 @@ DTSTART:20240930T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:70166b8d-e6b0-43c9-b29f-c8dd7bae9a97
+UID:c61851a2-7a5c-4d18-a7ab-731f7c97d7d5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nRapid Blaster\nJet Sq
@@ -40,7 +40,7 @@ DTSTART:20241002T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:35b320c6-65e0-4ab5-baed-53a6bb4fa1f4
+UID:c7f16fb9-fd60-4ec6-bb9a-97262dba3786
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nFlingza Roller\nLuna Blaster\n.
@@ -50,7 +50,7 @@ DTSTART:20241004T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:57a4b98f-67e0-47de-8da1-33779f321ee6
+UID:f7f52f49-18da-4132-8361-0cbc3c8d341c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +59,6 @@ DTSTART:20241005T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:5f28e6c1-a916-4075-bf5c-b5a68f7674c4
+UID:44cbfa2b-cf03-48b6-aeb3-afe1d736ce89
 END:VEVENT
 END:VCALENDAR
