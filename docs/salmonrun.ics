@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplash-o-matic\nREEF-LUX 450\nBig Swig Roller\nHydra
-  Splatling\n\nKing:\nCohozuna
-DTEND:20240930T155959Z
-DTSTART:20240929T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:0255dfc8-2297-4434-8013-f0afa0b997d8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplattershot Nova\nDynamo Roller\n
  Heavy Splatling\n\nKing:\nHorrorboros
 DTEND:20241002T075959Z
@@ -30,7 +20,7 @@ DTSTART:20240930T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:58da0578-0ab6-4262-9f91-9a06122c3d63
+UID:2dd12827-edd4-4c8e-9bc7-bcbf4af8d239
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nRapid Blaster\nJet Sq
@@ -40,7 +30,7 @@ DTSTART:20241002T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:225b4a5e-c872-4fda-9925-74e0cf4d2b62
+UID:71223837-b7e8-407c-ae39-c5fb0608678c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nFlingza Roller\nLuna Blaster\n.
@@ -50,7 +40,7 @@ DTSTART:20241004T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:6d808b05-344a-4a75-a97e-760f111d3f8b
+UID:535d7257-e1c1-4a2a-b446-d1989fe17c80
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20241005T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:4fc9db70-bcbe-48fa-8c36-f41911c3be43
+UID:772fd788-83e2-4ad9-807d-74bccab6210f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nTri-Slosher\nMint Decavitat
+ or\nGoo Tuber\n\nKing:\nMegalodontia
+DTEND:20241008T235959Z
+DTSTART:20241007T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:0d48d26b-a339-4a44-9599-4304ef99941e
 END:VEVENT
 END:VCALENDAR
