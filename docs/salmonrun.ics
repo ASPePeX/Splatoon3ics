@@ -20,7 +20,7 @@ DTSTART:20241002T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:3e29947b-0298-436f-8661-2de1ce6c1d6f
+UID:f30ef7d8-df60-41ec-b071-fb15dc95ef67
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nFlingza Roller\nLuna Blaster\n.
@@ -30,7 +30,7 @@ DTSTART:20241004T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:b1d734a4-7122-4d70-be39-f73c3d0442b6
+UID:1130e664-df0d-4216-8830-c971758243e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20241005T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:fc669523-a9d5-4256-850a-ae40b7fa0151
+UID:6644b386-45c4-4295-a256-8da6525899f5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nTri-Slosher\nMint Decavitat
@@ -49,7 +49,7 @@ DTSTART:20241007T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:5ded142b-588c-42ca-8c3c-7e2a7104ceea
+UID:5c0016c4-fa7c-46c7-8670-32b174dabc69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nMini Splatling\nSplatana Wiper\nSnip
@@ -59,6 +59,6 @@ DTSTART:20241009T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:44b16219-71a1-4c32-87bc-82fd1995bde9
+UID:07392ecd-91f1-4cf7-a1d3-08a78a8566fb
 END:VEVENT
 END:VCALENDAR
