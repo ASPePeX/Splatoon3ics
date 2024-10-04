@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nSplattershot\nRapid Blaster\nJet Sq
- uelcher\n\nKing:\nMegalodontia
-DTEND:20241003T235959Z
-DTSTART:20241002T080001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:795378ae-09ab-4357-be9b-e882f8282fe9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nFlingza Roller\nLuna Blaster\n.
  96 Gal\n\nKing:\nCohozuna
 DTEND:20241005T155959Z
@@ -30,7 +20,7 @@ DTSTART:20241004T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:0116b3ce-87a7-4c35-8c94-30e950859a37
+UID:409c934e-3078-4395-8a95-7930dd80f321
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +29,7 @@ DTSTART:20241005T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:d821292a-11f1-4864-b566-e8df80a70c0d
+UID:2ebb4a04-e9fe-49cc-bcaa-1b65c69916b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nTri-Slosher\nMint Decavitat
@@ -49,7 +39,7 @@ DTSTART:20241007T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:a38d6f7b-ae69-44ef-b7c9-a43cbb45a2be
+UID:c12db630-fe8d-481a-bd6e-e715b6b0a56f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nMini Splatling\nSplatana Wiper\nSnip
@@ -59,6 +49,16 @@ DTSTART:20241009T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:b4e275a1-e39d-47de-b34c-36e36ef04fcc
+UID:d0326b73-06de-47fe-a134-78efb12fbfb5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDouser Dualies FF\nH-3 Nozzlenose\nBloblobber\nHydra
+  Splatling\n\nKing:\nHorrorboros
+DTEND:20241012T075959Z
+DTSTART:20241010T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:69dd70c2-a699-4b44-90b3-96f071a398a4
 END:VEVENT
 END:VCALENDAR
