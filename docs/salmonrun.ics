@@ -20,7 +20,7 @@ DTSTART:20241004T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:409c934e-3078-4395-8a95-7930dd80f321
+UID:fff3dbda-cfb0-4b0a-8817-087e521422e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20241005T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:2ebb4a04-e9fe-49cc-bcaa-1b65c69916b5
+UID:9d0db71e-c7a2-4f13-878e-62563ab41288
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nTri-Slosher\nMint Decavitat
@@ -39,7 +39,7 @@ DTSTART:20241007T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:c12db630-fe8d-481a-bd6e-e715b6b0a56f
+UID:eb15708f-a8b9-48c5-b15b-893e5770f61a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nMini Splatling\nSplatana Wiper\nSnip
@@ -49,7 +49,7 @@ DTSTART:20241009T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:d0326b73-06de-47fe-a134-78efb12fbfb5
+UID:073f3c99-5942-4f3b-9a32-897002334564
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nH-3 Nozzlenose\nBloblobber\nHydra
@@ -59,6 +59,6 @@ DTSTART:20241010T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:69dd70c2-a699-4b44-90b3-96f071a398a4
+UID:1e9deaa3-a667-433e-81cc-a71d14c77275
 END:VEVENT
 END:VCALENDAR
