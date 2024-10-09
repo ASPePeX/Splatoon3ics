@@ -20,7 +20,7 @@ DTSTART:20241009T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:d1f26242-1154-41f5-9810-368dbc71e095
+UID:1f818ccc-a374-45ff-8e37-7629eec153a5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nH-3 Nozzlenose\nBloblobber\nHydra
@@ -30,7 +30,7 @@ DTSTART:20241010T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:f96cc2a0-faae-4229-af34-e843bea73daf
+UID:f8796e57-57b0-49f2-94d5-cb3b5530139a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nPainbrush\nSploosh-o-matic\nJet S
@@ -40,7 +40,7 @@ DTSTART:20241012T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:712f3f3c-4b44-4c2f-9898-465934cd0229
+UID:fca88d05-fc51-463e-8b8b-be93b2c613bd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSlosher\nClash Blaster\nTri-Stringer
@@ -50,7 +50,7 @@ DTSTART:20241014T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:4814b879-48a8-4bcc-9b94-d0b517c79418
+UID:6540400b-b07a-4d33-a5d4-ec0ae6df86cd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nExplosher\nSplattershot\nLuna Blaster\nHeavy Splatli
@@ -60,6 +60,6 @@ DTSTART:20241015T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:78df631c-4452-4acf-b7e1-905c96eaf54a
+UID:1c2cfaea-a63d-4fb2-b303-fd65b20b29a8
 END:VEVENT
 END:VCALENDAR
