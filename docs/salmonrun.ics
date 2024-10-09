@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nTri-Slosher\nMint Decavitat
- or\nGoo Tuber\n\nKing:\nMegalodontia
-DTEND:20241008T235959Z
-DTSTART:20241007T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:71e1994f-e934-4b5f-aece-2c30895f2ca7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nMini Splatling\nSplatana Wiper\nSnip
  ewriter 5H\n\nKing:\nCohozuna
 DTEND:20241010T155959Z
@@ -30,7 +20,7 @@ DTSTART:20241009T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:2bd6b0e7-5ec2-4fec-9cde-2bf2217a108b
+UID:d1f26242-1154-41f5-9810-368dbc71e095
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nH-3 Nozzlenose\nBloblobber\nHydra
@@ -40,7 +30,7 @@ DTSTART:20241010T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:6f4a6573-5b0d-44c4-ba2f-ddd9a8a37da4
+UID:f96cc2a0-faae-4229-af34-e843bea73daf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nPainbrush\nSploosh-o-matic\nJet S
@@ -50,7 +40,7 @@ DTSTART:20241012T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:f72b547d-1556-49a6-ba30-80514fa3acdc
+UID:712f3f3c-4b44-4c2f-9898-465934cd0229
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSlosher\nClash Blaster\nTri-Stringer
@@ -60,6 +50,16 @@ DTSTART:20241014T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:062a6bcf-6ba9-4d78-b78e-27c9c4044985
+UID:4814b879-48a8-4bcc-9b94-d0b517c79418
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nExplosher\nSplattershot\nLuna Blaster\nHeavy Splatli
+ ng\n\nKing:\nHorrorboros
+DTEND:20241017T075959Z
+DTSTART:20241015T160001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Horrorboros
+UID:78df631c-4452-4acf-b7e1-905c96eaf54a
 END:VEVENT
 END:VCALENDAR
