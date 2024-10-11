@@ -20,7 +20,7 @@ DTSTART:20241010T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:f848e995-73db-498c-8718-300664e65121
+UID:6ec63cc7-6177-4876-ae66-5e4e30a199c9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nPainbrush\nSploosh-o-matic\nJet S
@@ -30,7 +30,7 @@ DTSTART:20241012T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:f45f8905-6403-4bd8-b900-6d381d748eec
+UID:f107a534-8d24-4af4-90c9-03616ab44087
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSlosher\nClash Blaster\nTri-Stringer
@@ -40,7 +40,7 @@ DTSTART:20241014T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:59b9aac2-127a-4478-ad7d-2c25463fc2a3
+UID:3a172ca6-53d6-4fd8-ac59-18c838403826
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nExplosher\nSplattershot\nLuna Blaster\nHeavy Splatli
@@ -50,7 +50,7 @@ DTSTART:20241015T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:79257a87-228d-49d2-a716-3e9e5899d90c
+UID:b3c4d40d-3032-496e-ac68-781a00fa87ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\n.52 Gal\nRapid 
@@ -60,6 +60,6 @@ DTSTART:20241017T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:dc6970c0-84b4-41c8-a47b-3653523a23ca
+UID:cdea334b-06ab-4a35-ab6c-d59586984b0a
 END:VEVENT
 END:VCALENDAR
