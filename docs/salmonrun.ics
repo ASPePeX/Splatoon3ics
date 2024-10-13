@@ -20,7 +20,7 @@ DTSTART:20241012T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:edd7b31a-ae26-45b0-953d-9a7b341aed39
+UID:2c49afc5-ace6-4dc1-9fb2-3dbbb787b1c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSlosher\nClash Blaster\nTri-Stringer
@@ -30,7 +30,7 @@ DTSTART:20241014T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:bf5b3031-013d-4137-a943-4eb31d2299ef
+UID:edae0ff1-f830-49e5-921e-728d1164a1a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nExplosher\nSplattershot\nLuna Blaster\nHeavy Splatli
@@ -40,7 +40,7 @@ DTSTART:20241015T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:36e5178f-f251-47eb-b7c1-18519b850013
+UID:0b82921a-3512-4f02-a9ab-a5559a10be9c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\n.52 Gal\nRapid 
@@ -50,7 +50,7 @@ DTSTART:20241017T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:9ff46fff-64ec-43c1-bcb5-11b9f7516f61
+UID:4733470c-7508-40bf-b522-45eff5f69436
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSloshing Machine\nClassic S
@@ -60,6 +60,6 @@ DTSTART:20241019T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:ca9f85af-bd55-4289-abb2-e8c85bd8883c
+UID:fd8a5f96-a69a-4ece-aec5-3f097b22cb7c
 END:VEVENT
 END:VCALENDAR
