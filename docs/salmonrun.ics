@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nUndercover Brella\nPainbrush\nSploosh-o-matic\nJet S
- quelcher\n\nKing:\nMegalodontia
-DTEND:20241013T235959Z
-DTSTART:20241012T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:2c49afc5-ace6-4dc1-9fb2-3dbbb787b1c2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSlosher\nClash Blaster\nTri-Stringer
  \n\nKing:\nCohozuna
 DTEND:20241015T155959Z
@@ -30,7 +20,7 @@ DTSTART:20241014T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:edae0ff1-f830-49e5-921e-728d1164a1a2
+UID:e5cebc05-0d49-40de-8531-5457ce19d773
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nExplosher\nSplattershot\nLuna Blaster\nHeavy Splatli
@@ -40,7 +30,7 @@ DTSTART:20241015T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:0b82921a-3512-4f02-a9ab-a5559a10be9c
+UID:917f6935-a615-417e-a109-5e4ac4ceae2f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\n.52 Gal\nRapid 
@@ -50,7 +40,7 @@ DTSTART:20241017T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:4733470c-7508-40bf-b522-45eff5f69436
+UID:7217b025-3567-45c7-be63-17031f7c1e74
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSloshing Machine\nClassic S
@@ -60,6 +50,16 @@ DTSTART:20241019T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:fd8a5f96-a69a-4ece-aec5-3f097b22cb7c
+UID:566b43d0-ff7f-4a04-a590-e28c7b2178f0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDualie Squelchers\nN-ZAP '85\nDread Wringer\nE-liter
+  4K\n\nKing:\nHorrorboros
+DTEND:20241022T075959Z
+DTSTART:20241020T160001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:de9d99c5-c3c0-4836-a512-235543cfdf91
 END:VEVENT
 END:VCALENDAR
