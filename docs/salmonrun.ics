@@ -20,7 +20,7 @@ DTSTART:20241014T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:582f16f5-1503-4142-ba9c-af4e30488bbb
+UID:66f9973e-7434-4c0d-9f44-85c836d50147
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nExplosher\nSplattershot\nLuna Blaster\nHeavy Splatli
@@ -30,7 +30,7 @@ DTSTART:20241015T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:0cb3b924-6104-4e98-8206-4e6e0bd938cc
+UID:3208d717-7e1e-4c14-a24b-7a8f6006efbb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\n.52 Gal\nRapid 
@@ -40,7 +40,7 @@ DTSTART:20241017T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:c630b0b9-4f25-4aef-9f72-b43334549bd0
+UID:18a6d733-7a1d-4f26-a379-1edff59b6d99
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSloshing Machine\nClassic S
@@ -50,7 +50,7 @@ DTSTART:20241019T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:617c92ec-ded9-4022-8bea-42c607a6d55f
+UID:0dd9773d-51eb-49ab-b44a-8d7def202e96
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nN-ZAP '85\nDread Wringer\nE-liter
@@ -60,6 +60,6 @@ DTSTART:20241020T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:1a1714e1-847f-438c-b6c8-39362b17aa6f
+UID:3badbfe7-ead3-48f4-be3f-c3c5628c9c3f
 END:VEVENT
 END:VCALENDAR
