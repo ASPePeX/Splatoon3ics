@@ -20,7 +20,7 @@ DTSTART:20241015T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:841cac3c-2b4f-4956-a97f-c408ca7d6315
+UID:b6a23a22-7973-4268-930d-d65e645855e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\n.52 Gal\nRapid 
@@ -30,7 +30,7 @@ DTSTART:20241017T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:a010b849-3a12-4705-9760-fa24496cc482
+UID:ed7d7ab4-e551-4a97-a698-5d0187cab459
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSloshing Machine\nClassic S
@@ -40,7 +40,7 @@ DTSTART:20241019T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:97bcfd5c-c4ed-4c17-aa52-9047992a086f
+UID:bda6379c-9e6f-4ee5-a0bd-a3ecbf3ecfb3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nN-ZAP '85\nDread Wringer\nE-liter
@@ -50,7 +50,7 @@ DTSTART:20241020T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:d3c44555-6740-4e1a-8c79-988ad63282d0
+UID:cfb14f1e-bdfd-4cc1-ab0f-3e8a7970fff0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nDark Tetra Dualies\nSplatana Stam
@@ -60,6 +60,6 @@ DTSTART:20241022T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:54793297-3408-4d15-bfe3-b050b8de7100
+UID:29d948da-eda7-4801-8ba3-fd300d0b2821
 END:VEVENT
 END:VCALENDAR
