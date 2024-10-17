@@ -20,7 +20,7 @@ DTSTART:20241017T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:1095892e-1945-4d84-93bf-b9c12f7282d2
+UID:1537ae34-08ba-4a7d-80ad-f0bc081a063a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSloshing Machine\nClassic S
@@ -30,7 +30,7 @@ DTSTART:20241019T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:ea5b7fc1-f17c-49c7-9a1f-35e9b5722b7c
+UID:81e9eef2-6f9b-4c76-9f80-e5d537a36534
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nN-ZAP '85\nDread Wringer\nE-liter
@@ -40,7 +40,7 @@ DTSTART:20241020T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:35cc468e-0dcc-43db-a1f8-533b16041633
+UID:40bb4da0-de35-4257-8f39-9beac5ce7f8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nDark Tetra Dualies\nSplatana Stam
@@ -50,7 +50,7 @@ DTSTART:20241022T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:bf42d06f-3806-45fb-98ac-206ce5b54510
+UID:847ce8e2-4c87-4479-9594-705d8b76cb7f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nSploosh-o-matic\nJet Squel
@@ -60,6 +60,6 @@ DTSTART:20241024T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:c4a94ef9-b269-4407-95af-dad1a99069b0
+UID:31ed2ec4-397e-4a01-af65-30613f8dd6fa
 END:VEVENT
 END:VCALENDAR
