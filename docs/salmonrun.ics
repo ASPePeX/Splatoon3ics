@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplash-o-matic\nBallpoint Splatling\n.52 Gal\nRapid 
- Blaster\n\nKing:\nMegalodontia
-DTEND:20241018T235959Z
-DTSTART:20241017T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:f2b37a57-4f74-43da-b62d-526531406909
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSloshing Machine\nClassic S
  quiffer\nRandom\n\nKing:\nCohozuna
 DTEND:20241020T155959Z
@@ -30,7 +20,7 @@ DTSTART:20241019T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:c77b19ce-5476-4f8a-9c0f-5941a9f07603
+UID:213818c4-4e7c-4ae0-b93a-c633de2a65c1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nN-ZAP '85\nDread Wringer\nE-liter
@@ -40,7 +30,7 @@ DTSTART:20241020T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:69932842-3e5b-4f82-92ff-a5ead1666114
+UID:7954a243-32e4-4b77-aabd-a40b78b72059
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nDark Tetra Dualies\nSplatana Stam
@@ -50,7 +40,7 @@ DTSTART:20241022T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:a92858dd-7b05-472c-9b33-06a4cdd73e93
+UID:e575a827-8700-43a3-96ad-ce74feca1c91
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nSploosh-o-matic\nJet Squel
@@ -60,6 +50,16 @@ DTSTART:20241024T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:fbfe4d8c-4b3b-4903-9f4d-cdbc6d982f75
+UID:267416f7-9d56-45f5-9798-5dfe32a1acdb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nFlingza Roller\nLuna Blaster\nSplattershot Jr.\nSnip
+ ewriter 5H\n\nKing:\nHorrorboros
+DTEND:20241027T075959Z
+DTSTART:20241025T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:408b2417-3e38-449f-b31d-442f0a523895
 END:VEVENT
 END:VCALENDAR
