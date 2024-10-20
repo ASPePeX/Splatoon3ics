@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nSloshing Machine\nClassic S
- quiffer\nRandom\n\nKing:\nCohozuna
-DTEND:20241020T155959Z
-DTSTART:20241019T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:27511675-01ae-4e80-82e9-a4689f1ddc9f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nN-ZAP '85\nDread Wringer\nE-liter
   4K\n\nKing:\nHorrorboros
 DTEND:20241022T075959Z
@@ -30,7 +20,7 @@ DTSTART:20241020T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:ffac1c2c-159d-41fb-9e6a-b7be90da2565
+UID:e6d9fd6f-f8eb-4141-9cdb-25f2f8f62f94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nDark Tetra Dualies\nSplatana Stam
@@ -40,7 +30,7 @@ DTSTART:20241022T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:a18e2673-6f90-43c6-9baf-ccc53d2b046e
+UID:f205bdfe-718d-4ac5-a0fa-ba2c401501d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nSploosh-o-matic\nJet Squel
@@ -50,7 +40,7 @@ DTSTART:20241024T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:eb48a819-4f2b-4846-94b5-d713139367a8
+UID:0cbe03a9-73af-4f58-8098-eb7dc922148e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nLuna Blaster\nSplattershot Jr.\nSnip
@@ -60,6 +50,16 @@ DTSTART:20241025T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:d51aaa8e-f198-475e-815b-b72e9f88552f
+UID:352ef997-14c0-4b17-b1a0-f2fa6c4e05d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplash-o-matic\nSplat Roller\nL-3 Nozzlenose\nGoo Tu
+ ber\n\nKing:\nMegalodontia
+DTEND:20241028T235959Z
+DTSTART:20241027T080001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Megalodontia
+UID:055e8e2a-0212-4dd4-9eaf-569bce0875f1
 END:VEVENT
 END:VCALENDAR
