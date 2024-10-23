@@ -20,7 +20,7 @@ DTSTART:20241022T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:3f4bc8b9-ac50-480f-a753-67db64abfd6e
+UID:f34ed6ab-4166-4d10-a9d4-df288e9d8469
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nSploosh-o-matic\nJet Squel
@@ -30,7 +30,7 @@ DTSTART:20241024T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:ee64ebf4-4983-4ea2-9d31-6e8542728818
+UID:439bd4c9-e1de-406e-99a3-800a8a58a56b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nLuna Blaster\nSplattershot Jr.\nSnip
@@ -40,7 +40,7 @@ DTSTART:20241025T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:adc2bcf4-03e4-495d-8b97-c99beec1b02e
+UID:92a574ed-4f19-41f0-ae95-835b69848de3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nSplat Roller\nL-3 Nozzlenose\nGoo Tu
@@ -50,7 +50,7 @@ DTSTART:20241027T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:6693ba43-231c-4702-90ba-ce2ac4ae11e3
+UID:c0de9ef5-55f6-4632-aeae-dd21a07d1d51
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Brella\n.52 Gal\nClassic Squif
@@ -60,6 +60,6 @@ DTSTART:20241029T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:f20423a5-4d26-4ee6-bfce-9f89d586d230
+UID:64cd4785-991c-45ac-8209-b8f229d39014
 END:VEVENT
 END:VCALENDAR
