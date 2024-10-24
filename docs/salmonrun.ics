@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDouser Dualies FF\nDark Tetra Dualies\nSplatana Stam
- per\nBamboozler 14 Mk I\n\nKing:\nMegalodontia
-DTEND:20241023T235959Z
-DTSTART:20241022T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:6a3543c4-07ce-47b4-a400-828c648b885d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nSploosh-o-matic\nJet Squel
  cher\n\nKing:\nCohozuna
 DTEND:20241025T155959Z
@@ -30,7 +20,7 @@ DTSTART:20241024T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:45b848c1-15f5-4d99-b143-7d07be152089
+UID:17466d21-52f7-4618-baf7-77f629d483e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nLuna Blaster\nSplattershot Jr.\nSnip
@@ -40,7 +30,7 @@ DTSTART:20241025T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:c9de5ad0-4430-4951-88fb-d1fecbf7cc2f
+UID:b46dec2f-583a-4a5f-a907-2e9a7c2615b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nSplat Roller\nL-3 Nozzlenose\nGoo Tu
@@ -50,7 +40,7 @@ DTSTART:20241027T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:3961eed7-3afa-4e3c-9d74-34fd26126105
+UID:a84bfe85-fa5e-4673-9f16-81174ed5338c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Brella\n.52 Gal\nClassic Squif
@@ -60,6 +50,16 @@ DTSTART:20241029T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:486fef7b-7df7-4a7f-a5dd-5b59651eef49
+UID:7bab4470-401f-4125-a7d7-bcf56560a073
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Pro\nBloblobber\nSplat Dualies\nWellstr
+ ing V\n\nKing:\nHorrorboros
+DTEND:20241101T075959Z
+DTSTART:20241030T160001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:7fb56505-5f10-44b5-8048-1837049958e7
 END:VEVENT
 END:VCALENDAR
