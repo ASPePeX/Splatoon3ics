@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSqueezer\nMini Splatling\nSploosh-o-matic\nJet Squel
- cher\n\nKing:\nCohozuna
-DTEND:20241025T155959Z
-DTSTART:20241024T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:c9aaba4d-3c94-48db-be81-0e149ac74c5b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nLuna Blaster\nSplattershot Jr.\nSnip
  ewriter 5H\n\nKing:\nHorrorboros
 DTEND:20241027T075959Z
@@ -30,7 +20,7 @@ DTSTART:20241025T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:d247a9ad-703f-4791-a8cf-2d6ee0c28499
+UID:152d41ca-6082-4a76-9291-97f274b8a589
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nSplat Roller\nL-3 Nozzlenose\nGoo Tu
@@ -40,7 +30,7 @@ DTSTART:20241027T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:d90d38ec-9f0a-4ec1-9dc8-9e5e6ec6bb0a
+UID:518a2194-745d-4d7e-9f6b-3b7bf429eeb2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Brella\n.52 Gal\nClassic Squif
@@ -50,7 +40,7 @@ DTSTART:20241029T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:0301c7f1-055d-4c57-a18e-3b2c7c6321ae
+UID:6c87354c-61ff-4805-a729-ad726b481044
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nBloblobber\nSplat Dualies\nWellstr
@@ -60,6 +50,15 @@ DTSTART:20241030T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:f237b013-7fb0-4c28-9006-84fbf817bd5f
+UID:5d6f0094-e87f-4a22-961e-0921af249124
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
+DTEND:20241102T235959Z
+DTSTART:20241101T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Triumvirate
+UID:521a4c86-c74a-4ded-8856-a16d79fc39a8
 END:VEVENT
 END:VCALENDAR
