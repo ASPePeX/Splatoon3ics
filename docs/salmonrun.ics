@@ -20,7 +20,7 @@ DTSTART:20241025T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:d8c2c8ea-9bd2-47ba-a9b4-5f67b1c5524d
+UID:a9f42c12-d41d-4cd6-8df8-c8ce034c3bf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nSplat Roller\nL-3 Nozzlenose\nGoo Tu
@@ -30,7 +30,7 @@ DTSTART:20241027T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:aa341f07-6ab8-4408-8f2f-b0bdc8415976
+UID:7405b45c-f35d-4a5b-a1ba-068b717ba407
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Brella\n.52 Gal\nClassic Squif
@@ -40,7 +40,7 @@ DTSTART:20241029T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:12902af6-bf6a-47c4-a7ec-22f26ee7a43c
+UID:0b329c4e-2b97-4352-82bb-4f038d8e86b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nBloblobber\nSplat Dualies\nWellstr
@@ -50,7 +50,7 @@ DTSTART:20241030T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:a7da9526-f416-4dcb-957d-cd5a8350cb10
+UID:0da89dde-4b20-487c-811a-7bf3b8272c7f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +59,6 @@ DTSTART:20241101T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:ac847c67-ab64-4255-812b-b9396525aa5e
+UID:434d30de-f26b-4eca-a07c-2a498f8b503f
 END:VEVENT
 END:VCALENDAR
