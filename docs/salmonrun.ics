@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nFlingza Roller\nLuna Blaster\nSplattershot Jr.\nSnip
- ewriter 5H\n\nKing:\nHorrorboros
-DTEND:20241027T075959Z
-DTSTART:20241025T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:0f977f80-f07f-426c-96fc-70110032e3d3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nSplat Roller\nL-3 Nozzlenose\nGoo Tu
  ber\n\nKing:\nMegalodontia
 DTEND:20241028T235959Z
@@ -30,7 +20,7 @@ DTSTART:20241027T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:b6628e3f-6dcd-45e9-91e7-44ea489f0649
+UID:37e7268a-7fa3-4d46-bda6-238d0aec1da2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Brella\n.52 Gal\nClassic Squif
@@ -40,7 +30,7 @@ DTSTART:20241029T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:7da6a0ca-1a7c-49d7-9116-8c16cef56cfd
+UID:6ae3f2ef-a931-4fe3-905d-be62938b0174
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nBloblobber\nSplat Dualies\nWellstr
@@ -50,7 +40,7 @@ DTSTART:20241030T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:17c53cf7-0705-4c06-a71f-2539c1a2477f
+UID:7ef17be4-7f4f-4f9f-b96a-b38636909f18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20241101T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:f0123d4e-f118-4965-bbff-788565ec2280
+UID:7b143d0f-8e45-4072-a7fc-06b6ec776668
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nHeavy Edit Splatling\n
+ Tenta Brella\n\nKing:\nCohozuna
+DTEND:20241104T155959Z
+DTSTART:20241103T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:dc8f15a1-2428-4922-aa10-990a3918e945
 END:VEVENT
 END:VCALENDAR
