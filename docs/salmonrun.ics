@@ -20,7 +20,7 @@ DTSTART:20241027T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:de883b24-d16e-4c47-8e52-d2f3372af56b
+UID:ede4edf7-7790-4996-a5b6-eca20c18f3be
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Brella\n.52 Gal\nClassic Squif
@@ -30,7 +30,7 @@ DTSTART:20241029T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:e097efcd-e505-4274-9d8b-a843578cb6c9
+UID:dbfa8c7d-b447-4af4-8e02-f1d014867375
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nBloblobber\nSplat Dualies\nWellstr
@@ -40,7 +40,7 @@ DTSTART:20241030T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:c0c162b5-76bd-4de5-892d-24347910bec7
+UID:97379fe0-3b65-4936-980a-40da898c792d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +49,7 @@ DTSTART:20241101T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:d5b34f74-67e0-4661-9619-a6c989116ad4
+UID:d8c1d470-c1b6-4d90-bb10-eb50f63315b0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nHeavy Edit Splatling\n
@@ -59,6 +59,6 @@ DTSTART:20241103T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:6c3e8296-0986-404a-880f-49326b6f94db
+UID:98c61172-528c-47ae-8c8d-a381928ceb73
 END:VEVENT
 END:VCALENDAR
