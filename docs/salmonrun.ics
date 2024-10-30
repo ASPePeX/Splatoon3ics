@@ -20,7 +20,7 @@ DTSTART:20241029T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:e1bf6f47-372b-4216-8e37-08069e3ba3b8
+UID:a9a05d77-6392-4abf-a8b8-93e92c21f005
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nBloblobber\nSplat Dualies\nWellstr
@@ -30,7 +30,7 @@ DTSTART:20241030T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:d6801de1-5ed1-434a-87b7-041c64a3167f
+UID:5c8bc62c-a606-49b2-9873-176f4c204491
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20241101T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:46b11222-9823-42a9-98ad-61cd4a46b62e
+UID:09ac1803-1a10-4184-b043-036cb295bc08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nHeavy Edit Splatling\n
@@ -49,7 +49,7 @@ DTSTART:20241103T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:90945602-a051-4695-a13c-4b7674afd53c
+UID:1c8c7179-f632-4e87-b367-4870e801d681
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSploosh-o-matic\nSplattershot Nova\nHea
@@ -59,6 +59,6 @@ DTSTART:20241104T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:cfa87fd1-0389-4572-bda7-7b5d9dffb3cd
+UID:0185cca9-26fd-4134-b5d5-c5b42c555f71
 END:VEVENT
 END:VCALENDAR
