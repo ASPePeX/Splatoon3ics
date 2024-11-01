@@ -20,7 +20,7 @@ DTSTART:20241030T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:0615d177-e53c-488b-b38e-a447c4e86f53
+UID:4e18a7c1-541f-4232-af86-e3ae09651d0e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20241101T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:1acec025-f678-4f77-990f-a5233913261f
+UID:09b9dc11-cd2d-41ba-bdda-81712ee9019f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nHeavy Edit Splatling\n
@@ -39,7 +39,7 @@ DTSTART:20241103T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:2e09cc40-e2b4-4686-b9db-a49b1c0fbd43
+UID:28b86f0c-cdef-4cca-9c8e-93fd40a1e51b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSploosh-o-matic\nSplattershot Nova\nHea
@@ -49,7 +49,7 @@ DTSTART:20241104T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:0bb2ceb7-3d30-4dc7-ae6f-f04c1788340d
+UID:3596988d-ab75-469e-b603-e7e3836fbb41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSqueezer\nSplattershot Jr.\nRapid
@@ -59,6 +59,6 @@ DTSTART:20241106T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:445c8adb-9600-40d5-b558-28482900594d
+UID:f7b97216-e9b5-4eb9-aec2-e109a1874467
 END:VEVENT
 END:VCALENDAR
