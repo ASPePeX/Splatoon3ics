@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
-DTEND:20241102T235959Z
-DTSTART:20241101T080001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:fb38da3b-eb13-4423-882f-864584f57663
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nHeavy Edit Splatling\n
  Tenta Brella\n\nKing:\nCohozuna
 DTEND:20241104T155959Z
@@ -29,7 +20,7 @@ DTSTART:20241103T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:5608dd32-4845-446c-805f-41cd8430b089
+UID:12fd44a0-0563-4709-9016-1cb8d9e18358
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSploosh-o-matic\nSplattershot Nova\nHea
@@ -39,7 +30,7 @@ DTSTART:20241104T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:fc83077e-e49a-42f9-a677-45014e061fb2
+UID:860dfff5-7668-4dec-be6b-8c336169d9d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSqueezer\nSplattershot Jr.\nRapid
@@ -49,7 +40,7 @@ DTSTART:20241106T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:12b33d42-b88c-4f6e-8db1-1b97ab6880a0
+UID:f8c2d7e4-add9-4e40-9af4-104af8eb0007
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nPainbrush\nBallpoint Splatling\nClass
@@ -59,6 +50,6 @@ DTSTART:20241108T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:0897f868-8143-4bee-ba7e-9e1f1969837d
+UID:44dfd168-a18e-4413-98b7-85729e0e07eb
 END:VEVENT
 END:VCALENDAR
