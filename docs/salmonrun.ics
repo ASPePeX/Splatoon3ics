@@ -20,7 +20,7 @@ DTSTART:20241103T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:a3370ff2-fc68-4d0f-ba0b-453ec5aeaa7a
+UID:0e3cbe2c-3cfb-4ad0-bdd0-c417e833873d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSploosh-o-matic\nSplattershot Nova\nHea
@@ -30,7 +30,7 @@ DTSTART:20241104T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:1fe665b0-685f-49cc-954f-9421e3d52a62
+UID:37ab11a5-6636-442b-bff6-2278e2406652
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSqueezer\nSplattershot Jr.\nRapid
@@ -40,7 +40,7 @@ DTSTART:20241106T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:0ae619a5-bf05-4a9c-83c1-edd7a98fc497
+UID:36a02b75-921c-4814-9efe-a6caf1de7497
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nPainbrush\nBallpoint Splatling\nClass
@@ -50,6 +50,6 @@ DTSTART:20241108T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:06520a24-5a95-4e3e-abdd-d4b43d0b5524
+UID:84344265-3116-414a-a5e1-1dfa59dea33f
 END:VEVENT
 END:VCALENDAR
