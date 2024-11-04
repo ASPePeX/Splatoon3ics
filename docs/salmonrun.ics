@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nN-ZAP '85\nDouser Dualies FF\nHeavy Edit Splatling\n
- Tenta Brella\n\nKing:\nCohozuna
-DTEND:20241104T155959Z
-DTSTART:20241103T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:6eac2939-ef69-4e71-ac37-21571ad75a9f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSploosh-o-matic\nSplattershot Nova\nHea
  vy Splatling\n\nKing:\nHorrorboros
 DTEND:20241106T075959Z
@@ -30,7 +20,7 @@ DTSTART:20241104T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:0fcd2fe1-11c7-43e5-8a0c-47f663910af3
+UID:c1580162-9123-4198-aff5-3756647cb35a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSqueezer\nSplattershot Jr.\nRapid
@@ -40,7 +30,7 @@ DTSTART:20241106T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:4870c78d-ea9c-4576-b6b4-5c10bc457570
+UID:8bf50820-6bf2-4f13-bdb8-a73be90b989c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nPainbrush\nBallpoint Splatling\nClass
@@ -50,6 +40,16 @@ DTSTART:20241108T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:0e1ec98b-ed66-4cb2-9907-2a925fde651e
+UID:73aa1931-ecf6-4601-b443-55fff2f5075a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Brella\nBig Swig Roller\nMini Splatling\nJet S
+ quelcher\n\nKing:\nHorrorboros
+DTEND:20241111T075959Z
+DTSTART:20241109T160001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:3e2eceb1-07b1-4988-8459-ab45a46651cc
 END:VEVENT
 END:VCALENDAR
