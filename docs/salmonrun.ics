@@ -20,7 +20,7 @@ DTSTART:20241104T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:7225a4b8-4cfc-42ff-a1aa-62788772c112
+UID:4733fb94-e839-4995-b756-e787b32f2e84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSqueezer\nSplattershot Jr.\nRapid
@@ -30,7 +30,7 @@ DTSTART:20241106T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:8ae57421-7c63-483c-afa5-074300c9ec71
+UID:b3bf8fc4-7af5-44e7-b9c6-76937fbf31aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nPainbrush\nBallpoint Splatling\nClass
@@ -40,7 +40,7 @@ DTSTART:20241108T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:508a34e2-9285-4039-8690-36a205869ae0
+UID:39217d89-e3f4-4e94-8dae-335543cef5bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBig Swig Roller\nMini Splatling\nJet S
@@ -50,6 +50,6 @@ DTSTART:20241109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:602482de-7963-466a-bd56-44ede9f08a71
+UID:a2f5595c-7da0-4ea2-9c99-90dd05d77f6a
 END:VEVENT
 END:VCALENDAR
