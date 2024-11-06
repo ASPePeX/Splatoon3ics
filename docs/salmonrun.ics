@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nS-BLAST '92\nSploosh-o-matic\nSplattershot Nova\nHea
- vy Splatling\n\nKing:\nHorrorboros
-DTEND:20241106T075959Z
-DTSTART:20241104T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:4733fb94-e839-4995-b756-e787b32f2e84
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSqueezer\nSplattershot Jr.\nRapid
   Blaster Pro\n\nKing:\nMegalodontia
 DTEND:20241107T235959Z
@@ -30,7 +20,7 @@ DTSTART:20241106T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:b3bf8fc4-7af5-44e7-b9c6-76937fbf31aa
+UID:0289dd3d-c571-42c9-844a-17d05cda641a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nPainbrush\nBallpoint Splatling\nClass
@@ -40,7 +30,7 @@ DTSTART:20241108T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:39217d89-e3f4-4e94-8dae-335543cef5bb
+UID:0412a70c-69e9-48bb-94dc-377414ed5514
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBig Swig Roller\nMini Splatling\nJet S
@@ -50,6 +40,16 @@ DTSTART:20241109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:a2f5595c-7da0-4ea2-9c99-90dd05d77f6a
+UID:a33c1c78-8049-4692-ba70-2f9cd8b63741
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBlaster\nMint Decavitator\nL-3 Nozzlenose\nGoo Tuber
+ \n\nKing:\nMegalodontia
+DTEND:20241112T235959Z
+DTSTART:20241111T080001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:16ee10d2-faab-431b-9a17-55d2deb72e96
 END:VEVENT
 END:VCALENDAR
