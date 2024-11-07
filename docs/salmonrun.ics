@@ -20,7 +20,7 @@ DTSTART:20241106T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:f4b6b783-d9e9-473b-b476-6dc39b1ad713
+UID:b1935440-027f-4390-883c-442816bec1e8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nPainbrush\nBallpoint Splatling\nClass
@@ -30,7 +30,7 @@ DTSTART:20241108T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:c2b3cbbc-50f2-44ad-bc39-503a92e42f36
+UID:01fd3e99-d977-4a46-9b19-6d86b40b76e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBig Swig Roller\nMini Splatling\nJet S
@@ -40,7 +40,7 @@ DTSTART:20241109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:a80936fd-dffb-4755-ad18-d53e19a2099f
+UID:3e385881-3f5f-41df-9106-6022c3200c48
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMint Decavitator\nL-3 Nozzlenose\nGoo Tuber
@@ -50,6 +50,6 @@ DTSTART:20241111T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:92db3d8b-c6a7-45b1-af06-7222c743eb7c
+UID:f1b788c5-c410-441c-ba44-61d5832129ef
 END:VEVENT
 END:VCALENDAR
