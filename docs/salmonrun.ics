@@ -20,7 +20,7 @@ DTSTART:20241108T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:4ed7dcdf-724e-4326-90ce-05194c292d05
+UID:d6567872-d4bc-4821-89f0-5f0932430917
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBig Swig Roller\nMini Splatling\nJet S
@@ -30,7 +30,7 @@ DTSTART:20241109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:77ffe025-a4bb-49a5-906e-a8a0c1dfdafa
+UID:56945dbd-9283-402d-b842-1b53f0291ef4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMint Decavitator\nL-3 Nozzlenose\nGoo Tuber
@@ -40,7 +40,7 @@ DTSTART:20241111T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:588700eb-f071-4e22-b0df-7e2f8e0a7de3
+UID:f2bdb6fc-5614-4e60-b1c8-87bd95e0043e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nDapple Dualies\nSplat Dualies\nTri-Str
@@ -50,6 +50,6 @@ DTSTART:20241113T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:97d405b6-9aa1-4ab7-96c9-3fc431b07531
+UID:164ab108-89d7-41aa-9692-e923f62401de
 END:VEVENT
 END:VCALENDAR
