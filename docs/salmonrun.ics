@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDualie Squelchers\nSqueezer\nSplattershot Jr.\nRapid
-  Blaster Pro\n\nKing:\nMegalodontia
-DTEND:20241107T235959Z
-DTSTART:20241106T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Megalodontia
-UID:ef2b7c47-8b8f-429b-a471-3ce01cb4a3a3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nPainbrush\nBallpoint Splatling\nClass
  ic Squiffer\n\nKing:\nCohozuna
 DTEND:20241109T155959Z
@@ -30,7 +20,7 @@ DTSTART:20241108T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:eb1fe7e2-41aa-4837-bbab-b5243209f012
+UID:4ed7dcdf-724e-4326-90ce-05194c292d05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBig Swig Roller\nMini Splatling\nJet S
@@ -40,7 +30,7 @@ DTSTART:20241109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:4c6baa24-b1b8-408a-bba7-99346ba64a83
+UID:77ffe025-a4bb-49a5-906e-a8a0c1dfdafa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMint Decavitator\nL-3 Nozzlenose\nGoo Tuber
@@ -50,6 +40,16 @@ DTSTART:20241111T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:0d6a7faf-2616-4434-a6d7-d822fa40d87c
+UID:588700eb-f071-4e22-b0df-7e2f8e0a7de3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nAerospray MG\nDapple Dualies\nSplat Dualies\nTri-Str
+ inger\n\nKing:\nCohozuna
+DTEND:20241114T155959Z
+DTSTART:20241113T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:97d405b6-9aa1-4ab7-96c9-3fc431b07531
 END:VEVENT
 END:VCALENDAR
