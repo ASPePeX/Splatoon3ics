@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nCarbon Roller\nPainbrush\nBallpoint Splatling\nClass
- ic Squiffer\n\nKing:\nCohozuna
-DTEND:20241109T155959Z
-DTSTART:20241108T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Cohozuna
-UID:00d4a5fa-c4f0-4bac-9e41-72eb431db7d1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBig Swig Roller\nMini Splatling\nJet S
  quelcher\n\nKing:\nHorrorboros
 DTEND:20241111T075959Z
@@ -30,7 +20,7 @@ DTSTART:20241109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:3f079eee-725b-4592-aa45-9ad273e8d6f7
+UID:c866e9b9-0b6b-4e08-9cf5-7a395153f678
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMint Decavitator\nL-3 Nozzlenose\nGoo Tuber
@@ -40,7 +30,7 @@ DTSTART:20241111T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:22b4c734-ba6f-4962-bbdf-2ab52c0bdcc5
+UID:617e4ba7-4350-4c9c-b1e1-2c56adb26826
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nDapple Dualies\nSplat Dualies\nTri-Str
@@ -50,6 +40,16 @@ DTSTART:20241113T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:97d2a1f0-cf20-4c24-bc81-0a996376000e
+UID:18f29ad2-7b86-4e18-a0bb-9198a2a375ab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nSplat Roller\nGlooga Dualies\nWellstring V\
+ n\nKing:\nHorrorboros
+DTEND:20241116T075959Z
+DTSTART:20241114T160001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:1be804d1-6e78-4df8-b8ce-13326b8aa225
 END:VEVENT
 END:VCALENDAR
