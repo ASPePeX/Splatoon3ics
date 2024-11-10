@@ -20,7 +20,7 @@ DTSTART:20241109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:df77214c-5189-450e-8193-24c19ed08331
+UID:82724814-c35c-4e8b-acaa-03cba5ab7f21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMint Decavitator\nL-3 Nozzlenose\nGoo Tuber
@@ -30,7 +30,7 @@ DTSTART:20241111T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:ed5a4707-5e36-451b-85ed-00de1ae9efbf
+UID:02afe801-6d45-4681-93ba-fe49100d5dd4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nDapple Dualies\nSplat Dualies\nTri-Str
@@ -40,7 +40,7 @@ DTSTART:20241113T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:2864b569-2a03-4024-beb4-a8f7db5e2f17
+UID:856f3acf-ae98-40f3-b6d9-4ffa963f1926
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplat Roller\nGlooga Dualies\nWellstring V\
@@ -50,6 +50,6 @@ DTSTART:20241114T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:08fe9472-b669-428f-8a35-50971919b9f5
+UID:dd788f76-38f3-4dc6-bba9-dad86af9716a
 END:VEVENT
 END:VCALENDAR
