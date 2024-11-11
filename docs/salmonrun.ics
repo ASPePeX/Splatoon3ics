@@ -20,7 +20,7 @@ DTSTART:20241109T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:40667e0a-1fb1-46b8-9776-780517214efd
+UID:50446e4e-9a88-445b-b888-b75f8c79c91a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMint Decavitator\nL-3 Nozzlenose\nGoo Tuber
@@ -30,7 +30,7 @@ DTSTART:20241111T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:db28943a-c8ab-4ce9-917a-32709bc0209f
+UID:92f066aa-7ed2-47aa-955e-c0ac29854848
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nDapple Dualies\nSplat Dualies\nTri-Str
@@ -40,7 +40,7 @@ DTSTART:20241113T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:1b51b883-c0d5-4abb-8aed-ce4f5e5a6985
+UID:acca5909-5f6c-4b97-9f2a-105d2885ad2f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplat Roller\nGlooga Dualies\nWellstring V\
@@ -50,6 +50,16 @@ DTSTART:20241114T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:c166a50c-6a5d-4dbd-9c09-a78f7336ab77
+UID:73123c01-042e-4c55-9fe7-f8bd50e53e4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot\nS-BLAST '92\nSplat Charger\nRandom\n\n
+ King:\nMegalodontia
+DTEND:20241117T235959Z
+DTSTART:20241116T080001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:83b670f6-cc1e-46e3-baa8-cfeb497c5983
 END:VEVENT
 END:VCALENDAR
