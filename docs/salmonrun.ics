@@ -20,7 +20,7 @@ DTSTART:20241113T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:9921f541-5128-43b8-b5f5-dd8ccdfc3ea7
+UID:2fb4d41a-9472-415b-a113-4af89f3e228f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplat Roller\nGlooga Dualies\nWellstring V\
@@ -30,7 +30,7 @@ DTSTART:20241114T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:13780286-796b-4722-a31c-e8fe4a80de42
+UID:77431d54-4280-488e-83d2-36fced5f11b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nS-BLAST '92\nSplat Charger\nRandom\n\n
@@ -40,7 +40,7 @@ DTSTART:20241116T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:2cb3c190-f914-42f7-8833-f019ba878756
+UID:3bd96282-7f73-464a-ad66-3f4bd2548c28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nDynamo Roller\nClash Blaster\nClas
@@ -50,7 +50,7 @@ DTSTART:20241118T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:02cc3415-bc00-45c5-ab6a-550711d31f41
+UID:fb9f8865-8e21-4112-bf6e-79a1989a92b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nSplat Brella\nBloblobber\nSnipe
@@ -60,6 +60,6 @@ DTSTART:20241119T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:5860fc2d-6085-4cd3-843c-5c5c35b99014
+UID:aca866a5-f5a4-4e75-9e87-4cc885dcfe1a
 END:VEVENT
 END:VCALENDAR
