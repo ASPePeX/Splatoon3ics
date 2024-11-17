@@ -20,7 +20,7 @@ DTSTART:20241116T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:e1d5cf9c-94f4-4854-a92b-73053f1f6ef7
+UID:b9602bd5-32b2-4ee0-963c-bc2563d8b5a7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nDynamo Roller\nClash Blaster\nClas
@@ -30,7 +30,7 @@ DTSTART:20241118T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:cc9754d0-00e3-49f6-ac30-877bae1b67f2
+UID:45bca520-cdd9-468e-84d3-b95eac45c330
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nSplat Brella\nBloblobber\nSnipe
@@ -40,7 +40,7 @@ DTSTART:20241119T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:838fee2c-a361-4f7a-be81-9c4f29e3dcac
+UID:74afc42f-6205-4e16-8698-04fd852276f5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nExplosher\nMint Decavitator\nN-ZAP '85\nBamboozler 1
@@ -50,7 +50,7 @@ DTSTART:20241121T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:e27436c7-d385-4707-870d-e6fb65eb0b6f
+UID:9c4814b3-3ed5-4929-a4b5-eb084f118edf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nCarbon Roller\nDapple Dualies\n.96 G
@@ -60,6 +60,6 @@ DTSTART:20241123T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:2e736a9f-2aa6-43cf-a1ed-7c51fc43a422
+UID:7be10621-3c46-4c80-95ae-80b7eaec8f15
 END:VEVENT
 END:VCALENDAR
