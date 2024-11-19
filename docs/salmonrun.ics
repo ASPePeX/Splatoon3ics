@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Stamper\nDynamo Roller\nClash Blaster\nClas
- sic Squiffer\n\nKing:\nCohozuna
-DTEND:20241119T155959Z
-DTSTART:20241118T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Cohozuna
-UID:d84bc06f-5705-46e2-a232-953f17b39ed4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nSplat Brella\nBloblobber\nSnipe
  writer 5H\n\nKing:\nHorrorboros
 DTEND:20241121T075959Z
@@ -30,7 +20,7 @@ DTSTART:20241119T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:487a3ff1-a8e7-461b-aa72-ab81a1b5d509
+UID:7ceb404f-ccb6-47a0-9829-6135bc5010c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nExplosher\nMint Decavitator\nN-ZAP '85\nBamboozler 1
@@ -40,7 +30,7 @@ DTSTART:20241121T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:c2d37c6d-36fb-4f7e-8878-862d3587ef32
+UID:3a887a02-6cac-4842-abbf-a6da13f90258
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nCarbon Roller\nDapple Dualies\n.96 G
@@ -50,7 +40,7 @@ DTSTART:20241123T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:1c5d2118-16f0-49da-9238-cae5c6230f86
+UID:995ee167-ab5c-4a4f-9902-71c5699c3ef8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nOctobrush\nFlingza Roller\nWellstrin
@@ -60,6 +50,16 @@ DTSTART:20241124T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:fe6fdeb1-7069-49da-b77a-5cce80c2bf3b
+UID:30abffde-8936-43c1-b504-17359ac22ab5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDualie Squelchers\nSploosh-o-matic\nJet Squelcher\nT
+ enta Brella\n\nKing:\nMegalodontia
+DTEND:20241127T235959Z
+DTSTART:20241126T080001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:bd73d11b-b404-4346-9e90-1e4e51b1d263
 END:VEVENT
 END:VCALENDAR
