@@ -20,7 +20,7 @@ DTSTART:20241119T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:fdc88c54-668d-49e9-a7ff-605cbe376003
+UID:34bcc113-a7b6-4034-937e-61939a4a8ef4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nExplosher\nMint Decavitator\nN-ZAP '85\nBamboozler 1
@@ -30,7 +30,7 @@ DTSTART:20241121T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:c2ba595a-1b6e-4043-befe-813c413c70d2
+UID:3aba5e31-37ef-4839-b432-702913506d2d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nCarbon Roller\nDapple Dualies\n.96 G
@@ -40,7 +40,7 @@ DTSTART:20241123T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:57415203-5c39-4fb4-80d2-c89505e91e71
+UID:0cf76105-543d-4128-a7b9-c1e600dac65f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nOctobrush\nFlingza Roller\nWellstrin
@@ -50,7 +50,7 @@ DTSTART:20241124T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:ead25fb2-9c83-4dec-8508-d5074bca21b0
+UID:e8ec7513-a394-44b8-a618-fb6964d92d3b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSploosh-o-matic\nJet Squelcher\nT
@@ -60,6 +60,6 @@ DTSTART:20241126T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:8a816581-951e-4509-a993-92cf74fe5973
+UID:f490b2e5-875a-4a4d-a890-dd1ce25cd51b
 END:VEVENT
 END:VCALENDAR
