@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBallpoint Splatling\nSplat Brella\nBloblobber\nSnipe
- writer 5H\n\nKing:\nHorrorboros
-DTEND:20241121T075959Z
-DTSTART:20241119T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:7e85c0db-c944-45da-95fc-f74ee4784329
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nExplosher\nMint Decavitator\nN-ZAP '85\nBamboozler 1
  4 Mk I\n\nKing:\nMegalodontia
 DTEND:20241122T235959Z
@@ -30,7 +20,7 @@ DTSTART:20241121T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:998a1c36-f1a2-412a-b12c-9d22dbee1adc
+UID:565c1ca1-07d2-46d2-88d7-c761dfd1fb4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nCarbon Roller\nDapple Dualies\n.96 G
@@ -40,7 +30,7 @@ DTSTART:20241123T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:710778ae-0b48-4869-aff7-94ee12d83344
+UID:758f5f3d-41e5-47cb-99ca-083c4af80a14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nOctobrush\nFlingza Roller\nWellstrin
@@ -50,7 +40,7 @@ DTSTART:20241124T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:17d5d7d7-3b70-4c43-8979-f155169a1045
+UID:9301f197-4f0b-42dd-bc83-35f0c96a0646
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSploosh-o-matic\nJet Squelcher\nT
@@ -60,6 +50,16 @@ DTSTART:20241126T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:9f0e20ff-5f11-4d0a-a634-c993d678ce3d
+UID:3e528512-7727-4db5-ab68-85b9af6e341d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nSplat Roller\nLuna Blaster\nTri-St
+ ringer\n\nKing:\nCohozuna
+DTEND:20241129T155959Z
+DTSTART:20241128T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:fcd3172b-dd7e-46bb-a634-d743b722f358
 END:VEVENT
 END:VCALENDAR
