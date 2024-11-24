@@ -20,7 +20,7 @@ DTSTART:20241123T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:97b0afc5-5c11-440d-a82d-f9f66ab9874f
+UID:5d93e64a-441b-4060-9c80-d626c6e064c7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nOctobrush\nFlingza Roller\nWellstrin
@@ -30,7 +30,7 @@ DTSTART:20241124T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:9856dbcf-a92e-4903-a56f-826360fd7ac1
+UID:9a680e27-a942-4938-9721-af90e43e4c61
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSploosh-o-matic\nJet Squelcher\nT
@@ -40,7 +40,7 @@ DTSTART:20241126T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:4fccae7a-3351-42d1-acc2-10dc6e66aa90
+UID:62237102-03e9-4bc0-9ebd-28e5607415b0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplat Roller\nLuna Blaster\nTri-St
@@ -50,7 +50,7 @@ DTSTART:20241128T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:f99ac9ca-c1c3-4277-adcc-36514b697ecb
+UID:667ccf3a-90c8-4ea4-b88a-b98b56c1e8ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +59,6 @@ DTSTART:20241129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Triumvirate
-UID:29ade37c-f4ad-4841-a45a-dcc7de6ccdce
+UID:acd8f2a6-c732-4f56-b534-a0d99c029c24
 END:VEVENT
 END:VCALENDAR
