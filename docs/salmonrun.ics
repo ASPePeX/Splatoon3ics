@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Wiper\nCarbon Roller\nDapple Dualies\n.96 G
- al\n\nKing:\nCohozuna
-DTEND:20241124T155959Z
-DTSTART:20241123T000001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:fabbf4e5-fbf6-4947-9e73-28e043dd3d10
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nOctobrush\nFlingza Roller\nWellstrin
  g V\n\nKing:\nHorrorboros
 DTEND:20241126T075959Z
@@ -30,7 +20,7 @@ DTSTART:20241124T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:2d30c3a9-b13c-4e23-ad23-a64453c00be4
+UID:be4833d0-b3c4-4853-b54e-2679fadfc50b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSploosh-o-matic\nJet Squelcher\nT
@@ -40,7 +30,7 @@ DTSTART:20241126T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:4a5cd4af-212c-41ef-a631-898c3905495b
+UID:fc40514a-3015-404a-a88d-76099b4f3b0d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplat Roller\nLuna Blaster\nTri-St
@@ -50,7 +40,7 @@ DTSTART:20241128T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:11d80f7c-549e-4467-a34f-39091351c866
+UID:a55a3720-5c54-439f-aadf-4c362d8d8156
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20241129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Triumvirate
-UID:5574ef4d-408c-41c6-9406-f80243abc5e8
+UID:e50614dc-0596-4298-a131-afb933076beb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Brella\nBallpoint Splatling\nH-3 Nozzlenose\nC
+ lassic Squiffer\n\nKing:\nMegalodontia
+DTEND:20241202T235959Z
+DTSTART:20241201T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:5ee9ad4e-f83c-467c-ba71-5dc159e666b1
 END:VEVENT
 END:VCALENDAR
