@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nGlooga Dualies\nOctobrush\nFlingza Roller\nWellstrin
- g V\n\nKing:\nHorrorboros
-DTEND:20241126T075959Z
-DTSTART:20241124T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:b3ebd7d3-3faa-4710-94bd-3fcf6ef120c4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nSploosh-o-matic\nJet Squelcher\nT
  enta Brella\n\nKing:\nMegalodontia
 DTEND:20241127T235959Z
@@ -30,7 +20,7 @@ DTSTART:20241126T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:f5391362-a265-4001-9efa-de9fa3839f6e
+UID:d1fb1c68-48ce-4744-9d7c-b4fae511cc12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplat Roller\nLuna Blaster\nTri-St
@@ -40,7 +30,7 @@ DTSTART:20241128T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:b9f06d16-a193-455c-838b-f8dc6220e300
+UID:55064ef8-1eda-48be-a3e8-3ff8da1c440b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +39,7 @@ DTSTART:20241129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Triumvirate
-UID:1e32fef3-2b16-4526-8095-1beeb8988bcb
+UID:445f72ed-f4c9-4447-922e-11c77874752c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBallpoint Splatling\nH-3 Nozzlenose\nC
@@ -59,6 +49,16 @@ DTSTART:20241201T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:7d34290d-2eec-42de-9852-2076fdf1186f
+UID:379157bc-ffa4-4b3e-b985-c86f7565b86d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplatana Stamper\nSqueezer\nSplat Dualies\nRapid Bla
+ ster Pro\n\nKing:\nCohozuna
+DTEND:20241204T155959Z
+DTSTART:20241203T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:9e311af1-8c31-47a8-be7f-755f5066bbd2
 END:VEVENT
 END:VCALENDAR
