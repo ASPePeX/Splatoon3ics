@@ -20,7 +20,7 @@ DTSTART:20241128T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:9c5092c0-0112-4ed5-a051-527ad46aae68
+UID:209db188-98bf-45ee-af94-7feac2ca08dd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20241129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Triumvirate
-UID:5543dadd-c589-4913-838f-351560cb10a7
+UID:14fca322-26b7-4686-9a2d-e4602d846dec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBallpoint Splatling\nH-3 Nozzlenose\nC
@@ -39,7 +39,7 @@ DTSTART:20241201T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:6f9e468c-fdab-4b56-ad51-548de6d3c751
+UID:63aac09c-eccc-4307-98b5-93f0b03e6ac8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSqueezer\nSplat Dualies\nRapid Bla
@@ -49,7 +49,7 @@ DTSTART:20241203T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:3eef163d-0cf1-4ca7-a646-164277c906b0
+UID:4eebbc8a-d82c-4cae-9d99-7ee5e580a8b1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nExplosher\nSplattershot\nBamboozler 14 M
@@ -59,6 +59,6 @@ DTSTART:20241204T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:7049b84f-6279-41c4-b872-2fec58e3136c
+UID:d03d7e7b-731f-4788-a3f0-b9ed7a6d1238
 END:VEVENT
 END:VCALENDAR
