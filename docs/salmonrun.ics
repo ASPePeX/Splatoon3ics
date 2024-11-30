@@ -19,7 +19,7 @@ DTSTART:20241129T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Triumvirate
-UID:c58fce12-4cd8-4509-8e2b-dfee28fa3fa6
+UID:db275e20-64f6-4efc-b150-e10360281936
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBallpoint Splatling\nH-3 Nozzlenose\nC
@@ -29,7 +29,7 @@ DTSTART:20241201T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:8d2ac1ab-176f-41cc-a3b6-ffd996a83c89
+UID:efc2ca68-895d-455e-a5da-9a2ac017b294
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSqueezer\nSplat Dualies\nRapid Bla
@@ -39,7 +39,7 @@ DTSTART:20241203T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:ee916ba6-1d13-441d-8605-adcb10d5e268
+UID:7e06c757-0f25-4cfc-b334-6731fad62daf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nExplosher\nSplattershot\nBamboozler 14 M
@@ -49,7 +49,7 @@ DTSTART:20241204T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:a813cf8d-cbf2-413b-832e-22aad7171d90
+UID:d056fb60-5388-4069-9849-cda6ee682a21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nAerospray MG\nDark Tetra Dualies\n
@@ -59,6 +59,6 @@ DTSTART:20241206T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:2b5d7431-dbca-4254-91af-29cced7c89a3
+UID:339d7551-65d9-4de1-ae07-cc1122a8d1db
 END:VEVENT
 END:VCALENDAR
