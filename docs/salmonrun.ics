@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
-DTEND:20241201T075959Z
-DTSTART:20241129T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Triumvirate
-UID:19aaf844-df6d-4746-ba9f-c162477ef213
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nBallpoint Splatling\nH-3 Nozzlenose\nC
  lassic Squiffer\n\nKing:\nMegalodontia
 DTEND:20241202T235959Z
@@ -29,7 +20,7 @@ DTSTART:20241201T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:4bb4c36b-1cff-4376-a3ed-0fe8a70c5e34
+UID:6b389357-c580-45c9-b8c5-6674e35c30cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSqueezer\nSplat Dualies\nRapid Bla
@@ -39,7 +30,7 @@ DTSTART:20241203T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:b3b341a2-9da0-43c9-8f7e-c3babf1bb7df
+UID:ec5d68b0-ada1-4d1e-9c37-bae83d1d16bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nExplosher\nSplattershot\nBamboozler 14 M
@@ -49,7 +40,7 @@ DTSTART:20241204T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:37e7c68c-bba0-4a72-a85f-4a97881980d8
+UID:4e391316-f7ba-423b-b47a-f37af41efc04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nAerospray MG\nDark Tetra Dualies\n
@@ -59,6 +50,16 @@ DTSTART:20241206T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:6b47f497-38a3-4504-95e0-587f606084c8
+UID:13dca252-f4be-4ef3-a62d-f9411f1c17dc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSloshing Machine\nInkbrush\nCarbon Roller\nHeavy Spl
+ atling\n\nKing:\nCohozuna
+DTEND:20241209T155959Z
+DTSTART:20241208T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Cohozuna
+UID:fefd234b-f2cf-4cc3-87b0-a491be9e0e02
 END:VEVENT
 END:VCALENDAR
