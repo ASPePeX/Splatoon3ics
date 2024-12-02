@@ -20,7 +20,7 @@ DTSTART:20241201T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:3d97f469-8588-4405-8a30-3b3cdcd54281
+UID:89857fb4-4137-414e-bb05-fe2b0ca411e7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSqueezer\nSplat Dualies\nRapid Bla
@@ -30,7 +30,7 @@ DTSTART:20241203T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:6fda5d7d-6ffd-40e4-a47a-2ff5128e26a2
+UID:90f829be-a5b5-46c2-b49c-16c06907bfc6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nExplosher\nSplattershot\nBamboozler 14 M
@@ -40,7 +40,7 @@ DTSTART:20241204T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:733e8aa2-a8be-4927-a0ef-e92585591da7
+UID:7bb02c69-7776-40b1-8f57-cd87c86fe76e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nAerospray MG\nDark Tetra Dualies\n
@@ -50,7 +50,7 @@ DTSTART:20241206T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:4a1b1202-a9a2-4e98-bbe0-e72507935ac4
+UID:2f0887a6-ea42-4f71-b847-1859be5ce1c8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSloshing Machine\nInkbrush\nCarbon Roller\nHeavy Spl
@@ -60,6 +60,6 @@ DTSTART:20241208T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:3134d0d5-5896-40ff-9d31-4d71ceadfcd7
+UID:dadccf5f-2227-4f25-bbea-046420bddb0d
 END:VEVENT
 END:VCALENDAR
