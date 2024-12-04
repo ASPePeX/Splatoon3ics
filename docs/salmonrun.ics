@@ -20,7 +20,7 @@ DTSTART:20241203T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:676d8178-2be4-4529-9bdb-d42ad4c6fb1e
+UID:cf24b305-f23d-498e-bf06-73b988d938b9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nExplosher\nSplattershot\nBamboozler 14 M
@@ -30,7 +30,7 @@ DTSTART:20241204T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:96fe0769-072c-436f-8c4d-7ade4681039b
+UID:5c70df1f-f987-4f55-a517-7d5e4a70ced7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nAerospray MG\nDark Tetra Dualies\n
@@ -40,7 +40,7 @@ DTSTART:20241206T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:a303c88c-cdea-48bb-86b1-85c9bb9fa11e
+UID:3b52e06f-549d-430c-aa18-3c36c2073f97
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSloshing Machine\nInkbrush\nCarbon Roller\nHeavy Spl
@@ -50,7 +50,7 @@ DTSTART:20241208T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:4de20183-cb36-490f-aade-2a5d43985ad5
+UID:4bab379b-60c5-43da-afa1-29f1e7d52e89
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nLuna Blaster\nSplattershot Nova\nTri-String
@@ -60,6 +60,6 @@ DTSTART:20241209T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:fbf8f223-c84c-4ad1-8941-8fb650a2a9e5
+UID:24e2f860-e1dc-41fb-ab25-33e9b1fc711c
 END:VEVENT
 END:VCALENDAR
