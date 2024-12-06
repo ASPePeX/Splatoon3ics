@@ -20,7 +20,7 @@ DTSTART:20241204T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:70c2185d-cfec-4be4-8d7e-0839868b777e
+UID:36c50359-1339-4150-90e4-f7ac8f718d42
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nAerospray MG\nDark Tetra Dualies\n
@@ -30,7 +30,7 @@ DTSTART:20241206T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:7259f60c-84a4-4da4-a1f5-bb44cc2a5614
+UID:df6ed71b-2198-406f-a905-b9b6a8c1bfa6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSloshing Machine\nInkbrush\nCarbon Roller\nHeavy Spl
@@ -40,7 +40,7 @@ DTSTART:20241208T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:5bf9796f-d823-49ed-8229-a6681a96e68b
+UID:81de5d8e-e426-4a38-9152-8644b9fecab0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nLuna Blaster\nSplattershot Nova\nTri-String
@@ -50,7 +50,7 @@ DTSTART:20241209T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:189dfb34-2ec0-4b47-b2cc-26583c2e928e
+UID:1c9d4487-5f47-4ce4-9416-58829ba59f82
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nREEF-LUX 450\nS-BLAST '92\nGoo Tuber
@@ -60,6 +60,6 @@ DTSTART:20241211T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:46523dd0-8f4e-42f2-9cdc-8c5a75f31567
+UID:e4ea3991-bd85-443f-ba69-d12f0593c2ac
 END:VEVENT
 END:VCALENDAR
