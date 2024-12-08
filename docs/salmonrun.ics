@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nMint Decavitator\nAerospray MG\nDark Tetra Dualies\n
- .96 Gal\n\nKing:\nMegalodontia
-DTEND:20241207T235959Z
-DTSTART:20241206T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:95c44d3b-d958-4650-b27a-22f9a9a218df
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSloshing Machine\nInkbrush\nCarbon Roller\nHeavy Spl
  atling\n\nKing:\nCohozuna
 DTEND:20241209T155959Z
@@ -30,7 +20,7 @@ DTSTART:20241208T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:e0c92cc6-1832-4e18-865e-b343030cbd76
+UID:b610ec0b-0cfb-4506-a6c4-af81dadd6d1c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nLuna Blaster\nSplattershot Nova\nTri-String
@@ -40,7 +30,7 @@ DTSTART:20241209T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:0f0046d0-e826-4032-befb-aef6cdc2fb98
+UID:edd6acf4-2dfe-465a-a2d1-14c0764586df
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nREEF-LUX 450\nS-BLAST '92\nGoo Tuber
@@ -50,7 +40,7 @@ DTSTART:20241211T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:9d56156f-5557-43c1-81bc-645cb2550035
+UID:d5441160-be25-4c6b-94b0-6bbedf5bdea1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nUndercover Brella\nL-3 Nozzlenose
@@ -60,6 +50,6 @@ DTSTART:20241213T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:81e53a49-8424-4818-a056-dab70bdd4bd6
+UID:f36488c4-3665-4f52-b4d1-2d9b24604c24
 END:VEVENT
 END:VCALENDAR
