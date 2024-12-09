@@ -20,7 +20,7 @@ DTSTART:20241208T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:7a1e1e3b-d5d7-4a42-9b31-1f3e2a0f0123
+UID:0b83e8e2-d4b1-44f9-91be-35fb74d881ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nLuna Blaster\nSplattershot Nova\nTri-String
@@ -30,7 +30,7 @@ DTSTART:20241209T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:5810e9fe-ea27-4430-8f1d-bccd3b08d5ed
+UID:4b7aba69-4b1a-4e80-8bc9-80b9f4f895cf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nREEF-LUX 450\nS-BLAST '92\nGoo Tuber
@@ -40,7 +40,7 @@ DTSTART:20241211T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:ef4e4795-8111-41e9-9571-d71667a5c183
+UID:962e5bd1-a9df-4c4a-895c-ac619d85acc1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nUndercover Brella\nL-3 Nozzlenose
@@ -50,6 +50,6 @@ DTSTART:20241213T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:3a6cacb7-b95d-468d-8a36-b926504a50d3
+UID:485a8f0e-836b-4281-ac78-933ff2118507
 END:VEVENT
 END:VCALENDAR
