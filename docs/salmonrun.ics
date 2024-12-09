@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSloshing Machine\nInkbrush\nCarbon Roller\nHeavy Spl
- atling\n\nKing:\nCohozuna
-DTEND:20241209T155959Z
-DTSTART:20241208T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:f2087058-ea27-4eb4-af15-ef88bcb8f610
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nLuna Blaster\nSplattershot Nova\nTri-String
  er\n\nKing:\nHorrorboros
 DTEND:20241211T075959Z
@@ -30,7 +20,7 @@ DTSTART:20241209T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:aead42c3-e72b-4071-9497-659c088fdac8
+UID:5ddd6ddc-ddc9-4e5b-9b3b-a1e218dd00a4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nREEF-LUX 450\nS-BLAST '92\nGoo Tuber
@@ -40,7 +30,7 @@ DTSTART:20241211T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:2738a99d-44fe-4f86-8d34-c902ebf0b50b
+UID:547cab34-6642-4f31-8da2-5585a7e0fe5c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nUndercover Brella\nL-3 Nozzlenose
@@ -50,6 +40,16 @@ DTSTART:20241213T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:ff857146-36ca-4bc0-88af-750568f1b8b0
+UID:22fdcbea-6f37-4450-91cf-eeee048a1c44
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nDread Wringer\nSplat Cha
+ rger\n\nKing:\nHorrorboros
+DTEND:20241217T235959Z
+DTSTART:20241216T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:6d962e1a-0cf6-4057-8045-5200f1ba417d
 END:VEVENT
 END:VCALENDAR
