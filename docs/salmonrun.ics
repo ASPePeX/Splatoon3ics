@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nLuna Blaster\nSplattershot Nova\nTri-String
- er\n\nKing:\nHorrorboros
-DTEND:20241211T075959Z
-DTSTART:20241209T160001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:7f0f90df-8350-4330-b60b-b222e4a4e3e8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nREEF-LUX 450\nS-BLAST '92\nGoo Tuber
  \n\nKing:\nMegalodontia
 DTEND:20241212T235959Z
@@ -30,7 +20,7 @@ DTSTART:20241211T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:591fa3e4-7c44-4451-80c2-b3697079ceb9
+UID:219874dc-03bd-4ec6-8e09-a28861d1c6aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nUndercover Brella\nL-3 Nozzlenose
@@ -40,7 +30,7 @@ DTSTART:20241213T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:4b9e28cd-3777-4048-92fb-7a6cec57fb01
+UID:5c175aeb-049a-4992-83f5-a708e57e612f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nDread Wringer\nSplat Cha
@@ -50,6 +40,16 @@ DTSTART:20241216T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:ca31d4e7-543d-4d33-9a91-826e965fe6e9
+UID:9b5b83be-3820-4701-9b82-c8d15352720c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Dualies\nAerospray MG\nN-ZAP '85\nSnipewriter 
+ 5H\n\nKing:\nMegalodontia
+DTEND:20241219T155959Z
+DTSTART:20241218T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Megalodontia
+UID:871d0884-d843-46b6-833a-4f1ef1915f08
 END:VEVENT
 END:VCALENDAR
