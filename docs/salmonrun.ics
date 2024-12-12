@@ -20,7 +20,7 @@ DTSTART:20241211T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:924bfaf2-cafa-4070-86f1-1d72101668f8
+UID:381bc2b7-6438-4dcf-b5a6-ac83242beef8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nUndercover Brella\nL-3 Nozzlenose
@@ -30,7 +30,7 @@ DTSTART:20241213T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:77786ab9-f824-4207-9fc9-262a11f59af3
+UID:7c15b518-6471-4718-96ed-3446b609e2f0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nDread Wringer\nSplat Cha
@@ -40,7 +40,7 @@ DTSTART:20241216T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:c1abc1ea-2c32-4cc5-8622-ed97272865a9
+UID:a033ae9b-916b-4ae9-8de5-786766f4f38e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nAerospray MG\nN-ZAP '85\nSnipewriter 
@@ -50,6 +50,6 @@ DTSTART:20241218T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:1a6e2542-b2bb-4c1c-b7e2-67cbf6147c6d
+UID:4acbe191-4698-4127-84f1-1f5b1fb7d9aa
 END:VEVENT
 END:VCALENDAR
