@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDapple Dualies\nREEF-LUX 450\nS-BLAST '92\nGoo Tuber
- \n\nKing:\nMegalodontia
-DTEND:20241212T235959Z
-DTSTART:20241211T080001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:c13bfa7b-bd5b-4819-84b9-41737e2c4e95
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nUndercover Brella\nL-3 Nozzlenose
  \nWellstring V\n\nKing:\nCohozuna
 DTEND:20241213T235959Z
@@ -30,7 +20,7 @@ DTSTART:20241213T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:b3a268c3-d0f9-4ca7-b868-e9e2266f6904
+UID:79f68a4a-37c4-411e-841a-33ec54c33682
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nDread Wringer\nSplat Cha
@@ -40,7 +30,7 @@ DTSTART:20241216T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:ab70b283-4722-49a1-85cd-ebef5cbbb9d8
+UID:9c799a50-eb86-40a8-a334-3e3efe341070
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nAerospray MG\nN-ZAP '85\nSnipewriter 
@@ -50,6 +40,16 @@ DTSTART:20241218T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:d4b67334-822d-42b2-a02e-e8ecbb7e9fae
+UID:7978d4fb-8649-4dee-ba87-0f1ceac7b3ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBlaster\nNautilus 47\nSploosh-o-matic\nE-liter 4K\n\
+ nKing:\nCohozuna
+DTEND:20241221T075959Z
+DTSTART:20241219T160001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:a5f57653-2fd6-4e24-a4a6-d8ff60fc1c9a
 END:VEVENT
 END:VCALENDAR
