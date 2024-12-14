@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDualie Squelchers\nUndercover Brella\nL-3 Nozzlenose
- \nWellstring V\n\nKing:\nCohozuna
-DTEND:20241213T235959Z
-DTSTART:20241213T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:9b6f71fd-a0e0-4a56-a622-151d4e0a06d0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nBloblobber\nDread Wringer\nSplat Cha
  rger\n\nKing:\nHorrorboros
 DTEND:20241217T235959Z
@@ -30,7 +20,7 @@ DTSTART:20241216T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:71d069ca-9a5c-40cc-b472-89e7cdb34724
+UID:3d94ca7e-584f-43c5-abf6-bb18694dab80
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nAerospray MG\nN-ZAP '85\nSnipewriter 
@@ -40,7 +30,7 @@ DTSTART:20241218T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:553db50a-c00b-4be7-b974-a56a9ff19241
+UID:2bbbc6d5-bd1b-4fbe-aae3-2078052cebc4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nNautilus 47\nSploosh-o-matic\nE-liter 4K\n\
@@ -50,6 +40,16 @@ DTSTART:20241219T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:bde243f0-dca7-4fe0-a3da-b9d5f52f80fc
+UID:088376f3-2202-41e4-bcf3-66cc4fff74e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSqueezer\nExplosher\nClassic Squiffer\nRandom\n\nKin
+ g:\nHorrorboros
+DTEND:20241222T235959Z
+DTSTART:20241221T080001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:32f8d2a1-cba4-4f94-97b1-11027b18c649
 END:VEVENT
 END:VCALENDAR
