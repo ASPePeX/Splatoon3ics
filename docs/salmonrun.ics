@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Dualies\nAerospray MG\nN-ZAP '85\nSnipewriter 
- 5H\n\nKing:\nMegalodontia
-DTEND:20241219T155959Z
-DTSTART:20241218T000001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Megalodontia
-UID:338b76a0-ba12-4b74-a56d-43999b178779
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nNautilus 47\nSploosh-o-matic\nE-liter 4K\n\
  nKing:\nCohozuna
 DTEND:20241221T075959Z
@@ -30,7 +20,7 @@ DTSTART:20241219T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:726847b9-6771-4f54-8e26-ac4cf4aba1f4
+UID:2cfc3291-9ef7-4808-842e-5ae59a389ee2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nExplosher\nClassic Squiffer\nRandom\n\nKin
@@ -40,7 +30,7 @@ DTSTART:20241221T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:4d869040-aaf3-4e42-ac81-66e57a03360f
+UID:a2e95fab-9f50-446a-ac41-e04df8cb6035
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplatana Wiper\nPainbrush\nRapid Blaste
@@ -50,7 +40,7 @@ DTSTART:20241223T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:f1050d84-376c-49a1-b24a-b82941c18ace
+UID:f8e194d3-cb0c-4e5f-89de-6419fe07810f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nDark Tetra Dualies\nTr
@@ -60,6 +50,16 @@ DTSTART:20241224T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:277831bd-6280-41f8-b2a8-9c04a10d6651
+UID:99612335-2385-4434-ae8c-3b6532e5cc46
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDouser Dualies FF\nCarbon Roller\nGlooga Dualies\nBa
+ mboozler 14 Mk I\n\nKing:\nHorrorboros
+DTEND:20241227T235959Z
+DTSTART:20241226T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:0f09e965-fe3c-4822-8bdb-370c314e70e3
 END:VEVENT
 END:VCALENDAR
