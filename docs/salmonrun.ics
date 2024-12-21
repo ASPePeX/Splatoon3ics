@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBlaster\nNautilus 47\nSploosh-o-matic\nE-liter 4K\n\
- nKing:\nCohozuna
-DTEND:20241221T075959Z
-DTSTART:20241219T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:7768e0a7-d3de-41ff-af48-a52ee5977001
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nExplosher\nClassic Squiffer\nRandom\n\nKin
  g:\nHorrorboros
 DTEND:20241222T235959Z
@@ -30,7 +20,7 @@ DTSTART:20241221T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:ca3e5dcc-9cd1-4a66-b0e2-38af33c59b55
+UID:cc0ba7c0-a0db-4ba3-ad85-50221bcf70f1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplatana Wiper\nPainbrush\nRapid Blaste
@@ -40,7 +30,7 @@ DTSTART:20241223T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:afaaf2fc-147f-4550-9f38-cc0d4c91302b
+UID:75994025-b2f2-4ae5-b453-bbd22fb52d30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nDark Tetra Dualies\nTr
@@ -50,7 +40,7 @@ DTSTART:20241224T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:34112ade-1adc-4397-be92-46c23271114e
+UID:ceb94302-c05b-4b0d-a1e3-2f5e5b47487e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nCarbon Roller\nGlooga Dualies\nBa
@@ -60,6 +50,16 @@ DTSTART:20241226T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:4889dde9-3d19-458a-844d-2b2f125b6774
+UID:7ac66cba-e8f9-42f8-8b6b-4f5ad5779e15
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBloblobber\nH-3 Nozzlenose\nAerospray MG\nHeavy Spla
+ tling\n\nKing:\nMegalodontia
+DTEND:20241229T155959Z
+DTSTART:20241228T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:0f139d83-51f6-4d56-b486-d1740849e1ea
 END:VEVENT
 END:VCALENDAR
