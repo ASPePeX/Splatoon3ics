@@ -20,7 +20,7 @@ DTSTART:20241221T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:35f3ae3f-8594-4e6a-80eb-4b88e462d1bc
+UID:dc5d44ba-92ec-4fcd-a289-8c1ddd597872
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplatana Wiper\nPainbrush\nRapid Blaste
@@ -30,7 +30,7 @@ DTSTART:20241223T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:c9ae0d14-86ba-4e77-83e2-3e0c35f1dde8
+UID:50658a3b-8ca6-43a8-b2a8-befc31283230
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nDark Tetra Dualies\nTr
@@ -40,7 +40,7 @@ DTSTART:20241224T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:9bae79e4-2f61-4487-a983-aae76747f7fb
+UID:d75ac3a8-c38b-458c-ba86-5f8058c953de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nCarbon Roller\nGlooga Dualies\nBa
@@ -50,7 +50,7 @@ DTSTART:20241226T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:3ec7f5ff-11fa-43c9-8dcc-cfc4df7c53d5
+UID:4c41bc71-62ba-4646-b604-cc5ccf887c2c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nH-3 Nozzlenose\nAerospray MG\nHeavy Spla
@@ -60,6 +60,6 @@ DTSTART:20241228T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:25219f11-59f2-4aab-a86e-b24e1de81cb8
+UID:86ae1008-53c5-4d47-8929-432b8700b350
 END:VEVENT
 END:VCALENDAR
