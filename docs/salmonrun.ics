@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSqueezer\nExplosher\nClassic Squiffer\nRandom\n\nKin
- g:\nHorrorboros
-DTEND:20241222T235959Z
-DTSTART:20241221T080001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:c9d74159-3a0d-4ef1-b0a0-44b3a7dabbd7
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplatana Wiper\nPainbrush\nRapid Blaste
  r Pro\n\nKing:\nMegalodontia
 DTEND:20241224T155959Z
@@ -30,7 +20,7 @@ DTSTART:20241223T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:6cb0052f-29e5-4248-a9a9-28baa12ef18d
+UID:48ac03c6-72b6-4a98-9c1f-8cc0fd8fd757
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nDark Tetra Dualies\nTr
@@ -40,7 +30,7 @@ DTSTART:20241224T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:9a6dc4e4-39cd-499a-bda3-0f89e3084618
+UID:d251c62f-89c1-47d3-b1cf-058373def576
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nCarbon Roller\nGlooga Dualies\nBa
@@ -50,7 +40,7 @@ DTSTART:20241226T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:2fd54098-c42a-4e9a-aa6b-4f15499eed14
+UID:a2fb3d9d-8591-4065-9eb4-35032ed418cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nH-3 Nozzlenose\nAerospray MG\nHeavy Spla
@@ -60,6 +50,16 @@ DTSTART:20241228T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:a4a3b430-c39a-4377-9a45-6a18bab2ace9
+UID:89a58e95-d200-4958-93ea-94bc3dffc020
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nUndercover Brella\nL-3 Nozzlenose\nJet Sque
+ lcher\n\nKing:\nCohozuna
+DTEND:20241231T075959Z
+DTSTART:20241229T160001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Cohozuna
+UID:c2e628dc-e6cf-436e-a1ef-e383efcc458d
 END:VEVENT
 END:VCALENDAR
