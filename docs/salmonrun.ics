@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDapple Dualies\nSplat Roller\nDark Tetra Dualies\nTr
- i-Stringer\n\nKing:\nCohozuna
-DTEND:20241226T075959Z
-DTSTART:20241224T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:f638b847-cb28-406a-b6e6-64eb034f798a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nCarbon Roller\nGlooga Dualies\nBa
  mboozler 14 Mk I\n\nKing:\nHorrorboros
 DTEND:20241227T235959Z
@@ -30,7 +20,7 @@ DTSTART:20241226T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:90c294ac-e555-4135-ac77-982b766e4b08
+UID:7c510d2e-dd6b-4b7f-8fa3-b83891cb26d8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nH-3 Nozzlenose\nAerospray MG\nHeavy Spla
@@ -40,7 +30,7 @@ DTSTART:20241228T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:9b3b4229-d68d-4cbd-8f11-d502f11a15cf
+UID:589ffc8a-7686-4360-b629-742c9be66456
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nUndercover Brella\nL-3 Nozzlenose\nJet Sque
@@ -50,7 +40,7 @@ DTSTART:20241229T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:fab3e0ea-cf6f-491f-a6c1-4c8e65890eca
+UID:1a45dfe8-1644-4353-97ee-8d55f110d0b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nInkbrush\nSploosh-o-matic\nCla
@@ -60,6 +50,16 @@ DTSTART:20241231T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:31f580d1-6a1e-47d5-98b4-cfaff5de561b
+UID:3b8eb274-48a5-4b00-b9df-acf9413810d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot\nNautilus 47\nSplat Dualies\nTenta Brel
+ la\n\nKing:\nMegalodontia
+DTEND:20250103T155959Z
+DTSTART:20250102T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:004dfaa7-4d8e-4787-8046-149d9231a487
 END:VEVENT
 END:VCALENDAR
