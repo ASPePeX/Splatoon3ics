@@ -20,7 +20,7 @@ DTSTART:20241226T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:c6550ee7-43af-4a06-88db-0d11ab2287a2
+UID:ad20bcac-d278-4ecf-bbf1-bac19f291f5d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nH-3 Nozzlenose\nAerospray MG\nHeavy Spla
@@ -30,7 +30,7 @@ DTSTART:20241228T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:c1789308-2ac2-4e8f-a8fd-7dc83b6b32b0
+UID:73f9d786-06ce-4212-9e77-d2ff8207b1c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nUndercover Brella\nL-3 Nozzlenose\nJet Sque
@@ -40,7 +40,7 @@ DTSTART:20241229T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:5504261e-cfc3-4907-a13e-426efc21eea3
+UID:74b998db-3959-4080-ab70-98a600054374
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nInkbrush\nSploosh-o-matic\nCla
@@ -50,7 +50,7 @@ DTSTART:20241231T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:75d67233-63bb-433e-996f-e01bfe005fd3
+UID:8b834a59-1bb6-47f5-b39d-f4d0f9f2daa9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nNautilus 47\nSplat Dualies\nTenta Brel
@@ -60,6 +60,6 @@ DTSTART:20250102T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:9bef0fcf-7c25-4881-a50b-df24ea9123d6
+UID:1a4e6387-ec87-4654-b2e1-532fe7d883d4
 END:VEVENT
 END:VCALENDAR
