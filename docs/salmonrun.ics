@@ -20,7 +20,7 @@ DTSTART:20241231T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:dbf2266c-4385-4b41-a260-f7f19d269978
+UID:1f29bc9e-8031-40eb-ae04-a011f73c2fde
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nNautilus 47\nSplat Dualies\nTenta Brel
@@ -30,7 +30,7 @@ DTSTART:20250102T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:e38e9e56-d6ea-4064-bc20-2a31ba2f66ab
+UID:af1cb46d-34cd-43b8-9cca-c3e1e91d6cdd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20250103T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:28faa436-64bd-492b-8563-c1957446ee81
+UID:dd756330-8e78-4483-ab15-ba891a136a4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nTri-Slosher\nWells
@@ -49,7 +49,7 @@ DTSTART:20250105T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:4518136e-a454-4148-89a1-66b32c870640
+UID:4e4712cb-2024-4a68-b58f-9f6d81767963
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplattershot Nova\nBlaster\nE-liter 
@@ -59,6 +59,6 @@ DTSTART:20250107T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:320ce4de-7ca8-4104-b881-05c381b2adb1
+UID:144836e6-ec46-4f3f-9819-af212bcf2353
 END:VEVENT
 END:VCALENDAR
