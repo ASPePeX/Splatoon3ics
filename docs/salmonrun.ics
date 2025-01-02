@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nHeavy Edit Splatling\nInkbrush\nSploosh-o-matic\nCla
- ssic Squiffer\n\nKing:\nHorrorboros
-DTEND:20250101T235959Z
-DTSTART:20241231T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:3db01913-a2d9-47d9-af81-e5c497ce4cc1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nNautilus 47\nSplat Dualies\nTenta Brel
  la\n\nKing:\nMegalodontia
 DTEND:20250103T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250102T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:c879be24-82a9-403e-9849-86f8d4e9bab2
+UID:89bc26bc-5b4c-411e-8f36-8fa96a9e3c92
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +29,7 @@ DTSTART:20250103T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:4c08af39-34e4-425a-8843-c569847765e1
+UID:81fac281-7ecc-4744-9227-a0b4dbe8c878
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nTri-Slosher\nWells
@@ -49,7 +39,7 @@ DTSTART:20250105T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:f13088a2-960a-4535-8688-98783d294eed
+UID:ef35ca2e-ac10-4748-83ef-200dce945f57
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplattershot Nova\nBlaster\nE-liter 
@@ -59,6 +49,16 @@ DTSTART:20250107T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:3e1f5c17-8c7f-4fff-acba-9fc07897bb66
+UID:c5d8ff8a-d36c-4d8a-9f80-cdfd9b7a2a2d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSqueezer\nSplat Roller\nN-ZAP '85\nHydra Splatling\n
+ \nKing:\nCohozuna
+DTEND:20250110T075959Z
+DTSTART:20250108T160001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:312ba8d7-b5a7-44d6-8734-7762e65fe3ed
 END:VEVENT
 END:VCALENDAR
