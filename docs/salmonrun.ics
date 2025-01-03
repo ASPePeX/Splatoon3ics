@@ -20,7 +20,7 @@ DTSTART:20250102T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:1aaf52f6-a81a-452a-b793-58dd3c695346
+UID:375ba330-a3d9-4197-b910-e25c7644fff8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20250103T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:6f077777-2c04-41bc-9db9-0a73f0034139
+UID:fcd48365-8dcc-4963-862a-58152c1b3b23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nTri-Slosher\nWells
@@ -39,7 +39,7 @@ DTSTART:20250105T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:444ce949-f978-4863-ba7c-4981b3786947
+UID:3a84f2df-5540-4fc5-9eee-af2aea853d8f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplattershot Nova\nBlaster\nE-liter 
@@ -49,7 +49,7 @@ DTSTART:20250107T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:00fcd33d-beed-4c49-8e63-d52aa8949465
+UID:37e4f288-c9f9-4b94-8bfa-eeb01a5554ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nSplat Roller\nN-ZAP '85\nHydra Splatling\n
@@ -59,6 +59,6 @@ DTSTART:20250108T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:1c2e3ed2-e518-4d3d-9620-1898de1277de
+UID:1b832dcd-53b1-4f04-bdb0-1e0990216c62
 END:VEVENT
 END:VCALENDAR
