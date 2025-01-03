@@ -13,23 +13,13 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot\nNautilus 47\nSplat Dualies\nTenta Brel
- la\n\nKing:\nMegalodontia
-DTEND:20250103T155959Z
-DTSTART:20250102T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:375ba330-a3d9-4197-b910-e25c7644fff8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
 DTEND:20250105T075959Z
 DTSTART:20250103T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:fcd48365-8dcc-4963-862a-58152c1b3b23
+UID:08b6ac01-a9b7-4509-9d84-80962cdcf533
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nTri-Slosher\nWells
@@ -39,7 +29,7 @@ DTSTART:20250105T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:3a84f2df-5540-4fc5-9eee-af2aea853d8f
+UID:93cda916-9b5d-42ad-be91-0d636312f88c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplattershot Nova\nBlaster\nE-liter 
@@ -49,7 +39,7 @@ DTSTART:20250107T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:37e4f288-c9f9-4b94-8bfa-eeb01a5554ea
+UID:4e51eb0a-eafc-410c-b40c-837faf3f5178
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nSplat Roller\nN-ZAP '85\nHydra Splatling\n
@@ -59,6 +49,16 @@ DTSTART:20250108T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:1b832dcd-53b1-4f04-bdb0-1e0990216c62
+UID:102fadb5-68e6-4f8c-b97d-f04d566b5fba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDynamo Roller\nSplattershot Jr.\nSplat Brella\n.96 G
+ al\n\nKing:\nHorrorboros
+DTEND:20250111T235959Z
+DTSTART:20250110T080001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Horrorboros
+UID:8900a593-edde-4ccc-bde4-d1b38494d917
 END:VEVENT
 END:VCALENDAR
