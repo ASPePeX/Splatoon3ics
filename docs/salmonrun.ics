@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
-DTEND:20250105T075959Z
-DTSTART:20250103T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Triumvirate
-UID:e88b683c-4400-4fcc-a497-05d2f7ea2943
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nTri-Slosher\nWells
  tring V\n\nKing:\nHorrorboros
 DTEND:20250106T235959Z
@@ -29,7 +20,7 @@ DTSTART:20250105T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:ff9d1d26-e15f-40e9-833f-197351d0004b
+UID:3e3ddad5-a98a-4bfe-895c-703a28f5eb18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplattershot Nova\nBlaster\nE-liter 
@@ -39,7 +30,7 @@ DTSTART:20250107T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:81d55bde-b2f4-48eb-93c5-a82eef6ce53c
+UID:eb000139-d48e-45ac-b67a-30f0546e41e6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nSplat Roller\nN-ZAP '85\nHydra Splatling\n
@@ -49,7 +40,7 @@ DTSTART:20250108T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:1c524871-0cbe-4dad-b6c0-faf7ec4bbd88
+UID:20898aa8-538d-409e-bc32-4243215e69ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nSplattershot Jr.\nSplat Brella\n.96 G
@@ -59,6 +50,16 @@ DTSTART:20250110T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:cc3ea6e9-0260-4393-9d0c-babd78e51493
+UID:344ebe99-a249-4c25-80c7-af8beff9bff6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplatana Wiper\nDread Wringer\nDouser Dualies FF\nJe
+ t Squelcher\n\nKing:\nMegalodontia
+DTEND:20250113T075959Z
+DTSTART:20250112T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:07dc5c41-3147-412e-a17b-91b72a8c7d9a
 END:VEVENT
 END:VCALENDAR
