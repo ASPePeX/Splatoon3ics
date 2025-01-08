@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nMini Splatling\nSplattershot Nova\nBlaster\nE-liter 
- 4K\n\nKing:\nMegalodontia
-DTEND:20250108T155959Z
-DTSTART:20250107T000001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:547a2f7b-0a1c-44fc-b500-119ce1b2d741
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nSplat Roller\nN-ZAP '85\nHydra Splatling\n
  \nKing:\nCohozuna
 DTEND:20250110T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250108T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:28099e5b-059d-4d58-a2f4-0674bed4da81
+UID:217a5edf-febf-4eac-8360-e671e6202d84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nSplattershot Jr.\nSplat Brella\n.96 G
@@ -40,7 +30,7 @@ DTSTART:20250110T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:4f4fd94d-95c1-431b-a681-79b808438a7a
+UID:5c47235c-8215-499b-8cb6-e2650b1f8bc9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDread Wringer\nDouser Dualies FF\nJe
@@ -50,7 +40,7 @@ DTSTART:20250112T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:fa287c24-1c5e-4dc1-8a52-d0fd9ab131eb
+UID:22e51ba4-861c-4c21-b4ce-37134417a414
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20250113T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:6ffea027-51e2-406b-a12d-50a1cdfe3bbc
+UID:c22829b2-1475-4e85-adfd-64cd62d7f994
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nMint Decavitator\nSploosh-o-matic\nS-BLAST '92\nGoo 
+ Tuber\n\nKing:\nCohozuna
+DTEND:20250116T235959Z
+DTSTART:20250115T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:8d6f7a03-d5b2-42e0-9db7-591f9becf62e
 END:VEVENT
 END:VCALENDAR
