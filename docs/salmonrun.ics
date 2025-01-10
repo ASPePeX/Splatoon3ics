@@ -20,7 +20,7 @@ DTSTART:20250108T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:d973e957-ecc5-40f9-adcc-ae571e98e808
+UID:8ee45a84-8c31-44a3-b4d7-005fe4ddb3eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nSplattershot Jr.\nSplat Brella\n.96 G
@@ -30,7 +30,7 @@ DTSTART:20250110T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:85227c97-6d3e-4919-8ada-f33640c751b1
+UID:9bfe9d61-4425-4a50-bee7-1a09d47f4ef0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDread Wringer\nDouser Dualies FF\nJe
@@ -40,7 +40,7 @@ DTSTART:20250112T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:8ddb7c46-607f-4529-8150-c924ec19dde8
+UID:70a14707-3f78-4b98-a828-8bec29cd5ac3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +49,7 @@ DTSTART:20250113T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:3c8f6ad3-594e-4183-9212-ae99d8593a98
+UID:3580321a-fbf3-4e9c-a37d-bef1baa2c6fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSploosh-o-matic\nS-BLAST '92\nGoo 
@@ -59,6 +59,6 @@ DTSTART:20250115T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:f20b92c9-c025-40fb-a26e-11a8cc003998
+UID:11a46589-2e1f-4f43-b955-b3f195acf80c
 END:VEVENT
 END:VCALENDAR
