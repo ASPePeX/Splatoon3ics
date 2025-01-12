@@ -20,7 +20,7 @@ DTSTART:20250110T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:dd93f05d-53b8-4eaf-9456-134cb109c1ab
+UID:e1a8ec9a-dd89-4cf7-b06f-ec9adaf00a7a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nDread Wringer\nDouser Dualies FF\nJe
@@ -30,7 +30,7 @@ DTSTART:20250112T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:f74e0105-8652-4792-8b14-eda7c1a7dc95
+UID:5d12709d-07ba-4866-9ea0-3077ad95af9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20250113T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:298721dc-57d8-4e0e-b088-db9ae91607bc
+UID:11b72ed0-500e-48b2-850f-69c79e313263
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSploosh-o-matic\nS-BLAST '92\nGoo 
@@ -49,7 +49,7 @@ DTSTART:20250115T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:ce5f9db5-767d-4b6f-966a-ac6d70522fe6
+UID:b7b62db4-5282-46e0-9853-9ce5afa8ec65
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nDark Tetra Dualies\nDapple Dualies\n
@@ -59,6 +59,6 @@ DTSTART:20250117T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:88c46edf-437d-4a1a-97b1-e1f7aa39c549
+UID:3cdf20d7-e79b-42b5-b9f6-4223910fc5ac
 END:VEVENT
 END:VCALENDAR
