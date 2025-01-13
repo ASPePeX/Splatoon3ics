@@ -13,23 +13,13 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Wiper\nDread Wringer\nDouser Dualies FF\nJe
- t Squelcher\n\nKing:\nMegalodontia
-DTEND:20250113T075959Z
-DTSTART:20250112T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:cab2fc4d-f5e8-43d7-af0a-3858520920c2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
 DTEND:20250115T075959Z
 DTSTART:20250113T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:418d07be-78cf-488e-9112-ffcca2b24260
+UID:7a68b313-9b66-4589-a7f4-0e15bbcbf077
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSploosh-o-matic\nS-BLAST '92\nGoo 
@@ -39,7 +29,7 @@ DTSTART:20250115T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:d48164c8-fb90-4ecc-9f88-a36b3431d29a
+UID:7a7c8980-ff85-4cef-bc3d-2517fd2fcfce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nDark Tetra Dualies\nDapple Dualies\n
@@ -49,7 +39,7 @@ DTSTART:20250117T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:f2f3af2f-4f66-4bec-bf28-ddca6ce62bc2
+UID:d442b97d-0151-46af-985d-a5ecba72b0ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nHydra Splatling\nR
@@ -59,6 +49,16 @@ DTSTART:20250118T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:2c869e50-187f-4eab-b3cf-ed32216edfb5
+UID:e384a6f7-6d31-4088-9cd2-f4846a053a79
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSqueezer\n.52 Gal\nSplat Dualies\nWellstring V\n\nKi
+ ng:\nHorrorboros
+DTEND:20250121T235959Z
+DTSTART:20250120T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:12103e8e-673b-4d1d-8444-c551912c83cd
 END:VEVENT
 END:VCALENDAR
