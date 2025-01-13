@@ -20,7 +20,7 @@ DTSTART:20250112T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:22f0d91a-c677-4cf5-a7b7-f8ab9bcfe51e
+UID:cab2fc4d-f5e8-43d7-af0a-3858520920c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20250113T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:dd34854f-6e50-469c-8210-209cc2c122cd
+UID:418d07be-78cf-488e-9112-ffcca2b24260
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSploosh-o-matic\nS-BLAST '92\nGoo 
@@ -39,7 +39,7 @@ DTSTART:20250115T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:c3606eaf-8685-4ec3-817b-c560e1659d1e
+UID:d48164c8-fb90-4ecc-9f88-a36b3431d29a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nDark Tetra Dualies\nDapple Dualies\n
@@ -49,7 +49,7 @@ DTSTART:20250117T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:b00db81e-4fd3-42a5-9bdc-af96ea4face4
+UID:f2f3af2f-4f66-4bec-bf28-ddca6ce62bc2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nHydra Splatling\nR
@@ -59,6 +59,6 @@ DTSTART:20250118T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:03a12ea1-6196-4dbc-a838-4f98cbdf435d
+UID:2c869e50-187f-4eab-b3cf-ed32216edfb5
 END:VEVENT
 END:VCALENDAR
