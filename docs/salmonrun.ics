@@ -19,7 +19,7 @@ DTSTART:20250113T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:17e7d5e5-b126-47ba-b207-992016e815f3
+UID:3c706a33-22b8-46b3-9c50-e20a8dfd7207
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSploosh-o-matic\nS-BLAST '92\nGoo 
@@ -29,7 +29,7 @@ DTSTART:20250115T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:2b07e333-648d-48ee-867c-8e459c73bc0e
+UID:0ba025db-d4e9-4c67-be9d-70cdc317983a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nDark Tetra Dualies\nDapple Dualies\n
@@ -39,7 +39,7 @@ DTSTART:20250117T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:89f03561-e5d0-4ea9-8034-a8b286988f0c
+UID:b2aa140e-dad1-4331-989e-940867247627
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nHydra Splatling\nR
@@ -49,7 +49,7 @@ DTSTART:20250118T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:5b7f31cf-2755-4cc2-8566-b65cb9d2328b
+UID:4d0be5e2-45d5-420b-a1ec-5c2210d70200
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\n.52 Gal\nSplat Dualies\nWellstring V\n\nKi
@@ -59,6 +59,6 @@ DTSTART:20250120T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:5f7cf499-209d-4776-85b5-cd869f008910
+UID:f7ce0509-3f47-4c9b-a502-cf948b117d61
 END:VEVENT
 END:VCALENDAR
