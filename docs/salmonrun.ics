@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
-DTEND:20250115T075959Z
-DTSTART:20250113T080001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Triumvirate
-UID:857204c3-02e2-4f22-9aff-fd3f0b1d8714
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSploosh-o-matic\nS-BLAST '92\nGoo 
  Tuber\n\nKing:\nCohozuna
 DTEND:20250116T235959Z
@@ -29,7 +20,7 @@ DTSTART:20250115T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:bac38b1e-989a-4697-aa44-4a6f2ec077c4
+UID:6906d790-94a7-4c39-a4ff-027274df1c4e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nDark Tetra Dualies\nDapple Dualies\n
@@ -39,7 +30,7 @@ DTSTART:20250117T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:73e01200-c1dd-4125-8049-70d1c537d51b
+UID:f4fe1681-f338-4f58-966c-46d27573eafc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nHydra Splatling\nR
@@ -49,7 +40,7 @@ DTSTART:20250118T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:57ff6f18-333a-433a-9142-6cd211bb9263
+UID:e91a41b7-6eff-4041-b1b3-0be87823b505
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\n.52 Gal\nSplat Dualies\nWellstring V\n\nKi
@@ -59,6 +50,16 @@ DTSTART:20250120T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:382ab076-e97d-4153-bad5-e5fcfbbd81d8
+UID:ae172102-a642-4af8-8988-22e0cdaca0bd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBloblobber\nNautilus 47\nSplash-o-matic\nBamboozler 
+ 14 Mk I\n\nKing:\nMegalodontia
+DTEND:20250123T155959Z
+DTSTART:20250122T000001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Megalodontia
+UID:f90a5e94-f65d-4de7-8bb1-6577988e1e73
 END:VEVENT
 END:VCALENDAR
