@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nFlingza Roller\nDark Tetra Dualies\nDapple Dualies\n
- Classic Squiffer\n\nKing:\nMegalodontia
-DTEND:20250118T155959Z
-DTSTART:20250117T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:8c0bc16c-5072-46f1-8043-1c45b035398b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nHydra Splatling\nR
  andom\n\nKing:\nCohozuna
 DTEND:20250120T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250118T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:854a0c63-edbc-4b1e-966e-140a8703848d
+UID:af581d50-52a4-4843-b9ba-4366e2b4df06
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\n.52 Gal\nSplat Dualies\nWellstring V\n\nKi
@@ -40,7 +30,7 @@ DTSTART:20250120T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:0d110639-2e63-4c3c-9e3c-e850108bf51d
+UID:dd590d52-6ac8-414b-9e7d-400103f115d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nNautilus 47\nSplash-o-matic\nBamboozler 
@@ -50,7 +40,7 @@ DTSTART:20250122T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:f2f89eba-be96-46ce-925d-5f09ad6dc811
+UID:9500c712-0bdf-489d-a887-eb0a6416e669
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplattershot\nSplattershot Jr.\nE-liter 4
@@ -60,6 +50,16 @@ DTSTART:20250123T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:7cf72ccc-7db1-4cd6-a314-b793c0460b26
+UID:9cb62c3e-3dcc-484b-8fa8-dff9d210537e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplatana Stamper\nLuna Blaster\nRecycled Brella 24 M
+ k I\n.96 Gal\n\nKing:\nHorrorboros
+DTEND:20250126T235959Z
+DTSTART:20250125T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:99f0ecb9-10a1-4bce-947e-45832112d5ba
 END:VEVENT
 END:VCALENDAR
