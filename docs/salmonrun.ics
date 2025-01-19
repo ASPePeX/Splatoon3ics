@@ -20,7 +20,7 @@ DTSTART:20250118T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:4e7da32f-3de6-4b61-99e8-280e91a4cdd8
+UID:ba639cbd-a17d-4633-92a6-0cdb3c936f3a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\n.52 Gal\nSplat Dualies\nWellstring V\n\nKi
@@ -30,7 +30,7 @@ DTSTART:20250120T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:de7ce68d-c5d7-4762-949c-bb8771f72919
+UID:fdfc31c4-4bbc-477c-a370-bc7545ec837b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nNautilus 47\nSplash-o-matic\nBamboozler 
@@ -40,7 +40,7 @@ DTSTART:20250122T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:710d38cd-253a-4869-aa49-7df9911e2df2
+UID:ab05e750-bc2e-426f-8512-9540f4bdad19
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplattershot\nSplattershot Jr.\nE-liter 4
@@ -50,7 +50,7 @@ DTSTART:20250123T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:6ec6f031-150f-4dd6-a066-4a49f4d235dd
+UID:09b36ed0-240a-48a7-88e9-1c3452849699
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nLuna Blaster\nRecycled Brella 24 M
@@ -60,6 +60,6 @@ DTSTART:20250125T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:8c7e8f87-b1e7-4716-8b66-21ea2d0f5bcb
+UID:c330d8e9-588c-479a-92e1-f605527d013c
 END:VEVENT
 END:VCALENDAR
