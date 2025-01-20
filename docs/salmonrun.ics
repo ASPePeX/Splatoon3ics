@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDualie Squelchers\nCarbon Roller\nHydra Splatling\nR
- andom\n\nKing:\nCohozuna
-DTEND:20250120T075959Z
-DTSTART:20250118T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:3438888e-0a3f-4bb2-bdbe-229f3f667706
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\n.52 Gal\nSplat Dualies\nWellstring V\n\nKi
  ng:\nHorrorboros
 DTEND:20250121T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250120T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:4978df5e-525c-4fa7-b648-0176760bbe85
+UID:2be2a1fb-c582-49b3-95b2-210013a3c057
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nNautilus 47\nSplash-o-matic\nBamboozler 
@@ -40,7 +30,7 @@ DTSTART:20250122T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:8c7b4977-fb66-438d-b83c-5bc0c6c0767c
+UID:a872531d-c312-4628-ae55-b57e37ffb820
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplattershot\nSplattershot Jr.\nE-liter 4
@@ -50,7 +40,7 @@ DTSTART:20250123T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:9858293d-6610-40f4-b856-dd87f7122088
+UID:100a1657-412d-4906-887c-169ad449c219
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nLuna Blaster\nRecycled Brella 24 M
@@ -60,6 +50,16 @@ DTSTART:20250125T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:d2b59eef-873a-4834-87d5-b011aa09279c
+UID:dd7d9c34-fc83-482b-8e97-07ab019b3c35
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nMini Splatling\nSploosh-o-matic\nSlosher\nClassic Sq
+ uiffer\n\nKing:\nMegalodontia
+DTEND:20250128T155959Z
+DTSTART:20250127T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:2c75617e-1704-44f2-9e20-f2a75a22d759
 END:VEVENT
 END:VCALENDAR
