@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSqueezer\n.52 Gal\nSplat Dualies\nWellstring V\n\nKi
- ng:\nHorrorboros
-DTEND:20250121T235959Z
-DTSTART:20250120T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:2543a589-b4c2-47c6-bc60-50d7833951bb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nNautilus 47\nSplash-o-matic\nBamboozler 
  14 Mk I\n\nKing:\nMegalodontia
 DTEND:20250123T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250122T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:8dab1521-d66b-42b7-90a3-9fdad0e9191d
+UID:e6edadb1-941f-4621-86f0-c29dd189cc22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplattershot\nSplattershot Jr.\nE-liter 4
@@ -40,7 +30,7 @@ DTSTART:20250123T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:7d3ea8b3-8c69-4027-a8b5-f0c43edf63b4
+UID:e0a52051-7928-49ed-86a8-e62fea2c26e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nLuna Blaster\nRecycled Brella 24 M
@@ -50,7 +40,7 @@ DTSTART:20250125T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:ce342748-6679-4a06-89c3-da9fd174a4a3
+UID:02c91032-acb8-42d0-be05-b716ea7ad2cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSploosh-o-matic\nSlosher\nClassic Sq
@@ -60,6 +50,16 @@ DTSTART:20250127T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:f7423c36-26a6-4998-8d03-02fc3dfa02ce
+UID:0e6093e5-05bc-44ee-853d-5e1fd905fbcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nClash Blaster\nTri-Str
+ inger\n\nKing:\nCohozuna
+DTEND:20250130T075959Z
+DTSTART:20250128T160001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:7c5a364a-2b9d-4b44-83db-47ed0253ec74
 END:VEVENT
 END:VCALENDAR
