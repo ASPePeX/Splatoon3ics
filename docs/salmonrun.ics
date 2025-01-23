@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBloblobber\nNautilus 47\nSplash-o-matic\nBamboozler 
- 14 Mk I\n\nKing:\nMegalodontia
-DTEND:20250123T155959Z
-DTSTART:20250122T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:09d0c013-b645-438d-9c2d-2ff99837d3c0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nN-ZAP '85\nSplattershot\nSplattershot Jr.\nE-liter 4
  K\n\nKing:\nCohozuna
 DTEND:20250125T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250123T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:cf8ccdcc-30c5-4758-ac07-402b69643be8
+UID:6814befd-5c54-430a-8dd9-0800222cdb66
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nLuna Blaster\nRecycled Brella 24 M
@@ -40,7 +30,7 @@ DTSTART:20250125T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:ba72a5cb-a92e-4254-bdd6-afe1dbf90294
+UID:5bbd6e88-081c-443b-be6f-0cf67c827288
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSploosh-o-matic\nSlosher\nClassic Sq
@@ -50,7 +40,7 @@ DTSTART:20250127T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:a8771808-e3b7-4758-a32a-870f381d0d3a
+UID:43a1e260-ea35-4610-bc93-d020b7972bbb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nClash Blaster\nTri-Str
@@ -60,6 +50,16 @@ DTSTART:20250128T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:ece68009-9ba7-4d50-b092-f09a63219534
+UID:7ff72e3a-a264-4137-991a-4b2f60d82f52
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDark Tetra Dualies\nInkbrush\nCarbon Roller\nJet Squ
+ elcher\n\nKing:\nHorrorboros
+DTEND:20250131T235959Z
+DTSTART:20250130T080001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:1de331c7-dfa6-49a9-804b-19f354f60a2d
 END:VEVENT
 END:VCALENDAR
