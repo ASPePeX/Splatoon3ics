@@ -20,7 +20,7 @@ DTSTART:20250123T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:f85d42b1-b1bc-49b1-ba97-4b06ffa31028
+UID:3e0cd329-2b95-4859-a841-1c248b05a27e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nLuna Blaster\nRecycled Brella 24 M
@@ -30,7 +30,7 @@ DTSTART:20250125T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:c537a6d8-cd31-4981-898d-f46b4690cec9
+UID:f81227ec-51e0-4307-b717-eb40b338810f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSploosh-o-matic\nSlosher\nClassic Sq
@@ -40,7 +40,7 @@ DTSTART:20250127T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:212201d6-87ea-4c3c-b81b-779475965f3a
+UID:86a0197a-a56c-4b60-a53d-e7539704d489
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nClash Blaster\nTri-Str
@@ -50,7 +50,7 @@ DTSTART:20250128T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:bb3bcbdd-8d15-4b64-8d2b-27b87d3a78cb
+UID:86c94e0c-1155-44e8-a98d-9a3ba9456323
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nInkbrush\nCarbon Roller\nJet Squ
@@ -60,6 +60,6 @@ DTSTART:20250130T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:8ed75f41-0bd4-44fe-af11-bb8d7fd1e2e8
+UID:0f8ded8e-012f-40aa-97f8-9e68e2380dd8
 END:VEVENT
 END:VCALENDAR
