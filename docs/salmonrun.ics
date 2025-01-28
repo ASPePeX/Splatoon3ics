@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nMini Splatling\nSploosh-o-matic\nSlosher\nClassic Sq
- uiffer\n\nKing:\nMegalodontia
-DTEND:20250128T155959Z
-DTSTART:20250127T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:8945bacc-c6ab-4ba4-944f-8f186699f0f6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nFlingza Roller\nClash Blaster\nTri-Str
  inger\n\nKing:\nCohozuna
 DTEND:20250130T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250128T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:78816685-9e28-4fee-8196-627f06c47353
+UID:e26ac669-3824-465d-a91e-614e23efcae6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nInkbrush\nCarbon Roller\nJet Squ
@@ -40,7 +30,7 @@ DTSTART:20250130T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:be623d07-eb87-486b-8807-f67b28904dbd
+UID:1e0b64b1-ee8c-4500-8c1c-fa51a4bcacf5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +39,7 @@ DTSTART:20250201T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:77c4ee32-1c9a-49f4-9f99-9a75ed534403
+UID:db4a118e-1800-4412-87ef-31260bd9a46e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nS-BLAST '92\nSplattershot Pro\nSnip
@@ -59,6 +49,16 @@ DTSTART:20250202T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:e7e2bf85-77b2-48c9-86e9-bac55f7b9e65
+UID:a55c52e8-909d-4a77-b1dc-4547a4a56c8e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nTri-Slosher\nLuna Blaster\nTenta Brella\nBamboozler 
+ 14 Mk I\n\nKing:\nHorrorboros
+DTEND:20250205T235959Z
+DTSTART:20250204T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:664b536d-4995-421e-a0a5-5e02e42ae78d
 END:VEVENT
 END:VCALENDAR
