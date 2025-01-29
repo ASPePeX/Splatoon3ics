@@ -20,7 +20,7 @@ DTSTART:20250128T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:397639c9-80bd-42e9-be7b-f7dff9263082
+UID:c90946fe-146b-4273-823c-2106218856e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nInkbrush\nCarbon Roller\nJet Squ
@@ -30,7 +30,7 @@ DTSTART:20250130T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:dc59940e-f924-4e1b-9dc9-ed2ae4c95d25
+UID:362be420-1a1b-499f-a1fc-f0d4ce0a71b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20250201T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:e3e11cd5-4c6f-4774-8ff6-01a5a9db8ccd
+UID:2992a0dc-2bce-44a0-aeb5-ff0ab746c61c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nS-BLAST '92\nSplattershot Pro\nSnip
@@ -49,7 +49,7 @@ DTSTART:20250202T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:fce8e7fe-95ee-49d1-b090-e1821a8645ca
+UID:5f9782c9-652c-4424-9c21-8402f9505d99
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nLuna Blaster\nTenta Brella\nBamboozler 
@@ -59,6 +59,6 @@ DTSTART:20250204T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:69656f1f-0228-48f8-99f5-1b8237eda88c
+UID:4fd69bd8-d79b-4a51-927e-4a63586bbccc
 END:VEVENT
 END:VCALENDAR
