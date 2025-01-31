@@ -20,7 +20,7 @@ DTSTART:20250130T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:41831356-0031-45bd-8fa7-b5ab978edf87
+UID:c8f2027b-90b4-4d0a-becb-080240c97164
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20250201T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:fb542223-487e-4392-a513-264682d4209d
+UID:4a611eba-ca1f-45b9-bb72-d1dd0026e4ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nS-BLAST '92\nSplattershot Pro\nSnip
@@ -39,7 +39,7 @@ DTSTART:20250202T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:15659e08-fd59-46f3-950d-d41a8c380899
+UID:f84bb094-edf2-4a32-8f04-9113d977b92e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nLuna Blaster\nTenta Brella\nBamboozler 
@@ -49,7 +49,7 @@ DTSTART:20250204T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:8e493733-92cf-4ac8-a016-3c145287e3f2
+UID:7a974587-3e42-4283-b9a4-8ddf7a9456bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot\nOctobrush\nClassic Squ
@@ -59,6 +59,6 @@ DTSTART:20250206T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:99f88a8b-af48-4100-a463-5f826cbcad70
+UID:84996ca4-95d3-45e3-86fc-96a16b3dfaf6
 END:VEVENT
 END:VCALENDAR
