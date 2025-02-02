@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
-DTEND:20250202T155959Z
-DTSTART:20250201T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:eb2b0b85-a634-4493-b4b9-056018106ea5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nS-BLAST '92\nSplattershot Pro\nSnip
  ewriter 5H\n\nKing:\nCohozuna
 DTEND:20250204T075959Z
@@ -29,7 +20,7 @@ DTSTART:20250202T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:489af510-63ad-405f-b611-c9151691639d
+UID:9a1c38b8-b6ea-40f0-b6e6-de6efbd21d02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nLuna Blaster\nTenta Brella\nBamboozler 
@@ -39,7 +30,7 @@ DTSTART:20250204T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:b83f763c-d038-4eae-b2a3-2b54e176b223
+UID:7824a5c7-8fdd-43fc-b63c-bd2d6dcd5b9a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot\nOctobrush\nClassic Squ
@@ -49,7 +40,7 @@ DTSTART:20250206T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:b7b874d1-e5fc-4175-896d-d59fcfcf1585
+UID:6bacd66b-42c8-4d52-b001-a26ffbfafd5f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nSploosh-o-matic\nMint Decavita
@@ -59,6 +50,16 @@ DTSTART:20250207T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:df047978-3909-4261-8638-6a9b06096ceb
+UID:9c217e76-34cf-42c7-bdd8-0ad6181ae685
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nBallpoint Splatling\nDouser
+  Dualies FF\n.96 Gal\n\nKing:\nHorrorboros
+DTEND:20250210T235959Z
+DTSTART:20250209T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:0f0cfada-c62c-46fb-9e9b-4e8cc9aa2c73
 END:VEVENT
 END:VCALENDAR
