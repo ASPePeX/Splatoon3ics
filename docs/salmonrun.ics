@@ -19,7 +19,7 @@ DTSTART:20250201T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Triumvirate
-UID:55a96b29-ebb3-4524-a422-691e77a17b16
+UID:57a70194-9831-4a23-ab47-850fbf2cbbe3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nS-BLAST '92\nSplattershot Pro\nSnip
@@ -29,7 +29,7 @@ DTSTART:20250202T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:17669f9d-ea0a-4c66-b3e1-5eb1d09518b2
+UID:edcc4e34-2613-4029-b6ff-b9821a48217e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nLuna Blaster\nTenta Brella\nBamboozler 
@@ -39,7 +39,7 @@ DTSTART:20250204T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:9bfaa134-0dd2-48fa-baf2-594c6c3935e8
+UID:511de0f2-b029-4c0c-8afa-e355af1a897f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot\nOctobrush\nClassic Squ
@@ -49,7 +49,7 @@ DTSTART:20250206T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:2dc07fd3-6d96-4346-a53f-2710853468d7
+UID:d48c4afb-7284-44d5-b71a-6c75bf118ca4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nSploosh-o-matic\nMint Decavita
@@ -59,6 +59,6 @@ DTSTART:20250207T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:5af8d470-b6e0-4864-9ac7-af30571a18ec
+UID:d3c67900-f21f-4dd2-a14e-645e10a5c644
 END:VEVENT
 END:VCALENDAR
