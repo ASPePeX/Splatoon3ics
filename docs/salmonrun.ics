@@ -20,7 +20,7 @@ DTSTART:20250202T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:9a1c38b8-b6ea-40f0-b6e6-de6efbd21d02
+UID:b505354f-ac5e-4201-ab6b-f4ae48b693a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nLuna Blaster\nTenta Brella\nBamboozler 
@@ -30,7 +30,7 @@ DTSTART:20250204T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:7824a5c7-8fdd-43fc-b63c-bd2d6dcd5b9a
+UID:4dc47742-4f7f-4468-a90d-2654dd7fd9aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot\nOctobrush\nClassic Squ
@@ -40,7 +40,7 @@ DTSTART:20250206T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:6bacd66b-42c8-4d52-b001-a26ffbfafd5f
+UID:189675b7-3a68-4d8c-af6f-5d6f518a4277
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nSploosh-o-matic\nMint Decavita
@@ -50,7 +50,7 @@ DTSTART:20250207T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:9c217e76-34cf-42c7-bdd8-0ad6181ae685
+UID:b8b0db26-2cf1-41f1-9d62-5c5f872589ae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nBallpoint Splatling\nDouser
@@ -60,6 +60,6 @@ DTSTART:20250209T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:0f0cfada-c62c-46fb-9e9b-4e8cc9aa2c73
+UID:0bcf7d81-4dbc-44f8-94d0-ea5616fd092a
 END:VEVENT
 END:VCALENDAR
