@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBig Swig Roller\nS-BLAST '92\nSplattershot Pro\nSnip
- ewriter 5H\n\nKing:\nCohozuna
-DTEND:20250204T075959Z
-DTSTART:20250202T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:74c964b6-7c03-4c23-842e-ef2e07875e0c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nLuna Blaster\nTenta Brella\nBamboozler 
  14 Mk I\n\nKing:\nHorrorboros
 DTEND:20250205T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250204T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:d28635ea-5973-4969-ae50-77f1a61ddeea
+UID:e0edf5ff-a6ab-4bfc-a371-f7c6d6c2413f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot\nOctobrush\nClassic Squ
@@ -40,7 +30,7 @@ DTSTART:20250206T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:6018925b-5b23-45ac-a258-dad389d586fb
+UID:e697f396-b3a5-4fa1-950e-c94555a5c175
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nSploosh-o-matic\nMint Decavita
@@ -50,7 +40,7 @@ DTSTART:20250207T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:b2e2f6ab-2d5b-4026-bad8-2098e8de613a
+UID:5694d7c3-a435-49c0-9ef7-7d1bc1438c1f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nBallpoint Splatling\nDouser
@@ -60,6 +50,16 @@ DTSTART:20250209T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:f81ddf36-7bbd-428d-983e-0345a5af6d04
+UID:aaa23556-b51a-4117-8def-4bc64731bf12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBlaster\n.52 Gal\nMini Splatling\nGoo Tuber\n\nKing:
+ \nMegalodontia
+DTEND:20250212T155959Z
+DTSTART:20250211T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:85d10cf4-0e9c-4049-8894-fc38943c199b
 END:VEVENT
 END:VCALENDAR
