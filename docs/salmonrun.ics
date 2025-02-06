@@ -20,7 +20,7 @@ DTSTART:20250206T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:53b45535-3d0a-420e-af8d-8a1dbb7f06ad
+UID:db5539ee-7697-4b1a-92d1-ca5c7a485b0e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nSploosh-o-matic\nMint Decavita
@@ -30,7 +30,7 @@ DTSTART:20250207T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:95f8a7f4-25f2-4e78-867e-6fafca40b240
+UID:6b54f01d-7b02-4109-bc3e-3a445c8a0299
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nBallpoint Splatling\nDouser
@@ -40,7 +40,7 @@ DTSTART:20250209T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:62b2b562-b8ee-4577-8e76-750ad4d50b39
+UID:e8741172-dccb-4535-b858-6bb356bff4bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\n.52 Gal\nMini Splatling\nGoo Tuber\n\nKing:
@@ -50,7 +50,7 @@ DTSTART:20250211T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:62b24cf3-c165-47fe-b038-4a8f2c948030
+UID:6e3851fc-f21f-4016-a74a-2f1fbe4c2274
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nGlooga Dualies\nCarbon Roller\nHeavy
@@ -60,6 +60,6 @@ DTSTART:20250212T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:751811fe-79b3-4361-978d-45baa7b66953
+UID:91f755a8-5d04-4cde-9026-b2d392288491
 END:VEVENT
 END:VCALENDAR
