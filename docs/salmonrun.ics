@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot\nOctobrush\nClassic Squ
- iffer\n\nKing:\nMegalodontia
-DTEND:20250207T155959Z
-DTSTART:20250206T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:7fe1e322-faa0-46c0-baae-c127b41794f1
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nSploosh-o-matic\nMint Decavita
  tor\nSplat Charger\n\nKing:\nCohozuna
 DTEND:20250209T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250207T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:708d289a-09fd-4464-aac5-57f0050b2c3f
+UID:caf28650-2429-4251-b26c-74058459f5b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nBallpoint Splatling\nDouser
@@ -40,7 +30,7 @@ DTSTART:20250209T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:4f786d71-c1a7-4dbc-85fe-c4634185104e
+UID:bb24b2fd-ef62-46bd-9db0-a7a1435fbb39
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\n.52 Gal\nMini Splatling\nGoo Tuber\n\nKing:
@@ -50,7 +40,7 @@ DTSTART:20250211T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:090e5f13-5d81-45dd-ac7a-82979ff51ea2
+UID:d245a130-fb2d-4ceb-a729-d8ebdc927237
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nGlooga Dualies\nCarbon Roller\nHeavy
@@ -60,6 +50,16 @@ DTSTART:20250212T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:d0a87104-e37a-404b-9ce0-927e0a69c540
+UID:7bafd4a6-e5d8-4505-864d-c075c2572636
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplattershot Jr.\nRapid Blaster Pro\
+ nRandom\n\nKing:\nHorrorboros
+DTEND:20250215T235959Z
+DTSTART:20250214T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:9df398b9-e540-4e79-b6bb-f60e033bdf7a
 END:VEVENT
 END:VCALENDAR
