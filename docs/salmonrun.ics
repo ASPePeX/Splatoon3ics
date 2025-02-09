@@ -20,7 +20,7 @@ DTSTART:20250207T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:d2d225f8-1cfe-45b5-be1d-44fc0a7181d1
+UID:a4932d51-3405-490e-ba79-668d64291811
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nBallpoint Splatling\nDouser
@@ -30,7 +30,7 @@ DTSTART:20250209T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:76f911e6-5e79-40a7-9855-e159f5092acd
+UID:4c9c1bbe-8eb6-4b4c-8978-b91d6ca4db6c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\n.52 Gal\nMini Splatling\nGoo Tuber\n\nKing:
@@ -40,7 +40,7 @@ DTSTART:20250211T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:031dfa84-e907-4c33-bf47-8a88a470a361
+UID:367bb7bd-4292-45b4-9b1d-5253d0503a1e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nGlooga Dualies\nCarbon Roller\nHeavy
@@ -50,7 +50,7 @@ DTSTART:20250212T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:dad19a2b-f08b-4770-8942-2ae85b362f53
+UID:9e19b915-8508-4e67-a69f-3fe38986d47b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplattershot Jr.\nRapid Blaster Pro\
@@ -60,6 +60,6 @@ DTSTART:20250214T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:e82a3aef-6d76-451e-91f3-c69e9e70a9ab
+UID:4d1236b2-af3d-4c6a-b3b2-0771c8b32d66
 END:VEVENT
 END:VCALENDAR
