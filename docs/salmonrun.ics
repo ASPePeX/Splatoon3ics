@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nBallpoint Splatling\nDouser
-  Dualies FF\n.96 Gal\n\nKing:\nHorrorboros
-DTEND:20250210T235959Z
-DTSTART:20250209T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:b0e751e4-d441-492a-afd9-d9ccaaf6affa
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\n.52 Gal\nMini Splatling\nGoo Tuber\n\nKing:
  \nMegalodontia
 DTEND:20250212T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250211T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:fdb7a727-473b-49e4-b50f-912ee1380e25
+UID:3c5a4370-aa31-43be-a4ec-123980ab79b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nGlooga Dualies\nCarbon Roller\nHeavy
@@ -40,7 +30,7 @@ DTSTART:20250212T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:cb6250fa-eb97-4802-aab4-1766bc60696b
+UID:0c95e49f-7e62-4408-ae26-a0c490442a36
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplattershot Jr.\nRapid Blaster Pro\
@@ -50,6 +40,16 @@ DTSTART:20250214T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:5dc6248c-3c72-408c-a768-6f0d59d9e697
+UID:6efe7ba4-acbf-41c5-86e0-53cab5e76bf6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Nova\nDapple Dualies\nNautilus 47\nClas
+ sic Squiffer\n\nKing:\nMegalodontia
+DTEND:20250217T155959Z
+DTSTART:20250216T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:ec8b6d58-0eb8-43c5-8d15-1916cafa0302
 END:VEVENT
 END:VCALENDAR
