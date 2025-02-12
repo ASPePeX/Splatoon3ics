@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBlaster\n.52 Gal\nMini Splatling\nGoo Tuber\n\nKing:
- \nMegalodontia
-DTEND:20250212T155959Z
-DTSTART:20250211T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:05c2bd25-0f52-431b-9237-7548b0dda4ed
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nGlooga Dualies\nCarbon Roller\nHeavy
   Splatling\n\nKing:\nCohozuna
 DTEND:20250214T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250212T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:e4f816f1-3aef-4183-86f9-b6bd6767929a
+UID:7aaf3db7-f789-46ed-85af-9d554ab23eb1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplattershot Jr.\nRapid Blaster Pro\
@@ -40,7 +30,7 @@ DTSTART:20250214T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:f23082ee-2bb0-4ebf-b905-b6a0cd8151e3
+UID:881f3833-1b58-4ead-98a8-f775247f059a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nDapple Dualies\nNautilus 47\nClas
@@ -50,6 +40,16 @@ DTSTART:20250216T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:9638f760-605e-4ff1-88ce-a031c40b3901
+UID:7586c80c-8389-4073-b0fe-bba1f3cf152d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nDread Wringer\nClash Blaster\nWells
+ tring V\n\nKing:\nCohozuna
+DTEND:20250219T075959Z
+DTSTART:20250217T160001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Cohozuna
+UID:5341e906-be19-40e6-b4dc-4162d3deb1ce
 END:VEVENT
 END:VCALENDAR
