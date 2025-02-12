@@ -20,7 +20,7 @@ DTSTART:20250211T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:8a526202-0a9e-46b0-b26a-96288eb4d55c
+UID:4ea8b594-93b6-44f2-ba91-853af5840543
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplash-o-matic\nGlooga Dualies\nCarbon Roller\nHeavy
@@ -30,7 +30,7 @@ DTSTART:20250212T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:ed6ffa81-5110-4ee0-8aff-13c7667e8c2a
+UID:9b9b8abe-ccf1-49a0-a45c-a40cc484ae14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplattershot Jr.\nRapid Blaster Pro\
@@ -40,7 +40,7 @@ DTSTART:20250214T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:d1e480ae-5d9a-4969-b4b1-ab11948f823b
+UID:632b673c-0832-4999-92e1-c44c601f416d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nDapple Dualies\nNautilus 47\nClas
@@ -50,6 +50,6 @@ DTSTART:20250216T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:3218d1c9-488c-474d-b9d7-5f640cd70901
+UID:c6a8851f-38dd-4f73-b8da-b16687b856e5
 END:VEVENT
 END:VCALENDAR
