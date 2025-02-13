@@ -20,7 +20,7 @@ DTSTART:20250212T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:b649599f-09d3-473a-a3b1-5cbd56bcf2b6
+UID:78ad5999-6d13-48fd-9029-2efc09afc9f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplattershot Jr.\nRapid Blaster Pro\
@@ -30,7 +30,7 @@ DTSTART:20250214T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:3f560f3f-dabf-47e7-bc60-e48cb444e849
+UID:ac216ba7-4a63-43f0-b318-9234ece27fa0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nDapple Dualies\nNautilus 47\nClas
@@ -40,7 +40,7 @@ DTSTART:20250216T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:b82f37ef-9898-4c4c-9872-eb0adf0c31e2
+UID:d14e8038-0744-4fa2-84b4-de421628c09b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nDread Wringer\nClash Blaster\nWells
@@ -50,6 +50,6 @@ DTSTART:20250217T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:343ed1cb-5bc8-4213-9b25-2fd49a05d92f
+UID:bf4eeb5d-d549-454a-bc22-8243a4664865
 END:VEVENT
 END:VCALENDAR
