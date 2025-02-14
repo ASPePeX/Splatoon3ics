@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplash-o-matic\nGlooga Dualies\nCarbon Roller\nHeavy
-  Splatling\n\nKing:\nCohozuna
-DTEND:20250214T075959Z
-DTSTART:20250212T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:e18af947-758a-4196-9f65-542d69b0bef2
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplattershot Jr.\nRapid Blaster Pro\
  nRandom\n\nKing:\nHorrorboros
 DTEND:20250215T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250214T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:9a24c2fb-045c-4861-954c-6c71fe0de52a
+UID:75b07cd5-d28f-4dc2-b6cd-019155207cf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nDapple Dualies\nNautilus 47\nClas
@@ -40,7 +30,7 @@ DTSTART:20250216T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:e7bb6c2a-a7a1-4f4d-86e5-af5673d45ed2
+UID:abb55b86-5b65-48ad-a9f2-be85e9342507
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nDread Wringer\nClash Blaster\nWells
@@ -50,6 +40,16 @@ DTSTART:20250217T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:0035ce24-38e7-418e-bee1-01aaba50abd7
+UID:9762136e-ec52-4a2b-bd32-3e1096962e64
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot\nDynamo Roller\nBallpoint Splatling\n.9
+ 6 Gal\n\nKing:\nHorrorboros
+DTEND:20250220T235959Z
+DTSTART:20250219T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:f9f7ff55-797d-4ca2-b9ba-383a5aad5aea
 END:VEVENT
 END:VCALENDAR
