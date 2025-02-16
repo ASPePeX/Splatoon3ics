@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSplattershot Jr.\nRapid Blaster Pro\
- nRandom\n\nKing:\nHorrorboros
-DTEND:20250215T235959Z
-DTSTART:20250214T080001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:c211b8b6-afad-4cc5-870e-08c7fc7ff840
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nDapple Dualies\nNautilus 47\nClas
  sic Squiffer\n\nKing:\nMegalodontia
 DTEND:20250217T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250216T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:7fbb3d14-8bf9-484b-8449-c8233dad6dfc
+UID:6bff3adf-6338-4ca6-9704-f5dbefc5ff38
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nDread Wringer\nClash Blaster\nWells
@@ -40,7 +30,7 @@ DTSTART:20250217T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:8286d069-d8c6-48e2-8700-5f5d6cf008e4
+UID:49b9e08c-0f67-4bc9-9ddb-911c090b596c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDynamo Roller\nBallpoint Splatling\n.9
@@ -50,6 +40,16 @@ DTSTART:20250219T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:943b4144-d7b5-48d7-8032-0444a444568a
+UID:f67ed01c-6754-4fe6-995a-9b8022c65f06
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSqueezer\nFlingza Roller\nRecycled Brella 24 Mk I\nG
+ oo Tuber\n\nKing:\nMegalodontia
+DTEND:20250222T155959Z
+DTSTART:20250221T000001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Megalodontia
+UID:e6e5f73e-fbfd-49a6-9f8f-d55bb2fa0bd7
 END:VEVENT
 END:VCALENDAR
