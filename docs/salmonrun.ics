@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Nova\nDapple Dualies\nNautilus 47\nClas
- sic Squiffer\n\nKing:\nMegalodontia
-DTEND:20250217T155959Z
-DTSTART:20250216T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:b9a0f8ad-de90-4f2e-9ba9-e47f5c930a3f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nDread Wringer\nClash Blaster\nWells
  tring V\n\nKing:\nCohozuna
 DTEND:20250219T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250217T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:00a2fb66-5be2-471d-b5da-c595d96bde8d
+UID:abfca072-3356-415e-95a3-add4e1ad59da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDynamo Roller\nBallpoint Splatling\n.9
@@ -40,7 +30,7 @@ DTSTART:20250219T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:9d9feb06-ef44-43f1-b21d-d4394e353597
+UID:77657759-9a2a-4ddf-b7d7-6a1186c65f45
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nFlingza Roller\nRecycled Brella 24 Mk I\nG
@@ -50,7 +40,7 @@ DTSTART:20250221T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:375c5348-3dff-4139-9436-559fe9434562
+UID:fd788f32-6a6a-4a07-9918-b76b94ec34bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nAerospray MG\nDualie Squelchers\n
@@ -60,6 +50,16 @@ DTSTART:20250222T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:352fccd6-f7a2-40b9-97f5-99787913c645
+UID:e0893e78-f5db-4188-b351-b8a7e9192e8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nSplatana Wiper\nSnipewriter 5H\
+ n\nKing:\nHorrorboros
+DTEND:20250225T235959Z
+DTSTART:20250224T080001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:4e9af8db-4a2e-489f-920f-b3c5dfa2adf5
 END:VEVENT
 END:VCALENDAR
