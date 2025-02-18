@@ -20,7 +20,7 @@ DTSTART:20250217T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:993f6c6e-35e3-4f69-8dda-cb4b7926636c
+UID:36df0828-8c73-4da1-951b-74aafd780562
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDynamo Roller\nBallpoint Splatling\n.9
@@ -30,7 +30,7 @@ DTSTART:20250219T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:24d66454-7765-4de7-991f-ffed3a3e1097
+UID:c6c9f172-beb7-49f4-81c6-cd15ccdfbdac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nFlingza Roller\nRecycled Brella 24 Mk I\nG
@@ -40,7 +40,7 @@ DTSTART:20250221T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:df86cc67-38e6-4713-8f61-ad3844d69f84
+UID:33562323-4d4f-4fd4-ad4f-d9f15fc535a7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nAerospray MG\nDualie Squelchers\n
@@ -50,7 +50,7 @@ DTSTART:20250222T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:aabe5654-4273-4904-9d60-87131facf388
+UID:6378d765-960a-4b8d-b822-4b7f0d1ff21d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nSplatana Wiper\nSnipewriter 5H\
@@ -60,6 +60,6 @@ DTSTART:20250224T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:3176ecb2-389f-477f-ac2f-90f741ca7311
+UID:dc6aaa62-5f4d-44d2-ab9f-25f22b7be1a0
 END:VEVENT
 END:VCALENDAR
