@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nDread Wringer\nClash Blaster\nWells
- tring V\n\nKing:\nCohozuna
-DTEND:20250219T075959Z
-DTSTART:20250217T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Cohozuna
-UID:22d835e1-88a4-445a-ae35-df64d0de777f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nDynamo Roller\nBallpoint Splatling\n.9
  6 Gal\n\nKing:\nHorrorboros
 DTEND:20250220T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250219T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:edfb738e-1480-4978-9a30-6f5f279799fd
+UID:6410a085-8a3e-432d-89b7-96c04bea62ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nFlingza Roller\nRecycled Brella 24 Mk I\nG
@@ -40,7 +30,7 @@ DTSTART:20250221T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:e41ff051-a347-4de2-a90f-f0af5394b0d8
+UID:db8adcf7-f9b6-4b02-808e-c5b1b34df621
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nAerospray MG\nDualie Squelchers\n
@@ -50,7 +40,7 @@ DTSTART:20250222T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:86559256-0b42-4c02-932b-e6369dbdc94e
+UID:e3c0bac9-ef98-4385-a808-2cd5022afc05
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nSplatana Wiper\nSnipewriter 5H\
@@ -60,6 +50,16 @@ DTSTART:20250224T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:de836d0f-1474-40c3-ac9d-fed5e3269d3c
+UID:4492187c-846f-49f6-80e6-8487de5dcd49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nPainbrush\nLuna Blaster\nSloshing Machine\nHeavy Spl
+ atling\n\nKing:\nMegalodontia
+DTEND:20250227T155959Z
+DTSTART:20250226T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:de0c02fb-1ffb-468d-98c4-acf47f21d2b7
 END:VEVENT
 END:VCALENDAR
