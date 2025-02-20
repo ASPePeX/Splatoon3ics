@@ -20,7 +20,7 @@ DTSTART:20250219T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:689031f1-47f2-4c5c-9521-6b05ce4000c9
+UID:ff6d9949-d62d-455b-ab5d-3118d5520884
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nFlingza Roller\nRecycled Brella 24 Mk I\nG
@@ -30,7 +30,7 @@ DTSTART:20250221T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:67b7a376-605b-4246-906b-5780287d4e69
+UID:6099d7d3-f4b8-4c64-9743-158ea56c32cd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nAerospray MG\nDualie Squelchers\n
@@ -40,7 +40,7 @@ DTSTART:20250222T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:1bd0d4ef-fb39-41ad-9d2c-e6a1b7445b6f
+UID:8350cc97-9920-4e06-83ed-387f26a6d326
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nSplatana Wiper\nSnipewriter 5H\
@@ -50,7 +50,7 @@ DTSTART:20250224T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:9c66b5e6-1f83-452b-b1ab-56ba9ce1c5e0
+UID:ad436230-8b13-4199-880f-bede1eb4196c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nLuna Blaster\nSloshing Machine\nHeavy Spl
@@ -60,6 +60,6 @@ DTSTART:20250226T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:adba37df-b800-48b1-8cc8-9e62ea6b869b
+UID:eec795c7-c4dd-434a-9ffc-064c3c90aafd
 END:VEVENT
 END:VCALENDAR
