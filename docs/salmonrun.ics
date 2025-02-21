@@ -20,7 +20,7 @@ DTSTART:20250221T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:32661ad6-9ff8-496f-95da-63b5c453ab82
+UID:a8811adb-dbf2-4a56-ab9b-693041862bce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nAerospray MG\nDualie Squelchers\n
@@ -30,7 +30,7 @@ DTSTART:20250222T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:6fd71e63-98e9-4f84-9a61-4d2c5a650e10
+UID:c2128fbd-684d-4082-8cff-4c7d5d3c5c02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nSplatana Wiper\nSnipewriter 5H\
@@ -40,7 +40,7 @@ DTSTART:20250224T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:9aa6f7f4-b0cb-4300-a17a-0a1e06ca536b
+UID:152402ca-4748-4c5a-83a6-1895307468fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nLuna Blaster\nSloshing Machine\nHeavy Spl
@@ -50,7 +50,7 @@ DTSTART:20250226T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:9bf6c142-77b3-4d17-9b4d-a11c3e8aac21
+UID:040481ce-3aba-42f3-8598-f85a67e192c1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nOctobrush\nMint Decavitator\nWellstr
@@ -60,6 +60,6 @@ DTSTART:20250227T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:94471576-09e2-4edc-b000-d058dd6c5ce6
+UID:b6104fa6-04d7-4956-b038-1569b5bb6202
 END:VEVENT
 END:VCALENDAR
