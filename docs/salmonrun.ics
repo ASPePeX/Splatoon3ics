@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot\nDynamo Roller\nBallpoint Splatling\n.9
- 6 Gal\n\nKing:\nHorrorboros
-DTEND:20250220T235959Z
-DTSTART:20250219T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:bf178026-3edc-41d2-8053-6c0e98fe07cb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSqueezer\nFlingza Roller\nRecycled Brella 24 Mk I\nG
  oo Tuber\n\nKing:\nMegalodontia
 DTEND:20250222T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250221T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:07d3d508-a9c8-4606-a30f-d16b7502912b
+UID:21bb391f-fa95-4960-9ab7-55f396974cdf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nAerospray MG\nDualie Squelchers\n
@@ -40,7 +30,7 @@ DTSTART:20250222T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:9649ac9e-0333-4adf-b7e0-f62baf117649
+UID:902f3091-cf11-4459-b836-00875d0c28f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nSplatana Wiper\nSnipewriter 5H\
@@ -50,7 +40,7 @@ DTSTART:20250224T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:81fdef85-2559-4c8f-9098-31423d1fd35d
+UID:2dd4239a-10e5-4be8-b0ec-28346da5bb59
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nLuna Blaster\nSloshing Machine\nHeavy Spl
@@ -60,6 +50,16 @@ DTSTART:20250226T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:cf9424fc-1bbb-4de0-9c1e-7c868cc01c3f
+UID:24a30954-0c48-4b35-8df5-e9837b7d8f75
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nL-3 Nozzlenose\nOctobrush\nMint Decavitator\nWellstr
+ ing V\n\nKing:\nCohozuna
+DTEND:20250301T075959Z
+DTSTART:20250227T160001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:e224ae19-709e-4f73-a4fd-862712b21e5d
 END:VEVENT
 END:VCALENDAR
