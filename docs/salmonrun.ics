@@ -20,7 +20,7 @@ DTSTART:20250222T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:26b83236-4150-4468-8e67-bdd6d9207544
+UID:0c2ceffa-7527-4dba-bcfb-ff083c166c90
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nSplatana Wiper\nSnipewriter 5H\
@@ -30,7 +30,7 @@ DTSTART:20250224T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:80daf3e2-c202-405e-af8c-46113afa35ce
+UID:78b1266e-8538-474f-9603-d88b81571f5c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nLuna Blaster\nSloshing Machine\nHeavy Spl
@@ -40,7 +40,7 @@ DTSTART:20250226T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:ee65aecd-f75c-4ae6-b97a-c60911986d32
+UID:c08d9715-fe39-4b3c-a607-909eec31cddb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nOctobrush\nMint Decavitator\nWellstr
@@ -50,7 +50,7 @@ DTSTART:20250227T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:73f437fd-db83-4ade-a959-86e157054030
+UID:3970693a-34f0-4d74-bfa1-aab22f03b933
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +59,6 @@ DTSTART:20250301T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:e21b8a73-42f8-4bfb-9442-d2612412cbbf
+UID:80fb6ee0-ee1b-43b2-83dd-4293383d7dd9
 END:VEVENT
 END:VCALENDAR
