@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nUndercover Brella\nAerospray MG\nDualie Squelchers\n
- Splat Charger\n\nKing:\nCohozuna
-DTEND:20250224T075959Z
-DTSTART:20250222T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:7513ab8f-8d6a-4523-8aad-becec617562d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nSplatana Wiper\nSnipewriter 5H\
  n\nKing:\nHorrorboros
 DTEND:20250225T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250224T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:435801d8-e925-4de1-8213-56c59de35f68
+UID:8b3f3615-12eb-4459-b640-8792b8397494
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nLuna Blaster\nSloshing Machine\nHeavy Spl
@@ -40,7 +30,7 @@ DTSTART:20250226T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:924791ec-fbe9-4d11-8307-72b81a55c0ae
+UID:9f48e7ab-dfa5-4562-b3e6-b74d5d1f0a38
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nOctobrush\nMint Decavitator\nWellstr
@@ -50,7 +40,7 @@ DTSTART:20250227T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:1ffafe43-39e5-40c5-a918-360d49b72e7d
+UID:483b8dfa-a2cc-4028-929e-793ce107405d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20250301T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:c81dc2ed-60d4-44ff-9563-ca95f25aaa2e
+UID:a0340a60-26a2-4b6d-9ca4-f4098ab1c0b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nInkbrush\nSplattershot\nTri-String
+ er\n\nKing:\nMegalodontia
+DTEND:20250304T155959Z
+DTSTART:20250303T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Megalodontia
+UID:a0904a02-2199-484b-8dc1-6191d12fe052
 END:VEVENT
 END:VCALENDAR
