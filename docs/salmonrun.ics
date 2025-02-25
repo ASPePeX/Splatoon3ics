@@ -20,7 +20,7 @@ DTSTART:20250224T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:6b665a0b-41ab-4c6b-809b-a2d2082a4623
+UID:41a8a1ed-e24d-45ee-9cd7-355b94cc25bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nLuna Blaster\nSloshing Machine\nHeavy Spl
@@ -30,7 +30,7 @@ DTSTART:20250226T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:213877e7-6dc5-4c35-bdd7-e0adb540df71
+UID:6575975a-b0a8-4645-bd2c-a78913b6711d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nOctobrush\nMint Decavitator\nWellstr
@@ -40,7 +40,7 @@ DTSTART:20250227T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:c3aeb0fc-1f3e-4aca-8f33-c322d48951b1
+UID:927e761c-c71e-4617-a99a-dc26ae74cfd0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +49,7 @@ DTSTART:20250301T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:e1fffdad-0b90-4017-bb4c-071d444857a9
+UID:be5a3b06-eaaa-45e4-bf39-9a33b5a7b6b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nInkbrush\nSplattershot\nTri-String
@@ -59,6 +59,6 @@ DTSTART:20250303T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:1c1dad99-3848-453d-94e5-77601b7a2da5
+UID:f239b545-694d-40a2-ab55-5c6cb5fba65a
 END:VEVENT
 END:VCALENDAR
