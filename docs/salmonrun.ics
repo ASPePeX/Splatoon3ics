@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nSplatana Wiper\nSnipewriter 5H\
- n\nKing:\nHorrorboros
-DTEND:20250225T235959Z
-DTSTART:20250224T080001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:41a8a1ed-e24d-45ee-9cd7-355b94cc25bc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nLuna Blaster\nSloshing Machine\nHeavy Spl
  atling\n\nKing:\nMegalodontia
 DTEND:20250227T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250226T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:6575975a-b0a8-4645-bd2c-a78913b6711d
+UID:deb8669a-97a5-4492-a7c1-71bca4558e9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nOctobrush\nMint Decavitator\nWellstr
@@ -40,7 +30,7 @@ DTSTART:20250227T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:927e761c-c71e-4617-a99a-dc26ae74cfd0
+UID:b23d754b-856f-416c-9590-a91c35be64e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +39,7 @@ DTSTART:20250301T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:be5a3b06-eaaa-45e4-bf39-9a33b5a7b6b2
+UID:cdf12766-df2d-4ed4-a25f-aed089945861
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nInkbrush\nSplattershot\nTri-String
@@ -59,6 +49,16 @@ DTSTART:20250303T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:f239b545-694d-40a2-ab55-5c6cb5fba65a
+UID:827e821d-c4aa-471e-bdca-9d2a3fd2c8c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nCarbon Roller\nSplash-o-matic\nDread Wringer\nClassi
+ c Squiffer\n\nKing:\nCohozuna
+DTEND:20250306T075959Z
+DTSTART:20250304T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:2ab04695-c143-4d7b-a406-5dd88e1170b6
 END:VEVENT
 END:VCALENDAR
