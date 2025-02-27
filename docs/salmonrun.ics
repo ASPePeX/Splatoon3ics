@@ -20,7 +20,7 @@ DTSTART:20250226T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:623a698c-d078-4ac1-b137-4befb0df92bf
+UID:54dc690d-0678-4ff3-8fe5-f64e4751e202
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nOctobrush\nMint Decavitator\nWellstr
@@ -30,7 +30,7 @@ DTSTART:20250227T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:0c8223c7-3956-49d2-a9ed-747b0488c7c5
+UID:ab1a5888-82da-4857-a86b-f5dc5c705082
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20250301T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:1951ec57-54ef-4a7a-83d6-d3c3b0d9bfa6
+UID:d24e49ea-a150-47a0-9a01-a31a30ed2986
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nInkbrush\nSplattershot\nTri-String
@@ -49,7 +49,7 @@ DTSTART:20250303T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:3c2bcc99-2539-4b20-a271-a678819d6d51
+UID:d1b40220-c4bf-4b16-b2e4-725d7a71c8a0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nSplash-o-matic\nDread Wringer\nClassi
@@ -59,6 +59,6 @@ DTSTART:20250304T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:8c2074b8-98ca-4072-a026-8927070886fb
+UID:fd977037-185b-4957-8bf3-66c301281195
 END:VEVENT
 END:VCALENDAR
