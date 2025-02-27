@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nPainbrush\nLuna Blaster\nSloshing Machine\nHeavy Spl
- atling\n\nKing:\nMegalodontia
-DTEND:20250227T155959Z
-DTSTART:20250226T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:c00c0e05-8ccf-48f6-ae8e-edaa7cab49cc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nOctobrush\nMint Decavitator\nWellstr
  ing V\n\nKing:\nCohozuna
 DTEND:20250301T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250227T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:224e5ffd-8198-448a-a94e-7cb266048ccf
+UID:3b28b5af-1ad5-491b-803c-5b1e3ef00a67
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +29,7 @@ DTSTART:20250301T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:a58dd80e-b37c-494b-8404-786aa90601ce
+UID:4be4f445-5574-4669-adc0-e37b8894ed4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nInkbrush\nSplattershot\nTri-String
@@ -49,7 +39,7 @@ DTSTART:20250303T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:6a371f28-87d1-481d-8e6b-d6d920b0d74c
+UID:057b1671-d36c-44f8-ba27-4ee61b6fe128
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nSplash-o-matic\nDread Wringer\nClassi
@@ -59,6 +49,16 @@ DTSTART:20250304T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:1c7ee165-8402-4f3a-9e3f-784fcdc36f96
+UID:3754cacc-42a5-4c0b-a936-40775d28f6ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nFlingza Roller\nMini Splatling\nE-liter 4K\
+ n\nKing:\nHorrorboros
+DTEND:20250307T235959Z
+DTSTART:20250306T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:80e22084-e6a0-4ca4-b370-498ecc57306e
 END:VEVENT
 END:VCALENDAR
