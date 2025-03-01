@@ -20,7 +20,7 @@ DTSTART:20250227T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:8c919593-5e87-46e8-8f10-839b0cdf0416
+UID:d8dab9a8-a019-4344-9aa6-6c7c30f135e1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20250301T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Triumvirate
-UID:a8b84996-19b8-42a6-842b-39bb8c19881b
+UID:77e7a15f-1290-42fd-8b62-c62e7419187c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nInkbrush\nSplattershot\nTri-String
@@ -39,7 +39,7 @@ DTSTART:20250303T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:ce818540-4ec2-4f81-aa40-2502e71f86e6
+UID:09930ac8-59a6-4266-bae2-f566b63a362f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nSplash-o-matic\nDread Wringer\nClassi
@@ -49,7 +49,7 @@ DTSTART:20250304T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:a69c1626-4d61-4ff2-bffd-e44a27045263
+UID:6f8a3766-85a3-45be-bd7e-478e540186b7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nFlingza Roller\nMini Splatling\nE-liter 4K\
@@ -59,6 +59,6 @@ DTSTART:20250306T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:cc4df232-cda1-40cb-aa91-fb7c8da8b1a1
+UID:18812d0c-852e-41b6-b3bc-62fe825320d7
 END:VEVENT
 END:VCALENDAR
