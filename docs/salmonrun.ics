@@ -20,7 +20,7 @@ DTSTART:20250303T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:2ea181d8-6160-496f-b883-fae7543646a6
+UID:8ec633cc-4ff9-46c0-ac79-72402b0fc4d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nSplash-o-matic\nDread Wringer\nClassi
@@ -30,7 +30,7 @@ DTSTART:20250304T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:ee485957-717b-49b2-ab06-36f7c657a892
+UID:3b1b6a8b-54be-4a5c-a4b4-7c1501205e82
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nFlingza Roller\nMini Splatling\nE-liter 4K\
@@ -40,16 +40,16 @@ DTSTART:20250306T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:86a010d2-d370-4822-b8fd-3b72b5afb4b2
+UID:ec2f895e-5032-4675-b1b8-cf452b27d7f9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDualie Squelchers\nSplat Roller\nSplatana Stamper\nR
- apid Blaster\n\nKing:\nCohozuna
+DESCRIPTION:Weapons:\nSplatana Wiper\nN-ZAP '85\nDapple Dualies\nSplat Cha
+ rger\n\nKing:\nMegalodontia
 DTEND:20250311T075959Z
 DTSTART:20250310T000001Z
-LOCATION:Sockeye Station
+LOCATION:Marooner's Bay
 SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:24a360c5-0e9a-4572-a4b6-c510f917c773
+SUMMARY:Marooner's Bay - Megalodontia
+UID:6697f57a-8fb4-4853-9dc5-3dd0c1be087d
 END:VEVENT
 END:VCALENDAR
