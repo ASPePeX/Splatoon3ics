@@ -20,7 +20,7 @@ DTSTART:20250303T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:e116676f-be8c-42a2-8cf1-44dd6be3299f
+UID:4b7390a9-b4a8-4249-8475-efc453d5a24b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nSplash-o-matic\nDread Wringer\nClassi
@@ -30,7 +30,7 @@ DTSTART:20250304T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:f8be833a-2b23-4cef-b35a-a777ada7f19d
+UID:0eb69dc5-20ec-4ed0-a8ab-3c10e577bd89
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nFlingza Roller\nMini Splatling\nE-liter 4K\
@@ -40,7 +40,7 @@ DTSTART:20250306T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:a58889dd-4bcc-422d-bf00-940c6d106492
+UID:ab4a1708-06fc-48dc-92ba-96a99c6a3687
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nN-ZAP '85\nDapple Dualies\nSplat Cha
@@ -50,6 +50,6 @@ DTSTART:20250310T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:6bfef494-ec0c-4dc6-966d-054a4b25da5a
+UID:922da692-bc97-463f-9d32-b76cf1668b5d
 END:VEVENT
 END:VCALENDAR
