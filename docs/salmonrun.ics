@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nInkbrush\nSplattershot\nTri-String
- er\n\nKing:\nMegalodontia
-DTEND:20250304T155959Z
-DTSTART:20250303T000001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Megalodontia
-UID:a2ec03da-b54c-43ee-bffe-b5fc6217372d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nSplash-o-matic\nDread Wringer\nClassi
  c Squiffer\n\nKing:\nCohozuna
 DTEND:20250306T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250304T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:04b2c1b4-8fa4-437e-9e67-a5879e1d267c
+UID:3920035e-70c6-4676-be2a-ad31e84b957c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nFlingza Roller\nMini Splatling\nE-liter 4K\
@@ -40,7 +30,7 @@ DTSTART:20250306T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:d0378d47-e0d0-4746-b030-c2e0253dd885
+UID:c5c3992c-4bde-43e9-86ed-02c7f6e39dea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nN-ZAP '85\nDapple Dualies\nSplat Cha
@@ -50,6 +40,16 @@ DTSTART:20250310T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:83387734-c942-46b1-83e4-a3d4a5ab1f87
+UID:8f20a765-12c9-4b14-aaa1-0775489320e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nUndercover Brella\nDualie Squelchers\nSplat Dualies\
+ nHydra Splatling\n\nKing:\nCohozuna
+DTEND:20250312T235959Z
+DTSTART:20250311T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:4b99c193-329c-4d0a-8d46-ab51b81da36b
 END:VEVENT
 END:VCALENDAR
