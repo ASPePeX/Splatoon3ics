@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nCarbon Roller\nSplash-o-matic\nDread Wringer\nClassi
- c Squiffer\n\nKing:\nCohozuna
-DTEND:20250306T075959Z
-DTSTART:20250304T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:fe15ed71-c076-4bc9-998f-420ef6318864
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nFlingza Roller\nMini Splatling\nE-liter 4K\
  n\nKing:\nHorrorboros
 DTEND:20250307T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250306T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:31ebad23-95df-4c04-9594-bc702812acf3
+UID:cdf30781-5237-487e-b3b2-c9bd4b6329ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nN-ZAP '85\nDapple Dualies\nSplat Cha
@@ -40,7 +30,7 @@ DTSTART:20250310T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:ec81b15d-a9cd-405a-86d9-89bb91d95686
+UID:d2237f81-4ef0-4169-bd9d-9d5945c23ad3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nDualie Squelchers\nSplat Dualies\
@@ -50,6 +40,16 @@ DTSTART:20250311T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:9617df15-622b-4984-8455-7e3d79f71b1f
+UID:cfdb505e-8682-4194-88d5-64f2e04d0ab8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBallpoint Splatling\nBloblobber\nBlaster\nJet Squelc
+ her\n\nKing:\nHorrorboros
+DTEND:20250314T155959Z
+DTSTART:20250313T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:08d8d364-1dd0-40ee-b9f3-c8d140a7ea18
 END:VEVENT
 END:VCALENDAR
