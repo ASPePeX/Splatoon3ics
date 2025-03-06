@@ -20,7 +20,7 @@ DTSTART:20250304T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:361b3bcf-2baa-4f93-a0d0-f293e6951867
+UID:55953ece-ba7e-445d-82e9-f1202a191971
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nFlingza Roller\nMini Splatling\nE-liter 4K\
@@ -30,7 +30,7 @@ DTSTART:20250306T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:6dbe0b4a-0089-4089-b328-bd269da93da6
+UID:cb6d0727-35df-4ce0-9ce1-dc00d8f01a41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nN-ZAP '85\nDapple Dualies\nSplat Cha
@@ -40,7 +40,7 @@ DTSTART:20250310T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:b9be6d62-e09f-4083-bb4d-c269c7224c51
+UID:2b54f452-be2f-4d75-b350-01b1e5b8b61c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nDualie Squelchers\nSplat Dualies\
@@ -50,6 +50,6 @@ DTSTART:20250311T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:f4ef0ab0-24b4-4141-9fb9-d231388fd345
+UID:a63921a2-5a5c-4cfd-9f19-1841fe106dbe
 END:VEVENT
 END:VCALENDAR
