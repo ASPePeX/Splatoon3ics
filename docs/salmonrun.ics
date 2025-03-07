@@ -20,7 +20,7 @@ DTSTART:20250306T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:1f2b63a2-4847-41ed-9c70-f3a1806309ff
+UID:feea12f3-22e1-4043-816c-3240aef28aad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nN-ZAP '85\nDapple Dualies\nSplat Cha
@@ -30,7 +30,7 @@ DTSTART:20250310T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:dc364aa2-0bd4-4856-ad6a-a3d936ff2aaa
+UID:14e1164b-1671-475b-947f-924091823885
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nDualie Squelchers\nSplat Dualies\
@@ -40,7 +40,7 @@ DTSTART:20250311T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:3917ad23-bfb9-4071-b47d-bc9bfd977017
+UID:ae6f53ea-a227-45ca-8156-c069c0fb3b02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nBloblobber\nBlaster\nJet Squelc
@@ -50,6 +50,6 @@ DTSTART:20250313T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:f8686b2e-ccab-40f5-b7dc-57d3da5ed984
+UID:58b811ea-d995-463c-a5d8-2b89fc8ec01f
 END:VEVENT
 END:VCALENDAR
