@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nFlingza Roller\nMini Splatling\nE-liter 4K\
- n\nKing:\nHorrorboros
-DTEND:20250307T235959Z
-DTSTART:20250306T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:feea12f3-22e1-4043-816c-3240aef28aad
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nN-ZAP '85\nDapple Dualies\nSplat Cha
  rger\n\nKing:\nMegalodontia
 DTEND:20250311T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250310T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:14e1164b-1671-475b-947f-924091823885
+UID:c789748e-0cdd-4336-aa65-05528a6f60e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nDualie Squelchers\nSplat Dualies\
@@ -40,7 +30,7 @@ DTSTART:20250311T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:ae6f53ea-a227-45ca-8156-c069c0fb3b02
+UID:4ad90e03-9f47-48cb-b537-cbe0eeee2a9d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nBloblobber\nBlaster\nJet Squelc
@@ -50,6 +40,16 @@ DTSTART:20250313T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:58b811ea-d995-463c-a5d8-2b89fc8ec01f
+UID:10f3a6f2-8c27-4fc6-a7ec-e6a5f514d30e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Nova\nMint Decavitator\nDynamo Roller\n
+ Wellstring V\n\nKing:\nMegalodontia
+DTEND:20250316T075959Z
+DTSTART:20250314T160001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:387c10f6-06ea-4bd6-8ead-ed2e9656c2c5
 END:VEVENT
 END:VCALENDAR
