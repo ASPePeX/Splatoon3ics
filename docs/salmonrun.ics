@@ -20,7 +20,7 @@ DTSTART:20250310T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:fc5b0306-15d7-4885-a2f7-3b943d8898b9
+UID:9cf24561-eefa-4d05-8b89-5c2622dc2c4b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nDualie Squelchers\nSplat Dualies\
@@ -30,7 +30,7 @@ DTSTART:20250311T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:3b72102a-e403-4163-a524-0897ef152489
+UID:040d727c-1c83-45fe-8165-b32111343afe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nBloblobber\nBlaster\nJet Squelc
@@ -40,7 +40,7 @@ DTSTART:20250313T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:0c8b9b03-1a85-4d36-8d08-f3da64c6b560
+UID:8aa3237d-4fdf-4c9d-bee6-f148f505a5f6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nMint Decavitator\nDynamo Roller\n
@@ -50,6 +50,6 @@ DTSTART:20250314T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:eabd0015-b4ed-48fd-ad26-db5d77e59b1b
+UID:9b1b7c66-c51d-4d7f-8dc9-ff4da42c7d6a
 END:VEVENT
 END:VCALENDAR
