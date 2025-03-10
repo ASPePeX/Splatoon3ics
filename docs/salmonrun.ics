@@ -20,7 +20,7 @@ DTSTART:20250310T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:49ed31b3-7592-4e7c-8038-d9519b23d261
+UID:83e812bb-a33d-44b4-8337-01a2cb4a247c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nDualie Squelchers\nSplat Dualies\
@@ -30,7 +30,7 @@ DTSTART:20250311T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:c41e40f7-5cbc-453a-b00d-3c2a55d4e110
+UID:a7a99574-1f7d-4214-996d-c47f18d467a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nBloblobber\nBlaster\nJet Squelc
@@ -40,7 +40,7 @@ DTSTART:20250313T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:da86162a-e4fa-4cba-aead-bf2330c40cb6
+UID:ddd59e95-dcb3-4f98-99bf-c67b6807c235
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nMint Decavitator\nDynamo Roller\n
@@ -50,7 +50,7 @@ DTSTART:20250314T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:9795ff39-b397-4548-abb2-190703ee1059
+UID:3cbf3397-058d-44c4-a5b0-4528c9bb29d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSplatana Stamper\nGlooga Dualies\nTenta
@@ -60,6 +60,6 @@ DTSTART:20250316T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:a3d0b686-7d1a-4309-a829-4d20fd35db6d
+UID:bf2e44f6-e17c-4907-95f6-462e2e134a91
 END:VEVENT
 END:VCALENDAR
