@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nUndercover Brella\nDualie Squelchers\nSplat Dualies\
- nHydra Splatling\n\nKing:\nCohozuna
-DTEND:20250312T235959Z
-DTSTART:20250311T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:97d11775-5aa8-443a-8d5f-c56284bcb733
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBallpoint Splatling\nBloblobber\nBlaster\nJet Squelc
  her\n\nKing:\nHorrorboros
 DTEND:20250314T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250313T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:9a05b0de-5e5e-4288-8f1d-c1649cc81e79
+UID:02acfd27-0e3a-44bd-9b65-b92853e250fb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nMint Decavitator\nDynamo Roller\n
@@ -40,7 +30,7 @@ DTSTART:20250314T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:225d0d6e-7759-47e1-ac52-30db84f2f220
+UID:47b26c8f-29dc-4b28-8394-65d1a7c40e7b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSplatana Stamper\nGlooga Dualies\nTenta
@@ -50,7 +40,7 @@ DTSTART:20250316T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:0f371fdc-eac1-49e8-8e14-0080ce85362a
+UID:704ceb1a-d478-4e1d-b5b1-f95a0b3bee2a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nSplat Roller\nLuna Blaster\nE-lite
@@ -60,6 +50,16 @@ DTSTART:20250318T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:a39ad5bf-ba3d-4d1c-9d20-f9e7dbb452bf
+UID:00cf4de4-58f5-4028-93c1-d454e79840a4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nCarbon Roller\nSplattershot Jr.\nCl
+ assic Squiffer\n\nKing:\nMegalodontia
+DTEND:20250321T075959Z
+DTSTART:20250319T160001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:90b6d69a-afd0-457e-bd2f-50639d5aeaa3
 END:VEVENT
 END:VCALENDAR
