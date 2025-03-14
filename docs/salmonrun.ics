@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBallpoint Splatling\nBloblobber\nBlaster\nJet Squelc
- her\n\nKing:\nHorrorboros
-DTEND:20250314T155959Z
-DTSTART:20250313T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:06dac81e-41df-40f2-b53c-dac969163a9e
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Nova\nMint Decavitator\nDynamo Roller\n
  Wellstring V\n\nKing:\nMegalodontia
 DTEND:20250316T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250314T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:18f184a1-f8f3-4d6e-bb49-cd159772ba69
+UID:b5f9051b-3656-4eaa-80bd-b8c1066104ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nSplatana Stamper\nGlooga Dualies\nTenta
@@ -40,7 +30,7 @@ DTSTART:20250316T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:3b772ede-b9c7-4cbb-a66d-5d82f2d85abd
+UID:6e523c7d-6fe7-4bb3-bc1d-134b0f7f4cfd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nSplat Roller\nLuna Blaster\nE-lite
@@ -50,7 +40,7 @@ DTSTART:20250318T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:d483c80e-ff7c-4bcf-8e99-249c3dd4f11e
+UID:11bd3238-ae7a-4132-82a6-02a4f5f9a0f8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nCarbon Roller\nSplattershot Jr.\nCl
@@ -60,6 +50,16 @@ DTSTART:20250319T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:c110f676-0753-408a-ac1c-8c55e8c4db5a
+UID:bfd45907-cbd9-416a-b2ff-333e97a75b0f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSqueezer\nHydra Splatling\nRandom\n\
+ nKing:\nCohozuna
+DTEND:20250322T235959Z
+DTSTART:20250321T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:534ced75-8c77-40de-a0bf-1e22b39ada83
 END:VEVENT
 END:VCALENDAR
