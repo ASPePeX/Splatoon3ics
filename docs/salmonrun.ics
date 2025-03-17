@@ -20,7 +20,7 @@ DTSTART:20250316T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:73a1fa09-b628-4e5d-bf64-6b2a1d65258c
+UID:4e859a3b-b0c3-436a-9c58-c6a0e5086667
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nSplat Roller\nLuna Blaster\nE-lite
@@ -30,7 +30,7 @@ DTSTART:20250318T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:b4f12065-da39-45a2-a471-9b874f5cb80d
+UID:65d3a238-0072-43fd-8519-c073e16ba8ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nCarbon Roller\nSplattershot Jr.\nCl
@@ -40,7 +40,7 @@ DTSTART:20250319T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:aee43103-4a8c-4615-be27-a1c4e732ee5c
+UID:68e03154-8883-4b37-8a5c-9a38803ba6be
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSqueezer\nHydra Splatling\nRandom\n\
@@ -50,7 +50,7 @@ DTSTART:20250321T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:7dcd84fc-3bbd-4285-9f00-f46a9ffc552f
+UID:a3da2077-6ea7-466d-8a59-2b4bb87a3e1d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplattershot\nSplatana Wiper\nRapid Blast
@@ -60,6 +60,6 @@ DTSTART:20250323T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:a5c4722d-31f1-49cc-b882-120d040e7479
+UID:601d1067-ca71-42c5-bce3-7d649b75ece8
 END:VEVENT
 END:VCALENDAR
