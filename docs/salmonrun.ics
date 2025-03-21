@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nCarbon Roller\nSplattershot Jr.\nCl
- assic Squiffer\n\nKing:\nMegalodontia
-DTEND:20250321T075959Z
-DTSTART:20250319T160001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:02f39978-cccb-44cc-be79-41be3f674292
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSqueezer\nHydra Splatling\nRandom\n\
  nKing:\nCohozuna
 DTEND:20250322T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250321T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:c26b9b9c-2e49-4d6f-885d-d629556eeb4f
+UID:6f9b4378-092b-4686-838b-6f1852bf8d7e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplattershot\nSplatana Wiper\nRapid Blast
@@ -40,7 +30,7 @@ DTSTART:20250323T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:35fbaacf-c55e-4326-b109-d026e7d174c5
+UID:87a15297-14d6-491b-9012-f44331ff1850
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSplat Brella\nSplat Dualies\n.96 Gal\n
@@ -50,7 +40,7 @@ DTSTART:20250324T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:8e1b57a2-05dc-462c-8fdc-046460c7f8c4
+UID:612b5577-1d44-42b8-9a79-2dc7673ac754
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nInkbrush\nFlingza Roller\nTri-Str
@@ -60,6 +50,16 @@ DTSTART:20250326T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:95733647-07f1-40d6-a031-88c21a3daabd
+UID:c0240e9c-af6c-47fb-a497-4395bdbf8574
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBloblobber\nDynamo Roller\nTri-Slosher\nHeavy Splatl
+ ing\n\nKing:\nHorrorboros
+DTEND:20250329T155959Z
+DTSTART:20250328T000001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Horrorboros
+UID:922e39e8-2093-494d-911c-536263256931
 END:VEVENT
 END:VCALENDAR
