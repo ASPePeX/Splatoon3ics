@@ -20,7 +20,7 @@ DTSTART:20250323T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:96d3c988-178f-49c8-af02-ec0047493152
+UID:a58159df-a6a2-4a4c-bae0-06ba066e1e94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSplat Brella\nSplat Dualies\n.96 Gal\n
@@ -30,7 +30,7 @@ DTSTART:20250324T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:980421d7-2a16-4628-9c5a-601aeff4372c
+UID:f2bf0e3e-77c7-40ae-85c2-45a81140b1b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nInkbrush\nFlingza Roller\nTri-Str
@@ -40,7 +40,7 @@ DTSTART:20250326T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:cd1a4932-c9d8-4ea0-9915-59cbb6fe4e25
+UID:a6cda021-532f-4268-93fe-c8b4c16baf90
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nDynamo Roller\nTri-Slosher\nHeavy Splatl
@@ -50,7 +50,7 @@ DTSTART:20250328T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:3c10ddc1-a857-4ba0-8977-d233360cc270
+UID:e6d039fa-cf48-4f5f-9751-2bce17f30ade
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplash-o-matic\nN-ZAP '85\nGoo Tuber\n\nKin
@@ -60,6 +60,6 @@ DTSTART:20250329T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:3e42ce27-4dde-4e3d-88ac-7a9a11c3c64c
+UID:32c51877-cfde-4284-872f-950a783d7777
 END:VEVENT
 END:VCALENDAR
