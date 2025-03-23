@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nL-3 Nozzlenose\nSqueezer\nHydra Splatling\nRandom\n\
- nKing:\nCohozuna
-DTEND:20250322T235959Z
-DTSTART:20250321T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:36f91f36-024d-4455-b1cf-c59f3abb3156
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplattershot\nSplatana Wiper\nRapid Blast
  er\n\nKing:\nHorrorboros
 DTEND:20250324T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250323T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:5abee3b8-248c-474a-b316-b9ea74371a24
+UID:96d3c988-178f-49c8-af02-ec0047493152
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nAerospray MG\nSplat Brella\nSplat Dualies\n.96 Gal\n
@@ -40,7 +30,7 @@ DTSTART:20250324T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:722d5ea2-87ca-4829-b006-ed1e3f593898
+UID:980421d7-2a16-4628-9c5a-601aeff4372c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nInkbrush\nFlingza Roller\nTri-Str
@@ -50,7 +40,7 @@ DTSTART:20250326T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:fbbb6d57-ad0f-4799-ab93-0ccf5120fdc1
+UID:cd1a4932-c9d8-4ea0-9915-59cbb6fe4e25
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nDynamo Roller\nTri-Slosher\nHeavy Splatl
@@ -60,6 +50,16 @@ DTSTART:20250328T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:f018e0cc-1360-413e-9986-97736b368078
+UID:3c10ddc1-a857-4ba0-8977-d233360cc270
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBlaster\nSplash-o-matic\nN-ZAP '85\nGoo Tuber\n\nKin
+ g:\nMegalodontia
+DTEND:20250331T075959Z
+DTSTART:20250329T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:3e42ce27-4dde-4e3d-88ac-7a9a11c3c64c
 END:VEVENT
 END:VCALENDAR
