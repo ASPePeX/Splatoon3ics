@@ -20,7 +20,7 @@ DTSTART:20250324T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:e775aeb9-85e5-4d29-99e4-f19efc6c42a7
+UID:8f06bda0-6b1e-49e5-817a-d800030d3d3a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nInkbrush\nFlingza Roller\nTri-Str
@@ -30,7 +30,7 @@ DTSTART:20250326T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:f98d630f-8bae-47a9-af7c-2818ab39e161
+UID:cd34bc1a-f823-4318-8ac3-b9ccfac8d310
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nDynamo Roller\nTri-Slosher\nHeavy Splatl
@@ -40,7 +40,7 @@ DTSTART:20250328T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:7ffbe9a1-4dad-4ec9-8b4b-c8a7bb5002be
+UID:eee864af-b64e-49ea-8e68-6744b657028a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplash-o-matic\nN-ZAP '85\nGoo Tuber\n\nKin
@@ -50,7 +50,7 @@ DTSTART:20250329T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:8416be52-9004-48bd-8c45-4c7b7201fac6
+UID:a4aa6108-1766-4f77-8407-9cf6e0ed0982
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nDualie Squelchers\nDapple D
@@ -60,6 +60,6 @@ DTSTART:20250331T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:38ac5efa-028f-4101-af8b-99f3ce9823cd
+UID:088b4b26-2a2d-4d33-93e4-b21aa2faa83a
 END:VEVENT
 END:VCALENDAR
