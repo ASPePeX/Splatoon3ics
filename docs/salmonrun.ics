@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nAerospray MG\nSplat Brella\nSplat Dualies\n.96 Gal\n
- \nKing:\nMegalodontia
-DTEND:20250326T075959Z
-DTSTART:20250324T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:86646077-0684-441c-bde4-ed1c2cb4172d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nInkbrush\nFlingza Roller\nTri-Str
  inger\n\nKing:\nCohozuna
 DTEND:20250327T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250326T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:e8e7588f-1d8b-4a8c-943a-cb012f22a559
+UID:d50629d1-aa6c-4574-91ee-69d76f9953c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nDynamo Roller\nTri-Slosher\nHeavy Splatl
@@ -40,7 +30,7 @@ DTSTART:20250328T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:7bab4f45-2200-4950-99b6-56f5100011e7
+UID:19caa0f8-cd93-41f4-81ad-0b9823e2d16a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplash-o-matic\nN-ZAP '85\nGoo Tuber\n\nKin
@@ -50,7 +40,7 @@ DTSTART:20250329T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:adbc79ab-1327-49db-9b27-df1928b626a8
+UID:31dcaf1c-a050-4728-b3fa-5037d0d203a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nDualie Squelchers\nDapple D
@@ -60,6 +50,16 @@ DTSTART:20250331T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:ca1b6989-8de9-4bbc-bb7c-dcf2c764e5e4
+UID:9eb34641-0878-4381-ac08-c6779c7b3692
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nH-3 Nozzlenose\nDread Wringer\nSploosh-o-matic\nJet 
+ Squelcher\n\nKing:\nHorrorboros
+DTEND:20250403T155959Z
+DTSTART:20250402T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:1940dfd6-80c1-4330-b326-8a2b372d7375
 END:VEVENT
 END:VCALENDAR
