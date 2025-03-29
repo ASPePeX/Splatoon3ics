@@ -20,7 +20,7 @@ DTSTART:20250328T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:e4a3a32c-ce3d-40d8-b724-2991e671b15a
+UID:0ef00b09-6c37-4337-b535-d84ab5a7a716
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplash-o-matic\nN-ZAP '85\nGoo Tuber\n\nKin
@@ -30,7 +30,7 @@ DTSTART:20250329T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:5d170940-3857-4667-896d-dd170e6ae355
+UID:8fe7d886-c882-4943-9422-0043e8d00a49
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nDualie Squelchers\nDapple D
@@ -40,7 +40,7 @@ DTSTART:20250331T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:244beeed-9461-4f70-aabc-40cd12bb1354
+UID:4c33ff6f-d686-4f7b-a1c9-70462379bab2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nH-3 Nozzlenose\nDread Wringer\nSploosh-o-matic\nJet 
@@ -50,7 +50,7 @@ DTSTART:20250402T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:16d1cf0b-f44d-422c-9d09-aa7bdbc52fcb
+UID:bc2c7f24-5cbc-44a7-af14-fc7118da16fc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDouser Dualies FF\nSplat Dualies\nClass
@@ -60,6 +60,6 @@ DTSTART:20250403T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:046b5c9a-9372-48f5-888b-c7ddbdf8e0de
+UID:a9a82ac4-0d37-414a-bdf9-9ad1b622c354
 END:VEVENT
 END:VCALENDAR
