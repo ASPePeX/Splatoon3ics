@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBloblobber\nDynamo Roller\nTri-Slosher\nHeavy Splatl
- ing\n\nKing:\nHorrorboros
-DTEND:20250329T155959Z
-DTSTART:20250328T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Horrorboros
-UID:799ec0b4-e496-4cbe-b70d-3375333eb1fd
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplash-o-matic\nN-ZAP '85\nGoo Tuber\n\nKin
  g:\nMegalodontia
 DTEND:20250331T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250329T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:909b5286-33e2-45a6-bad5-0599929ee504
+UID:f483254d-fbff-44e3-bec2-cb6a6a5ec664
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\nDualie Squelchers\nDapple D
@@ -40,7 +30,7 @@ DTSTART:20250331T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:6004e101-9546-4f42-9c8c-bdef611397bd
+UID:6ba9eb6d-cbea-4d32-9122-67e9e91e329b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nH-3 Nozzlenose\nDread Wringer\nSploosh-o-matic\nJet 
@@ -50,7 +40,7 @@ DTSTART:20250402T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:97889bbc-76e7-4866-b070-70eebcbf9daf
+UID:7ef840a6-6f3b-4f2a-8e86-e48e804775d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDouser Dualies FF\nSplat Dualies\nClass
@@ -60,6 +50,15 @@ DTSTART:20250403T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:767abe68-1e1f-471d-b069-8bff8fe230e7
+UID:cb48fd04-07f6-4a0b-8e37-d7303917c880
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
+DTEND:20250406T235959Z
+DTSTART:20250405T080001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Triumvirate
+UID:061f4296-8001-45fa-908f-1214913e4b32
 END:VEVENT
 END:VCALENDAR
