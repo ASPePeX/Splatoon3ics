@@ -20,7 +20,7 @@ DTSTART:20250331T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:b7f42e5c-a539-4b16-a4e3-f3b6dc9d0d71
+UID:4197bb2a-8131-4a3d-8587-4b948f7c8011
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nH-3 Nozzlenose\nDread Wringer\nSploosh-o-matic\nJet 
@@ -30,7 +30,7 @@ DTSTART:20250402T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:f43512c4-fd3b-48fb-b66e-6312e9f7da42
+UID:630484cc-d03a-44d8-86f0-5aea0f316088
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDouser Dualies FF\nSplat Dualies\nClass
@@ -40,7 +40,7 @@ DTSTART:20250403T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:170d09d9-ae79-478a-86b5-7cb25a093b4f
+UID:079f4462-2972-445a-a752-a46a3cb590b5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +49,7 @@ DTSTART:20250405T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Triumvirate
-UID:103fae9d-276a-4b7d-8b42-c38659f22210
+UID:7e1036a1-67cf-4659-98ca-932b48728a3c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nSplattershot\nWells
@@ -59,6 +59,6 @@ DTSTART:20250407T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:c3a8d868-3fe4-4aa3-ad4f-fac4ecbacf85
+UID:8c762780-2ebd-42da-b4b4-55a5ffa8b961
 END:VEVENT
 END:VCALENDAR
