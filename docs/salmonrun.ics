@@ -20,7 +20,7 @@ DTSTART:20250402T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:4e698ac0-0f8f-4954-8544-2a664bf13037
+UID:1f076346-a807-475f-a0ca-0282d2af1a1a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nS-BLAST '92\nDouser Dualies FF\nSplat Dualies\nClass
@@ -30,7 +30,7 @@ DTSTART:20250403T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:877be9af-6e57-4ca4-8e37-042c39f8a8a5
+UID:5c7b649c-b60a-4d5a-8131-f426d1d16044
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20250405T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Triumvirate
-UID:dc3aed8f-529f-411d-a5c8-f7ef4db66742
+UID:527fbfde-bc9f-413c-9b68-85fd720965a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nSplattershot\nWells
@@ -49,7 +49,7 @@ DTSTART:20250407T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:21b1c36b-661c-4374-a7d4-0ab982a1d65c
+UID:73df3294-007b-45eb-b45f-0cf870ca6b77
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nBloblobber\nLuna Blaster\nBamboozler 14 Mk 
@@ -59,6 +59,6 @@ DTSTART:20250408T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:cab2074f-0095-404b-9304-d29a80af302e
+UID:4842dec3-ac71-4f34-a063-4604f08f35d1
 END:VEVENT
 END:VCALENDAR
