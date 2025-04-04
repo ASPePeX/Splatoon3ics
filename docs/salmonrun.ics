@@ -20,7 +20,7 @@ DTSTART:20250403T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:2d8f7b3a-21b5-428b-8552-d13c87cf5ede
+UID:7637e15c-19e1-4292-9617-e57fe96d1afd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20250405T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Triumvirate
-UID:d3736de2-3ab5-46aa-bc59-edecf34b793f
+UID:153f86eb-5ac6-4b50-a026-bda770d9fddf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nSplattershot\nWells
@@ -39,7 +39,7 @@ DTSTART:20250407T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:3e333b95-5319-4422-b4c3-8ba8333fbcc6
+UID:6dee086e-03cc-4b23-8e3c-962baa5ccd90
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nBloblobber\nLuna Blaster\nBamboozler 14 Mk 
@@ -49,7 +49,7 @@ DTSTART:20250408T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:13db0a95-b8c9-4cff-910a-4f25d11371ab
+UID:8ffc4383-de33-4866-a9cf-658aa8330f63
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMini Splatling\nDark Tetra Dualies\nSplat C
@@ -59,6 +59,6 @@ DTSTART:20250410T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:d406790f-4581-406a-bf55-beec1f3c7504
+UID:e227a127-e990-4f2f-94c6-33bc0d72115a
 END:VEVENT
 END:VCALENDAR
