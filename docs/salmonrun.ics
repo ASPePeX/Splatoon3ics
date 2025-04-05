@@ -19,7 +19,7 @@ DTSTART:20250405T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Triumvirate
-UID:bb5a504e-13fd-4fc9-912e-8bf62d89a6a6
+UID:a9bbaebc-eb36-40b7-bac6-e14eb143a10d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nSplattershot\nWells
@@ -29,7 +29,7 @@ DTSTART:20250407T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:aab9c93b-b02b-45ee-9b5b-06a0185e4d84
+UID:ca35a141-5750-4421-9139-a38559937bad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nBloblobber\nLuna Blaster\nBamboozler 14 Mk 
@@ -39,7 +39,7 @@ DTSTART:20250408T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:9a504b15-c0a8-4864-a9b5-ad8bb540fb3a
+UID:e3df391a-a36a-47ff-8167-4dff0416af4d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMini Splatling\nDark Tetra Dualies\nSplat C
@@ -49,7 +49,7 @@ DTSTART:20250410T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:6a9819e4-5e20-4c9e-9ce4-8521e4a3a064
+UID:df5c6493-fd92-4efa-aff8-1220d88a1192
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSplattershot Nova\n.96 Gal\nTenta 
@@ -59,6 +59,6 @@ DTSTART:20250412T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:21640f06-55e1-4fcd-95de-4cc125a3af38
+UID:b7dd7b35-69f5-418b-acea-06689fc31c92
 END:VEVENT
 END:VCALENDAR
