@@ -13,23 +13,13 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nS-BLAST '92\nDouser Dualies FF\nSplat Dualies\nClass
- ic Squiffer\n\nKing:\nMegalodontia
-DTEND:20250405T075959Z
-DTSTART:20250403T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:341ef670-f7b6-411e-bc74-1c83043e434c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
 DTEND:20250406T235959Z
 DTSTART:20250405T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Triumvirate
-UID:ce43f9d0-03fe-4607-a04e-573851d83693
+UID:bb5a504e-13fd-4fc9-912e-8bf62d89a6a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nSplattershot\nWells
@@ -39,7 +29,7 @@ DTSTART:20250407T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:5a103c11-6f00-46cd-9242-ce812a3fd6bf
+UID:aab9c93b-b02b-45ee-9b5b-06a0185e4d84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nBloblobber\nLuna Blaster\nBamboozler 14 Mk 
@@ -49,7 +39,7 @@ DTSTART:20250408T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:1e498464-406a-4491-a20c-3c7082081292
+UID:9a504b15-c0a8-4864-a9b5-ad8bb540fb3a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMini Splatling\nDark Tetra Dualies\nSplat C
@@ -59,6 +49,16 @@ DTSTART:20250410T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:ee42e1a1-100e-4ae7-8c81-9a26a613f52f
+UID:6a9819e4-5e20-4c9e-9ce4-8521e4a3a064
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nMint Decavitator\nSplattershot Nova\n.96 Gal\nTenta 
+ Brella\n\nKing:\nHorrorboros
+DTEND:20250413T155959Z
+DTSTART:20250412T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:21640f06-55e1-4fcd-95de-4cc125a3af38
 END:VEVENT
 END:VCALENDAR
