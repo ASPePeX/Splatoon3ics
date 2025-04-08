@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Stamper\nClash Blaster\nSplattershot\nWells
- tring V\n\nKing:\nHorrorboros
-DTEND:20250408T155959Z
-DTSTART:20250407T000001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:94e2d2e6-4da9-4538-81a6-51cff749fd20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nBloblobber\nLuna Blaster\nBamboozler 14 Mk 
  I\n\nKing:\nMegalodontia
 DTEND:20250410T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250408T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:7e0bdf36-bb03-46e4-8729-f046e933d3a5
+UID:b3910217-b2b6-4272-b8f3-3d3ba4634457
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMini Splatling\nDark Tetra Dualies\nSplat C
@@ -40,7 +30,7 @@ DTSTART:20250410T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:0d1fbd71-81d5-4764-bdbd-c9cf3c704368
+UID:190db9ac-31bd-4d59-85f5-971f36e4b81d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSplattershot Nova\n.96 Gal\nTenta 
@@ -50,7 +40,7 @@ DTSTART:20250412T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:37250c99-43df-4341-8b91-948a610be4d8
+UID:66aa8d0b-b76a-4bbe-87a2-a48ddf641d66
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nDualie Squelchers\nRecycled Brella
@@ -60,6 +50,16 @@ DTSTART:20250413T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:c9d3f58b-b101-42d8-a46d-a8339a10f986
+UID:cdd46fc1-a63d-4635-bede-6ac2772bf1c9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nGlooga Dualies\nNautilus 47\nFlingza Roller\nTri-Str
+ inger\n\nKing:\nCohozuna
+DTEND:20250416T235959Z
+DTSTART:20250415T080001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:747775a4-7963-4a22-93be-539b948e1668
 END:VEVENT
 END:VCALENDAR
