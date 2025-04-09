@@ -20,7 +20,7 @@ DTSTART:20250408T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:b07da6a2-e3f7-40f5-b070-4b5c46b47976
+UID:944ac47b-5869-4c61-a386-e4b14dcc0377
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMini Splatling\nDark Tetra Dualies\nSplat C
@@ -30,7 +30,7 @@ DTSTART:20250410T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:c2693148-a80b-4edb-8072-667ca3f698d0
+UID:6b867098-9c0e-47ae-a9ef-f3b31fd41134
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSplattershot Nova\n.96 Gal\nTenta 
@@ -40,7 +40,7 @@ DTSTART:20250412T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:e8cf63c4-6cad-4cc1-9b3f-bfa465f298e0
+UID:9797f8f3-72fc-4840-93a1-63c98cc52b23
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nDualie Squelchers\nRecycled Brella
@@ -50,7 +50,7 @@ DTSTART:20250413T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:1d15c399-0d17-40b7-b354-fc33ac9fe845
+UID:7948be21-d773-43e1-a3b9-a80496bfa678
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nNautilus 47\nFlingza Roller\nTri-Str
@@ -60,6 +60,6 @@ DTSTART:20250415T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:adde7885-cc74-4c07-b648-3c3bc86a6239
+UID:11276fd5-abc8-4c62-9df5-2d230d1f555a
 END:VEVENT
 END:VCALENDAR
