@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSlosher\nBloblobber\nLuna Blaster\nBamboozler 14 Mk 
- I\n\nKing:\nMegalodontia
-DTEND:20250410T075959Z
-DTSTART:20250408T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:769535ea-1abf-4898-81c0-7ad5b5160a4c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nMini Splatling\nDark Tetra Dualies\nSplat C
  harger\n\nKing:\nCohozuna
 DTEND:20250411T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250410T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:a776a2be-caf0-44e3-ac08-3245c0300ec2
+UID:5583849f-826e-4c4b-9948-a4a0b7a2cf94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSplattershot Nova\n.96 Gal\nTenta 
@@ -40,7 +30,7 @@ DTSTART:20250412T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:976836df-9e5f-4b46-a0c8-2e562c838bef
+UID:27115378-3cd7-4a39-a293-b04ec5ce24bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nDualie Squelchers\nRecycled Brella
@@ -50,7 +40,7 @@ DTSTART:20250413T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:c5bbca86-b9ee-4687-8bcc-3b43b671a01b
+UID:53041d54-443a-4d09-8a98-65fffb9185ba
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nNautilus 47\nFlingza Roller\nTri-Str
@@ -60,6 +50,16 @@ DTSTART:20250415T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:7e70f4a2-2ec3-43ca-aec3-4401e0870efa
+UID:54ab9a33-78ff-4aa2-8af9-62d5d14ee1bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nRange Blaster\nSplatana Stamper\nJe
+ t Squelcher\n\nKing:\nHorrorboros
+DTEND:20250418T155959Z
+DTSTART:20250417T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:1cb3419b-5ffd-4828-adce-89ffb46cd272
 END:VEVENT
 END:VCALENDAR
