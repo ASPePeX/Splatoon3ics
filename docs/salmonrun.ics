@@ -20,7 +20,7 @@ DTSTART:20250412T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:18e0441b-0b4e-483d-92ee-13b1f0b196b3
+UID:027c0f81-eb64-4670-b8a2-6cc9249d3a44
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nDualie Squelchers\nRecycled Brella
@@ -30,7 +30,7 @@ DTSTART:20250413T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:946cc8d7-d528-4f0b-b3c7-aa951c21482b
+UID:d260150b-23ac-49d2-b520-bcd452b91ac8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nNautilus 47\nFlingza Roller\nTri-Str
@@ -40,7 +40,7 @@ DTSTART:20250415T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:59987a93-d3b2-4b42-89d8-e7ec1f7432c4
+UID:35a9b181-f3cc-465d-bec5-f6ddccaf1a69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nRange Blaster\nSplatana Stamper\nJe
@@ -50,7 +50,7 @@ DTSTART:20250417T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:6a4e247a-294a-46c5-88d8-048335c3ab22
+UID:34546937-115d-4897-a174-89b70f696d1a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplash-o-matic\nSnipewriter 5H\nRandom\n\
@@ -60,6 +60,6 @@ DTSTART:20250418T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:cb234240-bceb-4d6e-a756-3326e43ae5c7
+UID:cd76c83f-548b-4633-b2ea-14ec1fe0e1f1
 END:VEVENT
 END:VCALENDAR
