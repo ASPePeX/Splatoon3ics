@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBlaster\nMini Splatling\nDark Tetra Dualies\nSplat C
- harger\n\nKing:\nCohozuna
-DTEND:20250411T235959Z
-DTSTART:20250410T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:d0707301-3f3b-4ad1-a7ef-062b418f994d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMint Decavitator\nSplattershot Nova\n.96 Gal\nTenta 
  Brella\n\nKing:\nHorrorboros
 DTEND:20250413T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250412T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:93d097f8-3efb-46aa-8092-9268e593df09
+UID:fc5da59e-54a3-4252-8358-4393ab285c4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nDualie Squelchers\nRecycled Brella
@@ -40,7 +30,7 @@ DTSTART:20250413T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:7761ac01-83b8-4740-a218-0537db1aff5a
+UID:4cac3f05-aba6-4db5-a1a0-18834c92cdde
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nNautilus 47\nFlingza Roller\nTri-Str
@@ -50,7 +40,7 @@ DTSTART:20250415T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:cfa51153-3bf6-48d4-907e-2f06f5b36e38
+UID:068a9a0c-012f-497c-8ab0-8a2709e2ae79
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nRange Blaster\nSplatana Stamper\nJe
@@ -60,6 +50,16 @@ DTSTART:20250417T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:9d03e54b-4ad7-469a-9eff-2355279d82b2
+UID:596bb792-a628-444f-8e92-d7e9ba03fe3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nPainbrush\nSplash-o-matic\nSnipewriter 5H\nRandom\n\
+ nKing:\nMegalodontia
+DTEND:20250420T075959Z
+DTSTART:20250418T160001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Megalodontia
+UID:6c50975d-2de5-4a6f-9a5d-e62d38ec39e8
 END:VEVENT
 END:VCALENDAR
