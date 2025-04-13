@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nMint Decavitator\nSplattershot Nova\n.96 Gal\nTenta 
- Brella\n\nKing:\nHorrorboros
-DTEND:20250413T155959Z
-DTSTART:20250412T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:08f56227-c609-45fe-970e-d533add5710d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nDualie Squelchers\nRecycled Brella
   24 Mk I\nHydra Splatling\n\nKing:\nMegalodontia
 DTEND:20250415T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250413T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:2201d97c-8020-49d3-888f-314b8a958d34
+UID:cf8461a5-ac21-4df9-b8dc-6a25a639b73e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nNautilus 47\nFlingza Roller\nTri-Str
@@ -40,7 +30,7 @@ DTSTART:20250415T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:ebdced87-1fbf-42a2-88cd-d1edf8228e94
+UID:b395b0cd-0620-4232-a599-0149e34705b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nRange Blaster\nSplatana Stamper\nJe
@@ -50,7 +40,7 @@ DTSTART:20250417T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:49094207-7417-475d-a1e4-c3ba8caaa436
+UID:e0d99159-69b1-4102-b958-00c662121087
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplash-o-matic\nSnipewriter 5H\nRandom\n\
@@ -60,6 +50,16 @@ DTSTART:20250418T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:485ded07-3acd-4aa1-abaf-50fc7d6af255
+UID:de35f259-a165-4e7c-9e18-44dd77a51e04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Dualies\nSplatana Wiper\nSplat Brella\nE-liter
+  4K\n\nKing:\nCohozuna
+DTEND:20250421T235959Z
+DTSTART:20250420T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Cohozuna
+UID:daaeda32-bc1e-4d67-97e5-8f923b3e7f8f
 END:VEVENT
 END:VCALENDAR
