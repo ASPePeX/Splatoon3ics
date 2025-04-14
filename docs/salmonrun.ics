@@ -20,7 +20,7 @@ DTSTART:20250413T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:eedc4880-30b9-4fc8-a3f1-42cae8b3273d
+UID:993402a4-afd8-4a5d-9c22-0eca36c6d3d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nNautilus 47\nFlingza Roller\nTri-Str
@@ -30,7 +30,7 @@ DTSTART:20250415T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:f099be63-c526-48e1-9d7a-97ad1f366ff6
+UID:f1dc0919-bdd6-47db-b1e7-3c21fb5ea6bc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nRange Blaster\nSplatana Stamper\nJe
@@ -40,7 +40,7 @@ DTSTART:20250417T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:b5ce769d-1612-442a-9b10-ed96e527349d
+UID:13d5032d-0f07-437b-a1bc-a44684721c41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplash-o-matic\nSnipewriter 5H\nRandom\n\
@@ -50,7 +50,7 @@ DTSTART:20250418T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:a6f1b88e-623e-439c-b50d-3feae7315469
+UID:f6012cb6-f408-4b97-9ab4-c41b07b2a1d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplatana Wiper\nSplat Brella\nE-liter
@@ -60,6 +60,6 @@ DTSTART:20250420T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:ef699414-9b0b-4e32-9027-280a6da42e23
+UID:bbd104cb-7392-4004-a7ed-e11517fa8b2e
 END:VEVENT
 END:VCALENDAR
