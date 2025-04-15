@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Jr.\nDualie Squelchers\nRecycled Brella
-  24 Mk I\nHydra Splatling\n\nKing:\nMegalodontia
-DTEND:20250415T075959Z
-DTSTART:20250413T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:aac0de93-d924-42e5-a0b3-427015109bce
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nGlooga Dualies\nNautilus 47\nFlingza Roller\nTri-Str
  inger\n\nKing:\nCohozuna
 DTEND:20250416T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250415T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:92902645-4c7f-491c-87ed-6b0754f2e5b2
+UID:1423e362-787d-455d-a8a7-85664344b78e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nRange Blaster\nSplatana Stamper\nJe
@@ -40,7 +30,7 @@ DTSTART:20250417T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:80fb9342-7535-4c1a-93ca-2d6bb6f15477
+UID:c675cf9c-5088-4a23-9203-f3a50c9839ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplash-o-matic\nSnipewriter 5H\nRandom\n\
@@ -50,7 +40,7 @@ DTSTART:20250418T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:2fceccc2-39d3-41cf-9ee5-00b9b49493fb
+UID:c98a51ea-6ace-4c21-b671-603c7de701af
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplatana Wiper\nSplat Brella\nE-liter
@@ -60,6 +50,16 @@ DTSTART:20250420T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:518b468f-5bde-4fc9-a5e9-dccbebe9ef69
+UID:4f919723-65ec-4be0-b68b-2ac3333728c6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nExplosher\nBloblobber\nClassic Squiffer\n\n
+ King:\nHorrorboros
+DTEND:20250423T155959Z
+DTSTART:20250422T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:9268df68-4517-4ce9-b207-1af2939c6c41
 END:VEVENT
 END:VCALENDAR
