@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nGlooga Dualies\nNautilus 47\nFlingza Roller\nTri-Str
- inger\n\nKing:\nCohozuna
-DTEND:20250416T235959Z
-DTSTART:20250415T080001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:626ef328-792d-40b0-bfe2-ca852103dde4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nRange Blaster\nSplatana Stamper\nJe
  t Squelcher\n\nKing:\nHorrorboros
 DTEND:20250418T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250417T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:739be9ff-a89e-4193-8340-9fe24c10a3a1
+UID:457cfb60-38de-4f5e-a430-c903edbe3e4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplash-o-matic\nSnipewriter 5H\nRandom\n\
@@ -40,7 +30,7 @@ DTSTART:20250418T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:03748418-513a-47b6-92aa-43b5826fb433
+UID:04f1c865-773a-4003-b287-da81333ad085
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplatana Wiper\nSplat Brella\nE-liter
@@ -50,7 +40,7 @@ DTSTART:20250420T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:a0fc75d6-32c9-482d-8179-456168c9c20f
+UID:04721658-ba21-470b-a4d9-df897def676c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nExplosher\nBloblobber\nClassic Squiffer\n\n
@@ -60,6 +50,16 @@ DTSTART:20250422T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:e62115e9-60a2-4ceb-a24d-91bc623d7192
+UID:9fcfddf9-35c6-4c38-a20e-4dec3972924d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nHeavy Edit Splatling\nClash Blaster\nTri-Slosher\nGo
+ o Tuber\n\nKing:\nMegalodontia
+DTEND:20250425T075959Z
+DTSTART:20250423T160001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Megalodontia
+UID:f12436a2-f36e-47ae-9753-eb6bb5016582
 END:VEVENT
 END:VCALENDAR
