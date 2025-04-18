@@ -20,7 +20,7 @@ DTSTART:20250417T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:60035a1e-f5d7-455b-b030-8d2b0887a0f8
+UID:a040b0e6-bca3-480d-9b81-069cd93c3287
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplash-o-matic\nSnipewriter 5H\nRandom\n\
@@ -30,7 +30,7 @@ DTSTART:20250418T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:3fea437b-6354-4c7b-879a-73f520a37a3c
+UID:e55e1f94-0fc5-4e7b-8232-ed95fac78cfc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplatana Wiper\nSplat Brella\nE-liter
@@ -40,7 +40,7 @@ DTSTART:20250420T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:95f841f3-910d-4ed8-a40f-8865d1f4f91f
+UID:e07d453e-9bd1-4968-acfa-06c839a682a0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nExplosher\nBloblobber\nClassic Squiffer\n\n
@@ -50,7 +50,7 @@ DTSTART:20250422T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:605ba6a9-5cf2-4cd1-9f64-3e2bc16139fb
+UID:8d04d5a4-251e-4181-9e50-93155cb2c3aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nClash Blaster\nTri-Slosher\nGo
@@ -60,6 +60,6 @@ DTSTART:20250423T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:9265671f-d2ed-41b9-b11f-9595eecc393e
+UID:e3f4a573-5bef-4751-9f35-564b3fae71a7
 END:VEVENT
 END:VCALENDAR
