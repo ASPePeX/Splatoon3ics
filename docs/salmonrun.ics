@@ -20,7 +20,7 @@ DTSTART:20250418T160001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:925668e2-04dd-4e3c-ad7b-8d2db0774697
+UID:5204059d-b746-4957-a92c-7db53f852e70
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplatana Wiper\nSplat Brella\nE-liter
@@ -30,7 +30,7 @@ DTSTART:20250420T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:156af99a-0234-49e9-b501-04731df04dbd
+UID:b92e2991-ad36-4c4d-9b14-64ca2431642f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nExplosher\nBloblobber\nClassic Squiffer\n\n
@@ -40,7 +40,7 @@ DTSTART:20250422T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:be0fe4ff-1ba7-4d5f-bf02-0683c1538f45
+UID:f12535d7-989c-4911-b484-58fcf15e31cf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nClash Blaster\nTri-Slosher\nGo
@@ -50,7 +50,7 @@ DTSTART:20250423T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:a2a61ccf-1b9f-44e5-a600-b389061cd3fe
+UID:cfe78b60-2ae7-4324-8bfc-77d53a12028f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nCarbon Roller\nMint Decavitator\nTri
@@ -60,6 +60,6 @@ DTSTART:20250425T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:8de85d91-c389-4632-a699-72597ba37b15
+UID:0f2f513d-d569-4f94-904c-e1a2b457a315
 END:VEVENT
 END:VCALENDAR
