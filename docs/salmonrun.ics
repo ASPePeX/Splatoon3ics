@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nPainbrush\nSplash-o-matic\nSnipewriter 5H\nRandom\n\
- nKing:\nMegalodontia
-DTEND:20250420T075959Z
-DTSTART:20250418T160001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:b34cfacb-4bde-4cb5-80d0-04e6d246c0e3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nSplatana Wiper\nSplat Brella\nE-liter
   4K\n\nKing:\nCohozuna
 DTEND:20250421T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250420T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Cohozuna
-UID:462239a8-664c-4214-838a-361207243430
+UID:52b98f2f-0270-44ac-825f-b334b720ff3f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nExplosher\nBloblobber\nClassic Squiffer\n\n
@@ -40,7 +30,7 @@ DTSTART:20250422T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:21949ba8-c935-4842-990e-e5856e4d057c
+UID:b3220682-e517-43a4-860b-74acbfce2807
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nClash Blaster\nTri-Slosher\nGo
@@ -50,7 +40,7 @@ DTSTART:20250423T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:407ab7a5-d3b4-4bf3-b4f6-415477c0e7ab
+UID:1782efec-6730-4fcd-8aac-615870454f61
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nCarbon Roller\nMint Decavitator\nTri
@@ -60,6 +50,16 @@ DTSTART:20250425T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:e48f098c-a610-4ed7-8a36-44d2990d905a
+UID:34fa73a6-f722-46d5-87c6-1116288731bf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBig Swig Roller\nUndercover Brella\nAerospray MG\nJe
+ t Squelcher\n\nKing:\nHorrorboros
+DTEND:20250428T155959Z
+DTSTART:20250427T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:69fc0af2-fd83-4a6a-ac67-f4816b7c10bb
 END:VEVENT
 END:VCALENDAR
