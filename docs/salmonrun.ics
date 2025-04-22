@@ -20,7 +20,7 @@ DTSTART:20250422T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:ebed0011-852a-4086-b14f-a340edaf1beb
+UID:6a0e79e0-cc5d-4b02-90bb-b5f2f020b02e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nClash Blaster\nTri-Slosher\nGo
@@ -30,7 +30,7 @@ DTSTART:20250423T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:a23db58f-9d25-4e5b-bb89-d843829e07ab
+UID:a01d10ff-c3bc-45e0-841a-89bc46013832
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nCarbon Roller\nMint Decavitator\nTri
@@ -40,7 +40,7 @@ DTSTART:20250425T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:cf72fe65-39ae-431b-bec7-47ea9838c54e
+UID:6245b838-795a-4d0f-a26e-21ac980b308a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nUndercover Brella\nAerospray MG\nJe
@@ -50,7 +50,7 @@ DTSTART:20250427T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:ce3554e1-16c0-4679-8a9e-a034c89080db
+UID:5a7f5750-0ab2-43b3-b478-fa96b02325aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSplat Roller\nSplattershot Nova\nS
@@ -60,6 +60,6 @@ DTSTART:20250428T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:72111d61-51d7-4cc6-87f1-633ace5f857e
+UID:1100112c-e3c8-4f3f-9a56-2dde35b60555
 END:VEVENT
 END:VCALENDAR
