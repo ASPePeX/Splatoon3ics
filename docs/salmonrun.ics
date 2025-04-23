@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nExplosher\nBloblobber\nClassic Squiffer\n\n
- King:\nHorrorboros
-DTEND:20250423T155959Z
-DTSTART:20250422T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:fa2d00b0-67f5-41f0-952f-808047c4906d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nHeavy Edit Splatling\nClash Blaster\nTri-Slosher\nGo
  o Tuber\n\nKing:\nMegalodontia
 DTEND:20250425T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250423T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:a7bca1b4-3582-437e-81c0-bed37e72510c
+UID:a70ad18d-3f98-4de3-a501-97eccc8c46fa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nCarbon Roller\nMint Decavitator\nTri
@@ -40,7 +30,7 @@ DTSTART:20250425T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:b8532d1a-1850-4c64-bccd-49ed03638614
+UID:a23a25de-0222-4527-bb29-ccf282c9bba0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nUndercover Brella\nAerospray MG\nJe
@@ -50,7 +40,7 @@ DTSTART:20250427T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:d97520f7-1970-4581-bb95-fd5843b141e8
+UID:1f7b3beb-136d-49c6-9418-b5fdeca3c71e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSplat Roller\nSplattershot Nova\nS
@@ -60,6 +50,16 @@ DTSTART:20250428T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:9107dae1-9c97-49b6-b222-f7c98c87b050
+UID:306b19e6-61b7-4810-a3dc-8b6f0db6df51
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Brella\nSqueezer\nBlaster\nWellstring V\n\nKin
+ g:\nCohozuna
+DTEND:20250501T235959Z
+DTSTART:20250430T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:62b806dd-c781-41eb-993f-50ed191b71f9
 END:VEVENT
 END:VCALENDAR
