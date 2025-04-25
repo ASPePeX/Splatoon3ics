@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nHeavy Edit Splatling\nClash Blaster\nTri-Slosher\nGo
- o Tuber\n\nKing:\nMegalodontia
-DTEND:20250425T075959Z
-DTSTART:20250423T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:094ace49-0a5c-4b79-8c52-52fa7407699f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nL-3 Nozzlenose\nCarbon Roller\nMint Decavitator\nTri
  -Stringer\n\nKing:\nCohozuna
 DTEND:20250426T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250425T080001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:e0df08e3-87e1-4701-91b2-5b060af6bf62
+UID:15f5e663-32e9-410e-95f3-2f55455926c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nUndercover Brella\nAerospray MG\nJe
@@ -40,7 +30,7 @@ DTSTART:20250427T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:2d55db7a-7ecd-4c81-b203-0c01acf2f017
+UID:88d60951-ecc7-4cb6-a7c9-3f0cd666c5ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSplat Roller\nSplattershot Nova\nS
@@ -50,7 +40,7 @@ DTSTART:20250428T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:7659f27a-1372-42e1-98c9-64cdea576e6e
+UID:522b05fc-e94f-415f-9611-c4228460edb9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nSqueezer\nBlaster\nWellstring V\n\nKin
@@ -60,6 +50,16 @@ DTSTART:20250430T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:b781b92e-ffda-4ae4-8001-af6d1a66a0e3
+UID:9682ad9b-7b33-4a34-b0ce-b6553a48405c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nNautilus 47\nSplat Charger\n\nK
+ ing:\nHorrorboros
+DTEND:20250503T155959Z
+DTSTART:20250502T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:eb2d10ac-1c31-45bc-b684-839aaaac8e19
 END:VEVENT
 END:VCALENDAR
