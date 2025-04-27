@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nL-3 Nozzlenose\nCarbon Roller\nMint Decavitator\nTri
- -Stringer\n\nKing:\nCohozuna
-DTEND:20250426T235959Z
-DTSTART:20250425T080001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Cohozuna
-UID:bc11bcec-efc0-4910-9cb4-9696e73367ef
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nUndercover Brella\nAerospray MG\nJe
  t Squelcher\n\nKing:\nHorrorboros
 DTEND:20250428T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250427T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:579a717b-13c7-48b0-b43e-1c3cf182c5ef
+UID:691d1f59-8cc1-46da-9161-356bcb7936a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSplat Roller\nSplattershot Nova\nS
@@ -40,7 +30,7 @@ DTSTART:20250428T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:139eac25-4f04-4e20-b189-b87fdbc2ac59
+UID:3a2db7a5-e74b-49f0-ad80-c77493f431b1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nSqueezer\nBlaster\nWellstring V\n\nKin
@@ -50,7 +40,7 @@ DTSTART:20250430T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:3915d167-00d1-4f6f-9982-83671db588dc
+UID:99177f0b-ee90-4bcc-a410-3a904015293f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nNautilus 47\nSplat Charger\n\nK
@@ -60,6 +50,15 @@ DTSTART:20250502T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:d7613bed-2992-433c-ad76-92e7fb56a045
+UID:510afaaf-fc62-4c71-8c85-09777f28bc7f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
+DTEND:20250505T075959Z
+DTSTART:20250503T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Triumvirate
+UID:4c36c322-1fbb-4ae5-be6c-ff0757ba1ef7
 END:VEVENT
 END:VCALENDAR
