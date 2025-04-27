@@ -20,7 +20,7 @@ DTSTART:20250427T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:46072fde-9b58-4e13-b60c-731255ed1167
+UID:073d85ee-9604-409b-a9d1-8f5314116b82
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSplat Roller\nSplattershot Nova\nS
@@ -30,7 +30,7 @@ DTSTART:20250428T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:90c8de1b-d6c6-4289-9687-a10d03e94dcf
+UID:e8b715e2-5f55-4c43-a717-6d3fc89112a8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nSqueezer\nBlaster\nWellstring V\n\nKin
@@ -40,7 +40,7 @@ DTSTART:20250430T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:7ed4c4c5-08b3-4333-935f-12557a88da84
+UID:9b0ab196-f24c-48db-b41c-25d223093917
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nNautilus 47\nSplat Charger\n\nK
@@ -50,7 +50,7 @@ DTSTART:20250502T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:e549e086-7a3d-49f4-b3f7-d05f8ebd9d4d
+UID:dba5276a-4564-4381-8008-b649e0e9dab6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +59,6 @@ DTSTART:20250503T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:68e1f640-c2d1-45b5-9f96-8529d980126c
+UID:9b57cfdb-191e-4ba4-8024-c65aadb0ae36
 END:VEVENT
 END:VCALENDAR
