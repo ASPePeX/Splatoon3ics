@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBig Swig Roller\nUndercover Brella\nAerospray MG\nJe
- t Squelcher\n\nKing:\nHorrorboros
-DTEND:20250428T155959Z
-DTSTART:20250427T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:35411050-9e10-4448-8895-4c27f01bedec
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Stamper\nSplat Roller\nSplattershot Nova\nS
  nipewriter 5H\n\nKing:\nMegalodontia
 DTEND:20250430T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250428T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:5ddf4690-fc51-4aa3-acfe-5ab0200de40f
+UID:c0d170a3-0b77-4d34-a109-e323f6856b30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nSqueezer\nBlaster\nWellstring V\n\nKin
@@ -40,7 +30,7 @@ DTSTART:20250430T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:1cbc0985-8293-4243-99f6-6fb430b94359
+UID:48790eef-5596-4b89-a0fa-19c64aa543c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nNautilus 47\nSplat Charger\n\nK
@@ -50,7 +40,7 @@ DTSTART:20250502T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:09304cff-b0ff-415e-b813-c7a7cbbff219
+UID:d7e5bf87-2ed2-4453-8ee1-95121b69f3ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20250503T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:67b39e62-be73-4d9e-af6c-cf5479e533bd
+UID:c89e4c22-5254-4024-a07f-5afffc9b7604
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDualie Squelchers\nLuna Blaster\nSplattershot Pro\nT
+ enta Brella\n\nKing:\nCohozuna
+DTEND:20250506T235959Z
+DTSTART:20250505T080001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Cohozuna
+UID:d78d7674-db04-417b-a095-c295240fab1f
 END:VEVENT
 END:VCALENDAR
