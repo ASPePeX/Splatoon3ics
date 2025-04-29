@@ -20,7 +20,7 @@ DTSTART:20250428T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:5d27c295-30f8-4221-a91b-d33b034269ee
+UID:af40c518-b707-42b5-a392-def175bb4830
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nSqueezer\nBlaster\nWellstring V\n\nKin
@@ -30,7 +30,7 @@ DTSTART:20250430T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:8d771bd1-706a-457b-9d7e-25e590fc1a1a
+UID:1f6ab304-40fb-4bd9-b52f-a6d517e60b9c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nNautilus 47\nSplat Charger\n\nK
@@ -40,7 +40,7 @@ DTSTART:20250502T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:7dedff63-4bdc-46fa-9464-0a13db68946c
+UID:0cfae9b3-d549-40d7-843e-f8d77739f599
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +49,7 @@ DTSTART:20250503T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:e310f52c-15e4-41fa-a8b9-a3e10adbffe8
+UID:54c5ad70-8d51-409b-9f4f-6846bf2873ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nLuna Blaster\nSplattershot Pro\nT
@@ -59,6 +59,6 @@ DTSTART:20250505T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:4e9bcd9e-7ded-4dd6-b4b1-7c962fc2e270
+UID:5135bb63-4387-4941-96ac-222bd33c47c8
 END:VEVENT
 END:VCALENDAR
