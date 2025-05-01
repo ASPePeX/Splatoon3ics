@@ -20,7 +20,7 @@ DTSTART:20250430T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:7b72391a-47ed-46ed-89ab-3e17e3ba9914
+UID:5773611a-6590-4f92-ba15-4b75faffc6ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nNautilus 47\nSplat Charger\n\nK
@@ -30,7 +30,7 @@ DTSTART:20250502T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:ab0d813b-3ba9-4aa1-b162-509acd61c7c8
+UID:b1c85044-272c-46a8-a6c7-1def38eff3a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20250503T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:ff52c4ac-5825-47b0-9c78-4216d20cae20
+UID:b0291345-5278-40fe-8dcc-010a30267e91
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nLuna Blaster\nSplattershot Pro\nT
@@ -49,7 +49,7 @@ DTSTART:20250505T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:fc8d16fc-c18e-44b5-a7dd-4fee156d63f9
+UID:652a8510-5b4e-4e7a-bd38-0138d061e11c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nN-ZAP '85\nSplat Dualies\nHydra Spla
@@ -59,6 +59,6 @@ DTSTART:20250507T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:5f2f8f98-865f-4fd7-b01e-db91ef9e3d22
+UID:f162363e-26e9-422b-b2cb-44fa21340438
 END:VEVENT
 END:VCALENDAR
