@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Stamper\nSplat Roller\nSplattershot Nova\nS
- nipewriter 5H\n\nKing:\nMegalodontia
-DTEND:20250430T075959Z
-DTSTART:20250428T160001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Megalodontia
-UID:abf65071-19b2-40d9-bd61-84e029bf781c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nSqueezer\nBlaster\nWellstring V\n\nKin
  g:\nCohozuna
 DTEND:20250501T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250430T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:7db6ba8b-e0b8-4d25-bbca-6777be8f0ad4
+UID:7b72391a-47ed-46ed-89ab-3e17e3ba9914
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nNautilus 47\nSplat Charger\n\nK
@@ -40,7 +30,7 @@ DTSTART:20250502T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:20961a00-fd70-443d-bc00-7c9c96ff2151
+UID:ab0d813b-3ba9-4aa1-b162-509acd61c7c8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +39,7 @@ DTSTART:20250503T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:9449ded3-14ac-4a52-8468-f76c3d9ca0aa
+UID:ff52c4ac-5825-47b0-9c78-4216d20cae20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nLuna Blaster\nSplattershot Pro\nT
@@ -59,6 +49,16 @@ DTSTART:20250505T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:67669948-b46f-4acf-867e-91c232a6dc30
+UID:fc8d16fc-c18e-44b5-a7dd-4fee156d63f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDapple Dualies\nN-ZAP '85\nSplat Dualies\nHydra Spla
+ tling\n\nKing:\nHorrorboros
+DTEND:20250508T155959Z
+DTSTART:20250507T000001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Horrorboros
+UID:5f2f8f98-865f-4fd7-b01e-db91ef9e3d22
 END:VEVENT
 END:VCALENDAR
