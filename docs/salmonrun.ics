@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplat Brella\nSqueezer\nBlaster\nWellstring V\n\nKin
- g:\nCohozuna
-DTEND:20250501T235959Z
-DTSTART:20250430T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:ddb6de13-c4d7-494d-9321-a1467fd41fd9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\n.52 Gal\nNautilus 47\nSplat Charger\n\nK
  ing:\nHorrorboros
 DTEND:20250503T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250502T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:b4ddfbf7-ebdb-4282-b1b2-d4cdbb8c472c
+UID:84f95eda-16fe-4f82-9344-3b457ec998f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +29,7 @@ DTSTART:20250503T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:7caa1586-4914-452b-ac72-f412bd6b27da
+UID:766f3e53-40ac-426a-adae-f4c583bb65d1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nLuna Blaster\nSplattershot Pro\nT
@@ -49,7 +39,7 @@ DTSTART:20250505T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:937eb98a-3738-47fa-bf0d-714c281802ed
+UID:6a1dbebd-ea94-47ec-bd95-92983dbfeed9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nN-ZAP '85\nSplat Dualies\nHydra Spla
@@ -59,6 +49,16 @@ DTSTART:20250507T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:53005df0-bfea-4232-8f15-c8aaf31fafcc
+UID:c12e328c-bcf3-425f-ae6b-82ae7dac17d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Roller\nGlooga Dualies\nBamboo
+ zler 14 Mk I\n\nKing:\nMegalodontia
+DTEND:20250510T075959Z
+DTSTART:20250508T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Megalodontia
+UID:dbed4f72-6b35-45e2-a1de-2d40fa7ec0b2
 END:VEVENT
 END:VCALENDAR
