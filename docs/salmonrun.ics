@@ -20,7 +20,7 @@ DTSTART:20250502T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:0753b72c-396e-40e4-ad84-9efe6a75d297
+UID:5f6b1756-1161-431e-aab7-d939b1c6ddaf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20250503T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:f5c4697b-8aef-4dc3-8107-d63ec6273381
+UID:bdf70c5e-164a-423f-af5b-2ecc5a27ab35
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nLuna Blaster\nSplattershot Pro\nT
@@ -39,7 +39,7 @@ DTSTART:20250505T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:936d7734-297a-422d-9dc1-db21cfda07fc
+UID:10b7cd6a-2092-4572-8dc9-70d6f5b8c56c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nN-ZAP '85\nSplat Dualies\nHydra Spla
@@ -49,7 +49,7 @@ DTSTART:20250507T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:0b9cfd94-186f-42f3-bced-4cf2df4a299a
+UID:14cb72da-cb3a-44ee-be5c-9278b387c0ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Roller\nGlooga Dualies\nBamboo
@@ -59,6 +59,6 @@ DTSTART:20250508T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:3f7510e8-884e-4f99-a674-3fd3930eed40
+UID:4a543f34-d144-4bd6-bd37-b0d6044a5ea1
 END:VEVENT
 END:VCALENDAR
