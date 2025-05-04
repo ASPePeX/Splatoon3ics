@@ -19,7 +19,7 @@ DTSTART:20250503T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Triumvirate
-UID:ea3862a6-db93-4a52-b9fa-3ba8e7559e82
+UID:dfadceb3-cbc0-4351-a974-4c6926b2c860
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDualie Squelchers\nLuna Blaster\nSplattershot Pro\nT
@@ -29,7 +29,7 @@ DTSTART:20250505T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:b689f632-cdb0-4b36-83f0-7031139d79be
+UID:0937b086-20b6-40d3-87b1-161c26370756
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nN-ZAP '85\nSplat Dualies\nHydra Spla
@@ -39,7 +39,7 @@ DTSTART:20250507T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:f044a59c-a8d4-4791-973b-c4733b73e430
+UID:000fcb53-f9db-4ebe-9791-5c7ef7f0b77c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Roller\nGlooga Dualies\nBamboo
@@ -49,6 +49,6 @@ DTSTART:20250508T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:95cc3a84-a802-4a89-b95e-ae8362c6e9e9
+UID:44233401-013b-4a16-b3ac-58cc9a803945
 END:VEVENT
 END:VCALENDAR
