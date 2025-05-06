@@ -20,7 +20,7 @@ DTSTART:20250505T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:65304c2b-be8d-4ed6-9d92-0bd00e05352f
+UID:69f760d7-cbd1-46e8-bfb7-f71b69369d8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nN-ZAP '85\nSplat Dualies\nHydra Spla
@@ -30,7 +30,7 @@ DTSTART:20250507T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:c51bbbd9-8b7f-4bdf-8582-cedbbbb6e306
+UID:3964593b-508b-4fa0-8d38-bf5e189fa455
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Roller\nGlooga Dualies\nBamboo
@@ -40,7 +40,7 @@ DTSTART:20250508T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:c10724fe-968c-4dba-8cb9-e756364c8ef7
+UID:f2608bd7-9fba-4512-acd4-8b15ed06a48c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nL-3 Nozzlenose\nDouser Dualies FF\nClassic 
@@ -50,6 +50,6 @@ DTSTART:20250510T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:74ed7edf-49dc-41fb-8d76-d54aad3e66b8
+UID:7bcbd93e-6301-4bb0-94c8-d1ca6705a8bf
 END:VEVENT
 END:VCALENDAR
