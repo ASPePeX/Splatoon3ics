@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDualie Squelchers\nLuna Blaster\nSplattershot Pro\nT
- enta Brella\n\nKing:\nCohozuna
-DTEND:20250506T235959Z
-DTSTART:20250505T080001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:c9ae91f7-7d51-46b7-b000-77fa87bede69
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDapple Dualies\nN-ZAP '85\nSplat Dualies\nHydra Spla
  tling\n\nKing:\nHorrorboros
 DTEND:20250508T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250507T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:441de945-114f-4d6e-9fb0-b42b6ebdb0ac
+UID:35bc08e0-249d-42e4-9d79-4857c779a68f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Roller\nGlooga Dualies\nBamboo
@@ -40,7 +30,7 @@ DTSTART:20250508T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:b9cae59d-287a-4610-9c60-85921f7122c3
+UID:aa202a3e-3fd4-41cd-8fd0-dd6e3d661ef3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nL-3 Nozzlenose\nDouser Dualies FF\nClassic 
@@ -50,6 +40,16 @@ DTSTART:20250510T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:c0881087-655d-45b7-a716-c77191c1d21a
+UID:f0975eec-ad02-4f98-9156-08cf2f2153a2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nUndercover Brella\nSplash-o-matic\nBloblobber\nWells
+ tring V\n\nKing:\nHorrorboros
+DTEND:20250513T155959Z
+DTSTART:20250512T000001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Horrorboros
+UID:522a8bac-7dec-4b8d-964f-320114622088
 END:VEVENT
 END:VCALENDAR
