@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDapple Dualies\nN-ZAP '85\nSplat Dualies\nHydra Spla
- tling\n\nKing:\nHorrorboros
-DTEND:20250508T155959Z
-DTSTART:20250507T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Horrorboros
-UID:0b74aeef-b198-4de7-a32b-b015684e0baa
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Roller\nGlooga Dualies\nBamboo
  zler 14 Mk I\n\nKing:\nMegalodontia
 DTEND:20250510T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250508T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:1bc4775d-3503-41cb-811f-73001152be7b
+UID:ad99b4ef-2c05-4165-9614-5aa4bde0274b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nL-3 Nozzlenose\nDouser Dualies FF\nClassic 
@@ -40,7 +30,7 @@ DTSTART:20250510T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:e6a84c6a-2a2d-41d6-9d33-bd3d5c0c8fc6
+UID:93f992ee-a413-408c-92f6-e9afadd1112d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplash-o-matic\nBloblobber\nWells
@@ -50,6 +40,16 @@ DTSTART:20250512T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:d64b8e59-4558-48dc-8831-e4ab8dd4dc0c
+UID:a38d2f57-f948-4100-91e2-4a09e25d7014
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot\nPainbrush\nSqueezer\nJet Squelcher\n\n
+ King:\nMegalodontia
+DTEND:20250515T075959Z
+DTSTART:20250513T160001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:517b50fc-6daf-47aa-80fa-cae2aaa7f710
 END:VEVENT
 END:VCALENDAR
