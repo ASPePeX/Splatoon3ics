@@ -20,7 +20,7 @@ DTSTART:20250507T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:e435f697-7fd7-4c1c-84ff-b682bc26b09a
+UID:0b74aeef-b198-4de7-a32b-b015684e0baa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Roller\nGlooga Dualies\nBamboo
@@ -30,7 +30,7 @@ DTSTART:20250508T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:d1c2581f-561d-4242-bc6f-f1924b1531bd
+UID:1bc4775d-3503-41cb-811f-73001152be7b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nL-3 Nozzlenose\nDouser Dualies FF\nClassic 
@@ -40,7 +40,7 @@ DTSTART:20250510T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:169b7c8d-fd41-4b49-bec3-459930f4f1c2
+UID:e6a84c6a-2a2d-41d6-9d33-bd3d5c0c8fc6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplash-o-matic\nBloblobber\nWells
@@ -50,6 +50,6 @@ DTSTART:20250512T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:5d1edb20-d379-4048-ab72-982052be0338
+UID:d64b8e59-4558-48dc-8831-e4ab8dd4dc0c
 END:VEVENT
 END:VCALENDAR
