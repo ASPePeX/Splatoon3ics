@@ -20,7 +20,7 @@ DTSTART:20250508T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:ad99b4ef-2c05-4165-9614-5aa4bde0274b
+UID:bc1ad160-be26-4874-9f6d-4d59c0c74ed2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nL-3 Nozzlenose\nDouser Dualies FF\nClassic 
@@ -30,7 +30,7 @@ DTSTART:20250510T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:93f992ee-a413-408c-92f6-e9afadd1112d
+UID:eecdabb9-0649-4635-b000-41290d4fc090
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplash-o-matic\nBloblobber\nWells
@@ -40,7 +40,7 @@ DTSTART:20250512T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:a38d2f57-f948-4100-91e2-4a09e25d7014
+UID:f74dcc92-44d4-43e8-b68b-74b18d04929a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nPainbrush\nSqueezer\nJet Squelcher\n\n
@@ -50,6 +50,6 @@ DTSTART:20250513T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:517b50fc-6daf-47aa-80fa-cae2aaa7f710
+UID:26e99c99-4d61-46b6-b41b-bb2f45e53ac0
 END:VEVENT
 END:VCALENDAR
