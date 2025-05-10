@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Wiper\nSplat Roller\nGlooga Dualies\nBamboo
- zler 14 Mk I\n\nKing:\nMegalodontia
-DTEND:20250510T075959Z
-DTSTART:20250508T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:1c8260c0-a01d-482b-9d2d-a1892f0aae65
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSlosher\nL-3 Nozzlenose\nDouser Dualies FF\nClassic 
  Squiffer\n\nKing:\nCohozuna
 DTEND:20250511T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250510T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:6e0ea23c-c8ee-49f3-8f87-0c78b6f6eecc
+UID:6e488d43-69f2-42c3-8d54-066920f46ca0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplash-o-matic\nBloblobber\nWells
@@ -40,7 +30,7 @@ DTSTART:20250512T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:7296409c-04e9-46c0-af67-62aeff533de8
+UID:3eed4186-0d6f-41d4-912d-9714ffce4606
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nPainbrush\nSqueezer\nJet Squelcher\n\n
@@ -50,6 +40,16 @@ DTSTART:20250513T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:ff297d1a-8b26-4276-89e9-3ebb9d6ff1f3
+UID:a49e6964-d1af-4370-b96e-53196f0c0a17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nMint Decavitator\nRap
+ id Blaster Pro\n\nKing:\nCohozuna
+DTEND:20250516T235959Z
+DTSTART:20250515T080001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Cohozuna
+UID:cf326174-54f5-41f6-8441-40eb98d5d7c6
 END:VEVENT
 END:VCALENDAR
