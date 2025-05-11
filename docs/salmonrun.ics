@@ -20,7 +20,7 @@ DTSTART:20250510T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:158ecba0-a647-42f4-b5c6-8496cec77fe8
+UID:6ba1edad-0999-4969-b301-ba940b6353cf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplash-o-matic\nBloblobber\nWells
@@ -30,7 +30,7 @@ DTSTART:20250512T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:76645b5b-fb48-40e4-aa5e-13989b59c8d2
+UID:58118e88-ded2-42bc-b822-d7cffd36f786
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nPainbrush\nSqueezer\nJet Squelcher\n\n
@@ -40,7 +40,7 @@ DTSTART:20250513T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:092cd94a-24f5-4553-a963-aeaefead80da
+UID:053363cd-b4d2-4b31-8eb9-d98ba2e6a723
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nMint Decavitator\nRap
@@ -50,6 +50,6 @@ DTSTART:20250515T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:f4065d78-9c19-4559-bdc2-b0ad4ca93749
+UID:b9582c3a-f416-46d2-a6e6-ca616ff5d800
 END:VEVENT
 END:VCALENDAR
