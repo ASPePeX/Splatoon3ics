@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSlosher\nL-3 Nozzlenose\nDouser Dualies FF\nClassic 
- Squiffer\n\nKing:\nCohozuna
-DTEND:20250511T235959Z
-DTSTART:20250510T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:bb492e04-b6fd-4efa-8c4d-3aae8b93bfb5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nSplash-o-matic\nBloblobber\nWells
  tring V\n\nKing:\nHorrorboros
 DTEND:20250513T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250512T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:2e2c1a52-c7e0-4c8a-a231-c03c21957a68
+UID:c77075ed-b220-4732-a690-b835330700b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nPainbrush\nSqueezer\nJet Squelcher\n\n
@@ -40,7 +30,7 @@ DTSTART:20250513T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:abd5b3de-c2b6-4272-ae6f-eb651c2835e8
+UID:d0bcb007-6b47-4fb7-8706-45e2a73f9474
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nMint Decavitator\nRap
@@ -50,6 +40,26 @@ DTSTART:20250515T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:0cca16f6-533f-495d-b9ec-31aa5181cacc
+UID:689a9326-fbef-4f11-baf6-f27ef17639f2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nHydra Splatling\nRandom\n\
+ nKing:\nHorrorboros
+DTEND:20250518T155959Z
+DTSTART:20250517T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:5055a74c-4b3e-4597-aabc-59c0e10f09f7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nMini Splatling\nSplat Roller\nREEF-LUX 450\nE-liter 
+ 4K\n\nKing:\nMegalodontia
+DTEND:20250520T075959Z
+DTSTART:20250518T160001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:f6c63468-3155-44e7-a31c-c36f182801d6
 END:VEVENT
 END:VCALENDAR
