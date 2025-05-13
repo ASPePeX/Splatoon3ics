@@ -20,7 +20,7 @@ DTSTART:20250512T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:d74a263a-1071-4c6f-bfb7-9d99e7307244
+UID:e49ad166-cab0-44eb-821e-cff36b1cedc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nPainbrush\nSqueezer\nJet Squelcher\n\n
@@ -30,7 +30,7 @@ DTSTART:20250513T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:0e56d125-1ce2-4443-ad5e-8f91b4b5f23d
+UID:0a4e7426-8aaf-4f4e-ae95-9b94c8eeef22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nMint Decavitator\nRap
@@ -40,7 +40,7 @@ DTSTART:20250515T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:e8d56bcb-003d-4045-8537-07b0e3731d03
+UID:2a9fb1bd-59af-49f3-b496-9bca359960cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nHydra Splatling\nRandom\n\
@@ -50,7 +50,7 @@ DTSTART:20250517T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:acdf9c34-6266-475e-8eda-38e6fbdb5fe4
+UID:fabb5695-57f2-44e5-a190-ffbf1c08c6b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplat Roller\nREEF-LUX 450\nE-liter 
@@ -60,6 +60,6 @@ DTSTART:20250518T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:81d377ff-234b-47a2-bc0d-ed84dc48f176
+UID:3e83b9ef-96a1-4744-85ff-6ce31474e1c5
 END:VEVENT
 END:VCALENDAR
