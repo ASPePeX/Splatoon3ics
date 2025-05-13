@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nUndercover Brella\nSplash-o-matic\nBloblobber\nWells
- tring V\n\nKing:\nHorrorboros
-DTEND:20250513T155959Z
-DTSTART:20250512T000001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Horrorboros
-UID:0bbbaf25-9e45-45aa-9455-03df930e5c17
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot\nPainbrush\nSqueezer\nJet Squelcher\n\n
  King:\nMegalodontia
 DTEND:20250515T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250513T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:14345e6f-9af5-4bd8-9ec4-9ad1819ccf22
+UID:76d1822d-be35-42b2-944e-d043348e7db9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nMint Decavitator\nRap
@@ -40,7 +30,7 @@ DTSTART:20250515T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:ba6e3fb6-fc23-4d54-b9e8-fea9a9fddc3f
+UID:f780aab1-7cb1-4e2c-92e1-165939c9b249
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nHydra Splatling\nRandom\n\
@@ -50,7 +40,7 @@ DTSTART:20250517T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:f61447df-571a-4547-af50-05b09300cb97
+UID:5faa4605-af02-47b0-93e5-666fd09103aa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplat Roller\nREEF-LUX 450\nE-liter 
@@ -60,6 +50,16 @@ DTSTART:20250518T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:fed15b8b-69a1-44e9-bd84-ded933d48d58
+UID:cc1f17de-f9cf-46f6-afb2-6411c8e192c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\n.52 Gal\nSplattershot Nova\
+ nGoo Tuber\n\nKing:\nCohozuna
+DTEND:20250521T235959Z
+DTSTART:20250520T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Cohozuna
+UID:0b895a2d-ea3a-4b16-9748-937bf4336289
 END:VEVENT
 END:VCALENDAR
