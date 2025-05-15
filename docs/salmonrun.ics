@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot\nPainbrush\nSqueezer\nJet Squelcher\n\n
- King:\nMegalodontia
-DTEND:20250515T075959Z
-DTSTART:20250513T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:57141f37-4387-4c22-93fd-39245769df33
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nMint Decavitator\nRap
  id Blaster Pro\n\nKing:\nCohozuna
 DTEND:20250516T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250515T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:2154d8cf-14eb-4cc7-82e9-10f6ddac5b21
+UID:aa4e93f5-d1cf-4f63-9bb2-c5d0eb7bdb40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nHydra Splatling\nRandom\n\
@@ -40,7 +30,7 @@ DTSTART:20250517T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:216034bd-ed30-41cf-8c6c-540d8b632bd3
+UID:63c438eb-4250-4297-bb9d-137a29b6c636
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplat Roller\nREEF-LUX 450\nE-liter 
@@ -50,7 +40,7 @@ DTSTART:20250518T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:e7bbb715-75b1-41ad-aa97-a0e985b50f7d
+UID:27a05dc5-edc3-4e0b-afef-765d767de455
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\n.52 Gal\nSplattershot Nova\
@@ -60,6 +50,16 @@ DTSTART:20250520T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:b3f5c211-c574-4ece-898d-53467a1ac03e
+UID:efffe1ea-4ca1-4e3f-a03d-492685a813c1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDynamo Roller\nLuna Blaster\nGlooga Dualies\nClassic
+  Squiffer\n\nKing:\nHorrorboros
+DTEND:20250523T155959Z
+DTSTART:20250522T000001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Horrorboros
+UID:d86385d0-fc62-47f9-b1b1-4080a691e031
 END:VEVENT
 END:VCALENDAR
