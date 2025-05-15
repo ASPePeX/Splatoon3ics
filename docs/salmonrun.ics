@@ -20,7 +20,7 @@ DTSTART:20250513T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:b3bd6108-7be7-49ff-a68b-56ddd6325944
+UID:57141f37-4387-4c22-93fd-39245769df33
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nMint Decavitator\nRap
@@ -30,7 +30,7 @@ DTSTART:20250515T080001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:529adedf-0c7b-4bda-9833-d1daa2aafc06
+UID:2154d8cf-14eb-4cc7-82e9-10f6ddac5b21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nHydra Splatling\nRandom\n\
@@ -40,7 +40,7 @@ DTSTART:20250517T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:59304a1d-390d-4eb2-b2d6-5cb6439374ee
+UID:216034bd-ed30-41cf-8c6c-540d8b632bd3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplat Roller\nREEF-LUX 450\nE-liter 
@@ -50,7 +50,7 @@ DTSTART:20250518T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:b4844c18-27a2-4dff-970d-b51ffeb6db16
+UID:e7bbb715-75b1-41ad-aa97-a0e985b50f7d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\n.52 Gal\nSplattershot Nova\
@@ -60,6 +60,6 @@ DTSTART:20250520T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:d66984d7-0e9a-474b-a272-f475ca73e9bc
+UID:b3f5c211-c574-4ece-898d-53467a1ac03e
 END:VEVENT
 END:VCALENDAR
