@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nCarbon Roller\nN-ZAP '85\nHydra Splatling\nRandom\n\
- nKing:\nHorrorboros
-DTEND:20250518T155959Z
-DTSTART:20250517T000001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Horrorboros
-UID:9c91258c-c808-4359-b07a-a6434e193b1b
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplat Roller\nREEF-LUX 450\nE-liter 
  4K\n\nKing:\nMegalodontia
 DTEND:20250520T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250518T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:a678fe43-4db6-40ce-b0e6-46ed4f24f338
+UID:e8823b0a-199d-4d1c-9125-de98847dc516
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\n.52 Gal\nSplattershot Nova\
@@ -40,7 +30,7 @@ DTSTART:20250520T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:b89c0d38-eb79-4d36-932b-ff1ed9df2bff
+UID:098cee4f-4e53-43ea-aa5d-76938257ef9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nLuna Blaster\nGlooga Dualies\nClassic
@@ -50,7 +40,7 @@ DTSTART:20250522T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:a25d323e-8226-40b8-afbf-57ac7313c1d1
+UID:6364c4a7-cd8a-4a34-a660-8b911faac8f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nBloblobber\nSplatana Stamper\nWellstring V
@@ -60,6 +50,16 @@ DTSTART:20250523T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:7f8cf7a5-2348-43a0-ae1d-65323f082674
+UID:a13026ea-bb5f-4d74-93e5-ad72d0e78a28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nTri-Slosher\nSploosh-o-matic\nSlosher\n.96 Gal\n\nKi
+ ng:\nCohozuna
+DTEND:20250526T235959Z
+DTSTART:20250525T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:ec2f127b-3ab3-4874-9293-0f38438a8430
 END:VEVENT
 END:VCALENDAR
