@@ -20,7 +20,7 @@ DTSTART:20250517T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:86949d6d-bb44-4767-953c-2b72094c467d
+UID:9c91258c-c808-4359-b07a-a6434e193b1b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nMini Splatling\nSplat Roller\nREEF-LUX 450\nE-liter 
@@ -30,7 +30,7 @@ DTSTART:20250518T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:6ee199db-fa08-4884-9359-f8d0eb36d86d
+UID:a678fe43-4db6-40ce-b0e6-46ed4f24f338
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\n.52 Gal\nSplattershot Nova\
@@ -40,7 +40,7 @@ DTSTART:20250520T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:ef6f882b-5dcc-475f-aad5-b3b52a65095f
+UID:b89c0d38-eb79-4d36-932b-ff1ed9df2bff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nLuna Blaster\nGlooga Dualies\nClassic
@@ -50,7 +50,7 @@ DTSTART:20250522T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:f54c0e17-6225-42da-9c04-922635c007a0
+UID:a25d323e-8226-40b8-afbf-57ac7313c1d1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nBloblobber\nSplatana Stamper\nWellstring V
@@ -60,6 +60,6 @@ DTSTART:20250523T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:621a089a-3e0b-4500-819e-a4cb2f3a8f71
+UID:7f8cf7a5-2348-43a0-ae1d-65323f082674
 END:VEVENT
 END:VCALENDAR
