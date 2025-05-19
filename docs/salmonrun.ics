@@ -20,7 +20,7 @@ DTSTART:20250518T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:6021a2a6-3f6a-424b-9768-15fbf2d1c2be
+UID:f4c92ebc-0a4a-4748-9194-4b38857c97b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\n.52 Gal\nSplattershot Nova\
@@ -30,7 +30,7 @@ DTSTART:20250520T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:dda80e2f-d406-4552-a727-dab9188005e3
+UID:7996b173-b895-4078-85be-26973956519d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nLuna Blaster\nGlooga Dualies\nClassic
@@ -40,7 +40,7 @@ DTSTART:20250522T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:a33e5bd3-00cd-4159-849f-c0e7de664008
+UID:f4c56c09-3d34-4506-9b52-b0c0e967c408
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nBloblobber\nSplatana Stamper\nWellstring V
@@ -50,7 +50,7 @@ DTSTART:20250523T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:9d9c849d-4f8c-426c-a39d-d74ec036a7ef
+UID:17678eb6-2934-4ef5-aeba-56a9e4955078
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSploosh-o-matic\nSlosher\n.96 Gal\n\nKi
@@ -60,6 +60,6 @@ DTSTART:20250525T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:cb3aaeff-c183-481d-b2e9-5c1aec667e5f
+UID:aace9f05-0c67-456c-ad4d-e01d12d32a4c
 END:VEVENT
 END:VCALENDAR
