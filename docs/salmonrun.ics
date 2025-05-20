@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nMini Splatling\nSplat Roller\nREEF-LUX 450\nE-liter 
- 4K\n\nKing:\nMegalodontia
-DTEND:20250520T075959Z
-DTSTART:20250518T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:d7e63446-cf77-43b6-ba6b-0f3a7254d758
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\n.52 Gal\nSplattershot Nova\
  nGoo Tuber\n\nKing:\nCohozuna
 DTEND:20250521T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250520T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:5f4d6e06-513b-462e-b0bb-964fa977ca81
+UID:61db6979-42b5-4f25-a631-1d6e48fa2d46
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nLuna Blaster\nGlooga Dualies\nClassic
@@ -40,7 +30,7 @@ DTSTART:20250522T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:96605f0c-8e22-4f79-acaa-ff6eeb74c146
+UID:42cb7bbc-3450-413e-8bc1-d77c26c4ce61
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nBloblobber\nSplatana Stamper\nWellstring V
@@ -50,7 +40,7 @@ DTSTART:20250523T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:17ea21de-5f63-4e68-9c0c-2e62d583646d
+UID:d881c5c5-5e1a-4573-a6b3-c0cb7cb2f032
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSploosh-o-matic\nSlosher\n.96 Gal\n\nKi
@@ -60,6 +50,16 @@ DTSTART:20250525T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:c411f7c6-8a2f-4855-900b-52142d4151a2
+UID:ad5c8314-5c90-4f17-ac90-cf434f034589
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot Jr.\nAerospray MG\nHydr
+ a Splatling\n\nKing:\nHorrorboros
+DTEND:20250528T155959Z
+DTSTART:20250527T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Horrorboros
+UID:b6eea388-9a8b-4a13-baf6-72a0446bce70
 END:VEVENT
 END:VCALENDAR
