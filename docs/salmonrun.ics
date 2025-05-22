@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRecycled Brella 24 Mk I\n.52 Gal\nSplattershot Nova\
- nGoo Tuber\n\nKing:\nCohozuna
-DTEND:20250521T235959Z
-DTSTART:20250520T080001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:17e7d918-f026-4e91-b854-c5a7b229a76a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nLuna Blaster\nGlooga Dualies\nClassic
   Squiffer\n\nKing:\nHorrorboros
 DTEND:20250523T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250522T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:504298e6-0285-4fe4-a407-7dbe741848a4
+UID:b1bab3cf-d938-49c4-a912-b5ffd8e83332
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nBloblobber\nSplatana Stamper\nWellstring V
@@ -40,7 +30,7 @@ DTSTART:20250523T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:a84ad584-3fb4-4098-a4ef-5515fd093ee5
+UID:0d2942db-6efb-4dc2-b97b-658b94f5a093
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSploosh-o-matic\nSlosher\n.96 Gal\n\nKi
@@ -50,7 +40,7 @@ DTSTART:20250525T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:fef40a20-654a-4d27-ba26-dac0ad84163c
+UID:6cd67be0-d1ba-4630-86aa-c7134ff3cab5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot Jr.\nAerospray MG\nHydr
@@ -60,6 +50,16 @@ DTSTART:20250527T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:8159a0c4-8316-41b5-8219-bc86793195cc
+UID:ae9a14eb-9c9e-425c-8f68-219fa2aa0fe0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nFlingza Roller\nSqueezer\nSloshing Machine\nSnipewri
+ ter 5H\n\nKing:\nMegalodontia
+DTEND:20250530T075959Z
+DTSTART:20250528T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Megalodontia
+UID:027448c6-5c21-4d55-b67e-1d6f645583df
 END:VEVENT
 END:VCALENDAR
