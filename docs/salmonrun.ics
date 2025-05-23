@@ -20,7 +20,7 @@ DTSTART:20250522T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:060d42c8-c2aa-48e6-84a5-3bf2c4d39613
+UID:d52d83ae-c842-435a-ba71-4bf9a40d59b1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nInkbrush\nBloblobber\nSplatana Stamper\nWellstring V
@@ -30,7 +30,7 @@ DTSTART:20250523T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:0046d4df-a933-4da0-87c9-eeb8f4556559
+UID:7e259f20-767e-402d-bb9a-fcaae2294e10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSploosh-o-matic\nSlosher\n.96 Gal\n\nKi
@@ -40,7 +40,7 @@ DTSTART:20250525T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:2a4e9cce-1f94-4091-8d92-177a4fa4193f
+UID:b1789b86-7a2b-4e3a-afa0-77c750ba316c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot Jr.\nAerospray MG\nHydr
@@ -50,7 +50,7 @@ DTSTART:20250527T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:8526839b-0e0e-42f8-86b4-efc17c89c0a0
+UID:fb88e0e2-9a98-4da4-bb75-404dcfd89036
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSqueezer\nSloshing Machine\nSnipewri
@@ -60,6 +60,6 @@ DTSTART:20250528T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:9595c058-a33a-4f9e-8642-485e474fd1a9
+UID:b4f0ef3e-5dbd-4da6-9ea7-36dc7dff5871
 END:VEVENT
 END:VCALENDAR
