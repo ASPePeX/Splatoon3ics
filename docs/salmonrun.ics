@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nInkbrush\nBloblobber\nSplatana Stamper\nWellstring V
- \n\nKing:\nMegalodontia
-DTEND:20250525T075959Z
-DTSTART:20250523T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Megalodontia
-UID:357fde16-a09f-4ea6-ad96-ca7b599f09b0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSploosh-o-matic\nSlosher\n.96 Gal\n\nKi
  ng:\nCohozuna
 DTEND:20250526T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250525T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:5ec01bec-50e1-404a-ba35-5b04e457b349
+UID:170a50e7-9b6e-4e7b-a4d6-469568e25781
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot Jr.\nAerospray MG\nHydr
@@ -40,7 +30,7 @@ DTSTART:20250527T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:68a56869-f009-46f1-b34c-7fd0dadd2b04
+UID:3a4b99eb-0ae2-42fb-83d2-bfaa5bab4582
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSqueezer\nSloshing Machine\nSnipewri
@@ -50,7 +40,7 @@ DTSTART:20250528T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:062a9b9c-6b05-4ea5-b031-6f6745a64bee
+UID:77a63880-7cf6-4f3e-b879-23fd11ac73fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20250530T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:a3951a6a-3637-47c5-ad9d-b92c9c98045c
+UID:6c73481d-193a-42d3-bf6d-3e8ef5d6ff3e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nPainbrush\nSplat Charger\n\nK
+ ing:\nHorrorboros
+DTEND:20250602T155959Z
+DTSTART:20250601T000001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Horrorboros
+UID:8f21e1ec-94ae-4c6b-825e-21fe5a9665a3
 END:VEVENT
 END:VCALENDAR
