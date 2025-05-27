@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nTri-Slosher\nSploosh-o-matic\nSlosher\n.96 Gal\n\nKi
- ng:\nCohozuna
-DTEND:20250526T235959Z
-DTSTART:20250525T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Cohozuna
-UID:dd08b89e-cc96-4a6a-a672-71a3abe365d8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot Jr.\nAerospray MG\nHydr
  a Splatling\n\nKing:\nHorrorboros
 DTEND:20250528T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250527T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:aaeeb836-901c-4b84-bde5-11512b1090a0
+UID:4d8aaa4f-eec6-45d1-8389-da7b7e6031d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSqueezer\nSloshing Machine\nSnipewri
@@ -40,7 +30,7 @@ DTSTART:20250528T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:e1eb3222-1461-453b-b3da-6a0edd09fb81
+UID:a5342a2e-f592-4b2a-9413-49bb0fefa00e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +39,7 @@ DTSTART:20250530T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:b017d61c-4a04-4419-b563-ad9aabc9aaff
+UID:1d8e2ec6-38c5-478b-ac7a-550b7877efac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nPainbrush\nSplat Charger\n\nK
@@ -59,6 +49,16 @@ DTSTART:20250601T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:acddf7b9-71fd-4a83-814c-1f8154e7db0a
+UID:e7d7ef61-08b1-42a5-86a3-85ba5c957b73
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDark Tetra Dualies\nS-BLAST '92\nBallpoint Splatling
+ \nJet Squelcher\n\nKing:\nMegalodontia
+DTEND:20250604T075959Z
+DTSTART:20250602T160001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Megalodontia
+UID:7ae9d71d-23b0-4f17-9165-d46cecca981e
 END:VEVENT
 END:VCALENDAR
