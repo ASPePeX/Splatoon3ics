@@ -20,7 +20,7 @@ DTSTART:20250527T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:8864303a-4e96-43f0-aa80-0e87a2fd7ba3
+UID:aa61b9ec-08e0-4ff4-969a-8831d5761a93
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSqueezer\nSloshing Machine\nSnipewri
@@ -30,7 +30,7 @@ DTSTART:20250528T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:3c425980-edff-49e3-99a4-e51ebfc1bf85
+UID:53819e9c-5d59-461b-a0a0-5dd3f1634fa0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +39,7 @@ DTSTART:20250530T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:97c725e0-a2ca-422c-9031-e78826080e36
+UID:5bd3e17e-08b5-4452-9bcc-61107102fa3e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nPainbrush\nSplat Charger\n\nK
@@ -49,7 +49,7 @@ DTSTART:20250601T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:55176d96-033b-4dcb-9b18-717895ae74dd
+UID:5c1fa2d9-958f-452e-be83-f813f2c0ba8b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nS-BLAST '92\nBallpoint Splatling
@@ -59,6 +59,6 @@ DTSTART:20250602T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:3d1a8f3c-4707-4d46-97b3-929741ee6b40
+UID:e442ca45-7979-4729-8b8f-54d716777583
 END:VEVENT
 END:VCALENDAR
