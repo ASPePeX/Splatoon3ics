@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplatana Wiper\nSplattershot Jr.\nAerospray MG\nHydr
- a Splatling\n\nKing:\nHorrorboros
-DTEND:20250528T155959Z
-DTSTART:20250527T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Horrorboros
-UID:bac6291f-2441-4b87-972a-d84f1f387608
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSqueezer\nSloshing Machine\nSnipewri
  ter 5H\n\nKing:\nMegalodontia
 DTEND:20250530T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250528T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:a77bf198-d5d8-4b0d-920e-ecb60c06b648
+UID:e8bb55ba-bc63-460b-bc57-1a7d49c00681
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +29,7 @@ DTSTART:20250530T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:4f3453aa-6aff-4a9a-9be9-c237359cd264
+UID:7057108f-a02c-459e-b846-6ff9b10e6e18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nPainbrush\nSplat Charger\n\nK
@@ -49,7 +39,7 @@ DTSTART:20250601T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:b82a2713-2a6a-4657-9e92-90ee10e36498
+UID:dfd76ab2-7b08-42ac-b5df-6ddf5acb4697
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nS-BLAST '92\nBallpoint Splatling
@@ -59,6 +49,16 @@ DTSTART:20250602T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:4a6194c1-45ab-4fac-91d4-49efaf7c6d50
+UID:2af4331d-7f88-413d-aa72-6bd6cc8767ee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nL-3 Nozzlenose\nTen
+ ta Brella\n\nKing:\nCohozuna
+DTEND:20250605T235959Z
+DTSTART:20250604T080001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:abd71fea-d355-45f6-a3f2-bef22a0be443
 END:VEVENT
 END:VCALENDAR
