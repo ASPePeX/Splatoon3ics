@@ -20,7 +20,7 @@ DTSTART:20250528T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Megalodontia
-UID:41555578-b1a4-45f2-8b8c-ca8054a2f1a4
+UID:1ae55275-218c-42cf-a7b5-1cfca65d175e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20250530T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:281dc3ec-156c-4f76-a92b-8d1d907542cd
+UID:cf36153e-5c0e-4a7d-acde-c6a923b56abe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nPainbrush\nSplat Charger\n\nK
@@ -39,7 +39,7 @@ DTSTART:20250601T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:84059c8a-48f8-41ed-8ab0-696d9d285629
+UID:9a148ace-841a-4067-9274-77e5a8053bcb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nS-BLAST '92\nBallpoint Splatling
@@ -49,7 +49,7 @@ DTSTART:20250602T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:7175e5f1-c5c1-4e91-9b4e-abb7f0494ea5
+UID:88b07014-1791-4aad-90c0-4364114c7302
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nL-3 Nozzlenose\nTen
@@ -59,6 +59,6 @@ DTSTART:20250604T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:cb3b5c40-5f9f-433c-8a33-06e19bed783d
+UID:f689c829-726b-4718-8a9a-fdb3830e3e6c
 END:VEVENT
 END:VCALENDAR
