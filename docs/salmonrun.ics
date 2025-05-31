@@ -19,7 +19,7 @@ DTSTART:20250530T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:da51288f-9a9b-4764-ba51-309989803cfa
+UID:5e54afcc-461a-4319-869d-578ad2929f4e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nPainbrush\nSplat Charger\n\nK
@@ -29,7 +29,7 @@ DTSTART:20250601T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:fbb4d9af-4fea-4448-a19f-1e2a3845b028
+UID:369c9f48-d67d-41d6-844b-504a1a20f626
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nS-BLAST '92\nBallpoint Splatling
@@ -39,7 +39,7 @@ DTSTART:20250602T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:e138a412-2fba-408b-8815-e012ffb1d506
+UID:fd577aca-31a8-47a1-bdef-cf4fcab69a66
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nL-3 Nozzlenose\nTen
@@ -49,7 +49,7 @@ DTSTART:20250604T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:96eb57a1-08d8-4387-b975-7b5ac64928f9
+UID:766c2367-bf0a-4e48-8c7e-493be5a4099f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Roller\nSplatana Stamper\nHeavy Edit Splatling
@@ -59,6 +59,6 @@ DTSTART:20250606T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:1ced0d69-7979-430f-869a-6506cfd536f1
+UID:20f8d348-6b02-4f9d-a94e-d6c0409ed108
 END:VEVENT
 END:VCALENDAR
