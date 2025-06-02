@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBlaster\nSplat Brella\nPainbrush\nSplat Charger\n\nK
- ing:\nHorrorboros
-DTEND:20250602T155959Z
-DTSTART:20250601T000001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Horrorboros
-UID:cec72184-fac6-4429-8043-60dd550af71c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nS-BLAST '92\nBallpoint Splatling
  \nJet Squelcher\n\nKing:\nMegalodontia
 DTEND:20250604T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250602T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:81bd4da0-cac3-424b-99b1-05f6414ec6d4
+UID:dedc568a-eea3-4f77-8a92-bed3f4ce41ff
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nL-3 Nozzlenose\nTen
@@ -40,7 +30,7 @@ DTSTART:20250604T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:5dad239e-2ba7-4b60-b87c-70fd182814ad
+UID:39231d48-a5a4-4267-88b9-3011347b3c2d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Roller\nSplatana Stamper\nHeavy Edit Splatling
@@ -50,7 +40,7 @@ DTSTART:20250606T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:89416aa4-dcc2-4b8b-b7fd-90d72b70e6cf
+UID:6779285f-5a6d-46d8-8fcb-9443e593c6fc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplat Dualies\nCarbon Roller\nHeavy Spl
@@ -60,6 +50,16 @@ DTSTART:20250607T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:1b4d0add-10fc-4e8a-b414-e0e6874e4cfc
+UID:90d9292d-e06d-40f7-b096-b716edf9d8ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nDapple Dualies\nGoo T
+ uber\n\nKing:\nCohozuna
+DTEND:20250610T235959Z
+DTSTART:20250609T080001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:b21dbfc6-0685-4fd4-8b64-c4ceadade9ae
 END:VEVENT
 END:VCALENDAR
