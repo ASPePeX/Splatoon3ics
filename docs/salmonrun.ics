@@ -20,7 +20,7 @@ DTSTART:20250602T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Megalodontia
-UID:0780bfa7-e068-4da4-86ab-d123f521702d
+UID:0f79aecc-9c86-4c2a-8882-95ce5948422a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nL-3 Nozzlenose\nTen
@@ -30,7 +30,7 @@ DTSTART:20250604T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:1efea4a7-33d3-45b3-a8ee-cfb8fbdd388c
+UID:af3b3c3c-72b5-4ed0-b68d-c946e61d9288
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Roller\nSplatana Stamper\nHeavy Edit Splatling
@@ -40,7 +40,7 @@ DTSTART:20250606T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:5b9f8729-4718-4d99-bb9e-70a7cad632c3
+UID:405064eb-c465-4539-8943-bd00e59db153
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplat Dualies\nCarbon Roller\nHeavy Spl
@@ -50,7 +50,7 @@ DTSTART:20250607T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:f78b2a83-a41e-478e-8f2b-72578af8c403
+UID:91ee88a5-2262-4a82-97fe-ea4e4c40e721
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nDapple Dualies\nGoo T
@@ -60,6 +60,6 @@ DTSTART:20250609T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:203a38cb-0ded-4596-8cf9-04855517c1b4
+UID:c0337385-c957-44d6-9297-17a45e34eff5
 END:VEVENT
 END:VCALENDAR
