@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDark Tetra Dualies\nS-BLAST '92\nBallpoint Splatling
- \nJet Squelcher\n\nKing:\nMegalodontia
-DTEND:20250604T075959Z
-DTSTART:20250602T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Megalodontia
-UID:56f8a6a2-883e-40f1-861d-f2089fe244d5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSplattershot\nL-3 Nozzlenose\nTen
  ta Brella\n\nKing:\nCohozuna
 DTEND:20250605T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250604T080001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:8536d28f-f071-4899-8f0b-ac9925db065d
+UID:523f1790-97ec-41f3-8b3d-363d2402d675
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Roller\nSplatana Stamper\nHeavy Edit Splatling
@@ -40,7 +30,7 @@ DTSTART:20250606T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Horrorboros
-UID:28973dfb-8ba5-4a40-a626-10173e69ea7a
+UID:23f421b2-6525-45ff-9837-703b709836f6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nTri-Slosher\nSplat Dualies\nCarbon Roller\nHeavy Spl
@@ -50,7 +40,7 @@ DTSTART:20250607T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:adf96ad0-c098-4b2a-982f-08e9f1a0e3cb
+UID:e77afb62-7290-4f5e-aee4-669a6e62fe5b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nDapple Dualies\nGoo T
@@ -60,6 +50,16 @@ DTSTART:20250609T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:69ac5c3f-9a20-4a12-b6fc-f0041182492b
+UID:70874ac8-97c1-4ff3-bf8c-5d10c65a8caf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplat Brella\nMini Splatling\nREEF-LUX 450\nClassic 
+ Squiffer\n\nKing:\nHorrorboros
+DTEND:20250612T155959Z
+DTSTART:20250611T000001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:df726aa0-da11-4517-8aac-a32c4f59a041
 END:VEVENT
 END:VCALENDAR
