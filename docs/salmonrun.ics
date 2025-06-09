@@ -20,7 +20,7 @@ DTSTART:20250607T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Megalodontia
-UID:418d0808-f6bb-40c9-9fc4-60d5fef8692d
+UID:33cd55f8-ca03-478e-bd6e-dacd43d7c9ee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nDapple Dualies\nGoo T
@@ -30,7 +30,7 @@ DTSTART:20250609T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:5a4025e1-a1fb-4f4d-822c-8ff0377ac9ce
+UID:723d6dbd-1b47-42be-9357-4f1f13cbcb84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nMini Splatling\nREEF-LUX 450\nClassic 
@@ -40,7 +40,7 @@ DTSTART:20250611T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:e3c8d24e-6ae2-41c6-aad2-e1067e92e0c1
+UID:0cb43010-52dc-46da-9f14-58325d65aa0e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nDualie Squelchers\
@@ -50,6 +50,6 @@ DTSTART:20250612T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:4df07bbb-22c0-4925-b55b-46f1d485ed6b
+UID:6d6e8379-ae50-4d48-94c0-dc6b345a71b1
 END:VEVENT
 END:VCALENDAR
