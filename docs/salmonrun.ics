@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nTri-Slosher\nSplat Dualies\nCarbon Roller\nHeavy Spl
- atling\n\nKing:\nMegalodontia
-DTEND:20250609T075959Z
-DTSTART:20250607T160001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Megalodontia
-UID:33cd55f8-ca03-478e-bd6e-dacd43d7c9ee
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nDapple Dualies\nGoo T
  uber\n\nKing:\nCohozuna
 DTEND:20250610T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250609T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:723d6dbd-1b47-42be-9357-4f1f13cbcb84
+UID:6e4936f9-8ed4-4202-9e84-0a2d494d3961
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nMini Splatling\nREEF-LUX 450\nClassic 
@@ -40,7 +30,7 @@ DTSTART:20250611T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:0cb43010-52dc-46da-9f14-58325d65aa0e
+UID:b90c7351-ded6-4ed4-8df9-0490ea004076
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nDualie Squelchers\
@@ -50,6 +40,16 @@ DTSTART:20250612T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:6d6e8379-ae50-4d48-94c0-dc6b345a71b1
+UID:033cc00e-a0c6-4576-a76f-31b770f8260e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\n.52 Gal\nSplattershot Nova\nL-3 Nozzlenose\nRapid Bl
+ aster\n\nKing:\nCohozuna
+DTEND:20250617T155959Z
+DTSTART:20250616T000001Z
+LOCATION:Bonerattle Arena
+SEQUENCE:0
+SUMMARY:Bonerattle Arena - Cohozuna
+UID:5a4b0aa0-f412-4b06-b944-57a7e0b72b0f
 END:VEVENT
 END:VCALENDAR
