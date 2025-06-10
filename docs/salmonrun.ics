@@ -20,7 +20,7 @@ DTSTART:20250609T080001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:727c82b6-a646-46a9-b289-fb0dd8ad2697
+UID:13d7557a-19c6-4256-876f-fe3f06411b64
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nMini Splatling\nREEF-LUX 450\nClassic 
@@ -30,7 +30,7 @@ DTSTART:20250611T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:f07f7954-e440-459a-9628-a19a555134ed
+UID:0bcf16b8-9bf2-4181-add2-6cc81f580da9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nDualie Squelchers\
@@ -40,7 +40,7 @@ DTSTART:20250612T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:d1557aae-ba46-45a2-8570-c02b071c94df
+UID:9b536aef-c825-4cae-a960-6a3065100008
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplattershot Nova\nL-3 Nozzlenose\nRapid Bl
@@ -50,6 +50,6 @@ DTSTART:20250616T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:d309d445-39db-4617-9ee6-f972f6686a70
+UID:3c1c5d26-f2fe-416a-a6a6-d918c94bfaa8
 END:VEVENT
 END:VCALENDAR
