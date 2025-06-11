@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSploosh-o-matic\nAerospray MG\nDapple Dualies\nGoo T
- uber\n\nKing:\nCohozuna
-DTEND:20250610T235959Z
-DTSTART:20250609T080001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:f451a799-b633-4534-8176-f32a9fd74509
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Brella\nMini Splatling\nREEF-LUX 450\nClassic 
  Squiffer\n\nKing:\nHorrorboros
 DTEND:20250612T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250611T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:75ecaf00-635f-480b-b82d-1875d2f9a4b5
+UID:2f3719e8-c9d4-430a-9cb8-884162e24cad
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nDualie Squelchers\
@@ -40,7 +30,7 @@ DTSTART:20250612T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:c4b3d2ab-b07e-4c77-be0d-0ed9b9d572d9
+UID:c4313ae6-db69-45b5-8df2-33731751493c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplattershot Nova\nL-3 Nozzlenose\nRapid Bl
@@ -50,6 +40,16 @@ DTSTART:20250616T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:fe4919ad-0609-4040-b00f-ba9751db5954
+UID:622a1d69-8821-4615-8e63-9e3a148353c3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDark Tetra Dualies\nClash Blaster\nBloblobber\nWells
+ tring V\n\nKing:\nHorrorboros
+DTEND:20250619T075959Z
+DTSTART:20250617T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:e96211ef-3d71-41b3-a941-746e17a7f2ad
 END:VEVENT
 END:VCALENDAR
