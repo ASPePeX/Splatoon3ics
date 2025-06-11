@@ -20,7 +20,7 @@ DTSTART:20250611T000001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:cc6697a5-4804-4742-8c82-36cb3a16ca6b
+UID:1339ff03-ab2a-482c-a09e-6da524594f69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nDualie Squelchers\
@@ -30,7 +30,7 @@ DTSTART:20250612T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:422d6be3-ba43-4d8e-9612-538838cf61aa
+UID:4cc5f734-6c18-47d7-8a53-cf2cdf1d9ca4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplattershot Nova\nL-3 Nozzlenose\nRapid Bl
@@ -40,7 +40,7 @@ DTSTART:20250616T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:a44eb075-6109-4673-a084-244e683ec461
+UID:51773975-2fb1-42a5-8fa2-d7c07515d290
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nClash Blaster\nBloblobber\nWells
@@ -50,6 +50,6 @@ DTSTART:20250617T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:cc4dca90-343d-43cc-8188-ba85db724be2
+UID:db0c7b28-a4d7-40cf-bdcd-1e9bee859676
 END:VEVENT
 END:VCALENDAR
