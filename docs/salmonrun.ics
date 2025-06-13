@@ -20,7 +20,7 @@ DTSTART:20250612T160001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:27f61353-cecd-4dd1-a82c-1c76ee97f350
+UID:70f5511b-dcf5-44ac-9c41-15efe2c65d84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplattershot Nova\nL-3 Nozzlenose\nRapid Bl
@@ -30,7 +30,7 @@ DTSTART:20250616T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:3fc6c9e0-c8e0-45f2-b107-b7c90cf7d5dd
+UID:017fd4c2-1da8-4a45-906b-1473da242a6d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nClash Blaster\nBloblobber\nWells
@@ -40,7 +40,7 @@ DTSTART:20250617T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:b6ee66b9-2aad-4980-9c1b-069ece4965ef
+UID:3ddd158b-e0a3-4340-b6e2-57e2a82fd3e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplat Dualies\nCarbon Roller\nHydra Splat
@@ -50,6 +50,6 @@ DTSTART:20250619T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:dc4b7a88-3259-4511-a4cf-ff946b757439
+UID:fae0e89d-bdd3-4058-bb8e-7c7c1234d175
 END:VEVENT
 END:VCALENDAR
