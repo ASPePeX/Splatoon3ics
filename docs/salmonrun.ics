@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nFlingza Roller\nSplattershot Jr.\nDualie Squelchers\
- nTri-Stringer\n\nKing:\nMegalodontia
-DTEND:20250613T235959Z
-DTSTART:20250612T160001Z
-LOCATION:Gone Fission Hydroplant
-SEQUENCE:0
-SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:70f5511b-dcf5-44ac-9c41-15efe2c65d84
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\n.52 Gal\nSplattershot Nova\nL-3 Nozzlenose\nRapid Bl
  aster\n\nKing:\nCohozuna
 DTEND:20250617T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250616T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:017fd4c2-1da8-4a45-906b-1473da242a6d
+UID:248f5cca-1ff7-40ee-bad8-a4afffc78fb8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nClash Blaster\nBloblobber\nWells
@@ -40,7 +30,7 @@ DTSTART:20250617T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:3ddd158b-e0a3-4340-b6e2-57e2a82fd3e3
+UID:f33a0b8c-58b1-41ac-a6b0-e26a9b33bc42
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplat Dualies\nCarbon Roller\nHydra Splat
@@ -50,6 +40,16 @@ DTSTART:20250619T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:fae0e89d-bdd3-4058-bb8e-7c7c1234d175
+UID:884866ad-14d8-481a-90cd-41fd4167c31d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nE-liter 4K\nRandom\n\n
+ King:\nCohozuna
+DTEND:20250622T155959Z
+DTSTART:20250621T000001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Cohozuna
+UID:1ac189c8-9135-4e7a-8289-487fdde05b83
 END:VEVENT
 END:VCALENDAR
