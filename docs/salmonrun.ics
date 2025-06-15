@@ -20,7 +20,7 @@ DTSTART:20250616T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:d4a0bd2e-7f3a-4bd8-b5d2-a15e1e879f97
+UID:d462e8f3-e971-431a-8b2d-7907899b539b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nClash Blaster\nBloblobber\nWells
@@ -30,7 +30,7 @@ DTSTART:20250617T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:dedd001c-e360-4d51-bcb7-c12789b9f29e
+UID:39e03ad7-c8c9-46f5-a446-4df43832df33
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplat Dualies\nCarbon Roller\nHydra Splat
@@ -40,7 +40,7 @@ DTSTART:20250619T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:2a48840d-0e08-462b-a60c-bb42625a0312
+UID:118dec12-1962-4fed-9aa8-74fbf1940cdf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nE-liter 4K\nRandom\n\n
@@ -50,6 +50,6 @@ DTSTART:20250621T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:a64d7277-a225-42e8-b735-8f7dca89bd53
+UID:59665f30-47f7-4c89-bc97-71ccf7645dbb
 END:VEVENT
 END:VCALENDAR
