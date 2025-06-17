@@ -20,7 +20,7 @@ DTSTART:20250616T000001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Cohozuna
-UID:ca7a8a36-97ae-4fc6-b11d-bf75ff339db8
+UID:a234b71f-b87a-48ad-9919-d5feaa9e7ea8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nClash Blaster\nBloblobber\nWells
@@ -30,7 +30,7 @@ DTSTART:20250617T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:ad702ea5-d71b-4388-8727-32150cc6e346
+UID:c7ceb878-feda-4077-bca5-aade16545750
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplat Dualies\nCarbon Roller\nHydra Splat
@@ -40,7 +40,7 @@ DTSTART:20250619T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:5190ad35-f2d3-48e6-b675-d869604d7ae0
+UID:7de42bd8-4ca1-45b5-a67d-c494522e05f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nE-liter 4K\nRandom\n\n
@@ -50,7 +50,7 @@ DTSTART:20250621T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:3f7e562c-d35c-47b9-87a1-03f05f4c373b
+UID:ed8fa202-652f-4d82-9182-a9d2f1ba42ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Stamper\nBallpoint Splatling\
@@ -60,6 +60,6 @@ DTSTART:20250622T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:d8763875-d53a-4afd-a7e7-516b1713ed24
+UID:3342eac9-874e-4968-95a2-f2b047da138e
 END:VEVENT
 END:VCALENDAR
