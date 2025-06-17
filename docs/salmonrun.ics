@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\n.52 Gal\nSplattershot Nova\nL-3 Nozzlenose\nRapid Bl
- aster\n\nKing:\nCohozuna
-DTEND:20250617T155959Z
-DTSTART:20250616T000001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Cohozuna
-UID:423dfb39-931a-4581-a1b0-add133ba8983
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDark Tetra Dualies\nClash Blaster\nBloblobber\nWells
  tring V\n\nKing:\nHorrorboros
 DTEND:20250619T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250617T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:6f34d85f-30cb-4f59-8350-8ace572c3bdb
+UID:ed5ecc67-ce09-4010-b9fa-5f6bfbfb63e9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplat Dualies\nCarbon Roller\nHydra Splat
@@ -40,7 +30,7 @@ DTSTART:20250619T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:85a86267-456d-4f10-aafa-dc31d39e70ad
+UID:63000c33-76a7-4572-8de3-782cdcfb258a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nE-liter 4K\nRandom\n\n
@@ -50,7 +40,7 @@ DTSTART:20250621T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:7145b67d-4862-4758-b976-eae0aff85ab1
+UID:3a638787-cbfc-41b9-81a6-dc92aa11d8b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Stamper\nBallpoint Splatling\
@@ -60,6 +50,16 @@ DTSTART:20250622T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:9b84d5cc-6e37-4099-9d1f-de08ae729a2f
+UID:8b890620-e0cf-4fb7-8905-fb4cce2904e2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBig Swig Roller\nDread Wringer\nDualie Squelchers\nC
+ lassic Squiffer\n\nKing:\nMegalodontia
+DTEND:20250625T235959Z
+DTSTART:20250624T080001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Megalodontia
+UID:4504be73-df74-4a5e-a549-96a589d0c06a
 END:VEVENT
 END:VCALENDAR
