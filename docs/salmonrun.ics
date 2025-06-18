@@ -20,7 +20,7 @@ DTSTART:20250617T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:df88b6b3-f7e8-4978-bbef-5e26d4396c18
+UID:34aa1068-59d0-4e50-a636-8faf11db3346
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplat Dualies\nCarbon Roller\nHydra Splat
@@ -30,7 +30,7 @@ DTSTART:20250619T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:715c0c82-93aa-45b2-b9e7-bd482e6fa00d
+UID:3eabd5c6-c7e1-4cfa-9ce3-bfcb0ee26e2a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nE-liter 4K\nRandom\n\n
@@ -40,7 +40,7 @@ DTSTART:20250621T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:907ed7e9-2eae-467c-b699-ddd886c65126
+UID:a543fee0-ac7f-48f0-89a6-00939f8921db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Stamper\nBallpoint Splatling\
@@ -50,7 +50,7 @@ DTSTART:20250622T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:c980f1d3-600a-4329-85a0-f43a27166268
+UID:fc531c36-20ee-43c3-b35e-aabd8374b3ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nDread Wringer\nDualie Squelchers\nC
@@ -60,6 +60,6 @@ DTSTART:20250624T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:7aeef771-46bb-4341-b3c9-50a820a8541f
+UID:301f6ff5-b3e1-430c-bd59-51095cd27ae0
 END:VEVENT
 END:VCALENDAR
