@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDark Tetra Dualies\nClash Blaster\nBloblobber\nWells
- tring V\n\nKing:\nHorrorboros
-DTEND:20250619T075959Z
-DTSTART:20250617T160001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:e84f37ca-7948-4dbd-9cad-a60f3972e1a3
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nPainbrush\nSplat Dualies\nCarbon Roller\nHydra Splat
  ling\n\nKing:\nMegalodontia
 DTEND:20250620T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250619T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:f0444dc5-4987-4813-bffe-ebc7eff66b44
+UID:bd3e2d7b-97d3-4e5c-ba26-7ff0274f734a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nE-liter 4K\nRandom\n\n
@@ -40,7 +30,7 @@ DTSTART:20250621T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:4b92badd-6181-49fb-8a0b-98ccb7da7782
+UID:4b5f925f-6c2a-4133-9df6-a54d900475de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Stamper\nBallpoint Splatling\
@@ -50,7 +40,7 @@ DTSTART:20250622T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:ca797b25-ca98-40b1-9e13-576ebe4a79b0
+UID:9ff516ca-fedd-4891-bd61-60acccddff78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nDread Wringer\nDualie Squelchers\nC
@@ -60,6 +50,16 @@ DTSTART:20250624T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:8eb2405b-f6b9-4ce6-93be-75a5dae3a5d8
+UID:230efead-af50-404c-be23-d63cd7d63af7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Pro\nSqueezer\nLuna Blaster\nHeavy Spla
+ tling\n\nKing:\nCohozuna
+DTEND:20250627T155959Z
+DTSTART:20250626T000001Z
+LOCATION:Sockeye Station
+SEQUENCE:0
+SUMMARY:Sockeye Station - Cohozuna
+UID:7d7b05b7-ec2d-41dc-ad16-c260c1cfcd5a
 END:VEVENT
 END:VCALENDAR
