@@ -20,7 +20,7 @@ DTSTART:20250619T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:545dce45-0e32-4486-9e60-915ded9abe35
+UID:487a8ea0-4827-4d0c-a5fe-eadaff3571bd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nE-liter 4K\nRandom\n\n
@@ -30,7 +30,7 @@ DTSTART:20250621T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:d3ca2dd8-106d-43ff-a07c-165b5a9fbf25
+UID:fcba4cfb-488a-4220-b10c-90dc8a8a8b16
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Stamper\nBallpoint Splatling\
@@ -40,7 +40,7 @@ DTSTART:20250622T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:8bc6f74a-85f0-4549-88b9-57685958735f
+UID:7c580420-9ea5-44a8-bfdb-e6f0b8271822
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nDread Wringer\nDualie Squelchers\nC
@@ -50,7 +50,7 @@ DTSTART:20250624T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:856842e5-b0fa-4274-9dab-94662fb67605
+UID:c49c8d6d-7f28-460d-96f2-75ddddc27f21
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nSqueezer\nLuna Blaster\nHeavy Spla
@@ -60,6 +60,6 @@ DTSTART:20250626T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:bde3abc6-a978-4373-9a1a-42ab30f187d6
+UID:626437e0-ec9e-43c8-8666-2f20a641dcd2
 END:VEVENT
 END:VCALENDAR
