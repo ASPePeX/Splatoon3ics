@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nPainbrush\nSplat Dualies\nCarbon Roller\nHydra Splat
- ling\n\nKing:\nMegalodontia
-DTEND:20250620T235959Z
-DTSTART:20250619T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:9dc42f8b-17f7-446f-936e-3ab973e41e40
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nE-liter 4K\nRandom\n\n
  King:\nCohozuna
 DTEND:20250622T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250621T000001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Cohozuna
-UID:dfebbce8-84e4-4168-9a68-f4d193a15c0e
+UID:5a280ceb-7047-43c9-94a2-e7cdd6bdcc8f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Stamper\nBallpoint Splatling\
@@ -40,7 +30,7 @@ DTSTART:20250622T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:0784a395-9f49-4eeb-b823-b3b1161f2f5e
+UID:47537e66-d4cd-4490-90f3-e5aa129f21fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nDread Wringer\nDualie Squelchers\nC
@@ -50,7 +40,7 @@ DTSTART:20250624T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:c59d8171-81e8-4ad5-b758-baaf29e4b339
+UID:f8051721-8577-4aa2-9f61-2e1f6513a833
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nSqueezer\nLuna Blaster\nHeavy Spla
@@ -60,6 +50,16 @@ DTSTART:20250626T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:d9974566-74f8-4c6c-9546-e84a5dd6318f
+UID:b13440c7-5cb6-4080-b2a1-f9c4c046db1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDynamo Roller\nSloshing Machine\nDouser Dualies FF\n
+ Splat Charger\n\nKing:\nHorrorboros
+DTEND:20250629T075959Z
+DTSTART:20250627T160001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Horrorboros
+UID:3cc564ca-cba5-4007-ac6b-28720e16b337
 END:VEVENT
 END:VCALENDAR
