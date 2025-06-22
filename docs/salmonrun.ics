@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nUndercover Brella\nN-ZAP '85\nE-liter 4K\nRandom\n\n
- King:\nCohozuna
-DTEND:20250622T155959Z
-DTSTART:20250621T000001Z
-LOCATION:Marooner's Bay
-SEQUENCE:0
-SUMMARY:Marooner's Bay - Cohozuna
-UID:cd136299-c14a-4b98-ab97-27190e7ff85c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Stamper\nBallpoint Splatling\
  nTenta Brella\n\nKing:\nHorrorboros
 DTEND:20250624T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250622T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:c1b2dd27-3fda-49cf-9075-3522c734be6e
+UID:0b1c869f-47b6-4a58-adf4-4f3b24a0dff2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nDread Wringer\nDualie Squelchers\nC
@@ -40,7 +30,7 @@ DTSTART:20250624T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:44a801cc-8680-4ac2-8252-bce84c7e42f7
+UID:d0aa990c-d543-4171-a566-494d5052e668
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nSqueezer\nLuna Blaster\nHeavy Spla
@@ -50,7 +40,7 @@ DTSTART:20250626T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:c6031ae2-e25d-406e-9d75-3d24c75e120e
+UID:2f9e824f-1c59-4ca1-96d6-3706d81be0b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nSloshing Machine\nDouser Dualies FF\n
@@ -60,6 +50,16 @@ DTSTART:20250627T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:9763c778-c814-4727-aa46-61018389c522
+UID:add244aa-bb71-4ea8-9be8-17ba26971757
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nNautilus 47\nRapid
+  Blaster\n\nKing:\nMegalodontia
+DTEND:20250630T235959Z
+DTSTART:20250629T080001Z
+LOCATION:Gone Fission Hydroplant
+SEQUENCE:0
+SUMMARY:Gone Fission Hydroplant - Megalodontia
+UID:608e7c97-43fa-4615-a976-c774ea4b466a
 END:VEVENT
 END:VCALENDAR
