@@ -20,7 +20,7 @@ DTSTART:20250622T160001Z
 LOCATION:Bonerattle Arena
 SEQUENCE:0
 SUMMARY:Bonerattle Arena - Horrorboros
-UID:ced7ec77-9717-47fd-aa2b-7897d36b0f4c
+UID:3247eb0d-cdb8-4c4c-8021-a89327206de1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nDread Wringer\nDualie Squelchers\nC
@@ -30,7 +30,7 @@ DTSTART:20250624T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:b6ceef08-f5f0-4b17-99a0-ff62a7077476
+UID:16432964-08de-49e5-b704-ab1f995fedfb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nSqueezer\nLuna Blaster\nHeavy Spla
@@ -40,7 +40,7 @@ DTSTART:20250626T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:828d8735-4cd1-4b23-a068-808fe6a69bb1
+UID:647e09a8-b1fa-4865-a8ce-49e9d0d1ff4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nSloshing Machine\nDouser Dualies FF\n
@@ -50,7 +50,7 @@ DTSTART:20250627T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:80d3faaf-80d4-4b32-b899-8e6a75827dea
+UID:49cc0c2d-26f4-4f18-809d-2b43469fac15
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nNautilus 47\nRapid
@@ -60,6 +60,6 @@ DTSTART:20250629T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:c56b0f0c-f23c-452c-92cf-4ff96bfc6b4c
+UID:167d2899-f075-4a1f-98b6-02962e2eec07
 END:VEVENT
 END:VCALENDAR
