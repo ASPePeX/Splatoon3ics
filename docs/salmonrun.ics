@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nREEF-LUX 450\nSplatana Stamper\nBallpoint Splatling\
- nTenta Brella\n\nKing:\nHorrorboros
-DTEND:20250624T075959Z
-DTSTART:20250622T160001Z
-LOCATION:Bonerattle Arena
-SEQUENCE:0
-SUMMARY:Bonerattle Arena - Horrorboros
-UID:1afd5e8a-a0dd-4d2a-97c5-f4835327cfa6
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBig Swig Roller\nDread Wringer\nDualie Squelchers\nC
  lassic Squiffer\n\nKing:\nMegalodontia
 DTEND:20250625T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250624T080001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Megalodontia
-UID:0d3cf799-5be0-4d49-9396-4e52feba7555
+UID:5e45e7c4-0512-47a1-afef-2ad6e6e89bf4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nSqueezer\nLuna Blaster\nHeavy Spla
@@ -40,7 +30,7 @@ DTSTART:20250626T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:0c165ede-4cd3-471d-b1df-197b458e7cb7
+UID:9387ac15-f5cc-473b-8d7a-1bd1beee7d07
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nSloshing Machine\nDouser Dualies FF\n
@@ -50,7 +40,7 @@ DTSTART:20250627T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:ef75dc96-a8f0-43d3-8d61-e76abd65cd44
+UID:9def80c5-1f10-403a-8196-06d9045d15e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nNautilus 47\nRapid
@@ -60,6 +50,16 @@ DTSTART:20250629T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:a0b72b9d-3bd1-48c8-b99e-ef9c1c8d9bc7
+UID:5cdf58b2-977c-4628-b4d2-2a038e1335eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nClash Blaster\nSplat Dualies\nAerospray MG\nE-liter 
+ 4K\n\nKing:\nCohozuna
+DTEND:20250702T155959Z
+DTSTART:20250701T000001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Cohozuna
+UID:af3fc29a-09d2-40d3-bcc1-6fec03239e33
 END:VEVENT
 END:VCALENDAR
