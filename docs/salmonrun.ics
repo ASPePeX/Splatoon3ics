@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nBig Swig Roller\nDread Wringer\nDualie Squelchers\nC
- lassic Squiffer\n\nKing:\nMegalodontia
-DTEND:20250625T235959Z
-DTSTART:20250624T080001Z
-LOCATION:Spawning Grounds
-SEQUENCE:0
-SUMMARY:Spawning Grounds - Megalodontia
-UID:3269ce0a-647c-4c4f-80b8-0a0f9c706a65
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Pro\nSqueezer\nLuna Blaster\nHeavy Spla
  tling\n\nKing:\nCohozuna
 DTEND:20250627T155959Z
@@ -30,7 +20,7 @@ DTSTART:20250626T000001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Cohozuna
-UID:fd7da24c-8873-4b7a-8b76-355dd6db143f
+UID:4171f747-8dc0-4824-9c76-068440940a2e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nSloshing Machine\nDouser Dualies FF\n
@@ -40,7 +30,7 @@ DTSTART:20250627T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:3e0ff3ba-0c5c-459d-a099-54f1b1c79618
+UID:8dab50b4-22a9-46b2-813d-347391ad1955
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nNautilus 47\nRapid
@@ -50,7 +40,7 @@ DTSTART:20250629T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:fa3a9334-976e-41b8-b02c-491e62bf8297
+UID:dd0308f3-d4fc-4aba-b249-812d846419a2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplat Dualies\nAerospray MG\nE-liter 
@@ -60,6 +50,16 @@ DTSTART:20250701T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:0def5ec3-689b-49c7-8a96-5f8788448b1a
+UID:0ab0650a-6ae0-41ef-84bb-f016e7db450f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nMini Splatling\nRap
+ id Blaster Pro\n\nKing:\nHorrorboros
+DTEND:20250704T075959Z
+DTSTART:20250702T160001Z
+LOCATION:Marooner's Bay
+SEQUENCE:0
+SUMMARY:Marooner's Bay - Horrorboros
+UID:22c3c648-c5e8-4de9-9d16-90dca10def8a
 END:VEVENT
 END:VCALENDAR
