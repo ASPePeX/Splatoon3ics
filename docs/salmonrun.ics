@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nSplattershot Pro\nSqueezer\nLuna Blaster\nHeavy Spla
- tling\n\nKing:\nCohozuna
-DTEND:20250627T155959Z
-DTSTART:20250626T000001Z
-LOCATION:Sockeye Station
-SEQUENCE:0
-SUMMARY:Sockeye Station - Cohozuna
-UID:71ac0353-31ac-4acf-88be-d35f3fea1122
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDynamo Roller\nSloshing Machine\nDouser Dualies FF\n
  Splat Charger\n\nKing:\nHorrorboros
 DTEND:20250629T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250627T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:5552d4ec-bc2e-4e78-8f39-e135a689a493
+UID:8e5837f1-e013-4559-9222-ae3264110f20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nNautilus 47\nRapid
@@ -40,7 +30,7 @@ DTSTART:20250629T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:dee99a1b-3e0e-4bd4-ab8f-26ec010aa91b
+UID:e3d6663f-c0e2-4e6d-ace8-6f9aaf3d0496
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplat Dualies\nAerospray MG\nE-liter 
@@ -50,7 +40,7 @@ DTSTART:20250701T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:92e92b76-4d4f-4b77-b51d-b125f104675c
+UID:5acff580-3e55-4958-9c5d-89fb992b9336
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nMini Splatling\nRap
@@ -60,6 +50,15 @@ DTSTART:20250702T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:08879fad-1f8e-4211-824b-f2f0755617f5
+UID:505981fb-f267-45e4-a354-6826f13fc591
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
+DTEND:20250705T235959Z
+DTSTART:20250704T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Triumvirate
+UID:1753bfe2-393d-4e5d-a837-bf0ecd1b4ee7
 END:VEVENT
 END:VCALENDAR
