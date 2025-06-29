@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nDynamo Roller\nSloshing Machine\nDouser Dualies FF\n
- Splat Charger\n\nKing:\nHorrorboros
-DTEND:20250629T075959Z
-DTSTART:20250627T160001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:da10f739-6b95-4595-b8b6-9fd89da0cd9f
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nNautilus 47\nRapid
   Blaster\n\nKing:\nMegalodontia
 DTEND:20250630T235959Z
@@ -30,7 +20,7 @@ DTSTART:20250629T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:8e7462f1-93cd-4f9f-85f7-6480e9d9a3ea
+UID:4971a759-0c6f-49b9-9644-cd6627c1c08e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplat Dualies\nAerospray MG\nE-liter 
@@ -40,7 +30,7 @@ DTSTART:20250701T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:c101474f-e6fd-4cc2-b3a3-7fe1c150f9f6
+UID:62913870-dedf-4a99-a2b7-9d38584561e5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nMini Splatling\nRap
@@ -50,7 +40,7 @@ DTSTART:20250702T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:c60fdba8-9ef9-4f5c-ac33-439387b1c0c5
+UID:76fb1031-e240-4788-a599-8d475af87e80
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +49,16 @@ DTSTART:20250704T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:f46d686b-0e62-4df7-83d7-098f313305c5
+UID:31147fb1-8e9c-408b-8aca-982d5c538639
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nCarbon Roller\nMint Decavitator\nRecycled Brella 24 
+ Mk I\nJet Squelcher\n\nKing:\nCohozuna
+DTEND:20250707T155959Z
+DTSTART:20250706T000001Z
+LOCATION:Spawning Grounds
+SEQUENCE:0
+SUMMARY:Spawning Grounds - Cohozuna
+UID:3c2122e6-bd31-4417-baf6-49365ec7516e
 END:VEVENT
 END:VCALENDAR
