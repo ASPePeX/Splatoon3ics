@@ -20,7 +20,7 @@ DTSTART:20250627T160001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Horrorboros
-UID:b6f0786c-1784-443c-8afa-2f5695103b0d
+UID:d5914159-53c4-4adc-bcb6-a48cb8ef48fc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplattershot Jr.\nSplatana Wiper\nNautilus 47\nRapid
@@ -30,7 +30,7 @@ DTSTART:20250629T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:273da799-20ae-46a6-8034-0a6b5c4282cb
+UID:df3c4676-676b-45ed-998a-8ed088379e2c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplat Dualies\nAerospray MG\nE-liter 
@@ -40,7 +40,7 @@ DTSTART:20250701T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:9e7dd970-4e95-496f-9b43-817e795c68d9
+UID:b78bb837-3474-46c1-8b1a-041c957aa366
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nMini Splatling\nRap
@@ -50,7 +50,7 @@ DTSTART:20250702T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:8fc381f1-0768-4d36-9b4a-6b25594d8ebb
+UID:af43f27c-42ad-4556-8ef5-71c91cb4dfc2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -59,6 +59,6 @@ DTSTART:20250704T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:557dbd58-508d-4c82-bb94-1a7741686a76
+UID:acdeb58d-0a71-4883-8ccf-ac6c887b0628
 END:VEVENT
 END:VCALENDAR
