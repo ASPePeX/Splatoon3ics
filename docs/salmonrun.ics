@@ -20,7 +20,7 @@ DTSTART:20250629T080001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Megalodontia
-UID:4faf1318-b19a-4315-83e8-42c1276ffa81
+UID:49bd581d-ea76-4ef2-b1ff-c6667fa5c8d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nClash Blaster\nSplat Dualies\nAerospray MG\nE-liter 
@@ -30,7 +30,7 @@ DTSTART:20250701T000001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:b761e947-b1c4-40d1-9168-ec6ec9712fc0
+UID:2e5f25e7-6496-471d-9b94-4036848b5914
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nMini Splatling\nRap
@@ -40,7 +40,7 @@ DTSTART:20250702T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:90ea7e1f-0864-4ecd-9374-debd74bdef9f
+UID:b23fcebb-f9ef-4d57-b300-7a1b66476922
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -49,7 +49,7 @@ DTSTART:20250704T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:85dc8cdf-8620-4f96-8231-9fdce16a1d87
+UID:c70f49e2-d5c9-4e2a-a316-a4c198875f10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nMint Decavitator\nRecycled Brella 24 
@@ -59,6 +59,6 @@ DTSTART:20250706T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:65db4fe2-0f91-4180-a441-55cefe1dd14f
+UID:11f427d0-d3cc-4210-88c5-c718f7519834
 END:VEVENT
 END:VCALENDAR
