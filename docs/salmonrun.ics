@@ -13,16 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nClash Blaster\nSplat Dualies\nAerospray MG\nE-liter 
- 4K\n\nKing:\nCohozuna
-DTEND:20250702T155959Z
-DTSTART:20250701T000001Z
-LOCATION:Jammin' Salmon Junction
-SEQUENCE:0
-SUMMARY:Jammin' Salmon Junction - Cohozuna
-UID:0843cf4d-0b2b-44f7-8a21-42539ca447b4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSploosh-o-matic\nSplash-o-matic\nMini Splatling\nRap
  id Blaster Pro\n\nKing:\nHorrorboros
 DTEND:20250704T075959Z
@@ -30,7 +20,7 @@ DTSTART:20250702T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:dc67f162-4149-4e17-a90c-acb0292cf2a6
+UID:fd3aba88-8050-4291-93bf-3eed498eff1f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -39,7 +29,7 @@ DTSTART:20250704T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:3fffa8f8-6ad7-4d2d-9f11-bd9801728d12
+UID:aa6462d8-9e48-4395-8388-cb56b9886f8e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nMint Decavitator\nRecycled Brella 24 
@@ -49,7 +39,7 @@ DTSTART:20250706T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:075a3747-dddc-41c7-8a60-127cf8a014b3
+UID:fc0060f4-e90e-4710-a894-6aa76cfb84eb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSlosher\nLuna Blaster\nWellstring
@@ -59,6 +49,16 @@ DTSTART:20250707T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:96f55dd2-d3c2-4ec1-8a70-8549639008e4
+UID:06adfd04-f8af-4ba6-b147-0de94db60671
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nBloblobber\nSplatana Wiper\nTri-Slosher\nHydra Splat
+ ling\n\nKing:\nMegalodontia
+DTEND:20250710T235959Z
+DTSTART:20250709T080001Z
+LOCATION:Salmonid Smokeyard
+SEQUENCE:0
+SUMMARY:Salmonid Smokeyard - Megalodontia
+UID:23dd360c-3cbd-4469-8b8c-826cfe06a2f6
 END:VEVENT
 END:VCALENDAR
