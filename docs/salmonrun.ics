@@ -20,7 +20,7 @@ DTSTART:20250702T160001Z
 LOCATION:Marooner's Bay
 SEQUENCE:0
 SUMMARY:Marooner's Bay - Horrorboros
-UID:bb584183-db28-497d-a0c7-dcf8fbc238ac
+UID:90397b13-888b-4f5d-b489-0b9afda65a4b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
@@ -29,7 +29,7 @@ DTSTART:20250704T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:b200bcb2-577b-495f-af56-dc3e271da961
+UID:2135b6af-e8c0-4621-824a-f1f809942b22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nMint Decavitator\nRecycled Brella 24 
@@ -39,7 +39,7 @@ DTSTART:20250706T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:c4adab2f-0f0f-4bff-8fd8-77f735b6aecf
+UID:30316332-35ab-43ce-8fb0-2086338e9e55
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSlosher\nLuna Blaster\nWellstring
@@ -49,7 +49,7 @@ DTSTART:20250707T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:6f85c9c9-aa7e-4c4e-ab63-f6ac83bccdc2
+UID:8a5058e9-cf2b-4f13-9ec7-5a19d8fda824
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nSplatana Wiper\nTri-Slosher\nHydra Splat
@@ -59,6 +59,6 @@ DTSTART:20250709T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:3fa62190-c94b-46ae-9b12-cd11f1889b86
+UID:f463b485-4b64-4629-9e9c-b9af4d170d85
 END:VEVENT
 END:VCALENDAR
