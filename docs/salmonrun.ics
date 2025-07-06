@@ -13,15 +13,6 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:Weapons:\nRandom\nRandom\nRandom\nRandom\n\nKing:\nTriumvirate
-DTEND:20250705T235959Z
-DTSTART:20250704T080001Z
-LOCATION:Salmonid Smokeyard
-SEQUENCE:0
-SUMMARY:Salmonid Smokeyard - Triumvirate
-UID:5ff9f385-5fdc-42c5-9d26-7ae76a71f00d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Weapons:\nCarbon Roller\nMint Decavitator\nRecycled Brella 24 
  Mk I\nJet Squelcher\n\nKing:\nCohozuna
 DTEND:20250707T155959Z
@@ -29,7 +20,7 @@ DTSTART:20250706T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:574236cf-09d3-455d-bcb9-8fbcd9d9e81f
+UID:13cac4ab-c4d9-4190-b438-78eee337f0b1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSlosher\nLuna Blaster\nWellstring
@@ -39,7 +30,7 @@ DTSTART:20250707T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:73dabbc7-a651-49f3-a887-06660ddc8d56
+UID:ed716d2a-0f7d-45c5-999b-9cc15370cd20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nSplatana Wiper\nTri-Slosher\nHydra Splat
@@ -49,7 +40,7 @@ DTSTART:20250709T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:1c232b80-ae57-4107-8f37-18cc94a3111c
+UID:fa53b3f7-5bb5-45a7-82a5-e62670a23609
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nHeavy Edit Splatling\nBig Swig Roller
@@ -59,6 +50,16 @@ DTSTART:20250711T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:c7381b09-19b7-44b4-8914-c8b6e0c91ece
+UID:10910f39-bd02-48a9-9f7f-b32ac1b018c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weapons:\nDread Wringer\nSploosh-o-matic\nInkbrush\nBamboozler
+  14 Mk I\n\nKing:\nHorrorboros
+DTEND:20250714T075959Z
+DTSTART:20250712T160001Z
+LOCATION:Jammin' Salmon Junction
+SEQUENCE:0
+SUMMARY:Jammin' Salmon Junction - Horrorboros
+UID:a833402e-4099-4eb1-a536-b01d308cff11
 END:VEVENT
 END:VCALENDAR
