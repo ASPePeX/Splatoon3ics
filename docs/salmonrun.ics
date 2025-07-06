@@ -20,7 +20,7 @@ DTSTART:20250706T000001Z
 LOCATION:Spawning Grounds
 SEQUENCE:0
 SUMMARY:Spawning Grounds - Cohozuna
-UID:f673970f-f07f-46c0-8b2c-9fdbb6e582f1
+UID:bac49120-2b34-4b9a-9c07-8d0ee620d706
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDouser Dualies FF\nSlosher\nLuna Blaster\nWellstring
@@ -30,7 +30,7 @@ DTSTART:20250707T160001Z
 LOCATION:Sockeye Station
 SEQUENCE:0
 SUMMARY:Sockeye Station - Horrorboros
-UID:ec014eaf-1974-4705-aee9-8baaa58a355e
+UID:1cca5e71-825b-4e7a-8669-704232c7ab26
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nBloblobber\nSplatana Wiper\nTri-Slosher\nHydra Splat
@@ -40,7 +40,7 @@ DTSTART:20250709T080001Z
 LOCATION:Salmonid Smokeyard
 SEQUENCE:0
 SUMMARY:Salmonid Smokeyard - Megalodontia
-UID:1bb83ff2-1ef3-4a8a-a25b-4f5b84c6ffca
+UID:069a17a4-7cda-4f4c-8bb2-82c1f42cc55e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nSplat Dualies\nHeavy Edit Splatling\nBig Swig Roller
@@ -50,7 +50,7 @@ DTSTART:20250711T000001Z
 LOCATION:Gone Fission Hydroplant
 SEQUENCE:0
 SUMMARY:Gone Fission Hydroplant - Cohozuna
-UID:7479e999-71a8-4c1f-aae0-46d0a55b2380
+UID:d742cd55-1547-4709-a642-c87f9f3d4ca3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weapons:\nDread Wringer\nSploosh-o-matic\nInkbrush\nBamboozler
@@ -60,6 +60,6 @@ DTSTART:20250712T160001Z
 LOCATION:Jammin' Salmon Junction
 SEQUENCE:0
 SUMMARY:Jammin' Salmon Junction - Horrorboros
-UID:88123176-929b-4586-8300-a4823a7db970
+UID:999ebe93-5845-48be-b4d3-0931ca261a7f
 END:VEVENT
 END:VCALENDAR
